@@ -439,9 +439,9 @@
     igCooldown: 10,
     magicLevel: 0s,
     Motion: [
-        -0.0978022638687964d,
+        0.0d,
         -0.0784000015258789d,
-        0.019044857804494716d
+        0.0d
     ],
     CombatRegen: 0,
     pEffect: 0,
@@ -703,9 +703,9 @@
     NpcDeathSound: "minecraft:game.player.hurt",
     FactionID: 6,
     Title: "Farmer",
-    TotalTicksAlive: 4956297L,
+    TotalTicksAlive: 8709472L,
     Rotation: [
-        -289.20505f,
+        -270.30444f,
         0.0f
     ],
     ShowName: 0,

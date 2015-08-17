@@ -1,74 +1,74 @@
 {
-    AvailabilityQuest4: 0,
-    DecreaseFaction1Points: 0b,
-    AvailabilityQuest3: 0,
-    AvailabilityFactionId: -1,
-    AvailabilityMinPlayerLevel: 0,
-    AvailabilityQuest3Id: -1,
-    AvailabilityQuest2: 0,
-    AvailabilityQuest2Id: -1,
-    AvailabilityQuestId: -1,
-    DialogQuest: -1,
-    DialogText: "Now maybe Grandpa was just telling stories to us kids to keep us quiet, but since then I’ve heard this tale the bee bug (snort) seems to bite all of us in my family, and I’ve passed the time talking to different folks from different towns about them, and I’ve heard this one enough to think there is a grain of truth to it.. Theres a breed of bee that gets very territorial and will not stand the undead, they attack them on sight.  Granpa called them heroic bees.  Said if you could breed them up, you’d never need to build fences around your flower gardens again.   I’ve researched a bit, and think i can guide you through getting going.",
-    AvailabilityQuest: 0,
-    AvailabilityFactionStance: 0,
-    DialogDisableEsc: 0b,
-    AvailabilityDayTime: 0,
-    AvailabilityFaction2: 0,
-    ModRev: 15,
-    AvailabilityDialog: 0,
     DialogShowWheel: 0b,
-    DecreaseFaction2Points: 0b,
-    AvailabilityDialog2: 0,
-    AvailabilityFaction2Stance: 0,
+    AvailabilityQuestId: -1,
     Options: [
         {
             OptionSlot: 0,
             Option: {
-                DialogColor: 14737632,
                 DialogCommand: "",
                 Dialog: 161,
-                OptionType: 1,
-                Title: "What do we need ?"
+                Title: "What do we need ?",
+                DialogColor: 14737632,
+                OptionType: 1
             }
         },
         {
             OptionSlot: 5,
             Option: {
-                DialogColor: 16711680,
                 DialogCommand: "",
                 Dialog: 158,
-                OptionType: 1,
-                Title: "I’ve heard enough about your grandfathers bees."
+                Title: "I’ve heard enough about your grandfathers bees.",
+                DialogColor: 16711680,
+                OptionType: 1
             }
         }
     ],
-    OptionFaction2Points: 100,
-    AvailabilityQuest4Id: -1,
     DialogHideNPC: 0b,
-    AvailabilityFaction: 0,
-    AvailabilityDialog2Id: -1,
-    DialogCommand: "",
+    AvailabilityFactionStance: 0,
+    AvailabilityQuest: 0,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    DialogMail: {
-        Sender: "",
-        Time: 0L,
-        Message: {
-        },
-        Subject: "",
-        MailItems: [
-        ],
-        BeenRead: 0b,
-        MailQuest: -1,
-        TimePast: 1422712633229L
-    },
+    AvailabilityQuest2: 0,
+    AvailabilityQuest3: 0,
+    AvailabilityQuest4: 0,
+    ModRev: 16,
+    DecreaseFaction1Points: 0b,
+    DialogQuest: -1,
+    AvailabilityDialog2: 0,
     OptionFactions1: -1,
-    AvailabilityDialogId: -1,
+    AvailabilityDayTime: 0,
     OptionFactions2: -1,
     AvailabilityFaction2Id: -1,
     OptionFaction1Points: 100,
+    DialogDisableEsc: 0b,
+    AvailabilityFaction: 0,
     DialogTitle: "Beekeeper III",
+    AvailabilityDialog: 0,
+    AvailabilityFaction2: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityFaction2Stance: 0,
+    DialogCommand: "",
+    AvailabilityDialogId: -1,
+    OptionFaction2Points: 100,
+    DialogText: "Now maybe Grandpa was just telling stories to us kids to keep us quiet, but since then I’ve heard this tale the bee bug (snort) seems to bite all of us in my family, and I’ve passed the time talking to different folks from different towns about them, and I’ve heard this one enough to think there is a grain of truth to it.. Theres a breed of bee that gets very territorial and will not stand the undead, they attack them on sight.  Granpa called them heroic bees.  Said if you could breed them up, you’d never need to build fences around your flower gardens again.   I’ve researched a bit, and think i can guide you through getting going.",
+    AvailabilityQuest4Id: -1,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2Id: -1,
+    AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
-    AvailabilityDialog4Id: -1
+    AvailabilityDialog4Id: -1,
+    AvailabilityMinPlayerLevel: 0,
+    DecreaseFaction2Points: 0b,
+    DialogMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1439745329562L,
+        Time: 0L,
+        Subject: ""
+    }
 }
