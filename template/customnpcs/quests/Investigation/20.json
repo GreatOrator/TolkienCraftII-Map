@@ -1,0 +1,45 @@
+{
+    CompleterNpc: "Lathwania",
+    Type: 1,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    NextQuestId: -1,
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    Title: "Search for the Ghost",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Text: "Search the graveyard (preferably at night?) to see if you can spot the ghost everyone has been talking about.",
+    NextQuestTitle: "",
+    QuestDialogs: [
+        {
+            Slot: 0,
+            Integer: 58
+        }
+    ],
+    CompleteText: "You've searched the graveyard and found the ghost.  Perhaps it will have more to add to the tale of woe?",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1425772046123L
+    },
+    QuestCommand: "",
+    RewardExp: 10,
+    ModRev: 16
+}

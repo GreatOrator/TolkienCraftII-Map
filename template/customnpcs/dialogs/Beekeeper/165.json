@@ -1,0 +1,114 @@
+{
+    AvailabilityQuest4: 0,
+    DecreaseFaction1Points: 0b,
+    AvailabilityQuest3: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityMinPlayerLevel: 0,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2: 0,
+    AvailabilityQuest2Id: -1,
+    AvailabilityQuestId: -1,
+    DialogQuest: -1,
+    DialogText: "Alright!  I can help you out with 5 species, Forest, Wintery, Water, Tropical and a hard to find kind...Embittered.",
+    AvailabilityQuest: 0,
+    AvailabilityFactionStance: 0,
+    DialogDisableEsc: 0b,
+    AvailabilityDayTime: 0,
+    AvailabilityFaction2: 0,
+    ModRev: 15,
+    AvailabilityDialog: 0,
+    DialogShowWheel: 0b,
+    DecreaseFaction2Points: 0b,
+    AvailabilityDialog2: 0,
+    AvailabilityFaction2Stance: 0,
+    Options: [
+        {
+            OptionSlot: 0,
+            Option: {
+                DialogColor: 2263842,
+                DialogCommand: "",
+                Dialog: 166,
+                OptionType: 1,
+                Title: "Let’s try the Forestry."
+            }
+        },
+        {
+            OptionSlot: 1,
+            Option: {
+                DialogColor: 8298751,
+                DialogCommand: "",
+                Dialog: 167,
+                OptionType: 1,
+                Title: "I’d like the Wintery ones."
+            }
+        },
+        {
+            OptionSlot: 2,
+            Option: {
+                DialogColor: 225692,
+                DialogCommand: "",
+                Dialog: 168,
+                OptionType: 1,
+                Title: "Maybe the Watery ones this time."
+            }
+        },
+        {
+            OptionSlot: 3,
+            Option: {
+                DialogColor: 4256855,
+                DialogCommand: "",
+                Dialog: 169,
+                OptionType: 1,
+                Title: "Tropical sounds nice."
+            }
+        },
+        {
+            OptionSlot: 4,
+            Option: {
+                DialogColor: 11411235,
+                DialogCommand: "",
+                Dialog: 170,
+                OptionType: 1,
+                Title: "Oh, those rare ones sound cool, Embittered please!"
+            }
+        },
+        {
+            OptionSlot: 5,
+            Option: {
+                DialogColor: 16711680,
+                DialogCommand: "",
+                Dialog: 163,
+                OptionType: 1,
+                Title: "You know what, I changed my mind."
+            }
+        }
+    ],
+    OptionFaction2Points: 100,
+    AvailabilityQuest4Id: -1,
+    DialogHideNPC: 0b,
+    AvailabilityFaction: 0,
+    AvailabilityDialog2Id: -1,
+    DialogCommand: "",
+    AvailabilityDialog4: 0,
+    AvailabilityDialog3: 0,
+    DialogMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1422712645851L
+    },
+    OptionFactions1: -1,
+    AvailabilityDialogId: -1,
+    OptionFactions2: -1,
+    AvailabilityFaction2Id: -1,
+    OptionFaction1Points: 100,
+    DialogTitle: "Beekeeper VIII",
+    AvailabilityDialog3Id: -1,
+    AvailabilityDialog4Id: -1
+}

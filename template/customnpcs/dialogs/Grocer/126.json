@@ -1,0 +1,74 @@
+{
+    AvailabilityQuest4: 0,
+    DecreaseFaction1Points: 0b,
+    AvailabilityQuest3: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityMinPlayerLevel: 0,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2: 0,
+    AvailabilityQuest2Id: -1,
+    AvailabilityQuestId: 5,
+    DialogQuest: -1,
+    DialogText: "Well, actually I do.You see, while my shop caters to the random item or three, I also have the contract to fill the food needs of the military around here.I have been running behind lately because (thankfully) my business has been thriving but unfortunately my deliveries are getting further and further behind.I don't suppose you know how to cook do you?",
+    AvailabilityQuest: 1,
+    AvailabilityFactionStance: 0,
+    DialogDisableEsc: 0b,
+    AvailabilityDayTime: 0,
+    AvailabilityFaction2: 0,
+    ModRev: 15,
+    AvailabilityDialog: 0,
+    DialogShowWheel: 0b,
+    DecreaseFaction2Points: 0b,
+    AvailabilityDialog2: 0,
+    AvailabilityFaction2Stance: 0,
+    Options: [
+        {
+            OptionSlot: 0,
+            Option: {
+                DialogColor: 65280,
+                DialogCommand: "",
+                Dialog: 127,
+                OptionType: 1,
+                Title: "Why of course, what hero doesn't?"
+            }
+        },
+        {
+            OptionSlot: 5,
+            Option: {
+                DialogColor: 16711680,
+                DialogCommand: "",
+                Dialog: 125,
+                OptionType: 1,
+                Title: "Nope, sorry, bread or cooked steak are all I know."
+            }
+        }
+    ],
+    OptionFaction2Points: 100,
+    AvailabilityQuest4Id: -1,
+    DialogHideNPC: 0b,
+    AvailabilityFaction: 0,
+    AvailabilityDialog2Id: -1,
+    DialogCommand: "",
+    AvailabilityDialog4: 0,
+    AvailabilityDialog3: 0,
+    DialogMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1422712700149L
+    },
+    OptionFactions1: -1,
+    AvailabilityDialogId: -1,
+    OptionFactions2: -1,
+    AvailabilityFaction2Id: -1,
+    OptionFaction1Points: 100,
+    DialogTitle: "Grocer I",
+    AvailabilityDialog3Id: -1,
+    AvailabilityDialog4Id: -1
+}

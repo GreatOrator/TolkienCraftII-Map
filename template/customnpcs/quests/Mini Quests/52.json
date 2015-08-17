@@ -1,0 +1,84 @@
+{
+    Items: {
+        NpcMiscInv: [
+            {
+                id: 5587s,
+                Damage: 0s,
+                Count: 1b,
+                tag: {
+                    InfiTool: {
+                        Unbreaking: 0,
+                        Extra: 4,
+                        ToolEXP: 0L,
+                        MiningSpeed2: 500,
+                        ToolLevel: 1,
+                        HarvestLevel: 0,
+                        Built: 1b,
+                        Modifiers: 0,
+                        RenderHead: 4,
+                        Handle: 4,
+                        Attack: 4,
+                        RenderHandle: 4,
+                        ModDurability: 0.0f,
+                        BonusDurability: 0,
+                        Broken: 0b,
+                        RenderAccessory: 4,
+                        Damage: 0,
+                        Head: 4,
+                        BaseDurability: 495,
+                        RenderExtra: 4,
+                        Accessory: 4,
+                        HarvestLevel2: 0,
+                        Shoddy: -1.0f,
+                        MiningSpeed: 500,
+                        TotalDurability: 495
+                    },
+                    display: {
+                        Name: "§fCactus Lumber Axe"
+                    }
+                },
+                Slot: 0b
+            }
+        ]
+    },
+    CompleterNpc: "Rothcersul",
+    IgnoreDamage: 1b,
+    Type: 0,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    IgnoreNBT: 0b,
+    NextQuestId: 48,
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    Title: "Lumberjack Ib",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Text: "I should take this axe to the blacksmith to see what he can do.",
+    NextQuestTitle: "Lumberjack II",
+    CompleteText: "Hes still using this ol thing ? daft fool. Tell ya what, instead of fixing it, why don't we make him a new one.  A better one.",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1422712557987L
+    },
+    QuestCommand: "",
+    LeaveItems: 0b,
+    RewardExp: 0,
+    ModRev: 15
+}

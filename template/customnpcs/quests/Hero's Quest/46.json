@@ -1,0 +1,82 @@
+{
+    Items: {
+        NpcMiscInv: [
+            {
+                id: 373s,
+                Damage: 16390s,
+                Count: 1b,
+                Slot: 0b
+            },
+            {
+                id: 373s,
+                Damage: 16390s,
+                Count: 1b,
+                Slot: 1b
+            },
+            {
+                id: 373s,
+                Damage: 16390s,
+                Count: 1b,
+                Slot: 2b
+            }
+        ]
+    },
+    CompleterNpc: "Chald",
+    IgnoreDamage: 1b,
+    Type: 0,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    IgnoreNBT: 0b,
+    NextQuestId: -1,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                id: 5316s,
+                Damage: 0s,
+                Count: 4b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Dragon Token"
+                    }
+                },
+                Slot: 0b
+            },
+            {
+                id: 5458s,
+                Damage: 1s,
+                Count: 1b,
+                Slot: 1b
+            }
+        ]
+    },
+    Title: "Jax Quest IV",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Text: "Well, rather than try to track down what happened, seems easier to just get the potions myself and everyone will be happy.I guess I could either buy them from the apothecary or brew them myself.",
+    NextQuestTitle: "",
+    CompleteText: "Thank you!Did you find out what happened to them? No?  Ah well, at least you found them and brought them here, the guards will be grateful.",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1422712516256L
+    },
+    QuestCommand: "",
+    LeaveItems: 0b,
+    RewardExp: 50,
+    ModRev: 15
+}

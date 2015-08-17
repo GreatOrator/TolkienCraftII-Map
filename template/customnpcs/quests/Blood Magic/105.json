@@ -1,0 +1,41 @@
+{
+    CompleterNpc: "Lt. Cullen",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "No Wonder She's Missing!",
+    Text: "Wow, Thomas is a piece of work! No wonder Ariana is missing, but I will go find Lt. Cullen to see what he has to say and if he needs help. I should try to find him investigating at the house behind the dock.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    QuestDialogs: [
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1438564060937L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "This is more than a simple missing person’s case. I can feel it.",
+    NextQuestTitle: ""
+}

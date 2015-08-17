@@ -1,0 +1,171 @@
+{
+    Items: {
+        NpcMiscInv: [
+            {
+                id: 6645s,
+                Damage: 0s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    ench: [
+                        {
+                            id: 0s,
+                            lvl: 2s
+                        },
+                        {
+                            id: 7s,
+                            lvl: 1s
+                        },
+                        {
+                            id: 8s,
+                            lvl: 2s
+                        }
+                    ],
+                    display: {
+                        Name: "Ephelba's Lockette"
+                    }
+                },
+                Slot: 0b
+            }
+        ]
+    },
+    CompleterNpc: "Xavious",
+    IgnoreDamage: 0b,
+    Type: 0,
+    RandomReward: 1b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    IgnoreNBT: 0b,
+    NextQuestId: 83,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                id: 6636s,
+                Damage: 1s,
+                Count: 1b,
+                Slot: 0b
+            },
+            {
+                id: 4493s,
+                Damage: 0s,
+                Count: 1b,
+                tag: {
+                    onItemRightClick: 26,
+                    icon: "Amulet5",
+                    preadj: "Electric",
+                    allComponents: [1,0,5,11,26],
+                    onItemRightClickDelay: 0,
+                    itemInteractionForEntity: 5,
+                    overlay_color: -52364L,
+                    onUpdate: 11,
+                    material: 0,
+                    matName: "Wood",
+                    postadj: "of Lightness",
+                    armorType: -1,
+                    hitEntity: 1,
+                    name: "Electric Wood Amulet of Lightness",
+                    iconName: "Amulet"
+                },
+                Slot: 1b
+            },
+            {
+                id: 6670s,
+                Damage: 0s,
+                Count: 1b,
+                Slot: 2b
+            },
+            {
+                id: 6645s,
+                Damage: 0s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    ench: [
+                        {
+                            id: 0s,
+                            lvl: 2s
+                        },
+                        {
+                            id: 7s,
+                            lvl: 1s
+                        },
+                        {
+                            id: 8s,
+                            lvl: 2s
+                        }
+                    ],
+                    display: {
+                        Name: "Ephelba's Lockette"
+                    }
+                },
+                Slot: 3b
+            },
+            {
+                id: 6670s,
+                Damage: 1s,
+                Count: 1b,
+                Slot: 4b
+            },
+            {
+                id: 4493s,
+                Damage: 0s,
+                Count: 1b,
+                tag: {
+                    icon: "Amulet5",
+                    cashBonus: 15,
+                    preadj: "Emerald Studded",
+                    lastLightZ: -1,
+                    allComponents: [0,9,8],
+                    lastLightY: -1,
+                    lastLightX: -1,
+                    onDropped: 9,
+                    onItemRightClickDelay: 0,
+                    overlay_color: -8768513L,
+                    onUpdate: 8,
+                    matName: "Gold",
+                    material: 4,
+                    postadj: "of Light",
+                    droppedDelay: 60,
+                    armorType: -1,
+                    ench: [
+                        {
+                            id: 34s,
+                            lvl: 2s
+                        }
+                    ],
+                    name: "enchantment.durability",
+                    iconName: "Amulet"
+                },
+                Slot: 5b
+            }
+        ]
+    },
+    Title: "For coven's sake! pt III",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Text: "Apparently the guard found out that these witches were being led by a Grand Witch and want her dealt with.  Ah, the work of a hero is never done.",
+    NextQuestTitle: "Draconis II",
+    CompleteText: "I can't believe you killed her.  You have done me and this kingdom a great service this day.  Thank you @p.",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1426638997604L
+    },
+    QuestCommand: "",
+    LeaveItems: 0b,
+    RewardExp: 300,
+    ModRev: 16
+}

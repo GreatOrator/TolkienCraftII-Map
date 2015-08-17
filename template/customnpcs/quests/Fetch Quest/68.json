@@ -1,0 +1,64 @@
+{
+    Items: {
+        NpcMiscInv: [
+            {
+                id: 87s,
+                Damage: 0s,
+                Count: 16b,
+                Slot: 0b
+            },
+            {
+                id: 89s,
+                Damage: 0s,
+                Count: 8b,
+                Slot: 1b
+            }
+        ]
+    },
+    CompleterNpc: "Laurence",
+    IgnoreDamage: 0b,
+    Type: 0,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    IgnoreNBT: 0b,
+    NextQuestId: -1,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                id: 1907s,
+                Damage: 4s,
+                Count: 1b,
+                Slot: 0b
+            }
+        ]
+    },
+    Title: "Beekeeper IV",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Text: "Alrighty then, I'll need you to bring me 16 netherrack and 8 glowstone.",
+    NextQuestTitle: "",
+    CompleteText: "Excellent! Here you go, as promised!",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1422712500843L
+    },
+    QuestCommand: "",
+    LeaveItems: 0b,
+    RewardExp: 25,
+    ModRev: 15
+}

@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Achdranys",
+    Type: 3,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    QuestLocation2: "",
+    NextQuestId: 39,
+    QuestLocation: "Ancient",
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    QuestLocation3: "",
+    Title: "Finding the ancient.",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Text: "You have been told that workers were beginning a new tunnel to extend the wall and uncovered something fearful.  Better go check it out!",
+    NextQuestTitle: "Visiting Strange Lands",
+    CompleteText: "You have found the strange room uncovered by the miners and see a very old man sitting in a chair of sorts.  Why is he here?",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1430219036977L
+    },
+    QuestCommand: "",
+    RewardExp: 100,
+    ModRev: 16
+}

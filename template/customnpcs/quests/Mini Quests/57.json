@@ -1,0 +1,58 @@
+{
+    Items: {
+        NpcMiscInv: [
+            {
+                id: 902s,
+                Damage: 1s,
+                Count: 4b,
+                Slot: 0b
+            }
+        ]
+    },
+    CompleterNpc: "Jennifer",
+    IgnoreDamage: 0b,
+    Type: 0,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    IgnoreNBT: 0b,
+    NextQuestId: -1,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                id: 5458s,
+                Damage: 2s,
+                Count: 1b,
+                Slot: 0b
+            }
+        ]
+    },
+    Title: "Teacher I",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Text: "We need four desks built out of spruce wood to finish off the classroom and to have a spare or two.  Bibliocraft would work best for this.",
+    NextQuestTitle: "",
+    CompleteText: "Oh thank you!  We have been waiting so long for these!",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1422712562867L
+    },
+    QuestCommand: "",
+    LeaveItems: 0b,
+    RewardExp: 150,
+    ModRev: 15
+}

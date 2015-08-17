@@ -1,0 +1,85 @@
+{
+    AvailabilityQuest4: 0,
+    DecreaseFaction1Points: 0b,
+    AvailabilityQuest3: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityMinPlayerLevel: 0,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2: 2,
+    AvailabilityQuest2Id: 79,
+    AvailabilityQuestId: 4,
+    DialogQuest: -1,
+    DialogText: "Aye, there have been a few quest changes there has.  So take this so you can actually get caught back up.I'll speak to the Commander to make sure you get the information.",
+    AvailabilityQuest: 1,
+    AvailabilityFactionStance: 0,
+    DialogDisableEsc: 0b,
+    AvailabilityDayTime: 0,
+    AvailabilityFaction2: 0,
+    ModRev: 16,
+    AvailabilityDialog: 0,
+    DialogShowWheel: 0b,
+    DecreaseFaction2Points: 0b,
+    AvailabilityDialog2: 0,
+    AvailabilityFaction2Stance: 0,
+    Options: [
+        {
+            OptionSlot: 0,
+            Option: {
+                DialogColor: 16711935,
+                DialogCommand: "",
+                Dialog: -1,
+                OptionType: 0,
+                Title: "Thank you for helping me out!"
+            }
+        }
+    ],
+    OptionFaction2Points: 100,
+    AvailabilityQuest4Id: -1,
+    DialogHideNPC: 0b,
+    AvailabilityFaction: 0,
+    AvailabilityDialog2Id: -1,
+    DialogCommand: "",
+    AvailabilityDialog4: 0,
+    AvailabilityDialog3: 0,
+    DialogMail: {
+        Sender: "Chald",
+        Time: 0L,
+        Message: {
+            pages: [
+                "My apologies.
+
+In my excitement over the troll's demise, I had forgotten to give you this to show to the king.
+
+Fare well hero,
+Chald"
+            ]
+        },
+        Subject: "Thank you Hero!",
+        MailItems: [
+            {
+                id: 339s,
+                Damage: 0s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Death of the Troll"
+                    }
+                },
+                Slot: 0b
+            }
+        ],
+        MailQuestTitle: "Troll Death",
+        BeenRead: 0b,
+        MailQuest: 79,
+        TimePast: 1425822299789L
+    },
+    OptionFactions1: -1,
+    AvailabilityDialogId: -1,
+    OptionFactions2: -1,
+    AvailabilityFaction2Id: -1,
+    OptionFaction1Points: 100,
+    DialogTitle: "Troll Dead",
+    AvailabilityDialog3Id: -1,
+    AvailabilityDialog4Id: -1
+}

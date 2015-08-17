@@ -1,0 +1,69 @@
+{
+    CompleterNpc: "Chald",
+    Type: 4,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    NextQuestId: -1,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                id: 5316s,
+                Damage: 0s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Dragon Token"
+                    }
+                },
+                Slot: 0b
+            },
+            {
+                id: 4185s,
+                Damage: 0s,
+                Count: 5b,
+                Slot: 1b
+            },
+            {
+                id: 264s,
+                Damage: 0s,
+                Count: 4b,
+                Slot: 2b
+            }
+        ]
+    },
+    Title: "All your Zombie",
+    QuestRepeat: 4,
+    QuestCompletion: 0,
+    Text: "You have been tasked with killing zombies, those undead denizens of the villager class!",
+    NextQuestTitle: "",
+    QuestDialogs: [
+        {
+            Value: 50,
+            Slot: "Zombie"
+        }
+    ],
+    CompleteText: "Excellent work.  That should help my troops considerably.If you want to help again just came back tomorrow.",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1422712567500L
+    },
+    QuestCommand: "",
+    RewardExp: 50,
+    ModRev: 15
+}

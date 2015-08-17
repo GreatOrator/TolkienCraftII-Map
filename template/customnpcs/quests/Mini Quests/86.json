@@ -1,0 +1,70 @@
+{
+    Items: {
+        NpcMiscInv: [
+            {
+                id: 188s,
+                Damage: 0s,
+                Count: 1b,
+                Slot: 0b
+            }
+        ]
+    },
+    CompleterNpc: "Amaury",
+    IgnoreDamage: 0b,
+    Type: 0,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    IgnoreNBT: 1b,
+    NextQuestId: -1,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                id: 4393s,
+                Damage: 0s,
+                Count: 1b,
+                Slot: 0b
+            },
+            {
+                id: 4185s,
+                Damage: 1s,
+                Count: 2b,
+                Slot: 1b
+            },
+            {
+                id: 5458s,
+                Damage: 2s,
+                Count: 1b,
+                Slot: 2b
+            }
+        ]
+    },
+    Title: "Baker-WyvernHaven",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Text: "Guess a journey to Hobbiton is in order.  Just have to remember to bring back a hobbit oven for the baker.",
+    NextQuestTitle: "",
+    CompleteText: "Thank you so much!  I can already see these ovens are truly even better than I imagined!",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1424531457561L
+    },
+    QuestCommand: "",
+    LeaveItems: 0b,
+    RewardExp: 75,
+    ModRev: 16
+}

@@ -1,0 +1,61 @@
+{
+    CompleterNpc: "Bethany",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Back to the Temple",
+    Text: "Return to Bethany at the Sanguine Temple.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1439411799661L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 387s,
+                Count: 1b,
+                tag: {
+                    pages: [
+                        "I offer this student, Adria, as a peace offering. Use her as you wish and remember our bargain.
+
+Archmage Sonya"
+                    ],
+                    author: "teagan75",
+                    title: "Letter to Shade"
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "I heard about your rescue of Adria and I am impressed you defeated a Dark Shade!",
+    NextQuestTitle: ""
+}

@@ -1,0 +1,82 @@
+{
+    Items: {
+        NpcMiscInv: [
+            {
+                id: 1427s,
+                Damage: 0s,
+                Count: 9b,
+                Slot: 0b
+            },
+            {
+                id: 1427s,
+                Damage: 1s,
+                Count: 3b,
+                Slot: 1b
+            }
+        ]
+    },
+    CompleterNpc: "Rothcersul",
+    IgnoreDamage: 0b,
+    Type: 0,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    IgnoreNBT: 0b,
+    NextQuestId: 50,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                id: 5625s,
+                Damage: 16s,
+                Count: 1b,
+                Slot: 0b
+            },
+            {
+                id: 5625s,
+                Damage: 17s,
+                Count: 1b,
+                Slot: 1b
+            },
+            {
+                id: 5625s,
+                Damage: 14s,
+                Count: 1b,
+                Slot: 2b
+            },
+            {
+                id: 5625s,
+                Damage: 0s,
+                Count: 1b,
+                Slot: 3b
+            }
+        ]
+    },
+    Title: "Lumberjack III",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Text: "I should talk to the blacksmith after storing my stuff and when I am ready to proceed.",
+    NextQuestTitle: "Lumberjack IV",
+    CompleteText: "Alright, lets get started.",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1422712559540L
+    },
+    QuestCommand: "",
+    LeaveItems: 1b,
+    RewardExp: 10,
+    ModRev: 15
+}

@@ -1,0 +1,84 @@
+{
+    AvailabilityQuest4: 0,
+    DecreaseFaction1Points: 0b,
+    AvailabilityQuest3: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityMinPlayerLevel: 0,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2: 0,
+    AvailabilityQuest2Id: -1,
+    AvailabilityQuestId: 5,
+    DialogQuest: -1,
+    DialogText: "Greetings @p, welcome to the Draconis library.  Founded 100 years ago with the first King of Draconis, it was built so that his citizens could expand their minds as he believed knowledge would allow his people to better judge how he performed and would help making this kingdom even better!I hear you have been rather helpful thus far and would like to know if you would be likewise willing to assist me in my research?",
+    AvailabilityQuest: 1,
+    AvailabilityFactionStance: 0,
+    DialogDisableEsc: 0b,
+    AvailabilityDayTime: 0,
+    AvailabilityFaction2: 0,
+    ModRev: 15,
+    AvailabilityDialog: 0,
+    DialogShowWheel: 0b,
+    DecreaseFaction2Points: 0b,
+    AvailabilityDialog2: 0,
+    AvailabilityFaction2Stance: 0,
+    Options: [
+        {
+            OptionSlot: 0,
+            Option: {
+                DialogColor: 16776960,
+                DialogCommand: "",
+                Dialog: -1,
+                OptionType: 3,
+                Title: "Any supplies that you can sell?"
+            }
+        },
+        {
+            OptionSlot: 1,
+            Option: {
+                DialogColor: 65280,
+                DialogCommand: "",
+                Dialog: 172,
+                OptionType: 1,
+                Title: "Sure, I wouldn't mind lending you a hand."
+            }
+        },
+        {
+            OptionSlot: 5,
+            Option: {
+                DialogColor: 16711680,
+                DialogCommand: "",
+                Dialog: -1,
+                OptionType: 0,
+                Title: "No thanks, I have a lot on my plate already."
+            }
+        }
+    ],
+    OptionFaction2Points: 100,
+    AvailabilityQuest4Id: -1,
+    DialogHideNPC: 0b,
+    AvailabilityFaction: 0,
+    AvailabilityDialog2Id: -1,
+    DialogCommand: "",
+    AvailabilityDialog4: 0,
+    AvailabilityDialog3: 0,
+    DialogMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1422712726991L
+    },
+    OptionFactions1: -1,
+    AvailabilityDialogId: -1,
+    OptionFactions2: -1,
+    AvailabilityFaction2Id: -1,
+    OptionFaction1Points: 100,
+    DialogTitle: "Librarian I",
+    AvailabilityDialog3Id: -1,
+    AvailabilityDialog4Id: -1
+}
