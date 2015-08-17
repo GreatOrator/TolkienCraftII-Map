@@ -1,0 +1,113 @@
+{
+    Items: {
+        NpcMiscInv: [
+            {
+                id: 7060s,
+                Damage: 1027s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Gandalf's Elixer"
+                    }
+                },
+                Slot: 0b
+            }
+        ]
+    },
+    CompleterNpc: "Chald",
+    IgnoreDamage: 0b,
+    Type: 0,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    IgnoreNBT: 1b,
+    NextQuestId: -1,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                id: 5458s,
+                Damage: 3s,
+                Count: 1b,
+                Slot: 0b
+            },
+            {
+                id: 7391s,
+                Damage: 0s,
+                Count: 1b,
+                tag: {
+                    InfiTool: {
+                        Unbreaking: 0,
+                        ToolEXP: 0L,
+                        HarvestLevel: 9,
+                        ToolLevel: 1,
+                        Built: 1b,
+                        Accuracy: 95.0f,
+                        Ammo: 96,
+                        RenderHead: 12,
+                        Modifiers: 0,
+                        Handle: 0,
+                        Attack: 5,
+                        RenderHandle: 0,
+                        ModDurability: 0.0f,
+                        Broken: 0b,
+                        BonusDurability: 0,
+                        RenderAccessory: 0,
+                        Damage: 0,
+                        Head: 12,
+                        BreakChance: 0.2f,
+                        BaseDurability: 960,
+                        Accessory: 0,
+                        Mass: 3.25f,
+                        Shoddy: 0.0f,
+                        MiningSpeed: 900,
+                        TotalDurability: 960
+                    },
+                    display: {
+                        Name: "§fManyullyn Arrows"
+                    }
+                },
+                Slot: 1b
+            }
+        ]
+    },
+    Title: "Secret Recipe II",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Text: "Take the elixer to Chald as quickly as possible.",
+    NextQuestTitle: "",
+    CompleteText: "Were you successful?  Well, looks much different than I envisioned, though not sure what I was expecting.I will get this to my captain so he can start implementing it right away!Here, take these arrows, they may come in handy!",
+    QuestMail: {
+        Sender: "Gandalf",
+        Time: 1426684903034L,
+        Message: {
+            pages: [
+                "Greetings once again hero.
+
+While you have been helping me I have managed to find out some information.
+
+I can not tell you specifics, but suffice to say, I need you to get the ring from Bilbo.",
+                "He knows you are coming and will hand it over so you can bring it to me so I can explain further.
+
+-Gandalf"
+            ]
+        },
+        Subject: "I know you're busy",
+        MailItems: [
+        ],
+        MailQuestTitle: "Mount Doom I",
+        BeenRead: 0b,
+        MailQuest: 88,
+        TimePast: 80809L
+    },
+    QuestCommand: "",
+    LeaveItems: 0b,
+    RewardExp: 100,
+    ModRev: 16
+}

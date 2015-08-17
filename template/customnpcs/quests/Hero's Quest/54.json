@@ -1,0 +1,64 @@
+{
+    Items: {
+        NpcMiscInv: [
+            {
+                id: 6088s,
+                Damage: 0s,
+                Count: 8b,
+                Slot: 0b
+            },
+            {
+                id: 5942s,
+                Damage: 0s,
+                Count: 8b,
+                Slot: 1b
+            }
+        ]
+    },
+    CompleterNpc: "Valsnoisytoys",
+    IgnoreDamage: 0b,
+    Type: 0,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    IgnoreNBT: 0b,
+    NextQuestId: -1,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                id: 399s,
+                Damage: 0s,
+                Count: 1b,
+                Slot: 0b
+            }
+        ]
+    },
+    Title: "Val Quest I",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Text: "I should bring ValsNoisyToys 8 spring salads and 8 chicken curry.",
+    NextQuestTitle: "",
+    CompleteText: "Oh you are such a sweetheart. Here, take this, I found it when I came back from the nether.",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1422712518526L
+    },
+    QuestCommand: "",
+    LeaveItems: 0b,
+    RewardExp: 50,
+    ModRev: 15
+}

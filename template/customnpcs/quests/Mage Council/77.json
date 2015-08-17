@@ -1,0 +1,63 @@
+{
+    CompleterNpc: "Legolas",
+    Type: 4,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    NextQuestId: 85,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                id: 5458s,
+                Damage: 4s,
+                Count: 1b,
+                Slot: 0b
+            },
+            {
+                id: 4770s,
+                Damage: 3s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Proof of Victory"
+                    }
+                },
+                Slot: 1b
+            }
+        ]
+    },
+    Title: "Middle Earth I",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Text: "Legolas was kind enough to point out where I must go, to the east, towards the tower in the distance.",
+    NextQuestTitle: "Family Heirloom I",
+    QuestDialogs: [
+        {
+            Value: 1,
+            Slot: "He without Name"
+        }
+    ],
+    CompleteText: "I should hope for a time this will keep peace here.  Unfortunately, I fear it will not though you have robbed him of his major power, only his voice remains.Please be careful with these coins, they are unique and I can never give them back if something happens.I take my leave now as I must rush to join a council called in Rivendale, heavy is my heart, for I fear what they may be announcing.You should speak with Mithrandir, I believe your kind calls him Gandalf, in the veranda north of the party tree about that ring.",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1426286834194L
+    },
+    QuestCommand: "",
+    RewardExp: 500,
+    ModRev: 16
+}

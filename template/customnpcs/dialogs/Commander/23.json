@@ -1,0 +1,64 @@
+{
+    AvailabilityQuest4: 0,
+    DecreaseFaction1Points: 1b,
+    AvailabilityQuest3: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityMinPlayerLevel: 0,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2: 2,
+    AvailabilityQuest2Id: 4,
+    AvailabilityQuestId: 2,
+    DialogQuest: 4,
+    DialogText: "Thank you hero.  Hopefully this will make my job easier.  Come back when you have finished as I may have more for you to do.",
+    AvailabilityQuest: 1,
+    AvailabilityFactionStance: 0,
+    DialogDisableEsc: 0b,
+    AvailabilityDayTime: 0,
+    AvailabilityFaction2: 0,
+    ModRev: 16,
+    AvailabilityDialog: 0,
+    DialogShowWheel: 0b,
+    DecreaseFaction2Points: 0b,
+    AvailabilityDialog2: 0,
+    AvailabilityFaction2Stance: 0,
+    Options: [
+        {
+            OptionSlot: 5,
+            Option: {
+                DialogColor: 16711680,
+                DialogCommand: "",
+                Dialog: 21,
+                OptionType: 1,
+                Title: "I want to ask something else."
+            }
+        }
+    ],
+    OptionFaction2Points: 100,
+    AvailabilityQuest4Id: -1,
+    DialogHideNPC: 0b,
+    AvailabilityFaction: 0,
+    AvailabilityDialog2Id: -1,
+    DialogCommand: "/noppes faction @p Villain set 0",
+    AvailabilityDialog4: 0,
+    AvailabilityDialog3: 0,
+    DialogMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1426593000557L
+    },
+    OptionFactions1: 11,
+    AvailabilityDialogId: -1,
+    OptionFactions2: -1,
+    AvailabilityFaction2Id: -1,
+    OptionFaction1Points: 1000,
+    DialogTitle: "Consider it done.",
+    AvailabilityDialog3Id: -1,
+    AvailabilityDialog4Id: -1
+}

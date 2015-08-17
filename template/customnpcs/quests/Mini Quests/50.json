@@ -1,0 +1,140 @@
+{
+    Items: {
+        NpcMiscInv: [
+            {
+                id: 5615s,
+                Damage: 14s,
+                Count: 1b,
+                Slot: 0b
+            },
+            {
+                id: 5604s,
+                Damage: 14s,
+                Count: 1b,
+                Slot: 1b
+            },
+            {
+                id: 5603s,
+                Damage: 14s,
+                Count: 1b,
+                Slot: 2b
+            }
+        ]
+    },
+    CompleterNpc: "Rothcersul",
+    IgnoreDamage: 0b,
+    Type: 0,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    IgnoreNBT: 0b,
+    NextQuestId: 51,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                id: 5587s,
+                Damage: 0s,
+                Count: 1b,
+                tag: {
+                    InfiTool: {
+                        Unbreaking: 1,
+                        Extra: 14,
+                        ToolEXP: 0L,
+                        MiningSpeed2: 650,
+                        ToolLevel: 1,
+                        HarvestLevel: 4,
+                        Built: 1b,
+                        Modifiers: 0,
+                        RenderHead: 14,
+                        Handle: 14,
+                        Attack: 4,
+                        RenderHandle: 14,
+                        ModDurability: 0.0f,
+                        BonusDurability: 0,
+                        Broken: 0b,
+                        RenderAccessory: 14,
+                        Damage: 0,
+                        Head: 14,
+                        BaseDurability: 2137,
+                        RenderExtra: 14,
+                        Accessory: 14,
+                        HarvestLevel2: 4,
+                        Shoddy: 0.0f,
+                        MiningSpeed: 650,
+                        TotalDurability: 2137
+                    },
+                    display: {
+                        Name: "§fBronze Lumber Axe"
+                    }
+                },
+                Slot: 0b
+            },
+            {
+                id: 5587s,
+                Damage: 0s,
+                Count: 1b,
+                tag: {
+                    InfiTool: {
+                        Unbreaking: 0,
+                        Extra: 4,
+                        MiningSpeed2: 500,
+                        ToolEXP: 0L,
+                        HarvestLevel: 0,
+                        ToolLevel: 1,
+                        Built: 1b,
+                        RenderHead: 4,
+                        Modifiers: 0,
+                        Handle: 4,
+                        RenderHandle: 4,
+                        Attack: 4,
+                        ModDurability: 0.0f,
+                        BonusDurability: 0,
+                        Broken: 0b,
+                        RenderAccessory: 4,
+                        Damage: 0,
+                        Head: 4,
+                        BaseDurability: 495,
+                        RenderExtra: 4,
+                        Accessory: 4,
+                        HarvestLevel2: 0,
+                        Shoddy: -1.0f,
+                        MiningSpeed: 500,
+                        TotalDurability: 495
+                    },
+                    display: {
+                        Name: "§fCactus Lumber Axe"
+                    }
+                },
+                Slot: 1b
+            }
+        ]
+    },
+    Title: "Lumberjack IV",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Text: "Go over to the smelter -- let the ore cook till its good and molten. then pour out one of each of these molds  - bring them to me when you’re doneRothcersul wants me to get this smelted and formed for him.I should just patiently wait for it to all get smelted and then make a plate, axe head and a tough tool rod to move on.",
+    NextQuestTitle: "Lumberjack V",
+    CompleteText: "Excellent. now to put it all together There that should do it.  This should be just what he needs for his wood chopping.  Give him back this too he can put it on his wall as a decoration, its about all its good for now.You can keep the casts, and extra bronze, never know when you might need them!",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1422712561055L
+    },
+    QuestCommand: "",
+    LeaveItems: 0b,
+    RewardExp: 10,
+    ModRev: 15
+}

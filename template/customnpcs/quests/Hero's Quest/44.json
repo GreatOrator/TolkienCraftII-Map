@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Elmn",
+    Type: 3,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    QuestLocation2: "",
+    NextQuestId: 45,
+    QuestLocation: "Docks",
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    QuestLocation3: "",
+    Title: "Jax Quest II",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Text: "Alrighty, time to go pay the dockworker a visit to see what he might have seen.",
+    NextQuestTitle: "Jax Quest III",
+    CompleteText: "I heard that while unloading the ship some things where stolen right off the docks here. Captain Ahab has been on a right tear since the guards patrolling the docks didn’t see anything. You might talk to the Captain on that one, but be warned I’ve heard he's in a right foul mood.",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1422712514658L
+    },
+    QuestCommand: "",
+    RewardExp: 0,
+    ModRev: 15
+}

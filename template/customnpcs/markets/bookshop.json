@@ -1,0 +1,273 @@
+{
+    TraderCurrency: {
+        NpcMiscInv: [
+            {
+                Slot: 32b,
+                id: 4185s,
+                Count: 1b,
+                Damage: 1s
+            },
+            {
+                Slot: 34b,
+                id: 4185s,
+                Count: 1b,
+                Damage: 1s
+            },
+            {
+                Slot: 35b,
+                id: 4185s,
+                Count: 1b,
+                Damage: 1s
+            },
+            {
+                Slot: 20b,
+                id: 4185s,
+                Count: 1b,
+                Damage: 1s
+            },
+            {
+                Slot: 23b,
+                id: 4185s,
+                Count: 1b,
+                Damage: 1s
+            },
+            {
+                Slot: 25b,
+                id: 4185s,
+                Count: 1b,
+                Damage: 1s
+            },
+            {
+                Slot: 26b,
+                id: 4185s,
+                Count: 1b,
+                Damage: 1s
+            },
+            {
+                Slot: 28b,
+                id: 4185s,
+                Count: 1b,
+                Damage: 1s
+            },
+            {
+                Slot: 29b,
+                id: 4185s,
+                Count: 1b,
+                Damage: 1s
+            },
+            {
+                Slot: 31b,
+                id: 4185s,
+                Count: 1b,
+                Damage: 1s
+            }
+        ]
+    },
+    TraderIgnoreDamage: 0b,
+    TraderMarket: "",
+    TraderIgnoreNBT: 0b,
+    TraderSold: {
+        NpcMiscInv: [
+            {
+                Slot: 16b,
+                id: 387s,
+                Count: 1b,
+                tag: {
+                    pages: [
+                        "Far into the desert lies a small castle named Kolbar. Kolbar is known as the house into the horizon to those around. Kolbar has extravagant stores, a skilled reverend and a cozy community center. The nearby reverend is rarely around to assist a good cause.",
+                        "Each week, reverend Zartuth would walk to the edge of the steeple and say a prayer. Looking to the sun with her eyes closed,  she visualizes her mantra. A hot wind burst across her clothes and she heard a loud noise. She could see a bunch of light nearly into the hill.",
+                        "The reverend feared for the distant house. She decided she would communicate her curiosity to the friends in Kolbar. She suggested they find any supplies they could spare and she would take a trip to the distant house and attempt to help.",
+                        "After close to a full day of jogging, Zartuth could look down on to the last valley and down onto the house. This was more than a troubled house, this was an attack. There was a monstrous animal just on the outskirts of the house observing it burn.",
+                        "Zartuth attempted to spot if anyone was in need of help but it was too foggy to see. Zartuth woud have to venture downward to search for survivors. If the animal were to spot her, she should get injured or killed. But she should not take the chance of leaving somone.",
+                        "As Zartuth got close to the broken house, she could sense a person crying. She ran in to try to save her. She was trapped inside one of the houses. Zartuth kicked the wall open and inquired if there was anything left. She said her name was Pownis. It was dangerous outside.",
+                        "Zartuth and Pownis carefully left the damaged home, determined to escape to safety. The animal had woke up and spotted them. It was a ender! The ender ran at them to try to take control. Zartuth, determined to protect Pownis, broke a stick in half and plunged at the ender.",
+                        "Just as the ender attempted to run past Zartuth, she cut her sharpened stick deep into the enders' neck, forcing it to flee. Pownis was perplexed at the horrible smell. Zartuth yelled to Pownis and grabbed her, reminding her that there is no more danger. They could adventure to Kolbar now."
+                    ],
+                    author: "Nucony",
+                    title: "Jungle Wizard"
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 17b,
+                id: 387s,
+                Count: 1b,
+                tag: {
+                    pages: [
+                        "Rooted into the plains lies a enormous castle named Jitrio. Jitrio is known as the city over the plains to those far away. Jitrio has bountiful shops, a talented carpenter and a warm town square. The nearby carpenter is rarely far away to assist a good cause.",
+                        "Each evening, carpenter Boin would climb to the top of the balcony and eat a potato. Looking to the horizon with her eyes closed,  she whispered her battlechant. A hard breeze burst down her chest and she opened his eyes. She could see a bunch of light close over the plains.",
+                        "The carpenter feared for the distant city. She decided she would communicate her concern to the other villagers in Jitrio. She suggested they make any medicine they could share and she would make a journey to the distant city and try to assist.",
+                        "Now almost a full month of running, Boin could see over the last hill and over to the city. This was more than a troubled city, this was an attack. There was a monstrous monster just on the outskirts of the city watching it smolder.",
+                        "Boin tried to see if anyone was in need of help but it was too smokey to see. Boin wanted to get closer to check the area. If the monster were to see her, she should get attacked and beaten. But she might not risk the chance of leaving somone.",
+                        "As Boin closed in on the smoldering city, she could see a person hiding. She snuck in to attempt to save her. She was wedged under some rubble. Boin pried the door open and asked if there was anyone left. She said her name was Keurt. It was time to run.",
+                        "Boin and Keurt carefully left the burning cabin, determined to get away to a safe place. The monster had woke up and smelled them. It was a zombie! The zombie ran at them to try to attack the survivors. Boin, determined to defend Keurt, pulled out a fish and swung at the zombie.",
+                        "Just as the zombie tried to fly away from Boin, she sliced her knife deep into the zombies' eye, forcing it to flee. Keurt was shocked at how fast that just happend. Boin walked to Keurt and grabbed her, reminding her that the beast is dead. They could walk to Jitrio now."
+                    ],
+                    author: "Gaal",
+                    title: "Gate of Titans"
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: 387s,
+                Count: 1b,
+                tag: {
+                    pages: [
+                        "Distant into the plains lies a large city named Zueg. Zueg is known as the house over the mound to those near by. Zueg has beautiful stores, a kind-hearted miner and a cozy town square. The nearby miner is always far away to help those in need.",
+                        "Each night, miner Board would walk to the back of the steeple and look at the sky. Facing the horizon with her weapon drawn,  she whispered her prayer. A fast rain burst down her face and she looked to the sky. She could see a cloud of light nearly over the mound.",
+                        "The miner wondered about the nearby village. She decided she would announce her concern to the friends in Zueg. She suggested they find any supplies they could share and she would make a adventure to the distant village and attempt to help.",
+                        "Now close to a full evening of running, Board could look down on to the final mound and down onto the village. This was more than a troubled village, this was a party. There was a monstrous beast just on the outskirts of the village watching it smolder.",
+                        "Board attempted to spot if anyone could still be alive but it was too smokey to see. Board wanted to venture downward to search for survivors. If the beast were to see her, she should get injured or killed. But she would not take the chance of leaving somone.",
+                        "As Board arrived at the burning village, she could hear a person hiding. She snuck in to attempt to rescue her. She was trapped inside one of the houses. Board kicked the door down and inquired if there was anything left. She said her name was Cohuo. It was time to run.",
+                        "Board and Cohuo escaped the damaged house, determined to escape to a safe place. The beast had heard something and heard them. It was a zombie! The zombie jumped down to try to hurt them. Board, determined to defend Cohuo, grabbed a weapon and plunged at the zombie.",
+                        "Just as the zombie tried to fly away from Board, she slide her sword deep into the zombies' side, forcing it to flee. Cohuo was surprised at the speed of the hero. Board headed to Cohuo and grabbed her, reminding her that there is no more danger. They could adventure to Zueg now."
+                    ],
+                    author: "Goerv",
+                    title: "The Years"
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: 387s,
+                Count: 1b,
+                tag: {
+                    pages: [
+                        "Buried into the caves lies a small castle named Bonkoix. Bonkoix is known as the village on the desert to those near by. Bonkoix has bountiful stores, a top notch protector and a welcoming community center. The local protector is always around to help a good cause.",
+                        "Each morning, protector Gubak would climb to the edge of the rooftop and look at the sky. Looking to the sun with his weapon drawn,  he speaks his mantra. A cool breeze blew across his hair and he opened his eyes. He could see a bunch of mist nearly on the desert.",
+                        "The protector wondered about the nearby camp. He decided he would communicate his curiosity to the residents in Bonkoix. He asked that they make any supplies they could share and he would take a trip to the distant camp and attempt to assist.",
+                        "Now nearly a half afternoon of horseback riding, Gubak could look down over the last hill and down onto the camp. This was more than a burning camp, this was a party. There was a monstrous bad guy just on the outskirts of the camp observing it party.",
+                        "Gubak attempted to see if everything was safe but it was too difficult to see. Gubak needed to venture downward to check for survivors. If the bad guy were to see him, he would get injured or killed. But he could not risk the chance of leaving somone.",
+                        "As Gubak neared the damaged camp, he could hear a person crying. He snuck in to try to rescue him. He was hidden inside one of the buildings. Gubak pried the wall down and asked if there was anything left. He said him name was Fadii. It was time to go.",
+                        "Gubak and Fadii carefully left the broken home, determined to run to shelter. The bad guy had awoken and seen them. It was a ender! The ender charged in to try to attack the survivors. Gubak, determined to defend Fadii, drew a big knife and jumped at the ender.",
+                        "Just as the ender attempted to eat Gubak, he cut his axe deep into the enders' face, injuring it. Fadii was astonished at how fast that just happend. Gubak ran to Fadii and spoke to him, reminding him that there is no more danger. They could head back to Bonkoix now."
+                    ],
+                    author: "Hijowood",
+                    title: "Delicious Giant"
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 7b,
+                id: 387s,
+                Count: 1b,
+                tag: {
+                    pages: [
+                        "Distant into the jungle lies a tiny village named Wasagon. Wasagon is known as the camp on the mound to those around. Wasagon has extravagant stores, a top notch geologist and a warm farmers market. The local geologist is often near by to help a good cause.",
+                        "Each morning, geologist Techuny would climb to the front of the town center and look at the sky. Looking to the sun with his eyes closed,  he visualizes his mantra. A cool rain blew across his face and he opened his eyes. He could see a bunch of smoke close on the mountain.",
+                        "The geologist wondered about the distant cottage. He decided he would communicate his wonder to the neighbors in Wasagon. He suggested they collect any medicine they could share and he would make a journey to the distant cottage and try to help.",
+                        "Now close to a quarter week of pig riding, Techuny could see on to the final mountain and down onto the cottage. This was more than a troubled cottage, this was an attack. There was a monstrous animal just on the outskirts of the cottage making it smolder.",
+                        "Techuny attempted to spot if anyone could still be alive but it was too difficult to see. Techuny wanted to get closer to search the area. If the animal were to spot him, he would get attacked and beaten. But he should not take the chance of leaving somone.",
+                        "As Techuny arrived at the smoldering cottage, he could see a person crying. He walked in to attempt to save her. She was hidden inside one of the buildings. Techuny kicked the door down and inquired if there was anyone left. She said her name was Heik. It was dangerous outside.",
+                        "Techuny and Heik carefully left the broken cave, determined to get away to refuge. The animal had looked around and smelled them. It was a wild ocelot! The wild ocelot jumped at them to try to kill them. Techuny, determined to guard Heik, drew a big knife and plunged at the wild ocelot.",
+                        "Just as the wild ocelot tried to fly away from Techuny, he sunk his sharpened stick deep into the wild ocelots' side, forcing it to flee. Heik was shocked at the horrible smell. Techuny yelled to Heik and grabbed her, reminding her that there is no more danger. They could ride horseback to Wasagon now."
+                    ],
+                    author: "Kaich",
+                    title: "Rooftop Silk"
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 8b,
+                id: 387s,
+                Count: 1b,
+                tag: {
+                    pages: [
+                        "Distant into the mountains lies a enormous cottage named Tatea. Tatea is known as the camp on the horizon to those far away. Tatea has bountiful shops, a talented carpenter and a small town square. The local carpenter is often far away to help a good cause.",
+                        "Each night, carpenter Niark would traverse to the front of the balcony and say a prayer. Facing the horizon with her weapon drawn,  she speaks her battlechant. A cool wind burst around her clothes and she heard a loud noise. She could see a plume of fire just on the desert.",
+                        "The carpenter wondered about the nearby camp. She decided she would announce her wonder to the neighbors in Tatea. She demanded they make any medicine they could spare and she would make a adventure to the nearby camp and attempt to assist.",
+                        "Now close to a full afternoon of jogging, Niark could see over the last desert and over to the camp. This was more than a troubled camp, this was an attack. There was a monstrous monster just on the outskirts of the camp making it smolder.",
+                        "Niark tried to see if anyone could still be alive but it was too smokey to see. Niark woud have to get closer to search for survivors. If the monster were to see her, she should get injured or killed. But she would not risk the chance of leaving somone.",
+                        "As Niark got close to the broken camp, she could hear a person cowering. She ran in to try to liberate him. He was locked inside a shed. Niark kicked the wall down and asked if there was anyone else. He said him name was Miroe. It was dangerous outside.",
+                        "Niark and Miroe ran out of the smoldering storage room, determined to escape to a safe place. The monster had smelled a new scent and seen them. It was a zombie pigman! The zombie pigman charged in to try to stomp them. Niark, determined to protect Miroe, drew a big axe and plunged at the zombie pigman.",
+                        "Just as the zombie pigman attempted to step on Niark, she sliced her knife deep into the zombie pigmans' neck, injuring it. Miroe was astonished at the heros strength. Niark ran to Miroe and looked at him, reminding him that the bomb is diffused. They could walk to Tatea now."
+                    ],
+                    author: "Molau",
+                    title: "Shadow of Consort"
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 10b,
+                id: 387s,
+                Count: 1b,
+                tag: {
+                    pages: [
+                        "Distant into the plains lies a medium village named Kabia. Kabia is known as the house over the mound to those near by. Kabia has beautiful shops, a kind-hearted reverend and a small community center. The nearby reverend is often around to help those in need.",
+                        "Each weekend, reverend Niik would traverse to the back of the steeple and eat a potato. Facing the horizon with her eyes closed,  she speaks her battlechant. A hot rain blew down her face and she opened his eyes. She could see a bunch of smoke just over the hill.",
+                        "The reverend wondered about the nearby cottage. She decided she would explain her curiosity to the other villagers in Kabia. She suggested they collect any supplies they could share and she would make a journey to the nearby cottage and try to investigate.",
+                        "Since nearly a quarter month of jogging, Niik could look down over the final mound and down onto the cottage. This was more than a burning cottage, this was a party. There was a monstrous animal just on the outskirts of the cottage making it smolder.",
+                        "Niik tried to spot if anyone could still be alive but it was too smokey to see. Niik wanted to get closer to check for survivors. If the animal were to spot her, she would get attacked and beaten. But she should not risk the chance of leaving somone.",
+                        "As Niik closed in on the smoldering cottage, she could see a person hiding. She walked in to attempt to liberate him. He was locked inside a shed. Niik pried the wall open and inquired if there was anyone left. He said him name was Fuwniu. It was time to go.",
+                        "Niik and Fuwniu escaped the burning workshop, determined to get away to shelter. The animal had heard something and spotted them. It was a giant squid! The giant squid swooped down to try to scare them. Niik, determined to guard Fuwniu, drew a big axe and plunged at the giant squid.",
+                        "Just as the giant squid attempted to claw Niik, she sunk her sword deep into the giant squids' belly, killing it. Fuwniu was astonished at how fast that just happend. Niik ran to Fuwniu and hugged him, reminding him that the beast is dead. They could go back to Kabia now."
+                    ],
+                    author: "Safup",
+                    title: "Frozen Memory"
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 11b,
+                id: 387s,
+                Count: 1b,
+                tag: {
+                    pages: [
+                        "Deep into the jungle lies a small cottage named Zuugon. Zuugon is known as the city over the plains to those far away. Zuugon has beautiful shops, a top notch reverend and a cozy farmers market. The local reverend is usually around to help those in need.",
+                        "Each weekend, reverend Wumuu would walk to the back of the window and eat a potato. Facing the sun with his eyes closed,  he visualizes his prayer. A hard wind burst around his face and he looked to the sky. He could see a plume of smoke just on the plains.",
+                        "The reverend feared for the nearby camp. He decided he would explain his wonder to the neighbors in Zuugon. He asked that they get any supplies they could share and he would take a journey to the nearby camp and try to help.",
+                        "Now nearly a quarter month of running, Wumuu could look down on to the final valley and down onto the camp. This was more than a burning camp, this was a party. There was a monstrous monster just on the outskirts of the camp observing it smolder.",
+                        "Wumuu attempted to see if anyone was in need of help but it was too difficult to see. Wumuu woud have to venture downward to check for survivors. If the monster were to see him, he could get attacked and beaten. But he might not risk the chance of leaving somone.",
+                        "As Wumuu arrived at the broken camp, he could see a person fighting back. He walked in to try to liberate her. She was trapped inside a shed. Wumuu kicked the wall in and asked if there was anything left. She said her name was Gartil. It was time to go.",
+                        "Wumuu and Gartil escaped the damaged workshop, determined to make it to refuge. The monster had heard something and seen them. It was a creeper! The creeper jumped down to try to eat them. Wumuu, determined to guard Gartil, drew a big knife and ran at the creeper.",
+                        "Just as the creeper tried to run past Wumuu, he penetrated his hoe deep into the creepers' neck, killing it. Gartil was shocked at how fast that just happend. Wumuu headed to Gartil and spoke to her, reminding her that they are safe now. They could adventure to Zuugon now."
+                    ],
+                    author: "Riap",
+                    title: "Bad Hunter"
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 13b,
+                id: 387s,
+                Count: 1b,
+                tag: {
+                    pages: [
+                        "Deep into the mountains lies a enormous city named Guuk. Guuk is known as the village on the plains to those around. Guuk has beautiful restaurants, a kind-hearted reverend and a welcoming church. The friendly reverend is usually far away to help those in need.",
+                        "Each morning, reverend Kamwor would traverse to the top of the rooftop and look at the sky. Looking to the sun with his weapon drawn,  he speaks his mantra. A fast wind burst down his body and he looked to the sky. He could see a plume of light close into the hill.",
+                        "The reverend feared for the distant house. He decided he would explain his concern to the friends in Guuk. He suggested they collect any medicine they could spare and he would take a journey to the distant house and attempt to investigate.",
+                        "Now almost a half evening of pig riding, Kamwor could see on to the last valley and down onto the house. This was more than a burning house, this was a party. There was a monstrous bad guy just on the outskirts of the house watching it burn.",
+                        "Kamwor attempted to spot if everything was safe but it was too smokey to see. Kamwor needed to get closer to search the area. If the bad guy were to spot him, he would get attacked and beaten. But he would not risk the chance of leaving somone.",
+                        "As Kamwor neared the smoldering house, he could hear a person hiding. He ran in to attempt to liberate him. He was hidden under some rubble. Kamwor pried the wall in and inquired if there was anything left. He said him name was Riurv. It was time to go.",
+                        "Kamwor and Riurv escaped the burning storage room, determined to get away to the outside. The bad guy had searched around and seen them. It was a evil rabbit! The evil rabbit snarled at them to try to eat them. Kamwor, determined to look after Riurv, pulled out a fish and jumped at the evil rabbit.",
+                        "Just as the evil rabbit attempted to fly away from Kamwor, he slide his pickaxe deep into the evil rabbits' side, scaring it away. Riurv was perplexed at the horrible smell. Kamwor yelled to Riurv and grabbed him, reminding him that no threat is too big to handle. They could travel home to Guuk now."
+                    ],
+                    author: "Gesert",
+                    title: "Life Prophecy"
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 14b,
+                id: 387s,
+                Count: 1b,
+                tag: {
+                    pages: [
+                        "Rooted into the plains lies a small castle named Wankat. Wankat is known as the castle on the mountain to those far away. Wankat has beautiful restaurants, a skilled reverend and a cozy church. The nearby reverend is rarely around to assist a good cause.",
+                        "Each evening, reverend Tiud would climb to the back of the rooftop and eat a potato. Looking to the sun with his eyes closed,  he visualizes his prayer. A fast wind blew around his body and he opened his eyes. He could see a cloud of mist just into the desert.",
+                        "The reverend wondered about the nearby city. He decided he would communicate his curiosity to the residents in Wankat. He asked that they collect any medicine they could share and he would take a journey to the distant city and attempt to help.",
+                        "Now close to a quarter month of horseback riding, Tiud could see on to the final mound and over to the city. This was more than a burning city, this was a party. There was a monstrous bad guy just on the outskirts of the city making it party.",
+                        "Tiud attempted to spot if everything was safe but it was too foggy to see. Tiud woud have to venture downward to search for survivors. If the bad guy were to see him, he should get attacked and beaten. But he could not risk the chance of leaving somone.",
+                        "As Tiud neared the broken city, he could hear a person crying. He walked in to attempt to save him. He was hidden under some rubble. Tiud pried the wall down and asked if there was anyone else. He said him name was Kunul. It was dangerous outside.",
+                        "Tiud and Kunul ran out of the burning cave, determined to run to a safe place. The bad guy had smelled a new scent and heard them. It was a zombie! The zombie charged in to try to attack the survivors. Tiud, determined to defend Kunul, drew a big knife and jumped at the zombie.",
+                        "Just as the zombie tried to eat Tiud, he sliced his hoe deep into the zombies' face, murdering it. Kunul was flabbergasted at the heros strength. Tiud yelled to Kunul and hugged him, reminding him that it is getting late. They could walk to Wankat now."
+                    ],
+                    author: "Wegick",
+                    title: "The Truth"
+                },
+                Damage: 0s
+            }
+        ]
+    }
+}

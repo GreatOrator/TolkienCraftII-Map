@@ -1,0 +1,74 @@
+{
+    AvailabilityQuest4: 0,
+    DecreaseFaction1Points: 0b,
+    AvailabilityQuest3: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityMinPlayerLevel: 0,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2: 0,
+    AvailabilityQuest2Id: -1,
+    AvailabilityQuestId: 5,
+    DialogQuest: -1,
+    DialogText: "The only thing we have been able to learn is they are somewhere near the residential district since they seem to attack there most often.  I suggest starting there.  If you happen to find their leader, take him out as well!",
+    AvailabilityQuest: 1,
+    AvailabilityFactionStance: 0,
+    DialogDisableEsc: 0b,
+    AvailabilityDayTime: 0,
+    AvailabilityFaction2: 0,
+    ModRev: 15,
+    AvailabilityDialog: 0,
+    DialogShowWheel: 0b,
+    DecreaseFaction2Points: 0b,
+    AvailabilityDialog2: 0,
+    AvailabilityFaction2Stance: 0,
+    Options: [
+        {
+            OptionSlot: 0,
+            Option: {
+                DialogColor: 65280,
+                DialogCommand: "",
+                Dialog: 11,
+                OptionType: 1,
+                Title: "I will take care of this for you."
+            }
+        },
+        {
+            OptionSlot: 1,
+            Option: {
+                DialogColor: 16711680,
+                DialogCommand: "",
+                Dialog: -1,
+                OptionType: 0,
+                Title: "Let me get back to you."
+            }
+        }
+    ],
+    OptionFaction2Points: 100,
+    AvailabilityQuest4Id: -1,
+    DialogHideNPC: 0b,
+    AvailabilityFaction: 0,
+    AvailabilityDialog2Id: -1,
+    DialogCommand: "",
+    AvailabilityDialog4: 0,
+    AvailabilityDialog3: 0,
+    DialogMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1422712721696L
+    },
+    OptionFactions1: -1,
+    AvailabilityDialogId: -1,
+    OptionFactions2: -1,
+    AvailabilityFaction2Id: -1,
+    OptionFaction1Points: 100,
+    DialogTitle: "Where are the bandit's hiding?",
+    AvailabilityDialog3Id: -1,
+    AvailabilityDialog4Id: -1
+}

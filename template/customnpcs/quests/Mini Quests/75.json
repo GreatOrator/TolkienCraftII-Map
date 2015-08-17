@@ -1,0 +1,69 @@
+{
+    Items: {
+        NpcMiscInv: [
+            {
+                id: 7197s,
+                Damage: 0s,
+                Count: 1b,
+                tag: {
+                    symbol: "ModClear"
+                },
+                Slot: 0b
+            }
+        ]
+    },
+    CompleterNpc: "La'ak Tur",
+    IgnoreDamage: 1b,
+    Type: 0,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    IgnoreNBT: 0b,
+    NextQuestId: -1,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                id: 5458s,
+                Damage: 1s,
+                Count: 1b,
+                tag: {
+                },
+                Slot: 0b
+            },
+            {
+                id: 4185s,
+                Damage: 0s,
+                Count: 5b,
+                Slot: 1b
+            }
+        ]
+    },
+    Title: "Librarian I",
+    QuestRepeat: 4,
+    QuestCompletion: 0,
+    Text: "The librarian has asked me to bring him a clear modifiers page...",
+    NextQuestTitle: "",
+    CompleteText: "Wonderful work @p.  This will certainly help me in my research!",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1422712556192L
+    },
+    QuestCommand: "",
+    LeaveItems: 0b,
+    RewardExp: 25,
+    ModRev: 15
+}

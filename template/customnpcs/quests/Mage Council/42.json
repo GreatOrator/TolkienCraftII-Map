@@ -1,0 +1,48 @@
+{
+    CompleterNpc: "Malus",
+    Type: 3,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    QuestLocation2: "",
+    NextQuestId: -1,
+    QuestLocation: "Council Room",
+    Rewards: {
+        NpcMiscInv: [
+            {
+                id: 5458s,
+                Damage: 2s,
+                Count: 1b,
+                Slot: 0b
+            }
+        ]
+    },
+    QuestLocation3: "",
+    Title: "Reinforcements III",
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    Text: "Return to Malus for your reward.",
+    NextQuestTitle: "",
+    CompleteText: "Excellent work!Unfortunately they do not last as long as I would like, but it at least offers some level of protection for our town.",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1422712541338L
+    },
+    QuestCommand: "",
+    RewardExp: 75,
+    ModRev: 15
+}

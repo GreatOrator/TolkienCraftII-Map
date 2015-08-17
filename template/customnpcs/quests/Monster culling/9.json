@@ -1,0 +1,75 @@
+{
+    CompleterNpc: "Xavious",
+    Type: 4,
+    RandomReward: 1b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    NextQuestId: -1,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                id: 133s,
+                Damage: 0s,
+                Count: 1b,
+                Slot: 0b
+            },
+            {
+                id: 399s,
+                Damage: 0s,
+                Count: 1b,
+                Slot: 1b
+            },
+            {
+                id: 57s,
+                Damage: 0s,
+                Count: 1b,
+                Slot: 2b
+            },
+            {
+                id: 41s,
+                Damage: 0s,
+                Count: 1b,
+                Slot: 3b
+            },
+            {
+                id: 42s,
+                Damage: 0s,
+                Count: 1b,
+                Slot: 4b
+            }
+        ]
+    },
+    Title: "For coven's sake! pt II",
+    QuestRepeat: 4,
+    QuestCompletion: 0,
+    Text: "The captain said I should go take a look and see if I can kill any of the witches to help them out.",
+    NextQuestTitle: "",
+    QuestDialogs: [
+        {
+            Value: 20,
+            Slot: "Witch"
+        }
+    ],
+    CompleteText: "Thank the gods for you @p, you have just saved us so much work.  This isn't much, but hopefully it helps on your journeys.",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1426638988560L
+    },
+    QuestCommand: "",
+    RewardExp: 200,
+    ModRev: 16
+}

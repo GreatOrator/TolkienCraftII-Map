@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Malus",
+    NextQuestId: 42,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "Southern",
+    QuestRepeat: 1,
+    QuestCompletion: 1,
+    Title: "Reinforcements II",
+    Text: "Take these two golems and place them.One needs to be placed at a southern location and the other at a northern one, both within the sewers.Make sure you place them in the right locations.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 10,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1439253326564L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "Man this place is smelly, but at least the golems are in place.I should return to Malus now to let him know how it went.",
+    NextQuestTitle: "Reinforcements III",
+    QuestLocation: "Northern"
+}

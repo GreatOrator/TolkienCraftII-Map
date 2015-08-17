@@ -1,0 +1,218 @@
+{
+    Items: {
+        NpcMiscInv: [
+            {
+                id: 4705s,
+                Damage: 0s,
+                Count: 5b,
+                tag: {
+                    IM: 0b,
+                    GEN: 0,
+                    IsAnalyzed: 1b,
+                    Health: 40,
+                    NA: 1b,
+                    Genome: {
+                        Chromosomes: [
+                            {
+                                UID0: "forestry.speciesSteadfast",
+                                UID1: "forestry.speciesSteadfast",
+                                Slot: 0b
+                            },
+                            {
+                                UID0: "forestry.speedSlower",
+                                UID1: "forestry.speedSlower",
+                                Slot: 1b
+                            },
+                            {
+                                UID0: "forestry.lifespanNormal",
+                                UID1: "forestry.lifespanNormal",
+                                Slot: 2b
+                            },
+                            {
+                                UID0: "forestry.fertilityNormal",
+                                UID1: "forestry.fertilityNormal",
+                                Slot: 3b
+                            },
+                            {
+                                UID0: "forestry.toleranceNone",
+                                UID1: "forestry.toleranceNone",
+                                Slot: 4b
+                            },
+                            {
+                                UID0: "forestry.boolTrue",
+                                UID1: "forestry.boolTrue",
+                                Slot: 5b
+                            },
+                            {
+                                UID0: "forestry.toleranceNone",
+                                UID1: "forestry.toleranceNone",
+                                Slot: 7b
+                            },
+                            {
+                                UID0: "forestry.boolFalse",
+                                UID1: "forestry.boolFalse",
+                                Slot: 8b
+                            },
+                            {
+                                UID0: "forestry.boolTrue",
+                                UID1: "forestry.boolTrue",
+                                Slot: 9b
+                            },
+                            {
+                                UID0: "forestry.flowersVanilla",
+                                UID1: "forestry.flowersVanilla",
+                                Slot: 10b
+                            },
+                            {
+                                UID0: "forestry.floweringSlowest",
+                                UID1: "forestry.floweringSlowest",
+                                Slot: 11b
+                            },
+                            {
+                                UID0: "forestry.territoryDefault",
+                                UID1: "forestry.territoryDefault",
+                                Slot: 12b
+                            },
+                            {
+                                UID0: "forestry.effectNone",
+                                UID1: "forestry.effectNone",
+                                Slot: 13b
+                            }
+                        ]
+                    },
+                    MaxH: 40
+                },
+                Slot: 0b
+            },
+            {
+                id: 4706s,
+                Damage: 0s,
+                Count: 1b,
+                tag: {
+                    IM: 0b,
+                    GEN: 0,
+                    IsAnalyzed: 1b,
+                    Health: 50,
+                    NA: 1b,
+                    Genome: {
+                        Chromosomes: [
+                            {
+                                UID0: "forestry.speciesValiant",
+                                UID1: "forestry.speciesValiant",
+                                Slot: 0b
+                            },
+                            {
+                                UID0: "forestry.speedSlow",
+                                UID1: "forestry.speedSlow",
+                                Slot: 1b
+                            },
+                            {
+                                UID0: "forestry.lifespanLong",
+                                UID1: "forestry.lifespanLong",
+                                Slot: 2b
+                            },
+                            {
+                                UID0: "forestry.fertilityNormal",
+                                UID1: "forestry.fertilityNormal",
+                                Slot: 3b
+                            },
+                            {
+                                UID0: "forestry.toleranceNone",
+                                UID1: "forestry.toleranceNone",
+                                Slot: 4b
+                            },
+                            {
+                                UID0: "forestry.boolTrue",
+                                UID1: "forestry.boolTrue",
+                                Slot: 5b
+                            },
+                            {
+                                UID0: "forestry.toleranceNone",
+                                UID1: "forestry.toleranceNone",
+                                Slot: 7b
+                            },
+                            {
+                                UID0: "forestry.boolTrue",
+                                UID1: "forestry.boolTrue",
+                                Slot: 8b
+                            },
+                            {
+                                UID0: "forestry.boolTrue",
+                                UID1: "forestry.boolTrue",
+                                Slot: 9b
+                            },
+                            {
+                                UID0: "forestry.flowersVanilla",
+                                UID1: "forestry.flowersVanilla",
+                                Slot: 10b
+                            },
+                            {
+                                UID0: "forestry.floweringSlowest",
+                                UID1: "forestry.floweringSlowest",
+                                Slot: 11b
+                            },
+                            {
+                                UID0: "forestry.territoryDefault",
+                                UID1: "forestry.territoryDefault",
+                                Slot: 12b
+                            },
+                            {
+                                UID0: "forestry.effectNone",
+                                UID1: "forestry.effectNone",
+                                Slot: 13b
+                            }
+                        ]
+                    },
+                    MaxH: 50
+                },
+                Slot: 1b
+            }
+        ]
+    },
+    CompleterNpc: "Laurence",
+    IgnoreDamage: 0b,
+    Type: 0,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    IgnoreNBT: 1b,
+    NextQuestId: -1,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                id: 5458s,
+                Damage: 1s,
+                Count: 1b,
+                Slot: 0b
+            }
+        ]
+    },
+    Title: "Beekeeper I",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Text: "See if you can find 5 steadfast bees and a valiant princess.",
+    NextQuestTitle: "",
+    CompleteText: "Great work! Granpa would have been proud!",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1425043717024L
+    },
+    QuestCommand: "",
+    LeaveItems: 0b,
+    RewardExp: 100,
+    ModRev: 16
+}

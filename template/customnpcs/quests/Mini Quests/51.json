@@ -1,0 +1,128 @@
+{
+    Items: {
+        NpcMiscInv: [
+            {
+                id: 5587s,
+                Damage: 0s,
+                Count: 1b,
+                tag: {
+                    InfiTool: {
+                        Unbreaking: 1,
+                        Extra: 14,
+                        MiningSpeed2: 650,
+                        ToolEXP: 0L,
+                        HarvestLevel: 4,
+                        ToolLevel: 1,
+                        Built: 1b,
+                        RenderHead: 14,
+                        Modifiers: 0,
+                        Handle: 14,
+                        RenderHandle: 14,
+                        Attack: 4,
+                        ModDurability: 0.0f,
+                        BonusDurability: 0,
+                        Broken: 0b,
+                        RenderAccessory: 14,
+                        Damage: 0,
+                        Head: 14,
+                        BaseDurability: 2137,
+                        RenderExtra: 14,
+                        Accessory: 14,
+                        HarvestLevel2: 4,
+                        Shoddy: 0.0f,
+                        MiningSpeed: 650,
+                        TotalDurability: 2137
+                    },
+                    display: {
+                        Name: "§fBronze Lumber Axe"
+                    }
+                },
+                Slot: 0b
+            },
+            {
+                id: 5587s,
+                Damage: 0s,
+                Count: 1b,
+                tag: {
+                    InfiTool: {
+                        Unbreaking: 0,
+                        Extra: 4,
+                        ToolEXP: 0L,
+                        MiningSpeed2: 500,
+                        ToolLevel: 1,
+                        HarvestLevel: 0,
+                        Built: 1b,
+                        Modifiers: 0,
+                        RenderHead: 4,
+                        Handle: 4,
+                        Attack: 4,
+                        RenderHandle: 4,
+                        ModDurability: 0.0f,
+                        BonusDurability: 0,
+                        Broken: 0b,
+                        RenderAccessory: 4,
+                        Damage: 0,
+                        Head: 4,
+                        BaseDurability: 495,
+                        RenderExtra: 4,
+                        Accessory: 4,
+                        HarvestLevel2: 0,
+                        Shoddy: -1.0f,
+                        MiningSpeed: 500,
+                        TotalDurability: 495
+                    },
+                    display: {
+                        Name: "§fCactus Lumber Axe"
+                    }
+                },
+                Slot: 1b
+            }
+        ]
+    },
+    CompleterNpc: "Frank",
+    IgnoreDamage: 0b,
+    Type: 0,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    IgnoreNBT: 0b,
+    NextQuestId: -1,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                id: 5458s,
+                Damage: 3s,
+                Count: 1b,
+                Slot: 0b
+            }
+        ]
+    },
+    Title: "Lumberjack V",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Text: "Time to go back to the lumberjack with the good news.",
+    NextQuestTitle: "",
+    CompleteText: "Wow, thank you for your help.  I can get back on schedule and then some with this.",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1422712561734L
+    },
+    QuestCommand: "",
+    LeaveItems: 0b,
+    RewardExp: 100,
+    ModRev: 15
+}

@@ -1,0 +1,45 @@
+{
+    CompleterNpc: "Chald",
+    Type: 1,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    NextQuestId: -1,
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    Title: "Draconis III",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Text: "Reder, I wonder what part all this plays with what has been happening to draconis.I think I will go speak to the commander again and see if he has learned anything new.",
+    NextQuestTitle: "",
+    QuestDialogs: [
+        {
+            Slot: 0,
+            Integer: 21
+        }
+    ],
+    CompleteText: "@p!  Happy you stopped by, I have something I need your help on.",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1426592961142L
+    },
+    QuestCommand: "",
+    RewardExp: 10,
+    ModRev: 16
+}

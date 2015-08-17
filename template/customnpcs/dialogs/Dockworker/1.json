@@ -1,0 +1,94 @@
+{
+    AvailabilityQuest4: 0,
+    DecreaseFaction1Points: 0b,
+    AvailabilityQuest3: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityMinPlayerLevel: 0,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2: 0,
+    AvailabilityQuest2Id: -1,
+    AvailabilityQuestId: -1,
+    DialogQuest: -1,
+    DialogText: "Aye, that I can do.  Being on the docks puts me in a right fine position to see all the goings on in this fine town!What might I help ye to do?",
+    AvailabilityQuest: 0,
+    AvailabilityFactionStance: 0,
+    DialogDisableEsc: 0b,
+    AvailabilityDayTime: 0,
+    AvailabilityFaction2: 0,
+    ModRev: 16,
+    AvailabilityDialog: 0,
+    DialogShowWheel: 0b,
+    DecreaseFaction2Points: 0b,
+    AvailabilityDialog2: 0,
+    AvailabilityFaction2Stance: 0,
+    Options: [
+        {
+            OptionSlot: 0,
+            Option: {
+                DialogColor: 2420595,
+                DialogCommand: "",
+                Dialog: 2,
+                OptionType: 1,
+                Title: "I seem to have lost my way!"
+            }
+        },
+        {
+            OptionSlot: 1,
+            Option: {
+                DialogColor: 9695241,
+                DialogCommand: "",
+                Dialog: 183,
+                OptionType: 1,
+                Title: "Did I miss anything new with the King?"
+            }
+        },
+        {
+            OptionSlot: 2,
+            Option: {
+                DialogColor: 1545813,
+                DialogCommand: "",
+                Dialog: 3,
+                OptionType: 1,
+                Title: "Are the bosses supposed to be my friends?"
+            }
+        },
+        {
+            OptionSlot: 5,
+            Option: {
+                DialogColor: 16711680,
+                DialogCommand: "",
+                Dialog: -1,
+                OptionType: 0,
+                Title: "I don't think I need help after all."
+            }
+        }
+    ],
+    OptionFaction2Points: 100,
+    AvailabilityQuest4Id: -1,
+    DialogHideNPC: 0b,
+    AvailabilityFaction: 0,
+    AvailabilityDialog2Id: -1,
+    DialogCommand: "",
+    AvailabilityDialog4: 0,
+    AvailabilityDialog3: 0,
+    DialogMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1425771336061L
+    },
+    OptionFactions1: -1,
+    AvailabilityDialogId: -1,
+    OptionFactions2: -1,
+    AvailabilityFaction2Id: -1,
+    OptionFaction1Points: 100,
+    DialogTitle: "Helper II",
+    AvailabilityDialog3Id: -1,
+    AvailabilityDialog4Id: -1
+}

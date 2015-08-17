@@ -1,0 +1,82 @@
+{
+    Items: {
+        NpcMiscInv: [
+            {
+                id: 397s,
+                Damage: 2s,
+                Count: 3b,
+                Slot: 0b
+            },
+            {
+                id: 397s,
+                Damage: 0s,
+                Count: 3b,
+                Slot: 1b
+            },
+            {
+                id: 6409s,
+                Damage: 0s,
+                Count: 3b,
+                Slot: 2b
+            }
+        ]
+    },
+    CompleterNpc: "Lawrence",
+    IgnoreDamage: 0b,
+    Type: 0,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    IgnoreNBT: 0b,
+    NextQuestId: -1,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                id: 5572s,
+                Damage: 8s,
+                Count: 1b,
+                Slot: 0b
+            },
+            {
+                id: 5316s,
+                Damage: 0s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Dragon Token"
+                    }
+                },
+                Slot: 1b
+            }
+        ]
+    },
+    Title: "Guard I",
+    QuestRepeat: 4,
+    QuestCompletion: 0,
+    Text: "So the guards want my help?  Alright, I’ll bring them those mob heads like they asked. I can only imagine what they want them for.",
+    NextQuestTitle: "",
+    CompleteText: "Excellent!  I know just what I will do with these.",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1422712549998L
+    },
+    QuestCommand: "",
+    LeaveItems: 0b,
+    RewardExp: 50,
+    ModRev: 15
+}

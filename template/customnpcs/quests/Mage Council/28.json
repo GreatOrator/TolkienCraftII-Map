@@ -1,0 +1,57 @@
+{
+    Items: {
+        NpcMiscInv: [
+            {
+                id: 339s,
+                Damage: 0s,
+                Count: 1b,
+                tag: {
+                    display: {
+                        Name: "Council Summons"
+                    }
+                },
+                Slot: 0b
+            }
+        ]
+    },
+    CompleterNpc: "Malus",
+    IgnoreDamage: 0b,
+    Type: 0,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    IgnoreNBT: 0b,
+    NextQuestId: -1,
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    Title: "Council Summons",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Text: "You need to take the summons to the mage council at the top of the tower.  This sounds bad....real bad.",
+    NextQuestTitle: "",
+    CompleteText: "We're glad to get a response and to know the Commander was not simply ignoring us.Let me tell you about what is happening.",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1426584281430L
+    },
+    QuestCommand: "",
+    LeaveItems: 0b,
+    RewardExp: 20,
+    ModRev: 16
+}

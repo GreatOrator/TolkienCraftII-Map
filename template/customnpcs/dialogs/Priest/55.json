@@ -1,0 +1,74 @@
+{
+    AvailabilityQuest4: 0,
+    DecreaseFaction1Points: 0b,
+    AvailabilityQuest3: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityMinPlayerLevel: 0,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2: 0,
+    AvailabilityQuest2Id: -1,
+    AvailabilityQuestId: -1,
+    DialogQuest: -1,
+    DialogText: "This story begins a long time ago with our previous King and Queen.  Our kingdom was happy and prosperous as it is now and the king and queen were very happy with two wonderful children.  Years passed and one morning the alarm bells rang.  The queen was found dead in her chambers!  They ruled it a suicide as there was no evidence, they say, other than a handwritten note, supposedly by the queen, exclaiming that she was unhappy and could not go on.",
+    AvailabilityQuest: 0,
+    AvailabilityFactionStance: 0,
+    DialogDisableEsc: 0b,
+    AvailabilityDayTime: 0,
+    AvailabilityFaction2: 0,
+    ModRev: 15,
+    AvailabilityDialog: 0,
+    DialogShowWheel: 0b,
+    DecreaseFaction2Points: 0b,
+    AvailabilityDialog2: 0,
+    AvailabilityFaction2Stance: 0,
+    Options: [
+        {
+            OptionSlot: 0,
+            Option: {
+                DialogColor: 14737632,
+                DialogCommand: "",
+                Dialog: 56,
+                OptionType: 1,
+                Title: "Wow, please continue."
+            }
+        },
+        {
+            OptionSlot: 5,
+            Option: {
+                DialogColor: 16711680,
+                DialogCommand: "",
+                Dialog: -1,
+                OptionType: 1,
+                Title: "Bleh, this is boring."
+            }
+        }
+    ],
+    OptionFaction2Points: 100,
+    AvailabilityQuest4Id: -1,
+    DialogHideNPC: 0b,
+    AvailabilityFaction: 0,
+    AvailabilityDialog2Id: -1,
+    DialogCommand: "",
+    AvailabilityDialog4: 0,
+    AvailabilityDialog3: 0,
+    DialogMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1422712800796L
+    },
+    OptionFactions1: -1,
+    AvailabilityDialogId: -1,
+    OptionFactions2: -1,
+    AvailabilityFaction2Id: -1,
+    OptionFaction1Points: 100,
+    DialogTitle: "Story Part I",
+    AvailabilityDialog3Id: -1,
+    AvailabilityDialog4Id: -1
+}

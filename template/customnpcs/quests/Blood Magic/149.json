@@ -1,0 +1,55 @@
+{
+    CompleterNpc: "Wynn",
+    NextQuestId: 150,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Defeat Orsino",
+    Text: "Defeat the demon possessed First Sanguimancer and return to Wynn.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 500,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Value: 1,
+            Slot: "Orsino"
+        },
+        {
+            Value: 1,
+            Slot: "Demon"
+        }
+    ],
+    ModRev: 16,
+    Type: 2,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1439412789369L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4896s,
+                Count: 1b,
+                Damage: 27s
+            }
+        ]
+    },
+    CompleteText: "The invasion has already began? Call forth your allies! Time to stop the invasion!",
+    NextQuestTitle: "Demon Invasion"
+}

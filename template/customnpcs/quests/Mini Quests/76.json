@@ -1,0 +1,58 @@
+{
+    Items: {
+        NpcMiscInv: [
+            {
+                id: 6127s,
+                Damage: 0s,
+                Count: 1b,
+                Slot: 0b
+            }
+        ]
+    },
+    CompleterNpc: "Hikarr",
+    IgnoreDamage: 1b,
+    Type: 0,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    IgnoreNBT: 0b,
+    NextQuestId: -1,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                id: 1595s,
+                Damage: 0s,
+                Count: 2b,
+                Slot: 0b
+            }
+        ]
+    },
+    Title: "Kittana I",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Text: "Well, who am I to stand between true love.  I guess I’ll go make a chocolate cake with sprinkles and take it back to Hikarr.",
+    NextQuestTitle: "",
+    CompleteText: "Wow, really?  She really made the effort to get me that?  I knew I loved her for good reason!  *Whispers* I know you did the work, but she’s still very awesome.  I know you put effort into this, please take this as a token of appreciation.",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1422712555092L
+    },
+    QuestCommand: "",
+    LeaveItems: 0b,
+    RewardExp: 50,
+    ModRev: 15
+}

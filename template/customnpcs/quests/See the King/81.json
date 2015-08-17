@@ -1,0 +1,57 @@
+{
+    CompleterNpc: "Elmn",
+    Type: 1,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    NextQuestId: -1,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                id: 339s,
+                Damage: 0s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Death of the Troll"
+                    }
+                },
+                Slot: 0b
+            }
+        ]
+    },
+    Title: "Helpful Dockworker",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Text: "Speak to the Dockworker again so that you can continue.",
+    NextQuestTitle: "",
+    QuestDialogs: [
+        {
+            Slot: 0,
+            Integer: 99
+        }
+    ],
+    CompleteText: "Well, that's out of the way, let's see what the king has new for us!I'll take this to him.",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1425823000917L
+    },
+    QuestCommand: "",
+    RewardExp: 25,
+    ModRev: 16
+}

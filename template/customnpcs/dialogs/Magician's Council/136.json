@@ -1,0 +1,64 @@
+{
+    AvailabilityQuest4: 0,
+    DecreaseFaction1Points: 0b,
+    AvailabilityQuest3: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityMinPlayerLevel: 0,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2: 0,
+    AvailabilityQuest2Id: -1,
+    AvailabilityQuestId: -1,
+    DialogQuest: 32,
+    DialogText: "Yes, you’re right, I did LET you beat me.  You think I would have been around for centuries only to be beaten by the likes of you?  Oh, your’s and this town’s downfall will be all the more sweet knowing you guys are so gullible!  Knowing this, I will tell you a secret, one you will have no power to stop!  My “Master” is none other than the Mouth of Sauron, and he is the forbearer of the destruction to come to this world.  Only those who have shown worth will be allowed to live!  Go, run to middle-earth, I dare you to try, nothing you can do will stop their progress!",
+    AvailabilityQuest: 0,
+    AvailabilityFactionStance: 0,
+    DialogDisableEsc: 0b,
+    AvailabilityDayTime: 0,
+    AvailabilityFaction2: 0,
+    ModRev: 16,
+    AvailabilityDialog: 0,
+    DialogShowWheel: 0b,
+    DecreaseFaction2Points: 0b,
+    AvailabilityDialog2: 0,
+    AvailabilityFaction2Stance: 0,
+    Options: [
+        {
+            OptionSlot: 0,
+            Option: {
+                DialogColor: 16711935,
+                DialogCommand: "",
+                Dialog: -1,
+                OptionType: 0,
+                Title: "We shall see about that!  There is more to me than you realize you pompous blow-hard!"
+            }
+        }
+    ],
+    OptionFaction2Points: 100,
+    AvailabilityQuest4Id: -1,
+    DialogHideNPC: 0b,
+    AvailabilityFaction: 0,
+    AvailabilityDialog2Id: -1,
+    DialogCommand: "",
+    AvailabilityDialog4: 0,
+    AvailabilityDialog3: 0,
+    DialogMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1425656510506L
+    },
+    OptionFactions1: -1,
+    AvailabilityDialogId: -1,
+    OptionFactions2: -1,
+    AvailabilityFaction2Id: -1,
+    OptionFaction1Points: 100,
+    DialogTitle: "Reder II",
+    AvailabilityDialog3Id: -1,
+    AvailabilityDialog4Id: -1
+}

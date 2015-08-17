@@ -1,0 +1,64 @@
+{
+    AvailabilityQuest4: 0,
+    DecreaseFaction1Points: 0b,
+    AvailabilityQuest3: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityMinPlayerLevel: 0,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2: 0,
+    AvailabilityQuest2Id: -1,
+    AvailabilityQuestId: -1,
+    DialogQuest: -1,
+    DialogText: "Seems the elf and dwarf over there just recently came back from an adventure in Middle-earth with a friend of theirs.  At one point in the journey they had to enter some cave and their friend and the elf just lept right in while the dwarf hesitated!  Can you believe that? One of my own kin afraid to go into a cave while an elf did?  I dare not tell my folk at home for fear of the ridicule!",
+    AvailabilityQuest: 0,
+    AvailabilityFactionStance: 0,
+    DialogDisableEsc: 0b,
+    AvailabilityDayTime: 0,
+    AvailabilityFaction2: 0,
+    ModRev: 15,
+    AvailabilityDialog: 0,
+    DialogShowWheel: 0b,
+    DecreaseFaction2Points: 0b,
+    AvailabilityDialog2: 0,
+    AvailabilityFaction2Stance: 0,
+    Options: [
+        {
+            OptionSlot: 2,
+            Option: {
+                DialogColor: 16711680,
+                DialogCommand: "",
+                Dialog: 30,
+                OptionType: 1,
+                Title: "Not sure what to say about that...."
+            }
+        }
+    ],
+    OptionFaction2Points: 100,
+    AvailabilityQuest4Id: -1,
+    DialogHideNPC: 0b,
+    AvailabilityFaction: 0,
+    AvailabilityDialog2Id: -1,
+    DialogCommand: "",
+    AvailabilityDialog4: 0,
+    AvailabilityDialog3: 0,
+    DialogMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1422712627992L
+    },
+    OptionFactions1: -1,
+    AvailabilityDialogId: -1,
+    OptionFactions2: -1,
+    AvailabilityFaction2Id: -1,
+    OptionFaction1Points: 100,
+    DialogTitle: "The elf, the dwarf and tha wardrobe.",
+    AvailabilityDialog3Id: -1,
+    AvailabilityDialog4Id: -1
+}

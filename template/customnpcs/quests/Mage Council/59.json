@@ -1,0 +1,61 @@
+{
+    CompleterNpc: "Pegato",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Botania II",
+    Text: "Craft each of those flowers into their required petals and bring a bucket of water and seeds to the Petal Apothecary. Fill it with water, drop in these petals, in these quantities.  2 Mystical Yellow Petals, 1 Mystical Orange Petal and 1 Mystical Light Blue Petal.  while they’re spinning around drop in a handful of seeds.  This will produce a Daybloom flower -- We need about 4 of those.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 50,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1439253309215L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 2s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 996s,
+                Count: 4b,
+                tag: {
+                    type: "daybloom"
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Excellent -- you show some aptitude for these arts. There are many who make fun of us for playing with flowers -- but do not doubt there is power there as much as in the steel they forge below.",
+    NextQuestTitle: ""
+}

@@ -1,0 +1,66 @@
+{
+    AvailabilityQuest4: 0,
+    DecreaseFaction1Points: 0b,
+    AvailabilityQuest3: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityMinPlayerLevel: 0,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2: 0,
+    AvailabilityQuest2Id: -1,
+    AvailabilityQuestId: -1,
+    DialogQuest: -1,
+    DialogText: "On one side, the angelic Valar, the Elves and their allies among Men; on the other, the demonic Melkor or Morgoth (a Vala fallen into evil) and his minions, mostly Orcs, Dragons and enslaved Men. In later ages, after Morgoth's defeat and expulsion from Arda, his place was taken by his lieutenant Sauron.
+
+The Valar withdrew from direct involvement in the affairs of Middle-earth after the defeat of Morgoth, but in later years they sent the wizards or Istari to help in the struggle against Sauron. The most important wizards were Gandalf the Grey and Saruman the White. Gandalf remained true to his mission and proved crucial in the fight against Sauron. Saruman, however, became corrupted and sought to establish himself as a rival to Sauron for absolute power in Middle-earth. Other races involved in the struggle against evil were Dwarves, Ents and Hobbits.It was for this reason we were told to close off and protect this portal!",
+    AvailabilityQuest: 0,
+    AvailabilityFactionStance: 0,
+    DialogDisableEsc: 0b,
+    AvailabilityDayTime: 0,
+    AvailabilityFaction2: 0,
+    ModRev: 15,
+    AvailabilityDialog: 0,
+    DialogShowWheel: 0b,
+    DecreaseFaction2Points: 0b,
+    AvailabilityDialog2: 0,
+    AvailabilityFaction2Stance: 0,
+    Options: [
+        {
+            OptionSlot: 5,
+            Option: {
+                DialogColor: 16711935,
+                DialogCommand: "",
+                Dialog: -1,
+                OptionType: 0,
+                Title: "That explains much, but recent events dictate I MUST go there."
+            }
+        }
+    ],
+    OptionFaction2Points: 100,
+    AvailabilityQuest4Id: -1,
+    DialogHideNPC: 0b,
+    AvailabilityFaction: 0,
+    AvailabilityDialog2Id: -1,
+    DialogCommand: "",
+    AvailabilityDialog4: 0,
+    AvailabilityDialog3: 0,
+    DialogMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1422712786490L
+    },
+    OptionFactions1: -1,
+    AvailabilityDialogId: -1,
+    OptionFactions2: -1,
+    AvailabilityFaction2Id: -1,
+    OptionFaction1Points: 100,
+    DialogTitle: "Tales of Middle-Earth",
+    AvailabilityDialog3Id: -1,
+    AvailabilityDialog4Id: -1
+}

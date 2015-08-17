@@ -1,0 +1,76 @@
+{
+    Items: {
+        NpcMiscInv: [
+            {
+                id: 17s,
+                Damage: 0s,
+                Count: 64b,
+                Slot: 0b
+            },
+            {
+                id: 265s,
+                Damage: 0s,
+                Count: 64b,
+                Slot: 1b
+            },
+            {
+                id: 264s,
+                Damage: 0s,
+                Count: 10b,
+                Slot: 2b
+            }
+        ]
+    },
+    CompleterNpc: "Rothcersul",
+    IgnoreDamage: 0b,
+    Type: 0,
+    RandomReward: 0b,
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction2Points: 100,
+        OptionFaction1Points: 100
+    },
+    IgnoreNBT: 0b,
+    NextQuestId: -1,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                id: 4185s,
+                Damage: 0s,
+                Count: 16b,
+                Slot: 0b
+            },
+            {
+                id: 5458s,
+                Damage: 1s,
+                Count: 1b,
+                Slot: 1b
+            }
+        ]
+    },
+    Title: "Blacksmith and Resources",
+    QuestRepeat: 4,
+    QuestCompletion: 0,
+    Text: "Apparently the blacksmith doesn't have a regular supplier of base resources.  Well, whatever, it means profit for me.  I just need to bring him oak, iron and a handful of diamond.",
+    NextQuestTitle: "",
+    CompleteText: "Excellent work!  I hope gathering these for me wasn't too hard.",
+    QuestMail: {
+        Sender: "",
+        Time: 0L,
+        Message: {
+        },
+        Subject: "",
+        MailItems: [
+        ],
+        BeenRead: 0b,
+        MailQuest: -1,
+        TimePast: 1422712502906L
+    },
+    QuestCommand: "",
+    LeaveItems: 0b,
+    RewardExp: 200,
+    ModRev: 15
+}
