@@ -32,7 +32,7 @@
     OptionFaction1Points: 100,
     DialogDisableEsc: 0b,
     AvailabilityFaction: 0,
-    DialogTitle: "Family recipe 3",
+    DialogTitle: "Family recipe 2",
     AvailabilityDialog: 0,
     AvailabilityFaction2: 0,
     AvailabilityFactionId: -1,
@@ -40,7 +40,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "My sister sent a family recipe by wagon a week ago. I just heard about a wagon being attacked by goblins. Could you go check it out and see if my recipe is still on it?",
+    DialogText: "My sister sent a family recipe by wagon a week ago. It should be here by now. Could you search for the wagon?",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1439650956619L,
+        TimePast: 1440875658868L,
         Time: 0L,
         Subject: ""
     }

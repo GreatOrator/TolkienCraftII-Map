@@ -6,7 +6,7 @@
     QuestLocation2: "",
     QuestRepeat: 0,
     QuestCompletion: 1,
-    Title: "Family Recipe",
+    Title: "Abandoned Wagon",
     Text: "",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1439652515034L,
+        TimePast: 1440874514790L,
         Time: 0L,
         Subject: ""
     },
@@ -36,7 +36,7 @@
         NpcMiscInv: [
         ]
     },
-    CompleteText: "",
-    NextQuestTitle: "Goblin Clean-up",
+    CompleteText: "The wagon seems abandoned. I wonder where the driver went?",
+    NextQuestTitle: "Search Wagon",
     QuestLocation: "Attacked Caravan"
 }

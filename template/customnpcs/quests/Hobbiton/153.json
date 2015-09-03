@@ -1,11 +1,11 @@
 {
-    CompleterNpc: "goblin",
+    CompleterNpc: "crate",
     NextQuestId: 154,
     RandomReward: 0b,
     QuestRepeat: 0,
-    QuestCompletion: 1,
-    Title: "Goblin Clean-up",
-    Text: "You will need to take care of the goblins before searching for the recipe.",
+    QuestCompletion: 0,
+    Title: "Search Wagon",
+    Text: "Search the wagon for the missing recipe.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -14,16 +14,12 @@
         OptionFaction1Points: 100,
         DecreaseFaction2Points: 0b
     },
-    RewardExp: 0,
+    RewardExp: 25,
     QuestCommand: "",
     QuestDialogs: [
-        {
-            Value: 3,
-            Slot: "goblin"
-        }
     ],
     ModRev: 16,
-    Type: 2,
+    Type: 1,
     QuestMail: {
         Sender: "",
         BeenRead: 0b,
@@ -32,14 +28,25 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1439652509888L,
+        TimePast: 1440874501435L,
         Time: 0L,
         Subject: ""
     },
     Rewards: {
         NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5317s,
+                Count: 1b,
+                tag: {
+                    display: {
+                        Name: "Family Recipe"
+                    }
+                },
+                Damage: 0s
+            }
         ]
     },
-    CompleteText: "One of the goblins had the recipe on him.",
+    CompleteText: "You find the recipe buried under a bunch of random items. You should return to the barkeep at the Green Dragon.",
     NextQuestTitle: "Return Recipe"
 }

@@ -18,7 +18,37 @@
                 DialogCommand: "",
                 Dialog: 315,
                 Title: "Heard about any jobs lately?",
-                DialogColor: 16185078,
+                DialogColor: 130869,
+                OptionType: 1
+            }
+        },
+        {
+            OptionSlot: 2,
+            Option: {
+                DialogCommand: "",
+                Dialog: 318,
+                Title: "Is there anyone else in need of help?",
+                DialogColor: 1700441,
+                OptionType: 1
+            }
+        },
+        {
+            OptionSlot: 3,
+            Option: {
+                DialogCommand: "",
+                Dialog: -1,
+                Title: "Still looking for work!",
+                DialogColor: 130869,
+                OptionType: 1
+            }
+        },
+        {
+            OptionSlot: 4,
+            Option: {
+                DialogCommand: "",
+                Dialog: 323,
+                Title: "Anything else?",
+                DialogColor: 14737632,
                 OptionType: 1
             }
         }
@@ -42,7 +72,7 @@
     OptionFaction1Points: 100,
     DialogDisableEsc: 0b,
     AvailabilityFaction: 0,
-    DialogTitle: "Family recipe 1",
+    DialogTitle: "Barkeep",
     AvailabilityDialog: 0,
     AvailabilityFaction2: 0,
     AvailabilityFactionId: -1,
@@ -67,7 +97,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1439652524072L,
+        TimePast: 1440883458124L,
         Time: 0L,
         Subject: ""
     }

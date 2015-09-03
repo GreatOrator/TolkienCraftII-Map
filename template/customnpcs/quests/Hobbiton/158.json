@@ -1,0 +1,58 @@
+{
+    CompleterNpc: "Holly Goodbody",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Too Many Orders",
+    Text: "Holly Goodbody needs you to help her make pies while she is out delivering. Make 5 strawberry pies then return to her.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1440884923072L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4185s,
+                Count: 2b,
+                Damage: 1s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5964s,
+                Count: 5b,
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 1b,
+    CompleteText: "These pies look great! Thank you! Could you do me another favor?",
+    NextQuestTitle: ""
+}

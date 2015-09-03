@@ -27,7 +27,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1439653200088L,
+        TimePast: 1440874508635L,
         Time: 0L,
         Subject: ""
     },
@@ -64,6 +64,6 @@
         ]
     },
     LeaveItems: 0b,
-    CompleteText: "The goblins were still around? What did they want with my recipe I wonder? Ah well, here is your reward.",
+    CompleteText: "The wagon was abandoned? That is strange....ah well, here is your reward.",
     NextQuestTitle: ""
 }

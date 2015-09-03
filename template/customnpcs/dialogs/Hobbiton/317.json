@@ -22,7 +22,7 @@
     OptionFaction1Points: 100,
     DialogDisableEsc: 0b,
     AvailabilityFaction: 0,
-    DialogTitle: "Family recipe 4",
+    DialogTitle: "Family recipe 3",
     AvailabilityDialog: 0,
     AvailabilityFaction2: 0,
     AvailabilityFactionId: -1,
@@ -30,7 +30,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "Super! I believe the wagon was travelling the road ",
+    DialogText: "Super! I believe the wagon was travelling the road west of here into town.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
@@ -47,7 +47,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1439652534547L,
+        TimePast: 1440875660470L,
         Time: 0L,
         Subject: ""
     }

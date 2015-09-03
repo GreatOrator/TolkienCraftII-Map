@@ -1,6 +1,6 @@
 {
     DialogShowWheel: 0b,
-    AvailabilityQuestId: -1,
+    AvailabilityQuestId: 153,
     Options: [
         {
             OptionSlot: 0,
@@ -15,7 +15,7 @@
     ],
     DialogHideNPC: 0b,
     AvailabilityFactionStance: 0,
-    AvailabilityQuest: 0,
+    AvailabilityQuest: 2,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
     AvailabilityQuest2: 0,
@@ -32,7 +32,7 @@
     OptionFaction1Points: 100,
     DialogDisableEsc: 0b,
     AvailabilityFaction: 0,
-    DialogTitle: "Family Recipe 2",
+    DialogTitle: "Family Recipe 1",
     AvailabilityDialog: 0,
     AvailabilityFaction2: 0,
     AvailabilityFactionId: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1439650804974L,
+        TimePast: 1440875702798L,
         Time: 0L,
         Subject: ""
     }
