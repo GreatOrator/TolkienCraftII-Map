@@ -1,21 +1,46 @@
 {
     CompleterNpc: "Chald",
-    Type: 4,
+    NextQuestId: -1,
     RandomReward: 0b,
+    QuestRepeat: 4,
+    QuestCompletion: 0,
+    Title: "We like the mobs that go boom",
+    Text: "",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
-        DecreaseFaction2Points: 0b,
+        OptionFaction2Points: 100,
         OptionFactions1: -1,
         OptionFactions2: -1,
-        OptionFaction2Points: 100,
-        OptionFaction1Points: 100
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
     },
-    NextQuestId: -1,
+    RewardExp: 50,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Value: 25,
+            Slot: "Creeper"
+        }
+    ],
+    ModRev: 16,
+    Type: 4,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1441758724041L,
+        Time: 0L,
+        Subject: ""
+    },
     Rewards: {
         NpcMiscInv: [
             {
+                Slot: 0b,
                 id: 5316s,
-                Damage: 0s,
                 Count: 1b,
                 tag: {
                     RepairCost: 2,
@@ -23,47 +48,22 @@
                         Name: "Dragon Token"
                     }
                 },
-                Slot: 0b
+                Damage: 0s
             },
             {
+                Slot: 1b,
                 id: 4185s,
-                Damage: 0s,
                 Count: 5b,
-                Slot: 1b
+                Damage: 0s
             },
             {
+                Slot: 2b,
                 id: 264s,
-                Damage: 0s,
                 Count: 4b,
-                Slot: 2b
+                Damage: 0s
             }
         ]
     },
-    Title: "We like the mobs that go boom",
-    QuestRepeat: 4,
-    QuestCompletion: 0,
-    Text: "",
-    NextQuestTitle: "",
-    QuestDialogs: [
-        {
-            Value: 25,
-            Slot: "Creeper"
-        }
-    ],
     CompleteText: "Hopefully this will delay the need for repairs by removing some of these infestations.  Come back tomorrow if you want to help more.",
-    QuestMail: {
-        Sender: "",
-        Time: 0L,
-        Message: {
-        },
-        Subject: "",
-        MailItems: [
-        ],
-        BeenRead: 0b,
-        MailQuest: -1,
-        TimePast: 1425624408755L
-    },
-    QuestCommand: "",
-    RewardExp: 50,
-    ModRev: 16
+    NextQuestTitle: ""
 }

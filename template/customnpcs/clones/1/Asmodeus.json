@@ -3,7 +3,7 @@
     NpcInv: [
     ],
     PotionEffect: 0,
-    Size: 5,
+    Size: 3,
     stopAndInteract: 0b,
     Resistances: {
         Arrow: 1.0f,
@@ -24,7 +24,7 @@
     AttackStrenght: 5,
     PersistenceRequired: 0b,
     id: "CustomNpc",
-    HealF: 50.0f,
+    HealF: 100.0f,
     MovingPatern: 0,
     NpcLines: {
         Lines: [
@@ -87,7 +87,7 @@
     ],
     Air: 300s,
     TacticalVariant: 0,
-    Orientation: 0,
+    Orientation: 90,
     ScriptLanguage: "ECMAScript",
     KnockBack: 0,
     TransformHasJob: 1b,
@@ -139,12 +139,12 @@
             }
         },
         SkinUrl: "",
-        Size: 5,
-        Title: "Baker",
+        Size: 3,
+        Title: "The Prince",
         BossBar: 0b,
-        Texture: "customnpcs:textures/entity/humanfemale/ChefStephanie.png",
+        Texture: "customnpcs:textures/entity/humanmale/KingSteve.png",
         ShowName: 0,
-        Name: "Arisotura",
+        Name: "Asmodeous",
         NoLivingAnimation: 0b,
         CloakTexture: "",
         GlowTexture: "",
@@ -153,66 +153,13 @@
     CustomName: "",
     CanDespawn: 0b,
     BurnInSun: 0b,
-    TraderSold: {
-        NpcMiscInv: [
-            {
-                Slot: 0b,
-                id: 4370s,
-                Count: 1b,
-                Damage: 0s
-            },
-            {
-                Slot: 1b,
-                id: 6015s,
-                Count: 1b,
-                Damage: 0s
-            },
-            {
-                Slot: 3b,
-                id: 4260s,
-                Count: 1b,
-                Damage: 0s
-            },
-            {
-                Slot: 4b,
-                id: 6009s,
-                Count: 1b,
-                Damage: 0s
-            },
-            {
-                Slot: 6b,
-                id: 4124s,
-                Count: 1b,
-                Damage: 0s
-            },
-            {
-                Slot: 7b,
-                id: 5896s,
-                Count: 1b,
-                Damage: 0s
-            },
-            {
-                Slot: 9b,
-                id: 354s,
-                Count: 1b,
-                Damage: 0s
-            },
-            {
-                Slot: 10b,
-                id: 6005s,
-                Count: 1b,
-                Damage: 0s
-            }
-        ]
-    },
-    StandingState: 0,
+    StandingState: 3,
     AttackInvisible: 0b,
     HurtTime: 0s,
-    WalkingRange: 2,
+    WalkingRange: 5,
     CustomNameVisible: 0b,
     ShotCount: 1,
     pDur: 5,
-    TraderIgnoreDamage: 0b,
     TransformAdvanced: {
         NpcInteractLines: {
             Lines: [
@@ -226,7 +173,7 @@
         NpcHurtSound: "minecraft:game.player.hurt",
         NpcStepSound: "",
         NpcDeathSound: "minecraft:game.player.hurt",
-        FactionID: 6,
+        FactionID: 7,
         NpcKillLines: {
             Lines: [
             ]
@@ -250,16 +197,6 @@
         },
         NpcIdleSound: "",
         NPCDialogOptions: [
-            {
-                NPCDialog: {
-                    DialogCommand: "",
-                    Dialog: 44,
-                    Title: "Greetings",
-                    DialogColor: 14737632,
-                    OptionType: 2
-                },
-                DialogSlot: 0
-            }
         ],
         DisablePitch: 0b,
         NpcLines: {
@@ -276,7 +213,7 @@
     },
     PotionImmune: 0b,
     AvoidsSun: 0b,
-    Texture: "customnpcs:textures/entity/humanfemale/ChefStephanie.png",
+    Texture: "customnpcs:textures/entity/humanmale/KingSteve.png",
     NpcJob: 0,
     TransformAI: {
         ReturnToStart: 1b,
@@ -285,7 +222,7 @@
         MovingState: 0,
         MovingPos: 0,
         stopAndInteract: 0b,
-        OnAttack: 3,
+        OnAttack: 2,
         TacticalRadius: 8,
         AvoidsSun: 0b,
         ReactsToFire: 0b,
@@ -298,7 +235,7 @@
         RangeAndMelee: 0,
         MovingPatern: 0,
         FireIndirect: 0,
-        DoorInteract: 1,
+        DoorInteract: 2,
         MoveSpeed: 6,
         DistanceToMelee: 4,
         CanSwim: 1b,
@@ -308,8 +245,8 @@
         Orientation: 180,
         npcInteracting: 0b,
         AvoidsWater: 0b,
-        StandingState: 1,
-        WalkingRange: 2
+        StandingState: 3,
+        WalkingRange: 5
     },
     BurstCount: 1,
     NpcAttackLines: {
@@ -346,7 +283,7 @@
         pArea: 0,
         AggroRange: 16,
         pImpact: 0,
-        HealthRegen: 5,
+        HealthRegen: 1,
         AttackStrenght: 5,
         MaxFiringRange: 15,
         pXlr8: 0b,
@@ -359,7 +296,7 @@
         FireRate: 5,
         pEffAmp: 0,
         ImmuneToFire: 0b,
-        MaxHealth: 50,
+        MaxHealth: 100,
         HideBodyWhenKilled: 0b,
         AttackSpeed: 20,
         PotionDuration: 5,
@@ -382,7 +319,7 @@
         0.085f,
         0.085f
     ],
-    MoveState: 0,
+    MoveState: 1,
     RangeAndMelee: 0,
     pRender3D: 0b,
     magicLevel: 0s,
@@ -405,8 +342,7 @@
         Lines: [
         ]
     },
-    UUIDMost: -2655011130250803652L,
-    TraderMarket: "",
+    UUIDMost: -80772993770240015L,
     Fire: -1s,
     DisablePitch: 0b,
     pPhysics: 1b,
@@ -417,58 +353,6 @@
                 Line: "Good day @p! Hopefully you can help our kingdom.",
                 Song: "",
                 Slot: 0
-            }
-        ]
-    },
-    TraderCurrency: {
-        NpcMiscInv: [
-            {
-                Slot: 18b,
-                id: 4185s,
-                Count: 10b,
-                Damage: 0s
-            },
-            {
-                Slot: 19b,
-                id: 4185s,
-                Count: 2b,
-                Damage: 0s
-            },
-            {
-                Slot: 21b,
-                id: 4185s,
-                Count: 10b,
-                Damage: 0s
-            },
-            {
-                Slot: 22b,
-                id: 4185s,
-                Count: 2b,
-                Damage: 0s
-            },
-            {
-                Slot: 24b,
-                id: 4185s,
-                Count: 10b,
-                Damage: 0s
-            },
-            {
-                Slot: 25b,
-                id: 4185s,
-                Count: 2b,
-                Damage: 0s
-            },
-            {
-                Slot: 27b,
-                id: 4185s,
-                Count: 10b,
-                Damage: 0s
-            },
-            {
-                Slot: 28b,
-                id: 4185s,
-                Count: 2b,
-                Damage: 0s
             }
         ]
     },
@@ -499,7 +383,7 @@
             Name: "am2.manaRegenModifier"
         },
         {
-            Base: 50.0d,
+            Base: 100.0d,
             Name: "generic.maxHealth"
         },
         {
@@ -524,32 +408,22 @@
     NoFallDamage: 0b,
     AbsorptionAmount: 0.0f,
     TransformHasRole: 1b,
-    Name: "Arisotura",
+    Name: "Asmodeus",
     FallDistance: 0.0f,
     NpcIdleSound: "",
     Weapons: [
         {
             Slot: 0b,
-            id: 5697s,
+            id: 4527s,
             Count: 1b,
             Damage: 0s
         }
     ],
     NPCDialogOptions: [
-        {
-            NPCDialog: {
-                DialogCommand: "",
-                Dialog: 44,
-                Title: "Greetings",
-                DialogColor: 14737632,
-                OptionType: 2
-            },
-            DialogSlot: 0
-        }
     ],
     AggroRange: 16,
     DirectLOS: 1b,
-    HealthRegen: 5,
+    HealthRegen: 1,
     NpcModelData: {
         LegsConfig: {
             ScaleZ: 1.0f,
@@ -596,26 +470,25 @@
         }
     },
     minDelay: 20,
-    DoorInteract: 1,
+    DoorInteract: 2,
     MoveSpeed: 6,
     TransformEditingModus: 0b,
     UsingSkinUrl: 0b,
     Leashed: 0b,
     SkinUrl: "",
     CanSwim: 1b,
-    TraderIgnoreNBT: 0b,
     armorCooldowns: [0,0,0,0],
     TransformRole: {
         Role: 0,
         TransporterId: -1
     },
-    MaxHealth: 50,
+    MaxHealth: 100,
     HideBodyWhenKilled: 0b,
     AttackSpeed: 20,
     PotionDuration: 5,
     maxDelay: 40,
     ScriptEnabled: 0b,
-    Role: 1,
+    Role: 0,
     DropChance: [
         {
             Integer: 100,
@@ -675,13 +548,13 @@
     CanLeap: 0b,
     TransformIsActive: 0b,
     ForgeData: {
-        WITCInitialWidth: 0.6f,
-        WITCInitialHeight: 1.9f
+        WITCInitialWidth: 0.36f,
+        WITCInitialHeight: 1.14f
     },
-    MovingState: 1,
+    MovingState: 0,
     MovingPos: 0,
     PotionAmp: 0,
-    OnAttack: 3,
+    OnAttack: 2,
     TacticalRadius: 8,
     MaxExp: 0,
     PortalCooldown: 0,
@@ -693,22 +566,46 @@
     Accuracy: 60,
     MinExp: 0,
     Armor: [
+        {
+            Slot: 0b,
+            id: 6884s,
+            Count: 1b,
+            Damage: 0s
+        },
+        {
+            Slot: 1b,
+            id: 6883s,
+            Count: 1b,
+            Damage: 0s
+        },
+        {
+            Slot: 2b,
+            id: 6869s,
+            Count: 1b,
+            Damage: 0s
+        },
+        {
+            Slot: 3b,
+            id: 6872s,
+            Count: 1b,
+            Damage: 0s
+        }
     ],
     CloakTexture: "",
     GlowTexture: "",
     MaxFiringRange: 15,
     pXlr8: 0b,
-    UUIDLeast: -4787256790930666933L,
-    Health: 50s,
+    UUIDLeast: -7916231422583541062L,
+    Health: 100s,
     pExplode: 0b,
     pStick: 0b,
     MovingPause: 1b,
     NpcDeathSound: "minecraft:game.player.hurt",
-    FactionID: 6,
-    Title: "Baker",
-    TotalTicksAlive: 89577285L,
+    FactionID: 7,
+    Title: "The Prince",
+    TotalTicksAlive: 12687081L,
     Rotation: [
-        706.0553f,
+        -268.1301f,
         0.0f
     ],
     ShowName: 0,

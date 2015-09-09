@@ -1,21 +1,46 @@
 {
     CompleterNpc: "Lathwania",
-    Type: 1,
+    NextQuestId: 22,
     RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Save the Queen",
+    Text: "The Queen has asked for your help in finding out who her killer was.  You don't know if you believe her or not, but maybe it is worth a try?Talk to her again to get started.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
-        DecreaseFaction2Points: 0b,
+        OptionFaction2Points: 100,
         OptionFactions1: -1,
         OptionFactions2: -1,
-        OptionFaction2Points: 100,
-        OptionFaction1Points: 100
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
     },
-    NextQuestId: 22,
+    RewardExp: 50,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Integer: 58,
+            Slot: 0
+        }
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1441664365257L,
+        Time: 0L,
+        Subject: ""
+    },
     Rewards: {
         NpcMiscInv: [
             {
+                Slot: 0b,
                 id: 339s,
-                Damage: 0s,
                 Count: 1b,
                 tag: {
                     RepairCost: 2,
@@ -23,11 +48,11 @@
                         Name: "Queen's Note"
                     }
                 },
-                Slot: 0b
+                Damage: 0s
             },
             {
+                Slot: 1b,
                 id: 6838s,
-                Damage: 1s,
                 Count: 1b,
                 tag: {
                     RepairCost: 2,
@@ -35,35 +60,10 @@
                         Name: "Skeleton Key"
                     }
                 },
-                Slot: 1b
+                Damage: 1s
             }
         ]
     },
-    Title: "Save the Queen",
-    QuestRepeat: 0,
-    QuestCompletion: 0,
-    Text: "The Queen has asked for your help in finding out who her killer was.  You don't know if you believe her or not, but maybe it is worth a try?Talk to her again to get started.",
-    NextQuestTitle: "The Proof",
-    QuestDialogs: [
-        {
-            Slot: 0,
-            Integer: 58
-        }
-    ],
     CompleteText: "Thank you so much for agreeing to find the truth.  I know many do not believe me, but at least I could spend the rest of eternity at peace knowing at least one person believes me and knows the truth.",
-    QuestMail: {
-        Sender: "",
-        Time: 0L,
-        Message: {
-        },
-        Subject: "",
-        MailItems: [
-        ],
-        BeenRead: 0b,
-        MailQuest: -1,
-        TimePast: 1425772047901L
-    },
-    QuestCommand: "",
-    RewardExp: 50,
-    ModRev: 16
+    NextQuestTitle: "The Proof"
 }
