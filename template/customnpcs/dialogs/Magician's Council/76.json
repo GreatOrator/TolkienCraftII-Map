@@ -1,74 +1,74 @@
 {
-    AvailabilityQuest4: 0,
-    DecreaseFaction1Points: 0b,
-    AvailabilityQuest3: 0,
-    AvailabilityFactionId: -1,
-    AvailabilityMinPlayerLevel: 0,
-    AvailabilityQuest3Id: -1,
-    AvailabilityQuest2: 0,
-    AvailabilityQuest2Id: -1,
-    AvailabilityQuestId: -1,
-    DialogQuest: -1,
-    DialogText: "Quite the contrary. The Dark Mage Reder was our final clue.We have analyzed his energies and if it had not been for your distraction he would never had let down his shield that allowed us in.While there is still much hidden, we can tell you he was in fact being controlled, though he was not aware, by a much stronger force.",
-    AvailabilityQuest: 0,
-    AvailabilityFactionStance: 0,
-    DialogDisableEsc: 0b,
-    AvailabilityDayTime: 0,
-    AvailabilityFaction2: 0,
-    ModRev: 16,
-    AvailabilityDialog: 0,
     DialogShowWheel: 0b,
-    DecreaseFaction2Points: 0b,
-    AvailabilityDialog2: 0,
-    AvailabilityFaction2Stance: 0,
+    AvailabilityQuestId: -1,
     Options: [
         {
             OptionSlot: 0,
             Option: {
-                DialogColor: 14737632,
                 DialogCommand: "",
                 Dialog: 77,
-                OptionType: 1,
-                Title: "Really?"
+                Title: "Really?",
+                DialogColor: 14737632,
+                OptionType: 1
             }
         },
         {
             OptionSlot: 5,
             Option: {
-                DialogColor: 16711680,
                 DialogCommand: "",
                 Dialog: 75,
-                OptionType: 1,
-                Title: "Right, so I was being used."
+                Title: "Right, so I was being used.",
+                DialogColor: 16711680,
+                OptionType: 1
             }
         }
     ],
-    OptionFaction2Points: 100,
-    AvailabilityQuest4Id: -1,
     DialogHideNPC: 0b,
-    AvailabilityFaction: 0,
-    AvailabilityDialog2Id: -1,
-    DialogCommand: "",
+    AvailabilityFactionStance: 0,
+    AvailabilityQuest: 0,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    DialogMail: {
-        Sender: "",
-        Time: 0L,
-        Message: {
-        },
-        Subject: "",
-        MailItems: [
-        ],
-        BeenRead: 0b,
-        MailQuest: -1,
-        TimePast: 1425771158450L
-    },
+    AvailabilityQuest2: 0,
+    AvailabilityQuest3: 0,
+    AvailabilityQuest4: 0,
+    ModRev: 16,
+    DecreaseFaction1Points: 0b,
+    DialogQuest: -1,
+    AvailabilityDialog2: 0,
     OptionFactions1: -1,
-    AvailabilityDialogId: -1,
+    AvailabilityDayTime: 0,
     OptionFactions2: -1,
     AvailabilityFaction2Id: -1,
     OptionFaction1Points: 100,
+    DialogDisableEsc: 0b,
+    AvailabilityFaction: 0,
     DialogTitle: "Magician II",
+    AvailabilityDialog: 0,
+    AvailabilityFaction2: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityFaction2Stance: 0,
+    DialogCommand: "",
+    AvailabilityDialogId: -1,
+    OptionFaction2Points: 100,
+    DialogText: "Quite the contrary. The Dark Mage Reder was our final clue.We have analyzed his energies and if it had not been for your distraction he would never had let down his shield that allowed us in.While there is still much hidden, we can tell you he was in fact being controlled, though he was not aware, by a much stronger force.",
+    AvailabilityQuest4Id: -1,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2Id: -1,
+    AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
-    AvailabilityDialog4Id: -1
+    AvailabilityDialog4Id: -1,
+    AvailabilityMinPlayerLevel: 0,
+    DecreaseFaction2Points: 0b,
+    DialogMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1441927749020L,
+        Time: 0L,
+        Subject: ""
+    }
 }

@@ -1,94 +1,94 @@
 {
-    AvailabilityQuest4: 0,
-    DecreaseFaction1Points: 0b,
-    AvailabilityQuest3: 0,
-    AvailabilityFactionId: -1,
-    AvailabilityMinPlayerLevel: 0,
-    AvailabilityQuest3Id: -1,
-    AvailabilityQuest2: 0,
-    AvailabilityQuest2Id: -1,
-    AvailabilityQuestId: 2,
-    DialogQuest: -1,
-    DialogText: "@p I am very busy dealing with military matters.  There is always something to do with all these monster issues right now.",
-    AvailabilityQuest: 1,
-    AvailabilityFactionStance: 0,
-    DialogDisableEsc: 0b,
-    AvailabilityDayTime: 0,
-    AvailabilityFaction2: 0,
-    ModRev: 16,
-    AvailabilityDialog: 0,
     DialogShowWheel: 0b,
-    DecreaseFaction2Points: 0b,
-    AvailabilityDialog2: 0,
-    AvailabilityFaction2Stance: 0,
+    AvailabilityQuestId: 2,
     Options: [
         {
             OptionSlot: 0,
             Option: {
-                DialogColor: 14737632,
                 DialogCommand: "",
                 Dialog: 22,
-                OptionType: 1,
-                Title: "What kind of monsters?"
+                Title: "What kind of monsters?",
+                DialogColor: 14737632,
+                OptionType: 1
             }
         },
         {
             OptionSlot: 1,
             Option: {
-                DialogColor: 14737632,
                 DialogCommand: "",
                 Dialog: 68,
-                OptionType: 2,
-                Title: "Anything with a challenge?"
+                Title: "Anything with a challenge?",
+                DialogColor: 14737632,
+                OptionType: 2
             }
         },
         {
             OptionSlot: 2,
             Option: {
-                DialogColor: 16711680,
                 DialogCommand: "",
                 Dialog: -1,
-                OptionType: 0,
-                Title: "I've change my mind."
+                Title: "I've change my mind.",
+                DialogColor: 16711680,
+                OptionType: 0
             }
         },
         {
             OptionSlot: 3,
             Option: {
-                DialogColor: 14737632,
                 DialogCommand: "",
                 Dialog: -1,
-                OptionType: 2,
-                Title: "Talk"
+                Title: "Talk",
+                DialogColor: 14737632,
+                OptionType: 2
             }
         }
     ],
-    OptionFaction2Points: 100,
-    AvailabilityQuest4Id: -1,
     DialogHideNPC: 0b,
-    AvailabilityFaction: 0,
-    AvailabilityDialog2Id: -1,
-    DialogCommand: "",
+    AvailabilityFactionStance: 0,
+    AvailabilityQuest: 1,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    DialogMail: {
-        Sender: "",
-        Time: 0L,
-        Message: {
-        },
-        Subject: "",
-        MailItems: [
-        ],
-        BeenRead: 0b,
-        MailQuest: -1,
-        TimePast: 1426596683276L
-    },
+    AvailabilityQuest2: 0,
+    AvailabilityQuest3: 0,
+    AvailabilityQuest4: 0,
+    ModRev: 16,
+    DecreaseFaction1Points: 0b,
+    DialogQuest: -1,
+    AvailabilityDialog2: 0,
     OptionFactions1: -1,
-    AvailabilityDialogId: -1,
+    AvailabilityDayTime: 0,
     OptionFactions2: -1,
     AvailabilityFaction2Id: -1,
     OptionFaction1Points: 100,
+    DialogDisableEsc: 0b,
+    AvailabilityFaction: 0,
     DialogTitle: "Have any work I can do?",
+    AvailabilityDialog: 0,
+    AvailabilityFaction2: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityFaction2Stance: 0,
+    DialogCommand: "",
+    AvailabilityDialogId: -1,
+    OptionFaction2Points: 100,
+    DialogText: "@p I am very busy dealing with military matters.  There is always something to do with all these monster issues right now.",
+    AvailabilityQuest4Id: -1,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2Id: -1,
+    AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
-    AvailabilityDialog4Id: -1
+    AvailabilityDialog4Id: -1,
+    AvailabilityMinPlayerLevel: 0,
+    DecreaseFaction2Points: 0b,
+    DialogMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1441915499588L,
+        Time: 0L,
+        Subject: ""
+    }
 }

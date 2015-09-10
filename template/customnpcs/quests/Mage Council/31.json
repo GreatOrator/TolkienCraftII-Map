@@ -1,48 +1,48 @@
 {
     CompleterNpc: "Reder Holte",
-    Type: 3,
+    NextQuestId: -1,
+    QuestLocation3: "",
     RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Mage Council III",
+    Text: "The trail leads back to Reder, no surprise really, but not the most likely to tell me anything.  Am I just chasing a goose here?",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
-        DecreaseFaction2Points: 0b,
+        OptionFaction2Points: 100,
         OptionFactions1: -1,
         OptionFactions2: -1,
-        OptionFaction2Points: 100,
-        OptionFaction1Points: 100
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
     },
-    QuestLocation2: "",
-    NextQuestId: -1,
-    QuestLocation: "Reder I",
+    RewardExp: 100,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1441927916868L,
+        Time: 0L,
+        Subject: ""
+    },
     Rewards: {
         NpcMiscInv: [
             {
+                Slot: 0b,
                 id: 5458s,
-                Damage: 3s,
                 Count: 1b,
-                Slot: 0b
+                Damage: 3s
             }
         ]
     },
-    QuestLocation3: "",
-    Title: "Mage Council III",
-    QuestRepeat: 0,
-    QuestCompletion: 1,
-    Text: "The trail leads back to Reder, no surprise really, but not the most likely to tell me anything.  Am I just chasing a goose here?",
+    CompleteText: "Once again back to the source.  I can't imagine he'll be of any help, but I did defeat him, so maybe, just maybe.",
     NextQuestTitle: "",
-    CompleteText: "Never thought he would spill like that, I’ll need to report on this as soon as possible, this could be a much bigger problem that anyone first thought.",
-    QuestMail: {
-        Sender: "",
-        Time: 0L,
-        Message: {
-        },
-        Subject: "",
-        MailItems: [
-        ],
-        BeenRead: 0b,
-        MailQuest: -1,
-        TimePast: 1426215077732L
-    },
-    QuestCommand: "",
-    RewardExp: 100,
-    ModRev: 16
+    QuestLocation: "MageQuestIII"
 }

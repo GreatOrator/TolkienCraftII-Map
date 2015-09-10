@@ -1,84 +1,84 @@
 {
-    AvailabilityQuest4: 0,
-    DecreaseFaction1Points: 0b,
-    AvailabilityQuest3: 0,
-    AvailabilityFactionId: -1,
-    AvailabilityMinPlayerLevel: 0,
-    AvailabilityQuest3Id: -1,
-    AvailabilityQuest2: 0,
-    AvailabilityQuest2Id: -1,
-    AvailabilityQuestId: 4,
-    DialogQuest: -1,
-    DialogText: "Well my troops are stretched a bit thin so any help is appreciated.Currently we are in need of someone to do some general cleanup around the area.The Mage Council has also sent a request.  It seems as though they have a rather large task in store.  I have not responded yet because I don't believe I have the manpower to spare.",
-    AvailabilityQuest: 1,
-    AvailabilityFactionStance: 0,
-    DialogDisableEsc: 0b,
-    AvailabilityDayTime: 0,
-    AvailabilityFaction2: 0,
-    ModRev: 16,
-    AvailabilityDialog: 0,
     DialogShowWheel: 0b,
-    DecreaseFaction2Points: 0b,
-    AvailabilityDialog2: 0,
-    AvailabilityFaction2Stance: 0,
+    AvailabilityQuestId: 4,
     Options: [
         {
             OptionSlot: 0,
             Option: {
-                DialogColor: 65280,
                 DialogCommand: "",
                 Dialog: 69,
-                OptionType: 1,
-                Title: "The Mage Council?"
+                Title: "The Mage Council?",
+                DialogColor: 65280,
+                OptionType: 1
             }
         },
         {
             OptionSlot: 1,
             Option: {
-                DialogColor: 14737632,
                 DialogCommand: "",
                 Dialog: 70,
-                OptionType: 1,
-                Title: "Let me see what the other tasks you have."
+                Title: "Let me see what the other tasks you have.",
+                DialogColor: 14737632,
+                OptionType: 1
             }
         },
         {
             OptionSlot: 5,
             Option: {
-                DialogColor: 16711680,
                 DialogCommand: "",
                 Dialog: 21,
-                OptionType: 1,
-                Title: "Naw, I think I have something else to ask."
+                Title: "Naw, I think I have something else to ask.",
+                DialogColor: 16711680,
+                OptionType: 1
             }
         }
     ],
-    OptionFaction2Points: 100,
-    AvailabilityQuest4Id: -1,
     DialogHideNPC: 0b,
-    AvailabilityFaction: 0,
-    AvailabilityDialog2Id: -1,
-    DialogCommand: "",
+    AvailabilityFactionStance: 0,
+    AvailabilityQuest: 1,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    DialogMail: {
-        Sender: "",
-        Time: 0L,
-        Message: {
-        },
-        Subject: "",
-        MailItems: [
-        ],
-        BeenRead: 0b,
-        MailQuest: -1,
-        TimePast: 1426593141244L
-    },
+    AvailabilityQuest2: 0,
+    AvailabilityQuest3: 0,
+    AvailabilityQuest4: 0,
+    ModRev: 16,
+    DecreaseFaction1Points: 0b,
+    DialogQuest: -1,
+    AvailabilityDialog2: 0,
     OptionFactions1: -1,
-    AvailabilityDialogId: -1,
+    AvailabilityDayTime: 0,
     OptionFactions2: -1,
     AvailabilityFaction2Id: -1,
     OptionFaction1Points: 100,
+    DialogDisableEsc: 0b,
+    AvailabilityFaction: 0,
     DialogTitle: "Other options",
+    AvailabilityDialog: 0,
+    AvailabilityFaction2: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityFaction2Stance: 0,
+    DialogCommand: "",
+    AvailabilityDialogId: -1,
+    OptionFaction2Points: 100,
+    DialogText: "Well my troops are stretched a bit thin so any help is appreciated.Currently we are in need of someone to do some general cleanup around the area.The Mage Council has also sent a request.  It seems as though they have a rather large task in store.  I have not responded yet because I don't believe I have the manpower to spare.",
+    AvailabilityQuest4Id: -1,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2Id: -1,
+    AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
-    AvailabilityDialog4Id: -1
+    AvailabilityDialog4Id: -1,
+    AvailabilityMinPlayerLevel: 0,
+    DecreaseFaction2Points: 0b,
+    DialogMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1441915542723L,
+        Time: 0L,
+        Subject: ""
+    }
 }

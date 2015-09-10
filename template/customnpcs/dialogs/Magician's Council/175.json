@@ -1,74 +1,74 @@
 {
-    AvailabilityQuest4: 0,
-    DecreaseFaction1Points: 0b,
-    AvailabilityQuest3: 0,
-    AvailabilityFactionId: -1,
-    AvailabilityMinPlayerLevel: 0,
-    AvailabilityQuest3Id: -1,
-    AvailabilityQuest2: 2,
-    AvailabilityQuest2Id: 77,
-    AvailabilityQuestId: 32,
-    DialogQuest: -1,
-    DialogText: "Greetings @p.  Dire is the news I am sure that brought you here.Your arrival brings great hope to me as I have need to go home to my father in mirkwood and can not afford to tarry here much longer.You will find the source of your world's problems, there, in the tower to the east.Great is his power that resides there.",
-    AvailabilityQuest: 1,
-    AvailabilityFactionStance: 0,
-    DialogDisableEsc: 0b,
-    AvailabilityDayTime: 0,
-    AvailabilityFaction2: 0,
-    ModRev: 16,
-    AvailabilityDialog: 0,
     DialogShowWheel: 0b,
-    DecreaseFaction2Points: 0b,
-    AvailabilityDialog2: 0,
-    AvailabilityFaction2Stance: 0,
+    AvailabilityQuestId: 32,
     Options: [
         {
             OptionSlot: 0,
             Option: {
-                DialogColor: 14737632,
                 DialogCommand: "",
                 Dialog: 176,
-                OptionType: 1,
-                Title: "So I have been told...one way or another I will finish this!"
+                Title: "So I have been told...one way or another I will finish this!",
+                DialogColor: 14737632,
+                OptionType: 1
             }
         },
         {
             OptionSlot: 5,
             Option: {
-                DialogColor: 16711680,
                 DialogCommand: "",
                 Dialog: -1,
-                OptionType: 0,
-                Title: "Regardless, sounds like an issue you need to solve, not me."
+                Title: "Regardless, sounds like an issue you need to solve, not me.",
+                DialogColor: 16711680,
+                OptionType: 0
             }
         }
     ],
-    OptionFaction2Points: 100,
-    AvailabilityQuest4Id: -1,
     DialogHideNPC: 0b,
-    AvailabilityFaction: 0,
-    AvailabilityDialog2Id: -1,
-    DialogCommand: "",
+    AvailabilityFactionStance: 0,
+    AvailabilityQuest: 1,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    DialogMail: {
-        Sender: "",
-        Time: 0L,
-        Message: {
-        },
-        Subject: "",
-        MailItems: [
-        ],
-        BeenRead: 0b,
-        MailQuest: -1,
-        TimePast: 1426215066376L
-    },
+    AvailabilityQuest2: 2,
+    AvailabilityQuest3: 0,
+    AvailabilityQuest4: 0,
+    ModRev: 16,
+    DecreaseFaction1Points: 0b,
+    DialogQuest: -1,
+    AvailabilityDialog2: 0,
     OptionFactions1: -1,
-    AvailabilityDialogId: -1,
+    AvailabilityDayTime: 0,
     OptionFactions2: -1,
     AvailabilityFaction2Id: -1,
     OptionFaction1Points: 100,
+    DialogDisableEsc: 0b,
+    AvailabilityFaction: 0,
     DialogTitle: "Middle Earth I",
+    AvailabilityDialog: 0,
+    AvailabilityFaction2: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityFaction2Stance: 0,
+    DialogCommand: "",
+    AvailabilityDialogId: -1,
+    OptionFaction2Points: 100,
+    DialogText: "Greetings @p.  Dire is the news I am sure that brought you here.Your arrival brings great hope to me as I have need to go home to my father in mirkwood and can not afford to tarry here much longer.You will find the source of your world's problems, there, in the tower to the east.Great is his power that resides there.",
+    AvailabilityQuest4Id: -1,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2Id: 77,
+    AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
-    AvailabilityDialog4Id: -1
+    AvailabilityDialog4Id: -1,
+    AvailabilityMinPlayerLevel: 0,
+    DecreaseFaction2Points: 0b,
+    DialogMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1441894692295L,
+        Time: 0L,
+        Subject: ""
+    }
 }
