@@ -21,25 +21,14 @@
     Type: 0,
     QuestMail: {
         Sender: "Gandalf",
-        MailQuestTitle: "Mount Doom I",
         BeenRead: 0b,
         Message: {
-            pages: [
-                "Greetings once again hero.
-
-While you have been helping me I have managed to find out some information.
-
-I can not tell you specifics, but suffice to say, I need you to get the ring from Bilbo.",
-                "He knows you are coming and will hand it over so you can bring it to me so I can explain further.
-
--Gandalf"
-            ]
         },
         MailItems: [
         ],
-        MailQuest: 88,
-        TimePast: 15208685845L,
-        Time: 1426684903034L,
+        MailQuest: -1,
+        TimePast: 325701L,
+        Time: 1441989392415L,
         Subject: "I know you're busy"
     },
     IgnoreDamage: 0b,
@@ -61,7 +50,9 @@ I can not tell you specifics, but suffice to say, I need you to get the ring fro
                         BaseDurability: 960,
                         ToolEXP: 0L,
                         Built: 1b,
+                        Effect1: 7,
                         HarvestLevel: 9,
+                        ModifierTip1: "§6Blaze (25/25)",
                         RenderHead: 12,
                         ModDurability: 0.0f,
                         Shoddy: 0.0f,
@@ -74,17 +65,21 @@ I can not tell you specifics, but suffice to say, I need you to get the ring fro
                         BonusDurability: 0,
                         TotalDurability: 960,
                         Head: 12,
+                        Fiery: 25,
+                        Tooltip1: "§6Fiery",
                         Attack: 5,
                         Handle: 0,
                         Broken: 0b,
                         Mass: 3.25f,
                         Ammo: 96,
                         RenderAccessory: 0,
+                        Blaze: [25,25,1],
                         ToolLevel: 1,
                         Modifiers: 0
                     },
+                    RepairCost: 2,
                     display: {
-                        Name: "§fManyullyn Arrows"
+                        Name: "§fElixer Imbued"
                     }
                 },
                 Damage: 0s

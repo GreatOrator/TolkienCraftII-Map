@@ -1,42 +1,43 @@
 {
     CompleterNpc: "Gandalf Greyhame",
-    Type: 3,
+    NextQuestId: 101,
+    QuestLocation3: "",
     RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Secret Recipe I",
+    Text: "Challd has asked you to seek out Gandalf and ask him about his elixer.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
-        DecreaseFaction2Points: 0b,
+        OptionFaction2Points: 100,
         OptionFactions1: -1,
         OptionFactions2: -1,
-        OptionFaction2Points: 100,
-        OptionFaction1Points: 100
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
     },
-    QuestLocation2: "",
-    NextQuestId: 101,
-    QuestLocation: "Gandalf",
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1441989070917L,
+        Time: 0L,
+        Subject: ""
+    },
     Rewards: {
         NpcMiscInv: [
         ]
     },
-    QuestLocation3: "",
-    Title: "Secret Recipe I",
-    QuestRepeat: 0,
-    QuestCompletion: 1,
-    Text: "Challd has asked you to seek out Gandlaf and ask him about his elixer.",
+    CompleteText: "What is this? The Commander, Chald, from Draconis sent you for what? Ah, now I recall him. Bright fellow though a bit impetuous. He wants my fire-draught does he? Whatever for?
+Zombies, creepers and skeletons? I think I see what the fellow is about. I do happen to have a vial left...where was that?",
     NextQuestTitle: "Secret Recipe Ia",
-    CompleteText: "",
-    QuestMail: {
-        Sender: "",
-        Time: 0L,
-        Message: {
-        },
-        Subject: "",
-        MailItems: [
-        ],
-        BeenRead: 0b,
-        MailQuest: -1,
-        TimePast: 1426684815090L
-    },
-    QuestCommand: "",
-    RewardExp: 25,
-    ModRev: 16
+    QuestLocation: "Gandalf"
 }

@@ -1,9 +1,70 @@
 {
+    CompleterNpc: "Gandalf Greyhame",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 1b,
+    Title: "Head of the Order IV",
+    Text: "Time to locate those staves for Gandalf, wonder why he just does go find them?I have heard of a tower in the ocean near DragonBurg, perhaps I should start there?Finally, water...wonder what this will be like, they have been so easy.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 200,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1441987486267L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 3s
+            },
+            {
+                Slot: 1b,
+                id: 4185s,
+                Count: 5b,
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: 4185s,
+                Count: 2b,
+                Damage: 1s
+            },
+            {
+                Slot: 3b,
+                id: 4185s,
+                Count: 1b,
+                Damage: 2s
+            }
+        ]
+    },
     Items: {
         NpcMiscInv: [
             {
+                Slot: 0b,
                 id: 5216s,
-                Damage: 3s,
                 Count: 1b,
                 tag: {
                     RepairCost: 2,
@@ -11,72 +72,11 @@
                         Name: "Staff of Water"
                     }
                 },
-                Slot: 0b
+                Damage: 3s
             }
         ]
     },
-    CompleterNpc: "Gandalf Greyhame",
-    IgnoreDamage: 0b,
-    Type: 0,
-    RandomReward: 0b,
-    QuestFactionPoints: {
-        DecreaseFaction1Points: 0b,
-        DecreaseFaction2Points: 0b,
-        OptionFactions1: -1,
-        OptionFactions2: -1,
-        OptionFaction2Points: 100,
-        OptionFaction1Points: 100
-    },
-    IgnoreNBT: 1b,
-    NextQuestId: -1,
-    Rewards: {
-        NpcMiscInv: [
-            {
-                id: 5458s,
-                Damage: 3s,
-                Count: 1b,
-                Slot: 0b
-            },
-            {
-                id: 4185s,
-                Damage: 0s,
-                Count: 5b,
-                Slot: 1b
-            },
-            {
-                id: 4185s,
-                Damage: 1s,
-                Count: 2b,
-                Slot: 2b
-            },
-            {
-                id: 4185s,
-                Damage: 2s,
-                Count: 1b,
-                Slot: 3b
-            }
-        ]
-    },
-    Title: "Head of the Order IV",
-    QuestRepeat: 0,
-    QuestCompletion: 0,
-    Text: "Time to locate those staves for Gandalf, wonder why he just does go find them?I have heard of a tower in the ocean near DragonBurg, perhaps I should start there?Finally, water...wonder what this will be like, they have been so easy.",
-    NextQuestTitle: "",
-    CompleteText: "Thank you @p, I hope the job was not too difficult to complete.  Now speak to me when you are ready for the next step.",
-    QuestMail: {
-        Sender: "",
-        Time: 0L,
-        Message: {
-        },
-        Subject: "",
-        MailItems: [
-        ],
-        BeenRead: 0b,
-        MailQuest: -1,
-        TimePast: 1426684204437L
-    },
-    QuestCommand: "",
     LeaveItems: 1b,
-    RewardExp: 200,
-    ModRev: 16
+    CompleteText: "Thank you @p, I hope the job was not too difficult to complete.  Now speak to me when you are ready for the next step.",
+    NextQuestTitle: ""
 }
