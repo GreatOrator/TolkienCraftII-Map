@@ -5,11 +5,11 @@
         {
             OptionSlot: 0,
             Option: {
-                DialogCommand: "/give @dp 4185 5 1",
+                DialogCommand: "",
                 Dialog: 361,
                 Title: "I will be back.",
                 DialogColor: 3468363,
-                OptionType: 4
+                OptionType: 0
             }
         }
     ],
@@ -37,7 +37,7 @@
     AvailabilityFaction2: 0,
     AvailabilityFactionId: -1,
     AvailabilityFaction2Stance: 0,
-    DialogCommand: "/give @dp 4185 5 1",
+    DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
     DialogText: "Oh, I suppose I must, if she is completely out of stock. Here, take these coins to that Boffin. These Shimmer ‘Shrooms better be all they are rumored to be!",
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1442462487081L,
+        TimePast: 1442496326051L,
         Time: 0L,
         Subject: ""
     }
