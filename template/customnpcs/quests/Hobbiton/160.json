@@ -1,6 +1,6 @@
 {
     CompleterNpc: "Wydo Chubb",
-    NextQuestId: -1,
+    NextQuestId: 161,
     RandomReward: 0b,
     QuestRepeat: 0,
     QuestCompletion: 0,
@@ -27,7 +27,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1440885561126L,
+        TimePast: 1442017235851L,
         Time: 0L,
         Subject: ""
     },
@@ -54,5 +54,5 @@
     },
     LeaveItems: 0b,
     CompleteText: "I've been waiting for days for a pie from Holly Goodbody! Is that my pie?!",
-    NextQuestTitle: ""
+    NextQuestTitle: "Pie Runner: Stop 2"
 }

@@ -1,0 +1,133 @@
+{
+    TraderCurrency: {
+        NpcMiscInv: [
+            {
+                Slot: 18b,
+                id: 4185s,
+                Count: 5b,
+                Damage: 0s
+            },
+            {
+                Slot: 19b,
+                id: 4185s,
+                Count: 6b,
+                Damage: 0s
+            },
+            {
+                Slot: 21b,
+                id: 4185s,
+                Count: 5b,
+                Damage: 0s
+            },
+            {
+                Slot: 22b,
+                id: 4185s,
+                Count: 6b,
+                Damage: 0s
+            },
+            {
+                Slot: 24b,
+                id: 4185s,
+                Count: 5b,
+                Damage: 0s
+            },
+            {
+                Slot: 25b,
+                id: 4185s,
+                Count: 6b,
+                Damage: 0s
+            },
+            {
+                Slot: 27b,
+                id: 4185s,
+                Count: 5b,
+                Damage: 0s
+            },
+            {
+                Slot: 28b,
+                id: 4185s,
+                Count: 6b,
+                Damage: 0s
+            },
+            {
+                Slot: 30b,
+                id: 4185s,
+                Count: 3b,
+                Damage: 0s
+            },
+            {
+                Slot: 31b,
+                id: 4185s,
+                Count: 10b,
+                Damage: 0s
+            }
+        ]
+    },
+    TraderIgnoreDamage: 0b,
+    TraderMarket: "",
+    TraderIgnoreNBT: 0b,
+    TraderSold: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 683s,
+                Count: 3b,
+                Damage: 3s
+            },
+            {
+                Slot: 1b,
+                id: 1135s,
+                Count: 4b,
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: 795s,
+                Count: 3b,
+                Damage: 2s
+            },
+            {
+                Slot: 4b,
+                id: 1516s,
+                Count: 4b,
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: 795s,
+                Count: 3b,
+                Damage: 3s
+            },
+            {
+                Slot: 7b,
+                id: 1517s,
+                Count: 4b,
+                Damage: 0s
+            },
+            {
+                Slot: 9b,
+                id: 683s,
+                Count: 3b,
+                Damage: 1s
+            },
+            {
+                Slot: 10b,
+                id: 1517s,
+                Count: 4b,
+                Damage: 9s
+            },
+            {
+                Slot: 12b,
+                id: 6813s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 13b,
+                id: 5662s,
+                Count: 1b,
+                Damage: 7s
+            }
+        ]
+    }
+}

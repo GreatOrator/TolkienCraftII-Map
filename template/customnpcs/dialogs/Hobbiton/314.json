@@ -36,7 +36,7 @@
             OptionSlot: 3,
             Option: {
                 DialogCommand: "",
-                Dialog: -1,
+                Dialog: 322,
                 Title: "Still looking for work!",
                 DialogColor: 130869,
                 OptionType: 1
@@ -97,7 +97,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1440883458124L,
+        TimePast: 1442017779358L,
         Time: 0L,
         Subject: ""
     }

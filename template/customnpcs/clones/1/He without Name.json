@@ -1,70 +1,4 @@
 {
-    ReturnToStart: 1b,
-    NpcInv: [
-    ],
-    PotionEffect: 2,
-    Size: 5,
-    Resistances: {
-        Arrow: 1.0f,
-        Melee: 1.0f,
-        Knockback: 1.0f
-    },
-    BossBar: 0b,
-    RespawnTime: 3600,
-    magicXP: 0.0f,
-    NpcAngrySound: "",
-    ReactsToFire: 0b,
-    IgnoreCobweb: 1b,
-    PositionOffsetZ: 5.0f,
-    PositionOffsetY: 5.0f,
-    PositionOffsetX: 5.0f,
-    TransformHasAI: 0b,
-    GuardAttackAll: 0b,
-    AttackStrenght: 10,
-    PersistenceRequired: 0b,
-    NpcLines: {
-        Lines: [
-        ]
-    },
-    MovingPatern: 0,
-    HealF: 350.0f,
-    DefendFaction: 0b,
-    id: "CustomNpc",
-    FireIndirect: 0,
-    NpcVisible: 0,
-    FindShelter: 2,
-    SkinUsername: "",
-    ScriptsContainers: [
-    ],
-    Air: 300s,
-    TacticalVariant: 1,
-    Orientation: 0,
-    ScriptLanguage: "ECMAScript",
-    KnockBack: 2,
-    TransformHasJob: 0b,
-    CustomName: "",
-    CanDespawn: 0b,
-    BurnInSun: 0b,
-    StandingState: 0,
-    HurtTime: 0s,
-    WalkingRange: 5,
-    CustomNameVisible: 0b,
-    ShotCount: 1,
-    pDur: 5,
-    AttackRange: 2,
-    AvoidsSun: 0b,
-    GuardAttackCreepers: 0b,
-    Texture: "customnpcs:textures/CustomSkins/Creature/MouthofSauron.png",
-    NpcJob: 3,
-    BurstCount: 1,
-    NpcAttackLines: {
-        Lines: [
-        ]
-    },
-    pSpeed: 10,
-    pArea: 0,
-    DeathTime: 0s,
-    pImpact: 2,
     DropChances: [
         0.085f,
         0.085f,
@@ -72,274 +6,87 @@
         0.085f,
         0.085f
     ],
+    DisablePitch: 0b,
     MoveState: 0,
-    RangeAndMelee: 0,
-    pRender3D: 1b,
-    magicLevel: 1s,
-    Motion: [
-        0.0d,
-        -0.0784000015258789d,
-        0.0d
+    CustomName: "",
+    ScriptsContainers: [
     ],
-    CombatRegen: 10,
-    DistanceToMelee: 4,
-    pEffect: 4,
-    NpcStepSound: "",
-    curFatigue: 0.0f,
-    FireRate: 5,
-    pEffAmp: 1,
-    OnGround: 1b,
-    ImmuneToFire: 1b,
-    Dimension: 100,
+    UsingSkinUrl: 0b,
+    stopAndInteract: 0b,
+    AimWhileShooting: 0b,
     NpcKilledLines: {
         Lines: [
         ]
     },
-    GuardAttackMobs: 1b,
-    UUIDMost: 18243934330699L,
-    DisablePitch: 0b,
+    hasUnlockedAugmented: 1b,
+    PotionImmune: 0b,
+    maxDelay: 40,
+    AttackStrenght: 10,
+    GlowTexture: "",
+    Texture: "customnpcs:textures/CustomSkins/Creature/MouthofSauron.png",
+    KnockBack: 2,
+    ReactsToFire: 0b,
+    pSpin: 1b,
+    GuardAttackAnimals: 0b,
+    npcInteracting: 0b,
     Fire: -1s,
-    pPhysics: 0b,
-    TransformHasInv: 0b,
-    NpcInteractLines: {
+    isShrunk: 0b,
+    PotionAmp: 1,
+    GuardSpecific: 0b,
+    NoFallDamage: 1b,
+    pStick: 0b,
+    RangeAndMelee: 0,
+    pImpact: 2,
+    NpcLines: {
         Lines: [
-            {
-                Line: "Greetings @p, I hope you are here to help our kingdom.",
-                Song: "",
-                Slot: 0
-            }
         ]
     },
-    pSpin: 1b,
-    NpcHurtSound: "minecraft:game.player.hurt",
-    pTrail: 6,
-    isShrunk: 0b,
-    CreatureType: 0,
-    Attributes: [
-        {
-            Base: 0.0d,
-            Name: "am2.maxManaBonus"
-        },
-        {
-            Base: 0.0d,
-            Name: "am2.maxBurnoutBonus"
-        },
-        {
-            Base: 1.0d,
-            Name: "am2.xpMultiplier"
-        },
-        {
-            Base: 1.0d,
-            Name: "am2.burnoutReduction"
-        },
-        {
-            Base: 1.0d,
-            Name: "am2.manaRegenModifier"
-        },
-        {
-            Base: 350.0d,
-            Name: "generic.maxHealth"
-        },
-        {
-            Base: 0.0d,
-            Name: "generic.knockbackResistance"
-        },
-        {
-            Base: 0.30000001192092896d,
-            Name: "generic.movementSpeed"
-        },
-        {
-            Base: 64.0d,
-            Name: "generic.followRange"
-        },
-        {
-            Base: 10.0d,
-            Name: "generic.attackDamage"
-        }
-    ],
     Invulnerable: 0b,
-    TransformHasDisplay: 0b,
-    NoFallDamage: 1b,
-    AbsorptionAmount: 0.0f,
-    TransformHasRole: 0b,
-    Name: "He without Name",
-    FallDistance: 0.0f,
-    NpcIdleSound: "",
-    Weapons: [
-        {
-            Slot: 0b,
-            id: 5242s,
-            Count: 1b,
-            Damage: 0s
-        },
-        {
-            Slot: 1b,
-            id: 5076s,
-            Count: 1b,
-            Damage: 0s
-        }
-    ],
-    NPCDialogOptions: [
-    ],
-    DirectLOS: 1b,
-    AggroRange: 16,
-    HealthRegen: 5,
-    NpcModelData: {
-        LegsConfig: {
-            ScaleZ: 1.0f,
-            TransZ: 0.0f,
-            TransY: 0.0f,
-            TransX: 0.0f,
-            ScaleY: 1.0f,
-            ScaleX: 1.0f
-        },
-        BodyConfig: {
-            ScaleZ: 1.0f,
-            TransZ: 0.0f,
-            TransY: 0.0f,
-            TransX: 0.0f,
-            ScaleY: 1.0f,
-            ScaleX: 1.0f
-        },
-        LegParts: {
-            Type: 0b,
-            PlayerTexture: 1b,
-            Color: 16777215
-        },
-        Parts: [
-        ],
-        Breasts: 0b,
-        Headwear: 2b,
-        ArmsConfig: {
-            ScaleZ: 1.0f,
-            TransZ: 0.0f,
-            TransY: 0.0f,
-            TransX: 0.0f,
-            ScaleY: 1.0f,
-            ScaleX: 1.0f
-        },
-        ExtraData: {
-        },
-        HeadConfig: {
-            ScaleZ: 1.0f,
-            TransZ: 0.0f,
-            TransY: 0.0f,
-            TransX: 0.0f,
-            ScaleY: 1.0f,
-            ScaleX: 1.0f
-        }
-    },
-    MoveSpeed: 6,
-    minDelay: 20,
-    DoorInteract: 0,
-    TransformEditingModus: 0b,
-    UsingSkinUrl: 0b,
-    Leashed: 0b,
-    CanSwim: 1b,
-    armorCooldowns: [0,0,0,0],
-    GuardAttackAnimals: 0b,
-    HideBodyWhenKilled: 1b,
-    MaxHealth: 350,
-    AttackSpeed: 20,
-    PotionDuration: 15,
-    maxDelay: 40,
+    DeathTime: 0s,
+    ModRev: 16,
+    FactionID: 13,
+    BurstCount: 1,
     DropChance: [
         {
-            Integer: 100,
-            Slot: 0
+            Slot: 0,
+            Integer: 100
         },
         {
-            Integer: 100,
-            Slot: 1
+            Slot: 1,
+            Integer: 100
         },
         {
-            Integer: 100,
-            Slot: 2
+            Slot: 2,
+            Integer: 100
         },
         {
-            Integer: 100,
-            Slot: 3
+            Slot: 3,
+            Integer: 100
         },
         {
-            Integer: 100,
-            Slot: 4
+            Slot: 4,
+            Integer: 100
         },
         {
-            Integer: 100,
-            Slot: 5
+            Slot: 5,
+            Integer: 100
         },
         {
-            Integer: 100,
-            Slot: 6
+            Slot: 6,
+            Integer: 100
         },
         {
-            Integer: 100,
-            Slot: 7
+            Slot: 7,
+            Integer: 100
         },
         {
-            Integer: 100,
-            Slot: 8
+            Slot: 8,
+            Integer: 100
         }
     ],
-    ScriptEnabled: 0b,
-    Role: 0,
-    FactionPoints: {
-        DecreaseFaction1Points: 0b,
-        OptionFaction2Points: 100,
-        OptionFactions1: -1,
-        OptionFactions2: -1,
-        OptionFaction1Points: 100,
-        DecreaseFaction2Points: 0b
-    },
-    TransporterId: -1,
-    pDamage: 4,
-    KilledTime: 0L,
-    CanPickUpLoot: 0b,
-    AttackOtherFactions: 1b,
-    CanDrown: 0b,
-    curMana: 100.0f,
-    AttackTime: 0s,
-    CanSprint: 1b,
-    pSize: 5,
-    CanLeap: 0b,
-    TransformIsActive: 0b,
-    ForgeData: {
-    },
-    MovingState: 0,
-    MovingPos: 0,
-    PotionAmp: 1,
-    OnAttack: 0,
-    TacticalRadius: 8,
-    MaxExp: 0,
-    PortalCooldown: 0,
-    pGlows: 0b,
-    TransformHasAdvanced: 0b,
-    TransformHasStats: 0b,
-    FiringSound: "arsmagica2:mob.enderguardian.attack",
-    ModRev: 15,
-    Accuracy: 80,
-    MinExp: 0,
-    Armor: [
+    NpcJob: 3,
+    NpcInv: [
     ],
-    CloakTexture: "",
-    GlowTexture: "",
-    pXlr8: 0b,
-    MaxFiringRange: 15,
-    ItemGiverId: 0,
-    UUIDLeast: 1616577783104198010L,
-    Health: 350s,
-    pExplode: 0b,
-    pStick: 0b,
-    NpcDeathSound: "minecraft:game.player.hurt",
-    MovingPause: 1b,
-    FactionID: 13,
-    Title: "Mouth of Sauron",
-    Rotation: [
-        4.1986694f,
-        0.0f
-    ],
-    ShowName: 0,
-    AvoidsWater: 1b,
     Equipment: [
         {
         },
@@ -352,8 +99,275 @@
         {
         }
     ],
-    NoLivingAnimation: 0b,
-    hasUnlockedAugmented: 1b,
+    TotalTicksAlive: 63L,
+    HurtTime: 0s,
+    OnGround: 1b,
+    StandingState: 0,
+    pRender3D: 1b,
+    FireRate: 5,
+    SkinUrl: "",
+    TransformHasAdvanced: 0b,
+    ImmuneToFire: 1b,
+    Air: 300s,
+    CanPickUpLoot: 0b,
+    PortalCooldown: 0,
+    GuardAttackMobs: 1b,
+    CanLeap: 0b,
+    AvoidsSun: 0b,
+    Rotation: [
+        4.1986694f,
+        0.0f
+    ],
+    ShotCount: 1,
+    pDamage: 4,
+    NpcInteractLines: {
+        Lines: [
+            {
+                Song: "",
+                Slot: 0,
+                Line: "Greetings @p, I hope you are here to help our kingdom."
+            }
+        ]
+    },
+    UUIDLeast: 1616577783104198010L,
+    TransformHasDisplay: 0b,
+    MovingPos: 0,
+    CloakTexture: "",
+    BurnInSun: 0b,
+    NpcIdleSound: "",
+    MaxExp: 0,
+    TransformHasAI: 0b,
+    NpcStepSound: "",
+    TransformHasInv: 0b,
+    CustomNameVisible: 0b,
+    FactionPoints: {
+        DecreaseFaction1Points: 0b,
+        DecreaseFaction2Points: 0b,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        OptionFaction2Points: 100
+    },
+    ScriptLanguage: "ECMAScript",
+    Resistances: {
+        Melee: 1.0f,
+        Arrow: 1.0f,
+        Explosion: 0.0f,
+        Knockback: 1.0f
+    },
+    pEffAmp: 1,
+    MinExp: 0,
+    CanSprint: 1b,
+    ReturnToStart: 1b,
+    pXlr8: 0b,
+    ScriptEnabled: 0b,
+    Orientation: 0,
+    AbsorptionAmount: 0.0f,
+    RespawnTime: 3600,
+    WalkingRange: 5,
+    AvoidsWater: 1b,
+    NpcHurtSound: "minecraft:game.player.hurt",
+    Title: "Mouth of Sauron",
+    MaxFiringRange: 15,
+    MoveSpeed: 6,
+    pSpeed: 10,
+    Role: 0,
+    NpcAttackLines: {
+        Lines: [
+        ]
+    },
+    curMana: 500.85858f,
+    MovingPatern: 0,
+    pSize: 5,
+    DistanceToMelee: 4,
+    Attributes: [
+        {
+            Name: "am2.maxManaBonus",
+            Base: 0.0d
+        },
+        {
+            Name: "am2.maxBurnoutBonus",
+            Base: 0.0d
+        },
+        {
+            Name: "am2.xpMultiplier",
+            Base: 1.0d
+        },
+        {
+            Name: "am2.burnoutReduction",
+            Base: 1.0d
+        },
+        {
+            Name: "am2.manaRegenModifier",
+            Base: 1.0d
+        },
+        {
+            Name: "generic.maxHealth",
+            Base: 350.0d
+        },
+        {
+            Name: "generic.knockbackResistance",
+            Base: 0.0d
+        },
+        {
+            Name: "generic.movementSpeed",
+            Base: 0.30000001192092896d
+        },
+        {
+            Name: "generic.followRange",
+            Base: 64.0d
+        },
+        {
+            Name: "generic.attackDamage",
+            Base: 10.0d
+        }
+    ],
+    HealthRegen: 5,
+    pEffect: 4,
+    CanDrown: 0b,
+    PotionEffect: 2,
+    PotionDuration: 15,
+    AttackInvisible: 0b,
+    HealF: 350.0f,
+    FindShelter: 2,
+    NpcModelData: {
+        LegParts: {
+            Type: 0b,
+            PlayerTexture: 1b,
+            Color: 16777215
+        },
+        Parts: [
+        ],
+        BodyConfig: {
+            ScaleZ: 1.0f,
+            TransY: 0.0f,
+            TransX: 0.0f,
+            ScaleX: 1.0f,
+            ScaleY: 1.0f,
+            TransZ: 0.0f
+        },
+        HeadConfig: {
+            ScaleZ: 1.0f,
+            TransY: 0.0f,
+            TransX: 0.0f,
+            ScaleX: 1.0f,
+            ScaleY: 1.0f,
+            TransZ: 0.0f
+        },
+        ArmsConfig: {
+            ScaleZ: 1.0f,
+            TransY: 0.0f,
+            TransX: 0.0f,
+            ScaleX: 1.0f,
+            ScaleY: 1.0f,
+            TransZ: 0.0f
+        },
+        LegsConfig: {
+            ScaleZ: 1.0f,
+            TransY: 0.0f,
+            TransX: 0.0f,
+            ScaleX: 1.0f,
+            ScaleY: 1.0f,
+            TransZ: 0.0f
+        },
+        Breasts: 0b,
+        ExtraData: {
+        },
+        Headwear: 2b
+    },
+    DefendFaction: 0b,
+    AttackTime: 0s,
+    DirectLOS: 1b,
+    IgnoreCobweb: 1b,
+    magicLevel: 1s,
+    NpcDeathSound: "minecraft:game.player.hurt",
+    curFatigue: 0.0f,
+    Size: 5,
+    CreatureType: 0,
+    AggroRange: 16,
+    ForgeData: {
+        WITCInitialWidth: 0.6f,
+        WITCInitialHeight: 1.9f
+    },
+    FiringSound: "arsmagica2:mob.enderguardian.attack",
     isCritical: 0b,
-    SpawnCycle: 0
+    UUIDMost: 18243934330699L,
+    CombatRegen: 10,
+    MovingPause: 1b,
+    CanSwim: 1b,
+    pArea: 0,
+    MovingState: 0,
+    HideBodyWhenKilled: 1b,
+    MaxHealth: 350,
+    magicXP: 0.0f,
+    TacticalVariant: 1,
+    TransformHasStats: 0b,
+    minDelay: 20,
+    PersistenceRequired: 0b,
+    LinkedNpcName: "",
+    DoorInteract: 0,
+    TransformHasJob: 0b,
+    TransformEditingModus: 0b,
+    TransformHasRole: 0b,
+    pPhysics: 0b,
+    BossBar: 0b,
+    NpcKillLines: {
+        Lines: [
+        ]
+    },
+    Motion: [
+        0.0d,
+        -0.0784000015258789d,
+        0.0d
+    ],
+    CanDespawn: 0b,
+    TransformIsActive: 0b,
+    Accuracy: 80,
+    Health: 350s,
+    SpawnCycle: 0,
+    NPCDialogOptions: [
+    ],
+    id: "CustomNpc",
+    PositionOffsetY: 5.0f,
+    PositionOffsetX: 5.0f,
+    KilledTime: 0L,
+    PositionOffsetZ: 5.0f,
+    pTrail: 6,
+    NoLivingAnimation: 0b,
+    GuardTargets: [
+    ],
+    pGlows: 0b,
+    GuardAttackCreepers: 0b,
+    pDur: 5,
+    NpcVisible: 0,
+    OnAttack: 0,
+    AttackSpeed: 20,
+    Dimension: 100,
+    AttackOtherFactions: 1b,
+    Name: "He without Name",
+    Weapons: [
+        {
+            id: 5242s,
+            Damage: 0s,
+            Count: 1b,
+            Slot: 0b
+        },
+        {
+            id: 5076s,
+            Damage: 0s,
+            Count: 1b,
+            Slot: 1b
+        }
+    ],
+    Armor: [
+    ],
+    Leashed: 0b,
+    armorCooldowns: [0,0,0,0],
+    TacticalRadius: 8,
+    NpcAngrySound: "",
+    FallDistance: 0.0f,
+    AttackRange: 2,
+    FireIndirect: 0,
+    pExplode: 0b,
+    ShowName: 0
 }

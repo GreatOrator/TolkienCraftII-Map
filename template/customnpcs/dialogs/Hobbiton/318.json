@@ -30,7 +30,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "Well, Hamfast Gamgee came into the Green Dragon today and he seemed in a really bad mood. Muttering something about his potato crop. You should go see him at his smial on Bag Row.",
+    DialogText: "Well, Hamfast Gamgee came into the Green Dragon today and he seemed in a really bad mood. Muttering something about his potato crop. You should go see him at his smial at 3 Bagshot Row.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: 155,
@@ -47,7 +47,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1440883182820L,
+        TimePast: 1442016294668L,
         Time: 0L,
         Subject: ""
     }

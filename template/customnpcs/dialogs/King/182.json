@@ -1,64 +1,64 @@
 {
-    AvailabilityQuest4: 0,
-    DecreaseFaction1Points: 0b,
-    AvailabilityQuest3: 0,
-    AvailabilityFactionId: -1,
-    AvailabilityMinPlayerLevel: 0,
-    AvailabilityQuest3Id: -1,
-    AvailabilityQuest2: 0,
-    AvailabilityQuest2Id: -1,
-    AvailabilityQuestId: -1,
-    DialogQuest: 80,
-    DialogText: "Be that as it may, as reward I shall tell Ahab, captain of the cargo ship at dock, to allow you passage to any of the locations he has visited.You see, with all the work you have been doing, we can now begin trade with other cities again.My Kingdom is in your debt @p.",
-    AvailabilityQuest: 0,
-    AvailabilityFactionStance: 0,
-    DialogDisableEsc: 0b,
-    AvailabilityDayTime: 0,
-    AvailabilityFaction2: 0,
-    ModRev: 16,
-    AvailabilityDialog: 0,
     DialogShowWheel: 0b,
-    DecreaseFaction2Points: 0b,
-    AvailabilityDialog2: 0,
-    AvailabilityFaction2Stance: 0,
+    AvailabilityQuestId: -1,
     Options: [
         {
             OptionSlot: 0,
             Option: {
-                DialogColor: 16711935,
                 DialogCommand: "",
                 Dialog: -1,
-                OptionType: 0,
-                Title: "It is my pleasure to server."
+                Title: "It is my pleasure to server.",
+                DialogColor: 16711935,
+                OptionType: 0
             }
         }
     ],
-    OptionFaction2Points: 100,
-    AvailabilityQuest4Id: -1,
     DialogHideNPC: 0b,
-    AvailabilityFaction: 0,
-    AvailabilityDialog2Id: -1,
-    DialogCommand: "",
+    AvailabilityFactionStance: 0,
+    AvailabilityQuest: 0,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    DialogMail: {
-        Sender: "",
-        Time: 0L,
-        Message: {
-        },
-        Subject: "",
-        MailItems: [
-        ],
-        BeenRead: 0b,
-        MailQuest: -1,
-        TimePast: 1425822932174L
-    },
+    AvailabilityQuest2: 0,
+    AvailabilityQuest3: 0,
+    AvailabilityQuest4: 0,
+    ModRev: 16,
+    DecreaseFaction1Points: 0b,
+    DialogQuest: 80,
+    AvailabilityDialog2: 0,
     OptionFactions1: -1,
-    AvailabilityDialogId: -1,
+    AvailabilityDayTime: 0,
     OptionFactions2: -1,
     AvailabilityFaction2Id: -1,
     OptionFaction1Points: 100,
+    DialogDisableEsc: 0b,
+    AvailabilityFaction: 0,
     DialogTitle: "Troll Dead II",
+    AvailabilityDialog: 0,
+    AvailabilityFaction2: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityFaction2Stance: 0,
+    DialogCommand: "",
+    AvailabilityDialogId: -1,
+    OptionFaction2Points: 100,
+    DialogText: "Be that as it may, as reward I shall tell Ahab, captain of the cargo ship at dock, to allow you passage to any of the locations he has visited.You see, with all the work you have been doing, we can now begin trade with other cities again.My Kingdom is in your debt @p.",
+    AvailabilityQuest4Id: -1,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2Id: -1,
+    AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
-    AvailabilityDialog4Id: -1
+    AvailabilityDialog4Id: -1,
+    AvailabilityMinPlayerLevel: 0,
+    DecreaseFaction2Points: 0b,
+    DialogMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1442074941817L,
+        Time: 0L,
+        Subject: ""
+    }
 }

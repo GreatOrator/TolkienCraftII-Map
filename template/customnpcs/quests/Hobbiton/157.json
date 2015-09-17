@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1440884189138L,
+        TimePast: 1442016530206L,
         Time: 0L,
         Subject: ""
     },
@@ -36,6 +36,6 @@
         NpcMiscInv: [
         ]
     },
-    CompleteText: "Hello, @dp, I am too busy for idle chit-chat!",
+    CompleteText: "Hello, I am too busy for idle chit-chat!",
     NextQuestTitle: ""
 }

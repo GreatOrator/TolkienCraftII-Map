@@ -1,0 +1,86 @@
+{
+    DialogShowWheel: 0b,
+    AvailabilityQuestId: 179,
+    Options: [
+    ],
+    DialogHideNPC: 0b,
+    AvailabilityFactionStance: 0,
+    AvailabilityQuest: 1,
+    AvailabilityDialog4: 0,
+    AvailabilityDialog3: 0,
+    AvailabilityQuest2: 2,
+    AvailabilityQuest3: 0,
+    AvailabilityQuest4: 0,
+    ModRev: 16,
+    DecreaseFaction1Points: 0b,
+    DialogQuest: -1,
+    AvailabilityDialog2: 0,
+    OptionFactions1: -1,
+    AvailabilityDayTime: 0,
+    OptionFactions2: -1,
+    AvailabilityFaction2Id: -1,
+    OptionFaction1Points: 100,
+    DialogDisableEsc: 0b,
+    AvailabilityFaction: 0,
+    DialogTitle: "Shimmer ‘Shrooms ",
+    AvailabilityDialog: 0,
+    AvailabilityFaction2: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityFaction2Stance: 0,
+    DialogCommand: "",
+    AvailabilityDialogId: -1,
+    OptionFaction2Points: 100,
+    DialogText: "Lobelia must really want these Shimmer “Shrooms. Well, I'll see what I can do. In the meantime, maybe there are other things you need to do while you wait. I will send you notice by mail once I have them made.",
+    AvailabilityQuest4Id: -1,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2Id: 181,
+    AvailabilityDialog2Id: -1,
+    AvailabilityDialog3Id: -1,
+    AvailabilityDialog4Id: -1,
+    AvailabilityMinPlayerLevel: 0,
+    DecreaseFaction2Points: 0b,
+    DialogMail: {
+        Sender: "Violet Boffin",
+        MailQuestTitle: "Shimmer ‘Shrooms",
+        BeenRead: 0b,
+        Message: {
+            pages: [
+                "Hello,
+I wanted to let you know that Lobelia's mushrooms are done. I would prefer you bring them to her so I don't have to face Lobelia. Keep the yellow ones for your trouble.
+
+Thanks,
+Violet Boffin"
+            ]
+        },
+        MailItems: [
+            {
+                Slot: 0b,
+                id: 2649s,
+                Count: 5b,
+                Damage: 4s
+            },
+            {
+                Slot: 1b,
+                id: 2649s,
+                Count: 5b,
+                Damage: 10s
+            },
+            {
+                Slot: 2b,
+                id: 2649s,
+                Count: 5b,
+                Damage: 11s
+            },
+            {
+                Slot: 3b,
+                id: 2649s,
+                Count: 5b,
+                Damage: 1s
+            }
+        ],
+        MailQuest: 181,
+        TimePast: 61046L,
+        Time: 1442462808116L,
+        Subject: "Mushrooms are ready!"
+    }
+}

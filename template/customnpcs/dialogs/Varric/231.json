@@ -8,8 +8,18 @@
                 DialogCommand: "",
                 Dialog: 232,
                 Title: "Actually, I am here on behalf of Lt. Cullen to find any information you might have about the disappearances of women around town.",
-                DialogColor: 14737632,
+                DialogColor: 1439281,
                 OptionType: 1
+            }
+        },
+        {
+            OptionSlot: 1,
+            Option: {
+                DialogCommand: "",
+                Dialog: -1,
+                Title: "What do you have to drink?",
+                DialogColor: 14737632,
+                OptionType: 3
             }
         }
     ],
@@ -57,7 +67,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1439402835717L,
+        TimePast: 1442084592495L,
         Time: 0L,
         Subject: ""
     }

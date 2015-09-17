@@ -1,0 +1,74 @@
+{
+    DialogShowWheel: 0b,
+    AvailabilityQuestId: -1,
+    Options: [
+        {
+            OptionSlot: 0,
+            Option: {
+                DialogCommand: "",
+                Dialog: 336,
+                Title: "So basically, you want me to go look, and only come back to you if there is anything unusual?",
+                DialogColor: 65280,
+                OptionType: 1
+            }
+        },
+        {
+            OptionSlot: 5,
+            Option: {
+                DialogCommand: "",
+                Dialog: 331,
+                Title: "Oh, I have heard rumors of that dark place, don’t think so, sorry.",
+                DialogColor: 16711680,
+                OptionType: 1
+            }
+        }
+    ],
+    DialogHideNPC: 0b,
+    AvailabilityFactionStance: 0,
+    AvailabilityQuest: 0,
+    AvailabilityDialog4: 0,
+    AvailabilityDialog3: 0,
+    AvailabilityQuest2: 0,
+    AvailabilityQuest3: 0,
+    AvailabilityQuest4: 0,
+    ModRev: 16,
+    DecreaseFaction1Points: 0b,
+    DialogQuest: -1,
+    AvailabilityDialog2: 0,
+    OptionFactions1: -1,
+    AvailabilityDayTime: 0,
+    OptionFactions2: -1,
+    AvailabilityFaction2Id: -1,
+    OptionFaction1Points: 100,
+    DialogDisableEsc: 0b,
+    AvailabilityFaction: 0,
+    DialogTitle: "Fate of Moria",
+    AvailabilityDialog: 0,
+    AvailabilityFaction2: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityFaction2Stance: 0,
+    DialogCommand: "",
+    AvailabilityDialogId: -1,
+    OptionFaction2Points: 100,
+    DialogText: "I have heard that the dwarves sent an expedition back to Khazad-dûm, supposedly in an effort to retake that evil-infested area.  It has been some time since this was to happen, and I am curious at the results.  I have here a key that will let you in the western-most entrance of that stronghold.  I don’t need specifics, I only want to know if there is anything important, which, being dwarves, I really don’t think there will be.",
+    AvailabilityQuest4Id: -1,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2Id: -1,
+    AvailabilityDialog2Id: -1,
+    AvailabilityDialog3Id: -1,
+    AvailabilityDialog4Id: -1,
+    AvailabilityMinPlayerLevel: 0,
+    DecreaseFaction2Points: 0b,
+    DialogMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1442198039819L,
+        Time: 0L,
+        Subject: ""
+    }
+}

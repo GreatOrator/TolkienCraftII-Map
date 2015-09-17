@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Rotho Brandybuck",
+    NextQuestId: 169,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Hiders and Seekers: Polo",
+    Text: "Head to the south wing of Brandy Hall. Maybe Polo is sneaking a pie in the kitchen pantry while waiting to be found.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1442452584425L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "Ha ha! Rotho sent you to find me, did he? It always takes him so long to find us. Now, where can I hide for our next game?.....",
+    NextQuestTitle: "Return to Rotho",
+    QuestLocation: "Polo Brandybuck"
+}

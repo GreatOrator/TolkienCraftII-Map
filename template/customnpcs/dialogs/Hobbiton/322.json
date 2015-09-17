@@ -1,14 +1,14 @@
 {
     DialogShowWheel: 0b,
-    AvailabilityQuestId: -1,
+    AvailabilityQuestId: 155,
     Options: [
     ],
     DialogHideNPC: 0b,
     AvailabilityFactionStance: 0,
-    AvailabilityQuest: 0,
+    AvailabilityQuest: 1,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    AvailabilityQuest2: 0,
+    AvailabilityQuest2: 2,
     AvailabilityQuest3: 0,
     AvailabilityQuest4: 0,
     ModRev: 16,
@@ -33,7 +33,7 @@
     DialogText: "Well, Holly Goodbody's been pulling her hair out trying to deliver pies. Maybe see if she can put you to work. She is at the Party Tree.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: -1,
+    AvailabilityQuest2Id: 165,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -47,7 +47,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1440884555523L,
+        TimePast: 1442017834956L,
         Time: 0L,
         Subject: ""
     }

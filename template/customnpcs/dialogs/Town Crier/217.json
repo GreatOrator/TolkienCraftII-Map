@@ -7,7 +7,7 @@
             Option: {
                 DialogCommand: "/give @dp 358 1 10{display:{Name:\"Missing Person Poster\"}}",
                 Dialog: 218,
-                Title: "Do you have an extra missing person poster?",
+                Title: "What's the word around town?",
                 DialogColor: 391479,
                 OptionType: 1
             }
@@ -17,7 +17,7 @@
             Option: {
                 DialogCommand: "",
                 Dialog: 230,
-                Title: "Where is the Blooming Rose?",
+                Title: "Where is the nearest bar?",
                 DialogColor: 14737632,
                 OptionType: 1
             }
@@ -67,7 +67,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1438635059128L,
+        TimePast: 1442073214242L,
         Time: 0L,
         Subject: ""
     }

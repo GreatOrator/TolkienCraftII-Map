@@ -1,11 +1,11 @@
 {
     DialogShowWheel: 0b,
-    AvailabilityQuestId: -1,
+    AvailabilityQuestId: 111,
     Options: [
     ],
     DialogHideNPC: 0b,
     AvailabilityFactionStance: 0,
-    AvailabilityQuest: 0,
+    AvailabilityQuest: 4,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
     AvailabilityQuest2: 0,
@@ -22,7 +22,7 @@
     OptionFaction1Points: 100,
     DialogDisableEsc: 0b,
     AvailabilityFaction: 0,
-    DialogTitle: "Sure thing!",
+    DialogTitle: "Missing!",
     AvailabilityDialog: 0,
     AvailabilityFaction2: 0,
     AvailabilityFactionId: -1,
@@ -30,7 +30,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "I have plenty where these came from!",
+    DialogText: "Thomas' wife has gone missing. Take a poster...I have plenty where these came from!",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
@@ -47,7 +47,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1438635297638L,
+        TimePast: 1442073135097L,
         Time: 0L,
         Subject: ""
     }

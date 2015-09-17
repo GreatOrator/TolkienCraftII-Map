@@ -1,0 +1,60 @@
+{
+    CompleterNpc: "Rotho Brandybuck",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Return to Rotho, Yet Again",
+    Text: "Head back to Rotho Brandybuck in the main hall and tell him you found Odo.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    QuestDialogs: [
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1442456470666L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 7006s,
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 5s,
+                            id: 131s
+                        }
+                    ],
+                    RepairCost: 2,
+                    display: {
+                        colour: 11707801,
+                        Name: "Cloak of the Hider"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "You are the best Seeker! If they ever get me to play Hiders and Seekers again, I'll be sure to let you know -- that way you can give me a stern talking-to and ask me what I was thinking!",
+    NextQuestTitle: ""
+}
