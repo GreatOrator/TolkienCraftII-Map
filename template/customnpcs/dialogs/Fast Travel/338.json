@@ -1,6 +1,6 @@
 {
     DialogShowWheel: 0b,
-    AvailabilityQuestId: 167,
+    AvailabilityQuestId: -1,
     Options: [
         {
             OptionSlot: 5,

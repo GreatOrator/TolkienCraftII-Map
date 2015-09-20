@@ -1,11 +1,31 @@
 {
     DialogShowWheel: 0b,
-    AvailabilityQuestId: -1,
+    AvailabilityQuestId: 167,
     Options: [
+        {
+            OptionSlot: 0,
+            Option: {
+                DialogCommand: "",
+                Dialog: -1,
+                Title: "Where would you like to go?",
+                DialogColor: 16776960,
+                OptionType: 3
+            }
+        },
+        {
+            OptionSlot: 5,
+            Option: {
+                DialogCommand: "",
+                Dialog: -1,
+                Title: "Not right now, thank you.",
+                DialogColor: 16711680,
+                OptionType: 0
+            }
+        }
     ],
     DialogHideNPC: 0b,
     AvailabilityFactionStance: 0,
-    AvailabilityQuest: 0,
+    AvailabilityQuest: 1,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
     AvailabilityQuest2: 0,
@@ -22,7 +42,7 @@
     OptionFaction1Points: 100,
     DialogDisableEsc: 0b,
     AvailabilityFaction: 0,
-    DialogTitle: "New__________",
+    DialogTitle: "Fast Travel - On - Esgaroth",
     AvailabilityDialog: 0,
     AvailabilityFaction2: 0,
     AvailabilityFactionId: -1,
@@ -30,7 +50,9 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "",
+    DialogText: "Welcome @p!
+
+I have heard great things and would like to offer you my services!",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
@@ -47,7 +69,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1442282866022L,
+        TimePast: 1442525424135L,
         Time: 0L,
         Subject: ""
     }
