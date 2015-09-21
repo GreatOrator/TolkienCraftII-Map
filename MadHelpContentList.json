@@ -1,7 +1,7 @@
 [
   {
     "displayName": "Land of Draconis",
-    "fileName":"draconis.zip",
+    "fileName": "draconis.zip",
     "description": "Default Modpack Map",
     "info": [
       "Default map required",
@@ -19,7 +19,7 @@
   },
   {
     "displayName": "Land of Middle-earth",
-    "fileName":"content.zip",
+    "fileName": "content.zip",
     "description": "DLC to expand Middle-earth",
     "info": [
       "Extra locations built for",
