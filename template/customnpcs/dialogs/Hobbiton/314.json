@@ -29,7 +29,7 @@
                 Dialog: 318,
                 Title: "Is there anyone else in need of help?",
                 DialogColor: 1700441,
-                OptionType: 1
+                OptionType: 2
             }
         },
         {
@@ -39,7 +39,7 @@
                 Dialog: 322,
                 Title: "Still looking for work!",
                 DialogColor: 130869,
-                OptionType: 1
+                OptionType: 2
             }
         },
         {
@@ -97,7 +97,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1442017779358L,
+        TimePast: 1443189201389L,
         Time: 0L,
         Subject: ""
     }

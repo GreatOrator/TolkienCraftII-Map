@@ -80,7 +80,7 @@
     },
     PotionImmune: 0b,
     AvoidsSun: 0b,
-    Texture: "customnpcs:textures/CustomSkins/Hobbit/skin2013030519081146809.png",
+    Texture: "customnpcs:textures/CustomSkins/MiddleEarth/StableMaster.png",
     NpcJob: 0,
     BurstCount: 1,
     NpcAttackLines: {
@@ -201,8 +201,8 @@
         {
             NPCDialog: {
                 DialogCommand: "",
-                Dialog: 338,
-                Title: "Fast Travel - Off",
+                Dialog: 348,
+                Title: "Fast Travel - Off - Lothlorien",
                 DialogColor: 14737632,
                 OptionType: 2
             },
@@ -211,8 +211,8 @@
         {
             NPCDialog: {
                 DialogCommand: "",
-                Dialog: 337,
-                Title: "Fast Travel - On",
+                Dialog: 347,
+                Title: "Fast Travel - On - Lothlorien",
                 DialogColor: 14737632,
                 OptionType: 2
             },
@@ -300,15 +300,15 @@
     CanPickUpLoot: 0b,
     AttackOtherFactions: 1b,
     CanDrown: 1b,
-    curMana: 100.0f,
+    curMana: 500.85858f,
     AttackTime: 0s,
     pSize: 5,
     CanSprint: 0b,
     CanLeap: 0b,
     TransformIsActive: 0b,
     ForgeData: {
-        WITCInitialWidth: 1.0f,
-        WITCInitialHeight: 1.0f
+        WITCInitialWidth: 0.6f,
+        WITCInitialHeight: 1.9f
     },
     MovingState: 0,
     MovingPos: 0,
@@ -337,11 +337,11 @@
     MovingPause: 1b,
     NpcDeathSound: "minecraft:game.player.hurt",
     FactionID: 18,
-    Title: "Fast Travel",
-    TotalTicksAlive: 17001L,
+    Title: "Stable Master",
+    TotalTicksAlive: 60013L,
     Rotation: [
         85.813965f,
-        0.0f
+        6.145172f
     ],
     ShowName: 0,
     npcInteracting: 1b,

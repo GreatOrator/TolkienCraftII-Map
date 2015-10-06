@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Ethan",
+    NextQuestId: -1,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Messenger",
+    Text: "Now that we have found a fast way to get to Bree, time to seek out this person Malus talked about.  Probably best to check the inn first since that typically is where \"those\" kind of people hang out.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1443662654641L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "You've found him, now time to see what he has to say and what information he can provide me.",
+    NextQuestTitle: "",
+    QuestLocation: ""
+}

@@ -1,0 +1,60 @@
+{
+    CompleterNpc: "Ethan",
+    NextQuestId: -1,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Saruman Ib",
+    Text: "",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 500,
+        OptionFactions1: 13,
+        OptionFactions2: 20,
+        OptionFaction1Points: 1500,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 50,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1443881904845L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 8267s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: 7006s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Herald of Darkness"
+                    }
+                },
+                Damage: 6s
+            }
+        ]
+    },
+    CompleteText: "",
+    NextQuestTitle: "",
+    QuestLocation: "Orthanc"
+}

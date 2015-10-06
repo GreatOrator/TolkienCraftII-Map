@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Legolas",
+    NextQuestId: -1,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Legolas I",
+    Text: "The research I was able to accomplish at Isengard leads me to believe I need to go back to Hobbiton.  I remember seeing someone called Legolas when I went through there the last time.  Perhaps he can shed some light on this?",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1443664077698L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "Êl síla erin lû e-govaned vîn @p.A star shines on the hour of our meeting @p.I have much to tell you.",
+    NextQuestTitle: "",
+    QuestLocation: "middleearth"
+}

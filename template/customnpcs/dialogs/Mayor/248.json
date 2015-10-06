@@ -8,7 +8,7 @@
                 DialogCommand: "",
                 Dialog: 249,
                 Title: "Tell me more about purchasing a house.",
-                DialogColor: 14737632,
+                DialogColor: 65280,
                 OptionType: 1
             }
         },
@@ -18,7 +18,7 @@
                 DialogCommand: "",
                 Dialog: 250,
                 Title: "Tell me more about the trade prospects in town.",
-                DialogColor: 14737632,
+                DialogColor: 65280,
                 OptionType: 1
             }
         }
@@ -67,7 +67,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1438619173275L,
+        TimePast: 1443884308672L,
         Time: 0L,
         Subject: ""
     }

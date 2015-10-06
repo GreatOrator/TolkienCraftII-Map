@@ -11,9 +11,9 @@
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
-        OptionFactions1: -1,
+        OptionFactions1: 18,
         OptionFactions2: -1,
-        OptionFaction1Points: 100,
+        OptionFaction1Points: 500,
         DecreaseFaction2Points: 0b
     },
     RewardExp: 25,
@@ -37,7 +37,7 @@ I am hoping to travel there myself some day so that I may",
         MailItems: [
         ],
         MailQuest: 167,
-        TimePast: 292249L,
+        TimePast: 1038104581L,
         Time: 1442198168367L,
         Subject: "Greetings Hardy Adventurer"
     },
@@ -65,7 +65,7 @@ I am hoping to travel there myself some day so that I may",
             }
         ]
     },
-    CompleteText: "Ah! Here it is! Take this @p, Tenna' ento lye omenta (Until next we meet).
+    CompleteText: "Ah! Here it is! Take this @p, Tenna' ento lye omenta (Until next we meet). I shall also grant you access to the Fast Travel location.
 ",
     NextQuestTitle: "",
     QuestLocation: "elrond"

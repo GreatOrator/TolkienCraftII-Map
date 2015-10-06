@@ -6,7 +6,7 @@
     QuestCompletion: 0,
     IgnoreNBT: 1b,
     Title: "Tier 2",
-    Text: "To complete the exam to become an Apprentice, you need an Apprentice Blood Orb and a Ritual Diviner.",
+    Text: "To complete the exam to become an Apprentice, you need an Apprentice Blood Orb and an Unbound Crystal.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -27,7 +27,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1439331367842L,
+        TimePast: 1443990302124L,
         Time: 0L,
         Subject: ""
     },
@@ -52,10 +52,8 @@
             },
             {
                 Slot: 1b,
-                id: 4884s,
+                id: 4846s,
                 Count: 1b,
-                tag: {
-                },
                 Damage: 0s
             }
         ]

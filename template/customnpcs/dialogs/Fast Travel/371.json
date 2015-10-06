@@ -1,13 +1,13 @@
 {
     DialogShowWheel: 0b,
-    AvailabilityQuestId: 167,
+    AvailabilityQuestId: -1,
     Options: [
         {
             OptionSlot: 0,
             Option: {
                 DialogCommand: "",
                 Dialog: -1,
-                Title: "Where would you like to go?",
+                Title: "What places can I go to?",
                 DialogColor: 16776960,
                 OptionType: 3
             }
@@ -24,8 +24,8 @@
         }
     ],
     DialogHideNPC: 0b,
-    AvailabilityFactionStance: 0,
-    AvailabilityQuest: 1,
+    AvailabilityFactionStance: 2,
+    AvailabilityQuest: 0,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
     AvailabilityQuest2: 0,
@@ -41,11 +41,11 @@
     AvailabilityFaction2Id: -1,
     OptionFaction1Points: 100,
     DialogDisableEsc: 0b,
-    AvailabilityFaction: 0,
+    AvailabilityFaction: 2,
     DialogTitle: "Fast Travel - On - Hobbiton",
     AvailabilityDialog: 0,
     AvailabilityFaction2: 0,
-    AvailabilityFactionId: -1,
+    AvailabilityFactionId: 21,
     AvailabilityFaction2Stance: 0,
     DialogCommand: "",
     AvailabilityDialogId: -1,
@@ -69,7 +69,7 @@ I have heard great things and would like to offer you my services!",
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1442525220856L,
+        TimePast: 1443234534436L,
         Time: 0L,
         Subject: ""
     }

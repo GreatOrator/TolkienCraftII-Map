@@ -14,8 +14,8 @@
         }
     ],
     DialogHideNPC: 0b,
-    AvailabilityFactionStance: 0,
-    AvailabilityQuest: 2,
+    AvailabilityFactionStance: 2,
+    AvailabilityQuest: 0,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
     AvailabilityQuest2: 0,
@@ -31,11 +31,11 @@
     AvailabilityFaction2Id: -1,
     OptionFaction1Points: 100,
     DialogDisableEsc: 0b,
-    AvailabilityFaction: 0,
+    AvailabilityFaction: 1,
     DialogTitle: "Fast Travel - Off - Esgaroth",
     AvailabilityDialog: 0,
     AvailabilityFaction2: 0,
-    AvailabilityFactionId: -1,
+    AvailabilityFactionId: 18,
     AvailabilityFaction2Stance: 0,
     DialogCommand: "",
     AvailabilityDialogId: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1442525415888L,
+        TimePast: 1443234922522L,
         Time: 0L,
         Subject: ""
     }

@@ -13,12 +13,15 @@
 -1757 64 164 -1754 67 167 EmeraldOreOutcrop.tml
 -1742 64 5 -1739 68 7 SkeletonHeadStatue.tml
 -1699 67 233 -1687 75 243 StoneHouseMruined.tml
--1692 64 -103 -1682 76 -95 ArrowTrapTomb.tml
 -1692 69 -198 -1683 83 -189 MoaiHead.tml
+-1692 64 -103 -1682 76 -95 ArrowTrapTomb.tml
 -1691 70 79 -1686 72 86 PumpkinField.tml
+-1675 62 600 -1672 65 603 EmeraldOreOutcrop.tml
 -1657 72 -12 -1653 77 -9 StonePillar.tml
 -1653 66 148 -1646 69 155 TinyFarmField.tml
 -1616 62 -77 -1604 70 -67 StoneHouseMruined.tml
 -1607 64 -146 -1604 67 -143 StoneGrill.tml
 -1598 61 577 -1593 66 582 CaveSpiderBurrow.tml
+-1497 73 532 -1494 77 534 SkeletonHeadStatue.tml
+-1407 52 592 -1404 55 595 EmeraldOreOutcrop.tml
 -1397 49 -212 -1389 62 -186 shipwreck.tml

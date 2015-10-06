@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1442456470666L,
+        TimePast: 1443972742511L,
         Time: 0L,
         Subject: ""
     },
@@ -36,20 +36,9 @@
         NpcMiscInv: [
             {
                 Slot: 0b,
-                id: 7006s,
+                id: 6343s,
                 Count: 1b,
                 tag: {
-                    ench: [
-                        {
-                            lvl: 5s,
-                            id: 131s
-                        }
-                    ],
-                    RepairCost: 2,
-                    display: {
-                        colour: 11707801,
-                        Name: "Cloak of the Hider"
-                    }
                 },
                 Damage: 0s
             }
