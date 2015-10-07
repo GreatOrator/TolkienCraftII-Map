@@ -1,11 +1,11 @@
 {
-    CompleterNpc: "Francis Wille",
+    CompleterNpc: "Hartgard Knotwise",
     NextQuestId: -1,
     RandomReward: 0b,
     QuestRepeat: 2,
     QuestCompletion: 0,
     Title: "A Daily Hunt",
-    Text: "Warg can be found roaming to the east of here. You should defeat 10 wargs in Dale then return back to Francis Wille.",
+    Text: "Boars can be found roaming to the east of here. You should defeat 10 Boars in the Shire then return back to Hartgard Knotwise.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -19,7 +19,7 @@
     QuestDialogs: [
         {
             Value: 10,
-            Slot: "lotr.AngmarWarg"
+            Slot: "lotr.Boar"
         }
     ],
     ModRev: 16,
@@ -32,7 +32,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443896363351L,
+        TimePast: 1444185354667L,
         Time: 0L,
         Subject: ""
     },
@@ -82,6 +82,6 @@
             }
         ]
     },
-    CompleteText: "Thank you @p, thank you for defeating those wargs, unfortunately they will return, so I may need your help again in the future.",
+    CompleteText: "Thank you @p, thank you for defeating those Boars, unfortunately they will return, so I may need your help again in the future.",
     NextQuestTitle: ""
 }

@@ -27,7 +27,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1444075948714L,
+        TimePast: 1444174061729L,
         Time: 0L,
         Subject: ""
     },
@@ -36,7 +36,7 @@
         NpcMiscInv: [
             {
                 Slot: 0b,
-                id: 1782s,
+                id: 6387s,
                 Count: 1b,
                 Damage: 0s
             }

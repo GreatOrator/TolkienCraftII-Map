@@ -1,0 +1,45 @@
+{
+    CompleterNpc: "Daniel",
+    NextQuestId: 273,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "The Horned Huntsman",
+    Text: "Defeat the Horned Huntsman to rid DragonBurg of werewolves once and for all.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: 14,
+        OptionFactions2: -1,
+        OptionFaction1Points: 1000,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Value: 1,
+            Slot: "The Horned Huntsman"
+        }
+    ],
+    ModRev: 16,
+    Type: 4,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1444184623793L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "",
+    NextQuestTitle: "More Bad News"
+}
