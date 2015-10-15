@@ -1,12 +1,12 @@
 {
-    CompleterNpc: "Thordal Blacksword",
+    CompleterNpc: "Filarion",
     NextQuestId: -1,
     RandomReward: 1b,
     QuestRepeat: 2,
     QuestCompletion: 0,
     IgnoreNBT: 1b,
     Title: "A cauldron of iron",
-    Text: "Thordal Blacksword is working to forge an iron cauldron to fill with oil to be used against the forces of orcs as they try to maintain peace in Erebor. He has asked you to help collect the 16 iron ore needed to help forge the cauldron.",
+    Text: "Filarion is working to forge an iron cauldron to fill with oil to be used against the forces of orcs as they try to maintain peace in Rivendell. He has asked you to help collect the 16 iron ore needed to help forge the cauldron.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -27,7 +27,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443896361901L,
+        TimePast: 1444233816916L,
         Time: 0L,
         Subject: ""
     },

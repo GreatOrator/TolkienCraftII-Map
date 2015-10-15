@@ -1,12 +1,12 @@
 {
-    CompleterNpc: "Ethelbert Harte",
+    CompleterNpc: "Nathaniel Hyll",
     NextQuestId: -1,
     RandomReward: 1b,
     QuestRepeat: 2,
     QuestCompletion: 0,
     IgnoreNBT: 0b,
     Title: "In need of supplies",
-    Text: "You accepted a task with finding orc bones from orcs making Rhovanion their home. Ethelbert awaits the delivery of these items at Dale.",
+    Text: "You accepted a task with finding orc bones from orcs making Gondor their home. Nathaniel awaits the delivery of these items at Osgiliath.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -27,7 +27,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443896368613L,
+        TimePast: 1444334661223L,
         Time: 0L,
         Subject: ""
     },

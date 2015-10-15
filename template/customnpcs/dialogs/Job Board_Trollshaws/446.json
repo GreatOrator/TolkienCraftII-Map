@@ -40,7 +40,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "If you could, slay the ones that did this, they went south of here and see if they have any of the pages. I seem to be missing about 3 pages all told. Once I have all the pages, I should be able to finish reading this!",
+    DialogText: "If you could, slay the ones that did this, they went west of here and see if they have any of the pages. I seem to be missing about 3 pages all told. Once I have all the pages, I should be able to finish reading this!",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443894728046L,
+        TimePast: 1444233002102L,
         Time: 0L,
         Subject: ""
     }

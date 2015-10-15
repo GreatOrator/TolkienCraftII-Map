@@ -28,7 +28,7 @@
     AvailabilityQuest: 1,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    AvailabilityQuest2: 0,
+    AvailabilityQuest2: 2,
     AvailabilityQuest3: 0,
     AvailabilityQuest4: 0,
     ModRev: 16,
@@ -50,10 +50,10 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "The folk at Esgaroth are not the wealthiest sort here, friend. We barely make our lives comfortable, and the orcs overrunning the western area have turned here into a lonelier place than ever. If you've time to offer, there's work to be done! Our fortune is about to change, though -- I've devised a way to make the road safe! Kill the creature at the top, and the rest will turn aside!",
+    DialogText: "The folk at Osgiliath are not the wealthiest sort here, friend. We barely make our lives comfortable, and the orcs overrunning the eastern area have turned here into a lonelier place than ever. If you've time to offer, there's work to be done! Our fortune is about to change, though -- I've devised a way to make the road safe! Kill the creature at the top, and the rest will turn aside!",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: -1,
+    AvailabilityQuest2Id: 227,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -67,7 +67,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443895652558L,
+        TimePast: 1444334427510L,
         Time: 0L,
         Subject: ""
     }

@@ -1,9 +1,9 @@
 {
     CompleterNpc: "Giselda",
-    NextQuestId: 267,
+    NextQuestId: 274,
     RandomReward: 0b,
     QuestRepeat: 0,
-    QuestCompletion: 1,
+    QuestCompletion: 0,
     Title: "A Visit to the Shop",
     Text: "You should visit Giselda at her shop by the docks to find out what she has learned about the fur.",
     QuestFactionPoints: {
@@ -17,10 +17,6 @@
     RewardExp: 25,
     QuestCommand: "",
     QuestDialogs: [
-        {
-            Integer: 538,
-            Slot: 0
-        }
     ],
     ModRev: 16,
     Type: 1,
@@ -32,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1444185799459L,
+        TimePast: 1444226514919L,
         Time: 0L,
         Subject: ""
     },
@@ -40,6 +36,6 @@
         NpcMiscInv: [
         ]
     },
-    CompleteText: "All you need to do is ask for any book of legends about DragonBurg. That shouldn't raise any eyebrows. Make up a story!",
-    NextQuestTitle: "Dusty Legends"
+    CompleteText: "I have some fascinating results!",
+    NextQuestTitle: "Strange Fur"
 }

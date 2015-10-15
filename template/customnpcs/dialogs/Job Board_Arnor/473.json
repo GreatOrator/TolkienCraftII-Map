@@ -40,7 +40,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "The Wargs to the east pour through the mountains daily, making Dale especially deadly. Can you defeat wargs in Dale?",
+    DialogText: "The wargs to the west pour through the mountains daily, making Bree especially deadly. Can you defeat wargs in Bree?",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1444131873296L,
+        TimePast: 1444357386558L,
         Time: 0L,
         Subject: ""
     }

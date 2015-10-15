@@ -53,7 +53,7 @@
     DialogText: "Oh dear, this isn't good, not good at all. Many of the pages of this enchanted book are missing, as if it were shaken and torn by a beast. Look here, see the claw marks? Goodness, those claw marks might be from an orc! I wonder if some of the beasts took the pages, perhaps as a trophy? Yes, yes, I know it sounds strange, but I've heard a tale or two of them doing such things.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: 203,
+    AvailabilityQuest2Id: 218,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -67,7 +67,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443894612542L,
+        TimePast: 1444232998634L,
         Time: 0L,
         Subject: ""
     }

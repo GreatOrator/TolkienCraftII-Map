@@ -43,7 +43,7 @@
     DialogText: "A terrible fate for certain, but no different than they shall do to us. Go quickly, @p, for we must prepare our defence.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: 202,
+    AvailabilityQuest2Id: 217,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443891477978L,
+        TimePast: 1444231360577L,
         Time: 0L,
         Subject: ""
     }

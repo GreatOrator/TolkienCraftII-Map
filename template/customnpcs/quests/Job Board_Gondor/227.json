@@ -1,5 +1,5 @@
 {
-    CompleterNpc: "Ralph Middleton",
+    CompleterNpc: "Nicholas Coterel",
     NextQuestId: -1,
     RandomReward: 1b,
     QuestRepeat: 2,
@@ -27,7 +27,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443896365752L,
+        TimePast: 1444334460763L,
         Time: 0L,
         Subject: ""
     },

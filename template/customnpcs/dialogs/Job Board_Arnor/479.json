@@ -40,7 +40,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "I need some help making this work. If you're willing, head west into the brush and get me some warg fur. Everyone knows that orc-like things eat warg-like things. Get just enough fur to make a meal for a Orc or two! What's wrong? wargs are deadly creatures when angry, and their fur will serve my purposes nicely. Don't you want to end the threat of orcs and wargs? Then get out there and hunt some wargs! No excuses! We'll be killing two wargs or orcs with one stone! Ha ha ha!",
+    DialogText: "I need some help making this work. If you're willing, head west into the brush and get me some raw pork chops. Everyone knows that orc-like things eat pig-like things. Get just enough meat to make a meal for a Orc or two! What's wrong? pigs are deadly creatures when angry, and their meat will serve my purposes nicely. Don't you want to end the threat of orcs and pigs? Then get out there and hunt some pigs! No excuses! We'll be killing two pigs or orcs with one stone! Ha ha ha!",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1444131877197L,
+        TimePast: 1444361501188L,
         Time: 0L,
         Subject: ""
     }

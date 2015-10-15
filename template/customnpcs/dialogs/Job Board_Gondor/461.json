@@ -40,7 +40,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "The Wargs to the east pour through the mountains daily, making Dale especially deadly. Can you defeat wargs in Dale?",
+    DialogText: "The orcs to the north pour through the mountains daily, making Gondor especially deadly. Can you defeat wargs in Minas Tirith?",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443894687845L,
+        TimePast: 1444332013269L,
         Time: 0L,
         Subject: ""
     }

@@ -1,12 +1,12 @@
 {
-    CompleterNpc: "Ralph Middleton",
+    CompleterNpc: "Selgauth",
     NextQuestId: -1,
     RandomReward: 1b,
     QuestRepeat: 2,
     QuestCompletion: 0,
     IgnoreNBT: 0b,
     Title: "A Meal fit for an Animal",
-    Text: "Get out there and get me 32 warg fur. I can't make something that the orcs will eat without the proper supplies. Without the food, the orcs will keep attacking travellers. Without travellers, this place is barren, and I make no money to send back to my Gammer! So hurry, you fool! It'll be wargs...and that will mean fewer orcs!",
+    Text: "Get out there and get me 32 raw rabbit. I can't make something that the orcs will eat without the proper supplies. Without the food, the orcs will keep attacking travellers. Without travellers, this place is barren, and I make no money to send back to my Gammer! So hurry, you fool! It'll be rabbits...and that will mean fewer orcs!",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -27,7 +27,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443896365752L,
+        TimePast: 1444234363894L,
         Time: 0L,
         Subject: ""
     },
@@ -82,7 +82,7 @@
         NpcMiscInv: [
             {
                 Slot: 0b,
-                id: 4190s,
+                id: 4333s,
                 Count: 32b,
                 Damage: 0s
             }

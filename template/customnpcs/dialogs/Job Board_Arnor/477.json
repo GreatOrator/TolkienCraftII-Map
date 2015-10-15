@@ -40,7 +40,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "If you can rid the other side of the bridge of this menace, I do believe we will have secured Esgaroth against the greater threat of wargs.",
+    DialogText: "If you can rid the area of this menace, I do believe we will have secured Arnor against the greater threat of wargs.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1444131875148L,
+        TimePast: 1444358747254L,
         Time: 0L,
         Subject: ""
     }

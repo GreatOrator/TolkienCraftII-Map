@@ -28,7 +28,7 @@
     AvailabilityQuest: 1,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    AvailabilityQuest2: 0,
+    AvailabilityQuest2: 2,
     AvailabilityQuest3: 0,
     AvailabilityQuest4: 0,
     ModRev: 16,
@@ -53,7 +53,7 @@
     DialogText: "Greetings @p, don't be surprised that I know who you are, my lord Saruman knows much about you and your adventures \"Hero of Draconis\".I have but one purpose, and unfortunately it is not to kill you, it is to deliver a message.Saruman would seek an audience with you and would like you to go see him in Orthanc as your earliest convenience.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: -1,
+    AvailabilityQuest2Id: 185,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -67,7 +67,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443662258976L,
+        TimePast: 1444226975656L,
         Time: 0L,
         Subject: ""
     }

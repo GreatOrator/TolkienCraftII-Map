@@ -50,10 +50,10 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "@p you will not believe what report I have heard. One of our scouts returned and said he saw a deadly-looking Warg bearing a great burden -- a(n) orc that was unconscious from weakness. This warg carried her prey in the direction of the other side of the bridge, west from here. Will you pursue her there? I fear for our safety with such a monster roaming about, though I'll not hold her choice of food against her.",
+    DialogText: "@p you will not believe what report I have heard. One of our scouts returned and said he saw a deadly-looking Warg bearing a great burden -- a(n) orc that was unconscious from weakness. This warg carried her prey in the direction of the hills, east from here. Will you pursue her there? I fear for our safety with such a monster roaming about, though I'll not hold her choice of food against her.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: 207,
+    AvailabilityQuest2Id: 234,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -67,7 +67,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1444131874473L,
+        TimePast: 1444361519187L,
         Time: 0L,
         Subject: ""
     }

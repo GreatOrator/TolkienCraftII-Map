@@ -32,7 +32,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1444187713490L,
+        TimePast: 1444228048407L,
         Time: 0L,
         Subject: ""
     },
@@ -118,12 +118,29 @@
                             xCenter: -1408
                         }
                     ],
-                    mapSlot: 7,
+                    mapSlot: 10,
+                    compassX: -1267,
+                    compassZ: 465,
                     autoCenter: 1b,
                     autoCreate: 0b,
-                    lastGUImode: 0,
                     containerUpdate: 0b,
+                    savedCompass: 0,
+                    prevAngle: -89.00929538553692d,
+                    needleAngle: -90.27911f,
+                    lastGUImode: 0,
+                    time: 3.579000000000002d,
                     Inventory: [
+                        {
+                            Slot: 0b,
+                            id: 4797s,
+                            Count: 1b,
+                            tag: {
+                                XCoord: -1267,
+                                ZCoord: 465,
+                                WaypointName: " Wolves Den"
+                            },
+                            Damage: 0s
+                        },
                         {
                             Slot: 6b,
                             id: 358s,
@@ -186,7 +203,7 @@
                         }
                     ]
                 },
-                Damage: 15s
+                Damage: 18s
             }
         ]
     },

@@ -1,6 +1,6 @@
 {
     DialogShowWheel: 0b,
-    AvailabilityQuestId: 265,
+    AvailabilityQuestId: -1,
     Options: [
         {
             OptionSlot: 0,
@@ -15,7 +15,7 @@
     ],
     DialogHideNPC: 0b,
     AvailabilityFactionStance: 0,
-    AvailabilityQuest: 1,
+    AvailabilityQuest: 0,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
     AvailabilityQuest2: 0,
@@ -24,7 +24,7 @@
     ModRev: 16,
     DecreaseFaction1Points: 0b,
     DialogQuest: -1,
-    AvailabilityDialog2: 0,
+    AvailabilityDialog2: 2,
     OptionFactions1: -1,
     AvailabilityDayTime: 0,
     OptionFactions2: -1,
@@ -33,18 +33,18 @@
     DialogDisableEsc: 0b,
     AvailabilityFaction: 0,
     DialogTitle: "Bad News",
-    AvailabilityDialog: 2,
+    AvailabilityDialog: 1,
     AvailabilityFaction2: 0,
     AvailabilityFactionId: -1,
     AvailabilityFaction2Stance: 0,
     DialogCommand: "",
-    AvailabilityDialogId: 536,
+    AvailabilityDialogId: 533,
     OptionFaction2Points: 100,
     DialogText: "Oh Father.... Mother...Daniel!!! **sobs** I should have gone to them when I first heard the reports.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
-    AvailabilityDialog2Id: -1,
+    AvailabilityDialog2Id: 536,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
     AvailabilityMinPlayerLevel: 0,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1444185536218L,
+        TimePast: 1444225811989L,
         Time: 0L,
         Subject: ""
     }

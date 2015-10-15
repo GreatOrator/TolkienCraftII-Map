@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443662654641L,
+        TimePast: 1444754806997L,
         Time: 0L,
         Subject: ""
     },
@@ -38,5 +38,5 @@
     },
     CompleteText: "You've found him, now time to see what he has to say and what information he can provide me.",
     NextQuestTitle: "",
-    QuestLocation: ""
+    QuestLocation: "Messenger"
 }

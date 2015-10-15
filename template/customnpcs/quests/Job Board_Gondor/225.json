@@ -1,11 +1,11 @@
 {
-    CompleterNpc: "Francis Wille",
+    CompleterNpc: "Harry Adams",
     NextQuestId: -1,
     RandomReward: 0b,
     QuestRepeat: 2,
     QuestCompletion: 0,
     Title: "A Daily Hunt",
-    Text: "Warg can be found roaming to the east of here. You should defeat 10 wargs in Dale then return back to Francis Wille.",
+    Text: "Orcs can be found roaming to the north of here. You should defeat 10 orcs in Minas Tirith then return back to Harry Adams.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -19,7 +19,7 @@
     QuestDialogs: [
         {
             Value: 10,
-            Slot: "lotr.AngmarWarg"
+            Slot: "lotr.MordorOrc"
         }
     ],
     ModRev: 16,
@@ -32,7 +32,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443896363351L,
+        TimePast: 1444332251124L,
         Time: 0L,
         Subject: ""
     },
@@ -82,6 +82,6 @@
             }
         ]
     },
-    CompleteText: "Thank you @p, thank you for defeating those wargs, unfortunately they will return, so I may need your help again in the future.",
+    CompleteText: "Thank you @p, thank you for defeating those orcs, unfortunately they will return, so I may need your help again in the future.",
     NextQuestTitle: ""
 }

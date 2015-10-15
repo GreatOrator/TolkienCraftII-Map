@@ -50,7 +50,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "The folk at Esgaroth are not the wealthiest sort here, friend. We barely make our lives comfortable, and the orcs overrunning the western area have turned here into a lonelier place than ever. If you've time to offer, there's work to be done! Our fortune is about to change, though -- I've devised a way to make the road safe! Kill the creature at the top, and the rest will turn aside!",
+    DialogText: "The folk in the Trollshaws are not the wealthiest sort here, friend. They barely make their lives comfortable, and the orcs overrunning the western area have turned it into a lonelier place than ever. If you've time to offer, there's work to be done! Our fortune is about to change, though -- I've devised a way to make the road safe! Kill the creature at the top, and the rest will turn aside!",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
@@ -67,7 +67,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443895652558L,
+        TimePast: 1444234418654L,
         Time: 0L,
         Subject: ""
     }

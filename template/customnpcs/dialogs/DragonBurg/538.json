@@ -1,6 +1,6 @@
 {
     DialogShowWheel: 0b,
-    AvailabilityQuestId: 268,
+    AvailabilityQuestId: 266,
     Options: [
         {
             OptionSlot: 0,
@@ -15,10 +15,10 @@
     ],
     DialogHideNPC: 0b,
     AvailabilityFactionStance: 0,
-    AvailabilityQuest: 2,
+    AvailabilityQuest: 1,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    AvailabilityQuest2: 0,
+    AvailabilityQuest2: 2,
     AvailabilityQuest3: 0,
     AvailabilityQuest4: 0,
     ModRev: 16,
@@ -33,17 +33,17 @@
     DialogDisableEsc: 0b,
     AvailabilityFaction: 0,
     DialogTitle: "Strange Fur",
-    AvailabilityDialog: 1,
+    AvailabilityDialog: 0,
     AvailabilityFaction2: 0,
     AvailabilityFactionId: -1,
     AvailabilityFaction2Stance: 0,
     DialogCommand: "",
-    AvailabilityDialogId: 536,
+    AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
     DialogText: "I tested the fur you found at the farm. As I suspected, this is not normal wolf fur. It has wolf and human properties in it. If I didn't know better, I would say this came from a werewolf!",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: -1,
+    AvailabilityQuest2Id: 274,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1444186401919L,
+        TimePast: 1444226716830L,
         Time: 0L,
         Subject: ""
     }
