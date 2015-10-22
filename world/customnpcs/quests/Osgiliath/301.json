@@ -1,0 +1,100 @@
+{
+    CompleterNpc: "Tzerlag",
+    NextQuestId: 302,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "A Mission for a Mission",
+    Text: "Head back to Tzerlag with the medical supplies. Hopefully, he has had success as well.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1445049465824L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 8268s,
+                Count: 1b,
+                tag: {
+                    PlayerUUID: "dc8c8a01-2b19-4e24-8b16-2e5d3cd8e0c2",
+                    display: {
+                        Name: "Osgiliath-stone"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 6402s,
+                Count: 1b,
+                tag: {
+                    display: {
+                        Lore: [
+                            "Powdered mandrake from Misty Mountains"
+                        ],
+                        Name: "Coagulant"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: 6356s,
+                Count: 1b,
+                tag: {
+                    display: {
+                        Lore: [
+                            "Spider webs with healing lichen"
+                        ],
+                        Name: "Antiseptic"
+                    }
+                },
+                Damage: 58s
+            },
+            {
+                Slot: 2b,
+                id: 8138s,
+                Count: 1b,
+                tag: {
+                    display: {
+                        Lore: [
+                            "Poppy seeds from Khand"
+                        ],
+                        Name: "Analgesic"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "I think this is the object you are looking for. Pretty heavy for a small sphere.",
+    NextQuestTitle: "Every Stone Unturned "
+}

@@ -1,0 +1,58 @@
+{
+    CompleterNpc: "Gandalf Greyhame",
+    NextQuestId: 93,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    IgnoreNBT: 1b,
+    Title: "Head of the Order I",
+    Text: "Time to locate those staves for Gandalf, wonder why he just does go find them? The first one looks to be close by, the forest maybe?First on my list - Earth",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1444754736146L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5216s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Staff of Earth"
+                    }
+                },
+                Damage: 5s
+            }
+        ]
+    },
+    LeaveItems: 1b,
+    CompleteText: "First one done!  That wasn't so hard, wonder where the next one is hiding?",
+    NextQuestTitle: "Head of the Order II"
+}

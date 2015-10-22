@@ -1,0 +1,212 @@
+{
+    CompleterNpc: "Shyla Trevil",
+    NextQuestId: 270,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "A Familiar Name",
+    Text: "Giselda recognized the name of her mentor in the book of legends. How is that possible? Nevertheless, you should go talk to Shyla Trevil in the woods west of town.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Integer: 546,
+            Slot: 0
+        }
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1445437940975L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 7341s,
+                Count: 1b,
+                tag: {
+                    zoomLevel: 0,
+                    maps: [
+                        {
+                            zCenter: 256,
+                            mapScale: 0,
+                            mapName: "Map_16",
+                            xCenter: -1280
+                        },
+                        {
+                            zCenter: 384,
+                            mapScale: 0,
+                            mapName: "Map_15",
+                            xCenter: -1280
+                        },
+                        {
+                            zCenter: 512,
+                            mapScale: 0,
+                            yMapWaypoints: [
+                                0.14485316f
+                            ],
+                            MapWaypointNames: [
+                                "Ancient Werewolf Den"
+                            ],
+                            MapWaypointColors: [
+                                0.0f
+                            ],
+                            mapName: "Map_14",
+                            xMapWaypoints: [
+                                0.5856926f
+                            ],
+                            xCenter: -1280
+                        },
+                        {
+                            zCenter: 128,
+                            mapScale: 0,
+                            mapName: "Map_17",
+                            xCenter: -1280
+                        },
+                        {
+                            zCenter: 256,
+                            mapScale: 0,
+                            mapName: "Map_18",
+                            xCenter: -1408
+                        },
+                        {
+                            zCenter: 128,
+                            mapScale: 0,
+                            mapName: "Map_19",
+                            xCenter: -1152
+                        },
+                        {
+                            zCenter: 256,
+                            mapScale: 0,
+                            mapName: "Map_20",
+                            xCenter: -1152
+                        },
+                        {
+                            zCenter: 384,
+                            mapScale: 0,
+                            mapName: "Map_21",
+                            xCenter: -1152
+                        },
+                        {
+                            zCenter: 512,
+                            mapScale: 0,
+                            mapName: "Map_22",
+                            xCenter: -1152
+                        },
+                        {
+                            zCenter: 512,
+                            mapScale: 0,
+                            mapName: "Map_23",
+                            xCenter: -1408
+                        }
+                    ],
+                    mapSlot: 10,
+                    compassX: -1267,
+                    compassZ: 465,
+                    autoCenter: 1b,
+                    autoCreate: 0b,
+                    containerUpdate: 0b,
+                    savedCompass: 0,
+                    prevAngle: -89.00929538553692d,
+                    needleAngle: -90.27911f,
+                    lastGUImode: 0,
+                    time: 3.579000000000002d,
+                    Inventory: [
+                        {
+                            Slot: 0b,
+                            id: 4797s,
+                            Count: 1b,
+                            tag: {
+                                XCoord: -1267,
+                                ZCoord: 465,
+                                WaypointName: "Wolves Den"
+                            },
+                            Damage: 0s
+                        },
+                        {
+                            Slot: 6b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 16s
+                        },
+                        {
+                            Slot: 7b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 15s
+                        },
+                        {
+                            Slot: 8b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 14s
+                        },
+                        {
+                            Slot: 9b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 17s
+                        },
+                        {
+                            Slot: 10b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 18s
+                        },
+                        {
+                            Slot: 11b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 19s
+                        },
+                        {
+                            Slot: 12b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 20s
+                        },
+                        {
+                            Slot: 13b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 21s
+                        },
+                        {
+                            Slot: 14b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 22s
+                        },
+                        {
+                            Slot: 15b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 23s
+                        }
+                    ]
+                },
+                Damage: 18s
+            }
+        ]
+    },
+    CompleteText: "I have marked the location of the den on this map. Good luck!",
+    NextQuestTitle: "Into the Wolves Den"
+}

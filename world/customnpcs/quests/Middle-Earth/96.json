@@ -1,0 +1,70 @@
+{
+    CompleterNpc: "Gandalf Greyhame",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 1b,
+    Title: "Head of the Order V",
+    Text: "The staves should go in the table on the far-left side from top to bottom in the following order:EarthAirFireWaterBring me the finished staff once complete.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "Chald",
+        MailQuestTitle: "Secret Recipe I",
+        BeenRead: 0b,
+        Message: {
+            pages: [
+                "Greetings Hero,
+
+The work you have done has helped immensely, but I have a favor to ask of you if you would.
+
+I hear of a great wizard named Gandalf and he has an elixer that may help me.
+",
+                "If you would speak with him and see if he can grant us some if this as I hear it can dramatically increase the power of our arrows with but a tiny amount.
+
+-Chald"
+            ]
+        },
+        MailItems: [
+        ],
+        MailQuest: 99,
+        TimePast: 3225836989L,
+        Time: 1441989093263L,
+        Subject: "Draught of Fire"
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 7524s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Saruman's Staff"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "You have my gratitude sir!I hope the work was not too much for such a hearty adventurer.",
+    NextQuestTitle: ""
+}

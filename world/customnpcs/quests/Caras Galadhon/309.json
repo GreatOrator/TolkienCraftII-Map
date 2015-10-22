@@ -1,0 +1,58 @@
+{
+    CompleterNpc: "Hiding Spot",
+    NextQuestId: 310,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Hiding the Stone",
+    Text: "Place the stone next to the large tree to the right of the ritual.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1445227487591L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 8268s,
+                Count: 1b,
+                tag: {
+                    PlayerUUID: "dc8c8a01-2b19-4e24-8b16-2e5d3cd8e0c2",
+                    display: {
+                        Name: "Osgiliath-stone"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "I haven’t heard from Saruman, so the mission must still be a go.",
+    NextQuestTitle: "Orodruin"
+}

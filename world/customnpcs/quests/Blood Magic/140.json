@@ -1,0 +1,47 @@
+{
+    CompleterNpc: "Commander Meredith",
+    NextQuestId: 139,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Dungeon Nether Star",
+    Text: "",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    QuestDialogs: [
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1445437807970L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 399s,
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "Here take this with you to the temple! I don't want it near the town again.",
+    NextQuestTitle: "More Allies"
+}

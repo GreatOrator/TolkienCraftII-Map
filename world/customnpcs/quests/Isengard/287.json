@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Saruman",
+    NextQuestId: 290,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Minas Ithil",
+    Text: "So, I am off to Minas Ithil (Morgul) to hire a tracker.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1445351785819L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "I have arrived at Minas Ithil. This is quite a fortress! I need to find the commander.",
+    NextQuestTitle: "Commander of the South Army",
+    QuestLocation: "Minas Ithil"
+}

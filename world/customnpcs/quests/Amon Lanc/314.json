@@ -1,0 +1,107 @@
+{
+    CompleterNpc: "Khamul",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Informing Khamul",
+    Text: "Well, I think I should tell Khamul what happened to the palantir and how Saruman had a change of heart at the end. I will head back to Amon Lanc. (complete your HQM quest as well)",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 250,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1445365135701L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 4s
+            },
+            {
+                Slot: 1b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 4s
+            },
+            {
+                Slot: 2b,
+                id: 2350s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: 6699s,
+                Count: 1b,
+                tag: {
+                    nodetype: 5,
+                    Aspects: [
+                        {
+                            amount: 200,
+                            key: "perditio"
+                        },
+                        {
+                            amount: 200,
+                            key: "aer"
+                        },
+                        {
+                            amount: 200,
+                            key: "ordo"
+                        },
+                        {
+                            amount: 200,
+                            key: "terra"
+                        },
+                        {
+                            amount: 200,
+                            key: "aqua"
+                        },
+                        {
+                            amount: 200,
+                            key: "ignis"
+                        }
+                    ],
+                    nodemod: 0,
+                    nodeid: "100:67778:62:21148"
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 8266s,
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "The palantir broke into shards? I will have to examine them to find out why. I am disappointed with Saruman and will have to keep my eye on him. Thank you for all your efforts and may need your help in the future. I cannot tarry here long for my master needs me in Mordor. Farewell.",
+    NextQuestTitle: ""
+}

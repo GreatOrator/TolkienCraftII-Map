@@ -1,42 +1,0 @@
-{
-    CompleterNpc: "Ahab",
-    NextQuestId: 111,
-    QuestLocation3: "",
-    RandomReward: 0b,
-    QuestLocation2: "",
-    QuestRepeat: 0,
-    QuestCompletion: 0,
-    Title: "Speak to Ahab",
-    Text: "Trading with new towns?Can't wait to see what these towns have to offer!Guess I'll go see Ahab.",
-    QuestFactionPoints: {
-        DecreaseFaction1Points: 0b,
-        OptionFaction2Points: 100,
-        OptionFactions1: -1,
-        OptionFactions2: -1,
-        OptionFaction1Points: 100,
-        DecreaseFaction2Points: 0b
-    },
-    RewardExp: 25,
-    QuestCommand: "",
-    ModRev: 16,
-    Type: 3,
-    QuestMail: {
-        Sender: "",
-        BeenRead: 0b,
-        Message: {
-        },
-        MailItems: [
-        ],
-        MailQuest: -1,
-        TimePast: 1438560190587L,
-        Time: 0L,
-        Subject: ""
-    },
-    Rewards: {
-        NpcMiscInv: [
-        ]
-    },
-    CompleteText: "The King told me you were coming, We were just getting ready to leave, where did you want me to drop you off?",
-    NextQuestTitle: "Take a Look Around",
-    QuestLocation: "Ahab"
-}

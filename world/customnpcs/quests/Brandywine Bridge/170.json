@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Rotho Brandybuck",
+    NextQuestId: 171,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Hiders and Seekers: Daisy",
+    Text: "Head to the north wing of Brandy Hall. Daisy is familiar with the ale room; maybe she is hiding there.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1442452594756L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "Rotho sent you to look for me? Oh, he always gives up so easily.  Anyway, I'll wait here until Rotho finds everyone else. This is a great hiding spot, isn't it? ",
+    NextQuestTitle: "Return to Rotho, Again",
+    QuestLocation: "Daisy Brandybuck"
+}

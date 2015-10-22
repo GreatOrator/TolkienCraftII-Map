@@ -1,0 +1,275 @@
+{
+    TraderCurrency: {
+        NpcMiscInv: [
+            {
+                Slot: 32b,
+                id: 4185s,
+                Count: 56b,
+                Damage: 0s
+            },
+            {
+                Slot: 33b,
+                id: 4185s,
+                Count: 10b,
+                Damage: 0s
+            },
+            {
+                Slot: 34b,
+                id: 4185s,
+                Count: 24b,
+                Damage: 0s
+            },
+            {
+                Slot: 35b,
+                id: 4185s,
+                Count: 56b,
+                Damage: 0s
+            },
+            {
+                Slot: 19b,
+                id: 4185s,
+                Count: 14b,
+                Damage: 0s
+            },
+            {
+                Slot: 20b,
+                id: 4185s,
+                Count: 32b,
+                Damage: 0s
+            },
+            {
+                Slot: 21b,
+                id: 4185s,
+                Count: 10b,
+                Damage: 0s
+            },
+            {
+                Slot: 22b,
+                id: 4185s,
+                Count: 24b,
+                Damage: 0s
+            },
+            {
+                Slot: 23b,
+                id: 4185s,
+                Count: 56b,
+                Damage: 0s
+            },
+            {
+                Slot: 24b,
+                id: 4185s,
+                Count: 10b,
+                Damage: 0s
+            },
+            {
+                Slot: 25b,
+                id: 4185s,
+                Count: 24b,
+                Damage: 0s
+            },
+            {
+                Slot: 26b,
+                id: 4185s,
+                Count: 56b,
+                Damage: 0s
+            },
+            {
+                Slot: 27b,
+                id: 4185s,
+                Count: 10b,
+                Damage: 0s
+            },
+            {
+                Slot: 28b,
+                id: 4185s,
+                Count: 24b,
+                Damage: 0s
+            },
+            {
+                Slot: 29b,
+                id: 4185s,
+                Count: 56b,
+                Damage: 0s
+            },
+            {
+                Slot: 30b,
+                id: 4185s,
+                Count: 10b,
+                Damage: 0s
+            },
+            {
+                Slot: 31b,
+                id: 4185s,
+                Count: 24b,
+                Damage: 0s
+            }
+        ]
+    },
+    TraderIgnoreDamage: 0b,
+    TraderMarket: "",
+    TraderIgnoreNBT: 0b,
+    TraderSold: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 268s,
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 5s,
+                            id: 34s
+                        }
+                    ]
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: 5632s,
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 5s,
+                            id: 0s
+                        }
+                    ]
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: 5631s,
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 5s,
+                            id: 0s
+                        }
+                    ]
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: 5578s,
+                Count: 1b,
+                tag: {
+                    InfiTool: {
+                        BaseDurability: 288,
+                        Head: 2,
+                        ToolEXP: 0L,
+                        Built: 1b,
+                        HarvestLevel: 3,
+                        Attack: 7,
+                        RenderHead: 2,
+                        ModDurability: 0.0f,
+                        Handle: 2,
+                        Broken: 0b,
+                        Shoddy: 0.0f,
+                        RenderHandle: 2,
+                        Accessory: 2,
+                        MiningSpeed: 600,
+                        RenderAccessory: 2,
+                        ToolLevel: 1,
+                        Unbreaking: 1,
+                        Damage: 0,
+                        BonusDurability: 0,
+                        Modifiers: 0,
+                        TotalDurability: 288
+                    },
+                    display: {
+                        Name: "§fIron Broadsword"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: 276s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: 4487s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: 306s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 7b,
+                id: 310s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 8b,
+                id: 4488s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 9b,
+                id: 307s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 10b,
+                id: 311s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 11b,
+                id: 4489s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 12b,
+                id: 308s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 13b,
+                id: 312s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 14b,
+                id: 4490s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 15b,
+                id: 309s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 16b,
+                id: 313s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 17b,
+                id: 4491s,
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    }
+}

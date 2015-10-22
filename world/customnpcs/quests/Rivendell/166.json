@@ -1,0 +1,72 @@
+{
+    CompleterNpc: "Elrond",
+    NextQuestId: -1,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Get the key.",
+    Text: "Talk to Elrond again so he can give you the key.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: 18,
+        OptionFactions2: -1,
+        OptionFaction1Points: 500,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "Gimli, son of Gloin",
+        MailQuestTitle: "Parties Fate",
+        BeenRead: 0b,
+        Message: {
+            pages: [
+                "Don't be surprised, but I hear you are travelling to Khazad Dum. My uncle, Oin, travelled there some time ago. While I believe everything is ok, I would ask you to confirm that for me please.
+
+I am hoping to travel there myself some day so that I may",
+                "visit him again.
+
+-Gimli"
+            ]
+        },
+        MailItems: [
+        ],
+        MailQuest: 167,
+        TimePast: 1038104581L,
+        Time: 1442198168367L,
+        Subject: "Greetings Hardy Adventurer"
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 6838s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    LockCount: 1,
+                    display: {
+                        Name: "Khazad-dûm"
+                    },
+                    X: 41691,
+                    Y: 85,
+                    Y_1: 85,
+                    KeyCode: -594384443,
+                    Z: 18441,
+                    X_1: 41691,
+                    Z_1: 18441
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "Ah! Here it is! Take this @p, Tenna' ento lye omenta (Until next we meet). I shall also grant you access to the Fast Travel location.
+",
+    NextQuestTitle: "",
+    QuestLocation: "elrond"
+}

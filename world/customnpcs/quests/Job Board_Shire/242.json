@@ -1,0 +1,125 @@
+{
+    CompleterNpc: "Durden Thunderhand",
+    NextQuestId: -1,
+    RandomReward: 1b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Few Pages missing",
+    Text: "Without the missing leaves, it will be impossible to finish reading the enchanted book of Durden Thunderhand. Durden suspects that certain orcs tore the enchanted book and has asked you to try to recover the pages from them.  The journal looks to be missing about 3 of its pages, and Durden will need all 3 if he is to finish reading!He said the ones he thinks that did  it  headed south.
+",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: 18,
+        OptionFactions2: -1,
+        OptionFaction1Points: 200,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1445438088673L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4185s,
+                Count: 4b,
+                Damage: 1s
+            },
+            {
+                Slot: 1b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 3s
+            },
+            {
+                Slot: 2b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 4s
+            },
+            {
+                Slot: 3b,
+                id: 1427s,
+                Count: 2b,
+                Damage: 5s
+            },
+            {
+                Slot: 4b,
+                id: 56s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: 14s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: 4493s,
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 339s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Page 1"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: 339s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Page 2"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: 339s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Page 3"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Marvelous, you've found them all. Thank you! Now to finish this....Goodness, this is interesting...and distressing! I will need a moment more to read this, but it seems to be nothing of what I thought before getting those pages back!",
+    NextQuestTitle: ""
+}

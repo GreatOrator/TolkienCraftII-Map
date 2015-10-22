@@ -1,0 +1,74 @@
+{
+    DialogShowWheel: 0b,
+    AvailabilityQuestId: -1,
+    Options: [
+        {
+            OptionSlot: 0,
+            Option: {
+                DialogCommand: "",
+                Dialog: 211,
+                Title: "So what would you have me do?",
+                DialogColor: 65280,
+                OptionType: 1
+            }
+        },
+        {
+            OptionSlot: 5,
+            Option: {
+                DialogCommand: "",
+                Dialog: -1,
+                Title: "This is way more than I bargained for!",
+                DialogColor: 16711680,
+                OptionType: 0
+            }
+        }
+    ],
+    DialogHideNPC: 0b,
+    AvailabilityFactionStance: 0,
+    AvailabilityQuest: 0,
+    AvailabilityDialog4: 0,
+    AvailabilityDialog3: 0,
+    AvailabilityQuest2: 0,
+    AvailabilityQuest3: 0,
+    AvailabilityQuest4: 0,
+    ModRev: 16,
+    DecreaseFaction1Points: 0b,
+    DialogQuest: -1,
+    AvailabilityDialog2: 0,
+    OptionFactions1: -1,
+    AvailabilityDayTime: 0,
+    OptionFactions2: -1,
+    AvailabilityFaction2Id: -1,
+    OptionFaction1Points: 100,
+    DialogDisableEsc: 0b,
+    AvailabilityFaction: 0,
+    DialogTitle: "Family Heirloom III",
+    AvailabilityDialog: 0,
+    AvailabilityFaction2: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityFaction2Stance: 0,
+    DialogCommand: "",
+    AvailabilityDialogId: -1,
+    OptionFaction2Points: 100,
+    DialogText: "First, be aware at what I am about to say should not be repeated outside the shire.  Are you familiar with the Black Speak?I would think not, not being from here.  It is a very old language from far away no longer spoken by anyone living.Ash Nazg Durbatuluk, Ash Nazg Gimbatul, Ash Nazg Thrakatuluk, Agh Burzum-ishi Krimpatul. Which in your words means: One ring to build them all and in the darkness mine them.",
+    AvailabilityQuest4Id: -1,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2Id: -1,
+    AvailabilityDialog2Id: -1,
+    AvailabilityDialog3Id: -1,
+    AvailabilityDialog4Id: -1,
+    AvailabilityMinPlayerLevel: 0,
+    DecreaseFaction2Points: 0b,
+    DialogMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1441893880604L,
+        Time: 0L,
+        Subject: ""
+    }
+}

@@ -1,0 +1,104 @@
+{
+    DialogShowWheel: 0b,
+    AvailabilityQuestId: -1,
+    Options: [
+        {
+            OptionSlot: 0,
+            Option: {
+                DialogCommand: "",
+                Dialog: 71,
+                Title: "Zombie apocalypse? No problem!",
+                DialogColor: 65280,
+                OptionType: 1
+            }
+        },
+        {
+            OptionSlot: 1,
+            Option: {
+                DialogCommand: "",
+                Dialog: 73,
+                Title: "Bones of your enemies?  Easy enough.",
+                DialogColor: 65280,
+                OptionType: 1
+            }
+        },
+        {
+            OptionSlot: 2,
+            Option: {
+                DialogCommand: "",
+                Dialog: 74,
+                Title: "Four-legged demolition squad sounds fun.",
+                DialogColor: 65280,
+                OptionType: 1
+            }
+        },
+        {
+            OptionSlot: 3,
+            Option: {
+                DialogCommand: "",
+                Dialog: 72,
+                Title: "Darkness of the otherworld, right on!",
+                DialogColor: 65280,
+                OptionType: 1
+            }
+        },
+        {
+            OptionSlot: 5,
+            Option: {
+                DialogCommand: "",
+                Dialog: 21,
+                Title: "Maybe something else.",
+                DialogColor: 16711680,
+                OptionType: 1
+            }
+        }
+    ],
+    DialogHideNPC: 0b,
+    AvailabilityFactionStance: 0,
+    AvailabilityQuest: 0,
+    AvailabilityDialog4: 0,
+    AvailabilityDialog3: 0,
+    AvailabilityQuest2: 0,
+    AvailabilityQuest3: 0,
+    AvailabilityQuest4: 0,
+    ModRev: 16,
+    DecreaseFaction1Points: 0b,
+    DialogQuest: -1,
+    AvailabilityDialog2: 0,
+    OptionFactions1: -1,
+    AvailabilityDayTime: 0,
+    OptionFactions2: -1,
+    AvailabilityFaction2Id: -1,
+    OptionFaction1Points: 100,
+    DialogDisableEsc: 0b,
+    AvailabilityFaction: 0,
+    DialogTitle: "Multiple Choice",
+    AvailabilityDialog: 0,
+    AvailabilityFaction2: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityFaction2Stance: 0,
+    DialogCommand: "",
+    AvailabilityDialogId: -1,
+    OptionFaction2Points: 100,
+    DialogText: "As safe as it tends to be within the city walls, we do still tend to get trouble.Outside the walls is a veritable zombie war as they attempt to kill off the hard-working merchants.The graveyard is full of the bones of our former citizens and enemies who seem to deny their death.And most dis-heartening, those 4-legged menaces of the world, the creepers.  Dangerous in their own right, but the damage they can inflict on structures is beyond compare.Finally, the endermen.  Not happy to stay within their own dimension, they seek to terrorize the citizenry as well.",
+    AvailabilityQuest4Id: -1,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2Id: -1,
+    AvailabilityDialog2Id: -1,
+    AvailabilityDialog3Id: -1,
+    AvailabilityDialog4Id: -1,
+    AvailabilityMinPlayerLevel: 0,
+    DecreaseFaction2Points: 0b,
+    DialogMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1441915434873L,
+        Time: 0L,
+        Subject: ""
+    }
+}

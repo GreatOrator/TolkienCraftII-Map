@@ -1,0 +1,56 @@
+{
+    CompleterNpc: "Khamul",
+    NextQuestId: 282,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Conversation with a Nazgul",
+    Text: "Overcome your fear and speak with Khamul in Dol Guldur.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Integer: 574,
+            Slot: 0
+        }
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1445359437369L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4115s,
+                Count: 1b,
+                tag: {
+                    display: {
+                        Name: "Ring of the Order of Nazgul"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "Then, I shall leave you to it. Take this as proof that you are now in the service of the Nazgul.",
+    NextQuestTitle: "Back to Isengard"
+}

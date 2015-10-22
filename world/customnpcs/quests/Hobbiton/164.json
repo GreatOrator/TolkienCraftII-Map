@@ -1,0 +1,58 @@
+{
+    CompleterNpc: "Iris Whitfoot",
+    NextQuestId: 165,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Pie Runner: Last Stop",
+    Text: "Deliver the last fresh pie to Iris Whitfoot at 5 Hobbiton Road.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1442017597998L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4185s,
+                Count: 2b,
+                Damage: 1s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5964s,
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Good day to you. I see you are delivering one of Holly’s pies! I am tempted to sneak a slice, but my husband would never forgive me if I did! Thank Holly for her prompt delivery!",
+    NextQuestTitle: "Back to Holly"
+}

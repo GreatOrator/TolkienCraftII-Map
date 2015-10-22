@@ -1,70 +1,0 @@
-{
-    Items: {
-        NpcMiscInv: [
-            {
-                id: 7524s,
-                Damage: 0s,
-                Count: 1b,
-                tag: {
-                    RepairCost: 2,
-                    display: {
-                        Name: "Saruman's Staff"
-                    }
-                },
-                Slot: 0b
-            }
-        ]
-    },
-    CompleterNpc: "Gandalf Greyhame",
-    IgnoreDamage: 0b,
-    Type: 0,
-    RandomReward: 0b,
-    QuestFactionPoints: {
-        DecreaseFaction1Points: 0b,
-        DecreaseFaction2Points: 0b,
-        OptionFactions1: -1,
-        OptionFactions2: -1,
-        OptionFaction2Points: 100,
-        OptionFaction1Points: 100
-    },
-    IgnoreNBT: 1b,
-    NextQuestId: -1,
-    Rewards: {
-        NpcMiscInv: [
-        ]
-    },
-    Title: "Head of the Order V",
-    QuestRepeat: 0,
-    QuestCompletion: 0,
-    Text: "The staves should go in the table on the far-left side from top to bottom in the following order:EarthAirFireWaterBring me the finished staff once complete.",
-    NextQuestTitle: "",
-    CompleteText: "You have my gratitude sir!I hope the work was not too much for such a hearty adventurer.",
-    QuestMail: {
-        Sender: "Chald",
-        Time: 1426684742139L,
-        Message: {
-            pages: [
-                "Greetings Hero,
-
-The work you have done has helped immensely, but I have a favor to ask of you if you would.
-
-I hear of a great wizard named Gandalf and he has an elixer that may help me.
-",
-                "If you would speak with him and see if he can grant us some if this as I hear it can dramatically increase the power of our arrows with but a tiny amount.
-
--Chald"
-            ]
-        },
-        Subject: "Draught of Fire",
-        MailItems: [
-        ],
-        MailQuestTitle: "Secret Recipe I",
-        BeenRead: 0b,
-        MailQuest: 99,
-        TimePast: 17055L
-    },
-    QuestCommand: "",
-    LeaveItems: 0b,
-    RewardExp: 0,
-    ModRev: 16
-}

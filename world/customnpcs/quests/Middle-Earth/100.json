@@ -1,0 +1,108 @@
+{
+    CompleterNpc: "Chald",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 1b,
+    Title: "Secret Recipe II",
+    Text: "Take the elixer to Chald as quickly as possible.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "Gandalf",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 325701L,
+        Time: 1441989392415L,
+        Subject: "I know you're busy"
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 3s
+            },
+            {
+                Slot: 1b,
+                id: 7391s,
+                Count: 1b,
+                tag: {
+                    InfiTool: {
+                        BreakChance: 0.2f,
+                        BaseDurability: 960,
+                        ToolEXP: 0L,
+                        Built: 1b,
+                        Effect1: 7,
+                        HarvestLevel: 9,
+                        ModifierTip1: "§6Blaze (25/25)",
+                        RenderHead: 12,
+                        ModDurability: 0.0f,
+                        Shoddy: 0.0f,
+                        RenderHandle: 0,
+                        Accuracy: 95.0f,
+                        Accessory: 0,
+                        MiningSpeed: 900,
+                        Unbreaking: 0,
+                        Damage: 0,
+                        BonusDurability: 0,
+                        TotalDurability: 960,
+                        Head: 12,
+                        Fiery: 25,
+                        Tooltip1: "§6Fiery",
+                        Attack: 5,
+                        Handle: 0,
+                        Broken: 0b,
+                        Mass: 3.25f,
+                        Ammo: 96,
+                        RenderAccessory: 0,
+                        Blaze: [25,25,1],
+                        ToolLevel: 1,
+                        Modifiers: 0
+                    },
+                    RepairCost: 2,
+                    display: {
+                        Name: "§fElixer Imbued"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 7060s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Gandalf's Elixer"
+                    }
+                },
+                Damage: 1027s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Were you successful?  Well, looks much different than I envisioned, though not sure what I was expecting.I will get this to my captain so he can start implementing it right away!Here, take these arrows, they may come in handy!",
+    NextQuestTitle: ""
+}

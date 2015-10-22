@@ -1,0 +1,57 @@
+{
+    CompleterNpc: "Tzerlag",
+    NextQuestId: 294,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    IgnoreNBT: 0b,
+    Title: "Hiring a Merc",
+    Text: "Convince the scout to help you by giving him the sack of coins Saruman gave you..",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1445029235052L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5319s,
+                Count: 1b,
+                tag: {
+                    display: {
+                        Name: "Sack of Silver Coin"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "That will feed my family for a month!",
+    NextQuestTitle: "Quest for the Palantir"
+}

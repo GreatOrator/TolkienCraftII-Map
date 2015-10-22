@@ -1,0 +1,41 @@
+{
+    CompleterNpc: "Violet Boffin",
+    NextQuestId: 176,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "It’s My Party!",
+    Text: "Head over to Violet Boffin’s barn, located east by the wood bridge, and nicely ask for some shimmering mushrooms for Lobelia’s party.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    QuestDialogs: [
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1442457486283L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "Oh really? Shimmer ‘Shrooms for Lobelia Sackville-Baggins, is it?",
+    NextQuestTitle: "Violet Boffin"
+}

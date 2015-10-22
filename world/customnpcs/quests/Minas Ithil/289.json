@@ -1,0 +1,57 @@
+{
+    CompleterNpc: "Yagak",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Convincing the Commander",
+    Text: "I need to show the Commander proof that I am on official business from the Nazgul. Show him the ring.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1445028479059L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4115s,
+                Count: 1b,
+                tag: {
+                    display: {
+                        Name: "Ring of the Order of Nazgul"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 1b,
+    CompleteText: "I have never seen one of those up close before...ok I suppose I should help you.",
+    NextQuestTitle: ""
+}

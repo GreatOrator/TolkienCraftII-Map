@@ -1,0 +1,55 @@
+{
+    CompleterNpc: "medical crate 1",
+    NextQuestId: 298,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Medical Supplies pt. 1",
+    Text: "Search the ruined city for any medical supplies left behind. (Use the quest book to help you locate them)",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    QuestDialogs: [
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1445049263767L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 6356s,
+                Count: 1b,
+                tag: {
+                    display: {
+                        Lore: [
+                            "Spider webs with healing lichen"
+                        ],
+                        Name: "Antiseptic"
+                    }
+                },
+                Damage: 58s
+            }
+        ]
+    },
+    CompleteText: "",
+    NextQuestTitle: "Medical Supplies pt. 2"
+}
