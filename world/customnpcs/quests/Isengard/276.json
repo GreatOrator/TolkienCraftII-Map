@@ -1,0 +1,56 @@
+{
+    CompleterNpc: "Saruman",
+    NextQuestId: 277,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "The Mirror",
+    Text: "Speak with Saruman further.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 50,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Integer: 564,
+            Slot: 0
+        }
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1445219679957L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4770s,
+                Count: 1b,
+                tag: {
+                    display: {
+                        Name: "Proof of Dedication"
+                    }
+                },
+                Damage: 3s
+            }
+        ]
+    },
+    CompleteText: "This power is different than what the Council dealt with before. I would ask the King there, but he has shut his people off from the world and shall provide no assistance. I need you to go to the ancient keep, Dol Guldur, and check out what the source of power may be.  No need to report back, I will know what you found once you are there.",
+    NextQuestTitle: "A Strange Power"
+}

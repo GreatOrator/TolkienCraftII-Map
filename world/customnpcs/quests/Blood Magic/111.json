@@ -1,0 +1,53 @@
+{
+    CompleterNpc: "Thomas",
+    NextQuestId: 104,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Take a Look Around",
+    Text: "Why not take a trip to WyvernHaven?",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 10,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1445437867872L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 358s,
+                Count: 1b,
+                tag: {
+                    display: {
+                        Name: "Missing Person Poster"
+                    }
+                },
+                Damage: 10s
+            }
+        ]
+    },
+    CompleteText: "You have arrived at a new town and thought you might take a look around to see if there was anything to do. You spy a missing person poster and decide to take a look at it. ",
+    NextQuestTitle: "Missing Wife",
+    QuestLocation: "WyvernHaven"
+}

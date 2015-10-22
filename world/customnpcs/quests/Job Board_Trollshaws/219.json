@@ -1,0 +1,87 @@
+{
+    CompleterNpc: "Theodemar",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 2,
+    QuestCompletion: 0,
+    Title: "A Daily Hunt",
+    Text: "Orcs can be found roaming to the west of here. You should defeat 10 wargs in Rivendell then return back to Theodemar.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: 18,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 50,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Value: 10,
+            Slot: "lotr.GundabadOrc"
+        }
+    ],
+    ModRev: 16,
+    Type: 4,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1445438062767L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4185s,
+                Count: 5b,
+                Damage: 1s
+            },
+            {
+                Slot: 1b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 3s
+            },
+            {
+                Slot: 2b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 4s
+            },
+            {
+                Slot: 3b,
+                id: 1427s,
+                Count: 2b,
+                Damage: 5s
+            },
+            {
+                Slot: 4b,
+                id: 14s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: 56s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: 4493s,
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "Thank you @p, thank you for defeating those orcs, unfortunately they will return, so I may need your help again in the future.",
+    NextQuestTitle: ""
+}

@@ -1,0 +1,97 @@
+{
+    TraderCurrency: {
+        NpcMiscInv: [
+            {
+                Slot: 33b,
+                id: 4185s,
+                Count: 15b,
+                Damage: 0s
+            },
+            {
+                Slot: 18b,
+                id: 4185s,
+                Count: 15b,
+                Damage: 0s
+            },
+            {
+                Slot: 19b,
+                id: 4185s,
+                Count: 15b,
+                Damage: 0s
+            },
+            {
+                Slot: 21b,
+                id: 4185s,
+                Count: 15b,
+                Damage: 0s
+            },
+            {
+                Slot: 24b,
+                id: 4185s,
+                Count: 15b,
+                Damage: 0s
+            },
+            {
+                Slot: 27b,
+                id: 4185s,
+                Count: 15b,
+                Damage: 0s
+            },
+            {
+                Slot: 30b,
+                id: 4185s,
+                Count: 15b,
+                Damage: 0s
+            }
+        ]
+    },
+    TraderIgnoreDamage: 0b,
+    TraderMarket: "",
+    TraderIgnoreNBT: 1b,
+    TraderSold: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 6084s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: 297s,
+                Count: 16b,
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: 6274s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: 5890s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 9b,
+                id: 6045s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 12b,
+                id: 6061s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 15b,
+                id: 6067s,
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    }
+}

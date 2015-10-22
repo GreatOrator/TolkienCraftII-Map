@@ -1,0 +1,45 @@
+{
+    CompleterNpc: "Lady Eornis",
+    NextQuestId: 308,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Laying the Trap",
+    Text: "Speak with Lady Eornis. Time to put on a good act!",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Integer: 613,
+            Slot: 0
+        }
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1445050787177L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "The Elf is afraid, you realize - for the first time during this conversation, she is actually afraid. I guess learning that right in your own capital enemy spies can do things that you, an all-powerful royal minister, cannot. Mission accomplished - she took the bait...hook, line and sinker!",
+    NextQuestTitle: "Festival of the Fireflies"
+}

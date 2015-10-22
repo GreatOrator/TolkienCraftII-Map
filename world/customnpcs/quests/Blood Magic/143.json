@@ -1,0 +1,54 @@
+{
+    CompleterNpc: "Frank",
+    NextQuestId: 144,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 1b,
+    Title: "Boys and Their Guns",
+    Text: "Frank found a cool spell for the binding ritual. You need a Weak Activation Crystal and your Apprentice Blood Orb for the ritual to work. You’ve been warned not to stand in the room during the ritual! ",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1445437678574L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 1b,
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4816s,
+                Count: 1b,
+                tag: {
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 1b,
+    CompleteText: "Woohoo! Now we can have some fun! We can even upgrade it to a bazooka! .....But it will have to wait. Entranger is here and wants to see you.",
+    NextQuestTitle: "Find Entranger"
+}

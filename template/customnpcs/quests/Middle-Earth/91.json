@@ -1,70 +1,0 @@
-{
-    Items: {
-        NpcMiscInv: [
-            {
-                id: 7519s,
-                Damage: 0s,
-                Count: 1b,
-                Slot: 0b
-            }
-        ]
-    },
-    CompleterNpc: "Gandalf Greyhame",
-    IgnoreDamage: 0b,
-    Type: 0,
-    RandomReward: 0b,
-    QuestFactionPoints: {
-        DecreaseFaction1Points: 0b,
-        DecreaseFaction2Points: 0b,
-        OptionFactions1: -1,
-        OptionFactions2: -1,
-        OptionFaction2Points: 100,
-        OptionFaction1Points: 100
-    },
-    IgnoreNBT: 1b,
-    NextQuestId: -1,
-    Rewards: {
-        NpcMiscInv: [
-            {
-                id: 5458s,
-                Damage: 4s,
-                Count: 1b,
-                Slot: 0b
-            },
-            {
-                id: 5458s,
-                Damage: 4s,
-                Count: 1b,
-                Slot: 1b
-            },
-            {
-                id: 2350s,
-                Damage: 0s,
-                Count: 2b,
-                Slot: 2b
-            }
-        ]
-    },
-    Title: "Mount Doom IV",
-    QuestRepeat: 0,
-    QuestCompletion: 0,
-    Text: "The soul of Sauron?  This definitely can not be a good omen.  Better hurry back and let Gandalf know what I found.",
-    NextQuestTitle: "",
-    CompleteText: "Well met @p.What?  Sauron's Soul?  This is ill news indeed.  I shall go to rivendell and speak to Elrond about this change of events.I fear Bilbo did not give you the ring as we thought, but by disturbing the fires of Mount Doom we have seen the portent of things to come.Thank you for all of your help @p!I must go now to attend to this new information.",
-    QuestMail: {
-        Sender: "",
-        Time: 0L,
-        Message: {
-        },
-        Subject: "",
-        MailItems: [
-        ],
-        BeenRead: 0b,
-        MailQuest: -1,
-        TimePast: 1426686297545L
-    },
-    QuestCommand: "",
-    LeaveItems: 0b,
-    RewardExp: 250,
-    ModRev: 16
-}

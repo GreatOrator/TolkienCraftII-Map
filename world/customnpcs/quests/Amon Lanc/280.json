@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Renvan",
+    NextQuestId: 281,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Expected Guest?",
+    Text: "Chief Renvan ordered me to take the west hall to find Khamul.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1445359442328L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "A Nazgul! An ancient magical order, ever surrounded by most ominous rumor. Black wraiths, supposedly in touch with the highest power of Mordor. Does he want my soul?!",
+    NextQuestTitle: "Conversation with a Nazgul",
+    QuestLocation: "Khamul"
+}

@@ -1,0 +1,106 @@
+{
+    CompleterNpc: "Lathwania",
+    NextQuestId: 23,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "The Proof",
+    Text: "The queen has hopes with you and your success.  Let's hope we find these items and can take them back to her.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 250,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1445102923132L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 1b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 339s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Evil Scheme"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: 5348s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "The Queen's Ring"
+                    }
+                },
+                Damage: 175s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5214s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Reder's Staff"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: 339s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Evil Scheme"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: 6838s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Skeleton Key"
+                    }
+                },
+                Damage: 1s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "I can not believe it, after all this time you were able to find proof of what happened.I do not know how to thank you @p for the service you have done to me and this kingdom!Please, take this ring and the plan to my Great-Grandson, he will want to know this.",
+    NextQuestTitle: "Completion"
+}
