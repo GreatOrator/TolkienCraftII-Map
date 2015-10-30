@@ -14,7 +14,7 @@
         OptionFaction1Points: 100,
         DecreaseFaction2Points: 0b
     },
-    RewardExp: 0,
+    RewardExp: 50,
     QuestCommand: "",
     QuestDialogs: [
     ],
@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1445440808116L,
+        TimePast: 1446214902523L,
         Time: 0L,
         Subject: ""
     },

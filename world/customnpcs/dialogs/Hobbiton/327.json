@@ -50,7 +50,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "I have run out of ingredients and could use some help.",
+    DialogText: "I have run out of ingredients and could use some help delivering pies.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: 160,
     AvailabilityQuest2Id: 159,
@@ -67,7 +67,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1442016643311L,
+        TimePast: 1445875195022L,
         Time: 0L,
         Subject: ""
     }

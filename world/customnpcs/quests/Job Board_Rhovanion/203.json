@@ -1,7 +1,7 @@
 {
     CompleterNpc: "Durden Thunderhand",
     NextQuestId: -1,
-    RandomReward: 1b,
+    RandomReward: 0b,
     QuestRepeat: 0,
     QuestCompletion: 0,
     IgnoreNBT: 0b,
@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1445438114323L,
+        TimePast: 1446214859670L,
         Time: 0L,
         Subject: ""
     },

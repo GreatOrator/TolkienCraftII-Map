@@ -1,7 +1,7 @@
 {
     CompleterNpc: "Harry Adams",
     NextQuestId: -1,
-    RandomReward: 0b,
+    RandomReward: 1b,
     QuestRepeat: 2,
     QuestCompletion: 0,
     Title: "A Daily Hunt",
@@ -32,7 +32,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1444332251124L,
+        TimePast: 1446214725476L,
         Time: 0L,
         Subject: ""
     },

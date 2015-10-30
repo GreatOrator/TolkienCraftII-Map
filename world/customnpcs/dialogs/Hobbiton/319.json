@@ -40,7 +40,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "Bugs have ruined my potato crop this year! Where am I going to get enough money to get more seed?",
+    DialogText: "Bugs have ruined my potato crop this year! Where am I going to get enough money to fix my crops?",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443189420434L,
+        TimePast: 1445699113295L,
         Time: 0L,
         Subject: ""
     }

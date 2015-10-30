@@ -1,7 +1,7 @@
 {
     CompleterNpc: "Hartgard Knotwise",
     NextQuestId: -1,
-    RandomReward: 0b,
+    RandomReward: 1b,
     QuestRepeat: 2,
     QuestCompletion: 0,
     Title: "A Daily Hunt",
@@ -9,7 +9,7 @@
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
-        OptionFactions1: 18,
+        OptionFactions1: 21,
         OptionFactions2: -1,
         OptionFaction1Points: 100,
         DecreaseFaction2Points: 0b
@@ -32,7 +32,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1445438092821L,
+        TimePast: 1446214921119L,
         Time: 0L,
         Subject: ""
     },
