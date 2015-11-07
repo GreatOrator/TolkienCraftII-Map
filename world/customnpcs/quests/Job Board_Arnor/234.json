@@ -8,9 +8,9 @@
     Text: "The Warg's Lair is to the east of here. That is the direction in which I saw this great predator dragging away her enormous prey. Such a foe cannot be allowed to endure.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
-        OptionFaction2Points: 100,
+        OptionFaction2Points: 150,
         OptionFactions1: 21,
-        OptionFactions2: -1,
+        OptionFactions2: 18,
         OptionFaction1Points: 300,
         DecreaseFaction2Points: 0b
     },
@@ -32,7 +32,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1444954230956L,
+        TimePast: 1446214690368L,
         Time: 0L,
         Subject: ""
     },

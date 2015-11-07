@@ -32,7 +32,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1445437707525L,
+        TimePast: 1445869178718L,
         Time: 0L,
         Subject: ""
     },
@@ -53,6 +53,12 @@
             {
                 Slot: 2b,
                 id: 4850s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: 399s,
                 Count: 1b,
                 Damage: 0s
             }

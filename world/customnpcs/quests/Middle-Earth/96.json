@@ -39,8 +39,8 @@ I hear of a great wizard named Gandalf and he has an elixer that may help me.
         MailItems: [
         ],
         MailQuest: 99,
-        TimePast: 3225836989L,
-        Time: 1441989093263L,
+        TimePast: 9178146L,
+        Time: 1446233356294L,
         Subject: "Draught of Fire"
     },
     IgnoreDamage: 0b,

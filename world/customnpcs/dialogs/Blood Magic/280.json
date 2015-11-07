@@ -30,7 +30,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "To become an Apprentice, you need to create the Apprentice Blood Orb and a Ritual Diviner.",
+    DialogText: "To become an Apprentice, you need to create the Apprentice Blood Orb and an Unbound Crystal.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
@@ -47,7 +47,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1439251975614L,
+        TimePast: 1446213836425L,
         Time: 0L,
         Subject: ""
     }

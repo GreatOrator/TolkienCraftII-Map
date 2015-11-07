@@ -1,6 +1,6 @@
 {
     DialogShowWheel: 0b,
-    AvailabilityQuestId: 80,
+    AvailabilityQuestId: 5,
     Options: [
         {
             OptionSlot: 0,
@@ -20,6 +20,16 @@
                 Title: "Do you have any jobs for me?",
                 DialogColor: 523558,
                 OptionType: 1
+            }
+        },
+        {
+            OptionSlot: 2,
+            Option: {
+                DialogCommand: "",
+                Dialog: -1,
+                Title: "I could use a drink!",
+                DialogColor: 9658600,
+                OptionType: 3
             }
         }
     ],
@@ -67,7 +77,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1445216138533L,
+        TimePast: 1445693720194L,
         Time: 0L,
         Subject: ""
     }

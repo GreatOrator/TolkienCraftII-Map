@@ -1,11 +1,11 @@
 {
     CompleterNpc: "Theodemar",
     NextQuestId: -1,
-    RandomReward: 0b,
+    RandomReward: 1b,
     QuestRepeat: 2,
     QuestCompletion: 0,
     Title: "A Daily Hunt",
-    Text: "Orcs can be found roaming to the west of here. You should defeat 10 wargs in Rivendell then return back to Theodemar.",
+    Text: "Orcs can be found roaming to the west of here. You should defeat 10 orcs in Rivendell then return back to Theodemar.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -32,7 +32,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1445438062767L,
+        TimePast: 1446214941239L,
         Time: 0L,
         Subject: ""
     },

@@ -21,6 +21,26 @@
                 DialogColor: 1307715,
                 OptionType: 1
             }
+        },
+        {
+            OptionSlot: 2,
+            Option: {
+                DialogCommand: "",
+                Dialog: 640,
+                Title: "Could you use more ingredients?",
+                DialogColor: 3206472,
+                OptionType: 1
+            }
+        },
+        {
+            OptionSlot: 3,
+            Option: {
+                DialogCommand: "",
+                Dialog: 327,
+                Title: "Do you need more help?",
+                DialogColor: 980562,
+                OptionType: 1
+            }
         }
     ],
     DialogHideNPC: 0b,
@@ -67,7 +87,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443189513663L,
+        TimePast: 1446213429223L,
         Time: 0L,
         Subject: ""
     }

@@ -1,7 +1,7 @@
 {
     CompleterNpc: "Maeral",
     NextQuestId: -1,
-    RandomReward: 1b,
+    RandomReward: 0b,
     QuestRepeat: 0,
     QuestCompletion: 0,
     IgnoreNBT: 0b,
@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1445438065317L,
+        TimePast: 1446214955326L,
         Time: 0L,
         Subject: ""
     },

@@ -4,8 +4,8 @@
     RandomReward: 0b,
     QuestRepeat: 0,
     QuestCompletion: 0,
-    Title: "Search Wagon",
-    Text: "Search the wagon for the missing recipe.",
+    Title: "Search for the Wagon",
+    Text: "The barkeep at the Green Dragon wants you to find out what happened to the wagon bringing his recipe. I should head west out of town along the road. (if i can't find it, maybe I should check my quest book)",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1440874501435L,
+        TimePast: 1445693678246L,
         Time: 0L,
         Subject: ""
     },

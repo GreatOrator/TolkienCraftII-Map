@@ -1,6 +1,6 @@
 {
     CompleterNpc: "Holly Goodbody",
-    NextQuestId: -1,
+    NextQuestId: 316,
     RandomReward: 0b,
     QuestRepeat: 0,
     QuestCompletion: 0,
@@ -27,7 +27,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1440884923072L,
+        TimePast: 1445695009645L,
         Time: 0L,
         Subject: ""
     },
@@ -54,5 +54,5 @@
     },
     LeaveItems: 1b,
     CompleteText: "These pies look great! Thank you! Could you do me another favor?",
-    NextQuestTitle: ""
+    NextQuestTitle: "Speak to Holly"
 }
