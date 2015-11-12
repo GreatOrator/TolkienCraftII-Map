@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1444924624497L,
+        TimePast: 1447332378917L,
         Time: 0L,
         Subject: ""
     },
@@ -79,6 +79,85 @@
                         GuardTargets: [
                         ],
                         ScriptsContainers: [
+                            {
+                                Script: "",
+                                ScriptConsole: "",
+                                Type: 0,
+                                ScriptList: [
+                                ]
+                            },
+                            {
+                                Script: "if(npc.getAge() > 6000){
+ npc.despawn();
+}",
+                                ScriptConsole: "",
+                                Type: 1,
+                                ScriptList: [
+                                ]
+                            },
+                            {
+                                Script: "",
+                                ScriptConsole: "",
+                                Type: 2,
+                                ScriptList: [
+                                ]
+                            },
+                            {
+                                Script: "",
+                                ScriptConsole: "",
+                                Type: 3,
+                                ScriptList: [
+                                ]
+                            },
+                            {
+                                Script: "",
+                                ScriptConsole: "",
+                                Type: 4,
+                                ScriptList: [
+                                ]
+                            },
+                            {
+                                Script: "",
+                                ScriptConsole: "",
+                                Type: 5,
+                                ScriptList: [
+                                ]
+                            },
+                            {
+                                Script: "",
+                                ScriptConsole: "",
+                                Type: 6,
+                                ScriptList: [
+                                ]
+                            },
+                            {
+                                Script: "",
+                                ScriptConsole: "",
+                                Type: 7,
+                                ScriptList: [
+                                ]
+                            },
+                            {
+                                Script: "",
+                                ScriptConsole: "",
+                                Type: 8,
+                                ScriptList: [
+                                ]
+                            },
+                            {
+                                Script: "",
+                                ScriptConsole: "",
+                                Type: 9,
+                                ScriptList: [
+                                ]
+                            },
+                            {
+                                Script: "",
+                                ScriptConsole: "",
+                                Type: 10,
+                                ScriptList: [
+                                ]
+                            }
                         ],
                         Air: 300s,
                         TacticalVariant: 0,
@@ -302,15 +381,15 @@
                         CanPickUpLoot: 0b,
                         AttackOtherFactions: 0b,
                         CanDrown: 1b,
-                        curMana: 100.0f,
+                        curMana: 500.85858f,
                         AttackTime: 0s,
                         pSize: 5,
                         CanSprint: 0b,
                         CanLeap: 0b,
                         TransformIsActive: 0b,
                         ForgeData: {
-                            WITCInitialWidth: 1.0f,
-                            WITCInitialHeight: 1.0f
+                            WITCInitialWidth: 0.24000001f,
+                            WITCInitialHeight: 0.71999997f
                         },
                         MovingState: 0,
                         MovingPos: 0,
@@ -340,7 +419,7 @@
                         NpcDeathSound: "minecraft:game.player.hurt",
                         FactionID: 4,
                         Title: "Magical Construct",
-                        TotalTicksAlive: 2578L,
+                        TotalTicksAlive: 6478L,
                         Rotation: [
                             10.366211f,
                             0.0f
@@ -415,6 +494,85 @@
                         GuardTargets: [
                         ],
                         ScriptsContainers: [
+                            {
+                                Script: "",
+                                ScriptConsole: "",
+                                Type: 0,
+                                ScriptList: [
+                                ]
+                            },
+                            {
+                                Script: "if(npc.getAge() > 6000){
+ npc.despawn();
+}",
+                                ScriptConsole: "",
+                                Type: 1,
+                                ScriptList: [
+                                ]
+                            },
+                            {
+                                Script: "",
+                                ScriptConsole: "",
+                                Type: 2,
+                                ScriptList: [
+                                ]
+                            },
+                            {
+                                Script: "",
+                                ScriptConsole: "",
+                                Type: 3,
+                                ScriptList: [
+                                ]
+                            },
+                            {
+                                Script: "",
+                                ScriptConsole: "",
+                                Type: 4,
+                                ScriptList: [
+                                ]
+                            },
+                            {
+                                Script: "",
+                                ScriptConsole: "",
+                                Type: 5,
+                                ScriptList: [
+                                ]
+                            },
+                            {
+                                Script: "",
+                                ScriptConsole: "",
+                                Type: 6,
+                                ScriptList: [
+                                ]
+                            },
+                            {
+                                Script: "",
+                                ScriptConsole: "",
+                                Type: 7,
+                                ScriptList: [
+                                ]
+                            },
+                            {
+                                Script: "",
+                                ScriptConsole: "",
+                                Type: 8,
+                                ScriptList: [
+                                ]
+                            },
+                            {
+                                Script: "",
+                                ScriptConsole: "",
+                                Type: 9,
+                                ScriptList: [
+                                ]
+                            },
+                            {
+                                Script: "",
+                                ScriptConsole: "",
+                                Type: 10,
+                                ScriptList: [
+                                ]
+                            }
                         ],
                         Air: 300s,
                         TacticalVariant: 0,
@@ -638,15 +796,15 @@
                         CanPickUpLoot: 0b,
                         AttackOtherFactions: 0b,
                         CanDrown: 1b,
-                        curMana: 100.0f,
+                        curMana: 500.85858f,
                         AttackTime: 0s,
                         pSize: 5,
                         CanSprint: 0b,
                         CanLeap: 0b,
                         TransformIsActive: 0b,
                         ForgeData: {
-                            WITCInitialWidth: 1.0f,
-                            WITCInitialHeight: 1.0f
+                            WITCInitialWidth: 0.24000001f,
+                            WITCInitialHeight: 0.71999997f
                         },
                         MovingState: 0,
                         MovingPos: 0,
@@ -676,7 +834,7 @@
                         NpcDeathSound: "minecraft:game.player.hurt",
                         FactionID: 4,
                         Title: "Magical Construct",
-                        TotalTicksAlive: 2578L,
+                        TotalTicksAlive: 6478L,
                         Rotation: [
                             10.366211f,
                             0.0f
