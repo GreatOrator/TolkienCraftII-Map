@@ -1,6 +1,6 @@
 {
     CompleterNpc: "Lormartin",
-    NextQuestId: -1,
+    NextQuestId: 191,
     QuestLocation3: "",
     RandomReward: 0b,
     QuestLocation2: "",
@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1446214048588L,
+        TimePast: 1452468436159L,
         Time: 0L,
         Subject: ""
     },
@@ -53,6 +53,6 @@
         ]
     },
     CompleteText: "I need to talk to Lormartin again so I can get the key.",
-    NextQuestTitle: "",
+    NextQuestTitle: "Danger in the Deep II",
     QuestLocation: "Dragon Inn"
 }
