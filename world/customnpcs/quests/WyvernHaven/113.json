@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443883584552L,
+        TimePast: 1456501638052L,
         Time: 0L,
         Subject: ""
     },
@@ -36,14 +36,14 @@
         NpcMiscInv: [
             {
                 Slot: 0b,
-                id: 358s,
+                id: 6986s,
                 Count: 1b,
                 tag: {
-                    display: {
-                        Name: "Missing Person Poster"
-                    }
+                    blank: 1b,
+                    paintingType: 2,
+                    paintingTitle: "MissingPersonRectangleLarge.png"
                 },
-                Damage: 10s
+                Damage: 0s
             }
         ]
     },
