@@ -1,12 +1,13 @@
 {
-    CompleterNpc: "Gandalf Greyhame",
+    CompleterNpc: "Fire Staff",
     NextQuestId: 95,
+    QuestLocation3: "",
     RandomReward: 0b,
+    QuestLocation2: "",
     QuestRepeat: 0,
-    QuestCompletion: 1,
-    IgnoreNBT: 1b,
+    QuestCompletion: 0,
     Title: "Head of the Order III",
-    Text: "Time to locate those staves for Gandalf, wonder why he just does go find them?I should begin my search in an area of fire, I know there was a portal I saw at WyvernHaven, perhaps a good place to start?Two down, now on to the next. - Fire",
+    Text: "Time to locate those staves for Gandalf, wonder why he just doesn't go find them?I should begin my search in an area of fire, I know there was a portal I saw at WyvernHaven, perhaps a good place to start?Two down, now on to the next. - Fire",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -18,7 +19,7 @@
     RewardExp: 100,
     QuestCommand: "",
     ModRev: 16,
-    Type: 0,
+    Type: 3,
     QuestMail: {
         Sender: "",
         BeenRead: 0b,
@@ -27,16 +28,11 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1446242500381L,
+        TimePast: 1461285470061L,
         Time: 0L,
         Subject: ""
     },
-    IgnoreDamage: 0b,
     Rewards: {
-        NpcMiscInv: [
-        ]
-    },
-    Items: {
         NpcMiscInv: [
             {
                 Slot: 0b,
@@ -52,7 +48,7 @@
             }
         ]
     },
-    LeaveItems: 1b,
     CompleteText: "Third one down!  Why does this seem like I am being let off easy?",
-    NextQuestTitle: "Head of the Order IV"
+    NextQuestTitle: "Head of the Order IV",
+    QuestLocation: "FireStaff"
 }

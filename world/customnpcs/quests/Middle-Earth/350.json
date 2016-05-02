@@ -1,0 +1,66 @@
+{
+    CompleterNpc: "Gandalf Greyhame",
+    NextQuestId: -1,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Head of the Order IVb",
+    Text: "Time to take these back to Gandalf and see what to do next.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 200,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1461284262081L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 3s
+            },
+            {
+                Slot: 3b,
+                id: 4185s,
+                Count: 1b,
+                Damage: 2s
+            },
+            {
+                Slot: 4b,
+                id: 4185s,
+                Count: 5b,
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: 4185s,
+                Count: 2b,
+                Damage: 1s
+            }
+        ]
+    },
+    CompleteText: "Thank you @p, I hope the job was not too difficult to complete.  Now speak to me when you are ready for the next step.",
+    NextQuestTitle: "",
+    QuestLocation: ""
+}

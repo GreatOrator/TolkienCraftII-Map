@@ -1,0 +1,44 @@
+{
+    CompleterNpc: "Fernward Muddybutton",
+    NextQuestId: -1,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Pipeseed's Intentions IV",
+    Text: "Fernward Muddybutton’s house overlooks Combe on the road south towards Bree.
+
+Susan Pipeseed has instructed you to acquire some poison from Muddybutton, the local leech, to use against the Knaraugh's wolves.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 50,
+        OptionFactions1: 18,
+        OptionFactions2: 32,
+        OptionFaction1Points: 10,
+        DecreaseFaction2Points: 1b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1461936799606L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "Susan got herself in trouble, did she?",
+    NextQuestTitle: "",
+    QuestLocation: "Muddybutton's House"
+}

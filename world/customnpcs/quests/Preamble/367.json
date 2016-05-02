@@ -1,0 +1,54 @@
+{
+    CompleterNpc: "Pig",
+    NextQuestId: 368,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 1b,
+    Title: "A Critical Strike Id",
+    Text: "Susan believes that you can score a telling blow against the Darkholds and their masters in the northern Chetwood. Armed with a poison provided by Fernward Muddybutton, she sends you to the Darkhold camp in the Chetwood to deal with their wolf-keeper, Knaraugh, and the fell offspring of the Warg.
+
+**Poison the three cows that were spotted there with the concoction you were given, make sure to click the cows with an empty hand**",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1461800666289L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4589s,
+                Count: 1b,
+                Damage: 1s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "You should tell Susan Pipeseed of your victory against Knaraugh and to learn if she has arranged a meeting with Tigerstone at the Darkhold hideout.",
+    NextQuestTitle: "A Critical Strike Ie"
+}

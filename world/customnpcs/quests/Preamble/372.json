@@ -1,0 +1,48 @@
+{
+    CompleterNpc: "Straightarrow",
+    NextQuestId: -1,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Chasing Quinn",
+    Text: "Beldon sent you to talk to Constable Straightarrow regarding the danger Quinn might pose to his kinsmen. Beldon told you to go to Straightarrow and make certain she passed the message to Aldair.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1461886686410L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4185s,
+                Count: 3b,
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "Ho there, what cause have you to be running around like that? Quinn has gone mad? That can't be...I saw him not too long ago.",
+    NextQuestTitle: "",
+    QuestLocation: "Staddle Town Center"
+}

@@ -1,0 +1,44 @@
+{
+    CompleterNpc: "Susan Pipeseed",
+    NextQuestId: -1,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Pipeseed's Intentions I",
+    Text: "Susan Pipeseed's house lies in the south-east corner of Combe, on the banks of the pond.
+
+After discovering the identity of the Darkhold agent, Constable Underhill asked you to enter the ranks of the Darkholds by speaking with Susan Pipeseed and doing whatever she asks of you.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 10,
+        OptionFactions1: 18,
+        OptionFactions2: 32,
+        OptionFaction1Points: 10,
+        DecreaseFaction2Points: 1b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1461886204953L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "Not another one! I'd thought I'd gotten all o' those letters back. You'd be better served just going home. You don't want to join up with the Darkholds.",
+    NextQuestTitle: "",
+    QuestLocation: "Pipeseed’s House"
+}

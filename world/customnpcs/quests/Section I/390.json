@@ -1,0 +1,44 @@
+{
+    CompleterNpc: "Jaquemart",
+    NextQuestId: -1,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "The Horn Call of Dale II",
+    Text: "Lenglinn's camp sits on a rise north of the main gate of Esgaroth, along the Great East Road, west of Bree.
+
+When you spoke to Childebrand Longhole, he told you that the Black Riders had confronted him about the location of the Darkholds in Dale before the night patrol came by. He also mentioned a flock of crebain that retreated into the Old Forest. You should bring this news to Jaquemart.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1461888547471L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "Finding those birds in the Old Forest will not be a simple task.",
+    NextQuestTitle: "",
+    QuestLocation: "Jaquemart’s Camp"
+}

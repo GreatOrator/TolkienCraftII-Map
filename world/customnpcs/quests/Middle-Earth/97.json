@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1446232891626L,
+        TimePast: 1461285418512L,
         Time: 0L,
         Subject: ""
     },
@@ -163,9 +163,27 @@
                             ],
                             mapName: "Map_9",
                             xCenter: 128
+                        },
+                        {
+                            zCenter: 256,
+                            mapScale: 0,
+                            yMapWaypoints: [
+                                0.39626694f
+                            ],
+                            MapWaypointNames: [
+                                "Fire Staff"
+                            ],
+                            MapWaypointColors: [
+                                1.0f
+                            ],
+                            mapName: "Map_26",
+                            xMapWaypoints: [
+                                0.9207935f
+                            ],
+                            xCenter: 0
                         }
                     ],
-                    mapSlot: 42,
+                    mapSlot: 30,
                     autoCreate: 0b,
                     autoCenter: 1b,
                     containerUpdate: 0b,
@@ -199,7 +217,7 @@
                             Slot: 30b,
                             id: 358s,
                             Count: 1b,
-                            Damage: 8s
+                            Damage: 26s
                         },
                         {
                             Slot: 42b,
@@ -209,7 +227,7 @@
                         }
                     ]
                 },
-                Damage: 9s
+                Damage: 26s
             }
         ]
     },

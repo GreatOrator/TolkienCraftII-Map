@@ -1,0 +1,82 @@
+{
+    CompleterNpc: "Fernward Muddybutton",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Pipeseed's Intentions V",
+    Text: "Bring a Jar of Honey, Rasberries, and Tarma Root to Fernward Muddybutton.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 50,
+        OptionFactions1: 18,
+        OptionFactions2: 32,
+        OptionFaction1Points: 10,
+        DecreaseFaction2Points: 1b
+    },
+    RewardExp: 15,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1461936991615L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 1b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4589s,
+                Count: 1b,
+                Damage: 1s
+            },
+            {
+                Slot: 1b,
+                id: 4589s,
+                Count: 1b,
+                Damage: 1s
+            },
+            {
+                Slot: 2b,
+                id: 4589s,
+                Count: 1b,
+                Damage: 1s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4589s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: 7303s,
+                Count: 6b,
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: 2176s,
+                Count: 3b,
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Ah! There you are, it will be just a moment, and I'll have the poison for you...",
+    NextQuestTitle: ""
+}

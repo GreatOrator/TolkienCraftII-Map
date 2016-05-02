@@ -1,0 +1,112 @@
+{
+    CompleterNpc: "Underhill",
+    NextQuestId: -1,
+    RandomReward: 1b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Finding Quinn III",
+    Text: "Searching through a pack found near a small encampment of Darkholds, you found a letter from the Darkhold agent. You should return to Constable Underhill with the letter. Susan Pipeseed, a resident of Combe, is mentioned by name in the letter you found in the Darkhold recruit's pack.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: 18,
+        OptionFactions2: 30,
+        OptionFaction1Points: 10,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 50,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1461886683002L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 1b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4185s,
+                Count: 1b,
+                Damage: 2s
+            },
+            {
+                Slot: 1b,
+                id: 1558s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 4s
+            },
+            {
+                Slot: 3b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 3s
+            },
+            {
+                Slot: 4b,
+                id: 7431s,
+                Count: 1b,
+                Damage: 2s
+            },
+            {
+                Slot: 5b,
+                id: 1427s,
+                Count: 1b,
+                Damage: 5s
+            },
+            {
+                Slot: 6b,
+                id: 14s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 7b,
+                id: 56s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 8b,
+                id: 4493s,
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5342s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Brigand Summons"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Hallo! What's this? Susan Pipeseed! Well, I should have guessed!",
+    NextQuestTitle: ""
+}
