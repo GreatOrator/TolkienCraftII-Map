@@ -1,0 +1,44 @@
+{
+    CompleterNpc: "Tom Bombadil",
+    NextQuestId: -1,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Master of the Wood II",
+    Text: "Tom Bombadil's house is far to the west from here, in the Old Forest.  He suggested taking fast travel to get there.
+
+Strider told you to seek out someone named Tom Bombadil and ask for his aid finding the crebain who flew into the Old Forest.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1461964070340L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "Hoy now! Hey now! What's all this fussing?",
+    NextQuestTitle: "",
+    QuestLocation: "Bombadil’s House"
+}

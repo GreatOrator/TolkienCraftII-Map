@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Nori",
+    NextQuestId: 332,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Escape the Ruin",
+    Text: "Exit through the door behind the throne and follow the tunnel to escape the ruin.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1460936198869L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "You and the dwarves have found your way out without incident! Head back to Esgaroth and report to Glóin.",
+    NextQuestTitle: "A Hero Returns",
+    QuestLocation: "Ruin Exit"
+}

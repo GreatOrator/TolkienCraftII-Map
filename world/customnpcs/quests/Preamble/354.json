@@ -1,0 +1,44 @@
+{
+    CompleterNpc: "Beldon",
+    NextQuestId: -1,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "An Urgent Message II",
+    Text: "Beldon's room is at the end of the hall at the top of the stairs, second floor, on the right, across the common room.
+
+You have come to The Prancing Pony Inn, as instructed, and spoken to the proprietor. Bartleman Butterbur told you that the man who sent you the message, Beldon, is waiting for you in his room.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: 18,
+        OptionFactions2: -1,
+        OptionFaction1Points: 10,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1461459355687L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "The Hero of Draconis, I suppose? I am pleased to finally meet you. I am sorry for the cryptic summons, but I dared not betray my whereabouts to just anyone.",
+    NextQuestTitle: "",
+    QuestLocation: "Beldon's Room"
+}

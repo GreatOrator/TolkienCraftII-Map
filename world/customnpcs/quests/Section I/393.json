@@ -1,0 +1,104 @@
+{
+    CompleterNpc: "Tom Bombadil",
+    NextQuestId: -1,
+    RandomReward: 1b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Into the Barrow-downs",
+    Text: "The Barrow-downs are reached by going north and east along the Old Barrows Road. The crebain stopped to roost in the trees within the Barrow-downs, south along the ridge, above the eaves of the forest.
+Tom Bombadil found the crebain within the Barrow-downs, but also mentioned the presence of a woman. You should stay on your guard.Tom mentioned as you left to head straight east from his house to find the birds you seek.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 110,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Value: 1,
+            Slot: "Shaundyl"
+        },
+        {
+            Value: 4,
+            Slot: "Crebain"
+        }
+    ],
+    ModRev: 16,
+    Type: 4,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1461980783649L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4185s,
+                Count: 2b,
+                Damage: 2s
+            },
+            {
+                Slot: 1b,
+                id: 7431s,
+                Count: 1b,
+                Damage: 2s
+            },
+            {
+                Slot: 2b,
+                id: 1558s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 4s
+            },
+            {
+                Slot: 4b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 4s
+            },
+            {
+                Slot: 5b,
+                id: 1427s,
+                Count: 3b,
+                Damage: 5s
+            },
+            {
+                Slot: 6b,
+                id: 14s,
+                Count: 6b,
+                Damage: 0s
+            },
+            {
+                Slot: 7b,
+                id: 56s,
+                Count: 4b,
+                Damage: 0s
+            },
+            {
+                Slot: 8b,
+                id: 4493s,
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "Shaundyl revealed that the Lord of the Nazgûl had gone to someplace called Tyrn Gorthad, but you could learn nothing more before her death. Tom Bombadil is the Master of the Wood and of the Barrow-downs. He might know where Tyrn Gorthad lies.",
+    NextQuestTitle: ""
+}

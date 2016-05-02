@@ -1,0 +1,44 @@
+{
+    CompleterNpc: "Beldon",
+    NextQuestId: -1,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "The Hideout IIb",
+    Text: "The entrance to the Darkholds' hideout is at the back house at Tigerstone’s farm.
+
+Toradan told you to enter the Darkholds' hideout and speak to Tigerstone. Once you learn the location of Quinn, you are to free him, help him escape and dispatch Tigerstone.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1461886675301L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "Quinn driven mad by the Morgul-wound?  This is dire news indeed!",
+    NextQuestTitle: "",
+    QuestLocation: "Quinn's Cell"
+}

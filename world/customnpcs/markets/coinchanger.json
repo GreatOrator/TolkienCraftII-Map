@@ -1,0 +1,79 @@
+{
+    TraderCurrency: {
+        NpcMiscInv: [
+            {
+                Slot: 18b,
+                id: 4185s,
+                Count: 10b,
+                Damage: 0s
+            },
+            {
+                Slot: 21b,
+                id: 4185s,
+                Count: 2b,
+                Damage: 1s
+            },
+            {
+                Slot: 24b,
+                id: 4185s,
+                Count: 10b,
+                Damage: 1s
+            },
+            {
+                Slot: 27b,
+                id: 4185s,
+                Count: 1b,
+                Damage: 2s
+            },
+            {
+                Slot: 12b,
+                id: 4185s,
+                Count: 36b,
+                Damage: 0s
+            },
+            {
+                Slot: 30b,
+                id: 4185s,
+                Count: 64b,
+                Damage: 0s
+            }
+        ]
+    },
+    TraderIgnoreDamage: 0b,
+    TraderMarket: "",
+    TraderIgnoreNBT: 0b,
+    TraderSold: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4185s,
+                Count: 1b,
+                Damage: 1s
+            },
+            {
+                Slot: 3b,
+                id: 4185s,
+                Count: 10b,
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: 4185s,
+                Count: 1b,
+                Damage: 2s
+            },
+            {
+                Slot: 9b,
+                id: 4185s,
+                Count: 10b,
+                Damage: 1s
+            },
+            {
+                Slot: 12b,
+                id: 4185s,
+                Count: 1b,
+                Damage: 2s
+            }
+        ]
+    }
+}

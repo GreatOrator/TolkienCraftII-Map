@@ -1,0 +1,51 @@
+{
+    CompleterNpc: "treasure chest",
+    NextQuestId: 329,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Treasure Chamber",
+    Text: "You have heard rumors of marsh dwellers luring wealthy victims to their lair. Perhaps they hoard treasure in this dismal place.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Value: 20,
+            Slot: "Marsh Dweller"
+        }
+    ],
+    ModRev: 16,
+    Type: 4,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1460938040375L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4185s,
+                Count: 5b,
+                Damage: 2s
+            }
+        ]
+    },
+    CompleteText: "You are an adventurer and destroyed the marsh dwellers.....receive your reward!",
+    NextQuestTitle: "Rescue the Dwarves"
+}

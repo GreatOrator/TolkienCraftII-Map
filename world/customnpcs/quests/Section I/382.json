@@ -1,0 +1,44 @@
+{
+    CompleterNpc: "Warrenus",
+    NextQuestId: -1,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Aiding the Order I",
+    Text: "Warrenus is at his cabin north along the Greenway in Bree-land across from Folke’s Lumber Mill.
+
+Gandalf is concerned about the shadow spreading out of Angmar. He asked you to consult with the Rangers to search for Radagast the Brown, another of his order.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1461888505183L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "I must confess that I do not know where Radagast was bound when he left here, other than eastward towards the Lone-lands.",
+    NextQuestTitle: "",
+    QuestLocation: "Warrenus’ Cabin"
+}

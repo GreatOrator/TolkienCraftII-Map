@@ -1,0 +1,48 @@
+{
+    CompleterNpc: "Underhill",
+    NextQuestId: 360,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Pipeseed's Intentions II",
+    Text: "Tigerstone's farm can be found by following the road east up the hill and then north into the Chetwood. Follow the road east through the woods and towards the northern end of the forest.
+
+Constable Underhill ordered you to try and insinuate yourself into the Darkhold's good graces by doing tasks for their agent, Susan Pipeseed. However, Susan admitted her involvement and her desire to leave that part of her life behind. She has asked you for help righting her wrongs.
+",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 50,
+        OptionFactions1: 18,
+        OptionFactions2: 32,
+        OptionFaction1Points: 10,
+        DecreaseFaction2Points: 1b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Value: 1,
+            Slot: "Den-Mother"
+        }
+    ],
+    ModRev: 16,
+    Type: 4,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1461886209278L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "Susan Pipeseed asked you to slay the den-mother she bred with a Warg for Knaraugh, the wolf-keeper of the Darkholds. You should return to her with news of your success.",
+    NextQuestTitle: "Pipeseed's Intentions III"
+}

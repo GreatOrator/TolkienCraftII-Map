@@ -1,0 +1,98 @@
+{
+    CompleterNpc: "Susan Pipeseed",
+    NextQuestId: -1,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Pipeseed's Intentions III",
+    Text: "Susan Pipeseed asked you to slay the den-mother she bred with a Warg for Knaraugh, the wolf-keeper of the Darkholds. You should return to her with news of your success.
+",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 50,
+        OptionFactions1: 18,
+        OptionFactions2: 32,
+        OptionFaction1Points: 10,
+        DecreaseFaction2Points: 1b
+    },
+    RewardExp: 50,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1461886680998L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4185s,
+                Count: 1b,
+                Damage: 2s
+            },
+            {
+                Slot: 1b,
+                id: 1558s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 4s
+            },
+            {
+                Slot: 3b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 3s
+            },
+            {
+                Slot: 4b,
+                id: 7431s,
+                Count: 1b,
+                Damage: 2s
+            },
+            {
+                Slot: 5b,
+                id: 1427s,
+                Count: 1b,
+                Damage: 5s
+            },
+            {
+                Slot: 6b,
+                id: 14s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 7b,
+                id: 56s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 8b,
+                id: 4493s,
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "I'm glad that you were able to defeat the Den-mother before she bore any more of those half-Wargs.
+",
+    NextQuestTitle: "",
+    QuestLocation: "Pipeseed’s House"
+}

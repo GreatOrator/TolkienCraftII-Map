@@ -1,0 +1,76 @@
+{
+    DialogShowWheel: 0b,
+    AvailabilityQuestId: 103,
+    Options: [
+        {
+            OptionSlot: 0,
+            Option: {
+                DialogCommand: "",
+                Dialog: -1,
+                Title: "(Distracted) Ummm, Yeah, that’s terrible I think I need to go eat lunch or something.",
+                DialogColor: 16711680,
+                OptionType: 0
+            }
+        },
+        {
+            OptionSlot: 1,
+            Option: {
+                DialogCommand: "",
+                Dialog: 703,
+                Title: "That is a sad tale indeed, but what can I do?",
+                DialogColor: 16777215,
+                OptionType: 1
+            }
+        }
+    ],
+    DialogHideNPC: 0b,
+    AvailabilityFactionStance: 0,
+    AvailabilityQuest: 1,
+    AvailabilityDialog4: 0,
+    AvailabilityDialog3: 0,
+    AvailabilityQuest2: 0,
+    AvailabilityQuest3: 0,
+    AvailabilityQuest4: 0,
+    ModRev: 16,
+    DecreaseFaction1Points: 0b,
+    DialogQuest: -1,
+    AvailabilityDialog2: 0,
+    OptionFactions1: -1,
+    AvailabilityDayTime: 0,
+    OptionFactions2: -1,
+    AvailabilityFaction2Id: -1,
+    OptionFaction1Points: 100,
+    DialogDisableEsc: 1b,
+    AvailabilityFaction: 0,
+    DialogTitle: "Respecting the dead I",
+    AvailabilityDialog: 2,
+    AvailabilityFaction2: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityFaction2Stance: 0,
+    DialogCommand: "",
+    AvailabilityDialogId: 704,
+    OptionFaction2Points: 100,
+    DialogText: "As we prepared for the Helm’s Deep assault and stood at the defence of Edoras, many a good folk perished, both within the gates and beyond.
+
+The battle was great, but in the end we defeated the orcs’ onslaught. Some of the good men who were lost still remain unburied, but the people of Edoras have their hands full with their own great losses. It would be to our shame if those unburied bodies were dishonoured by wild beasts.",
+    AvailabilityQuest4Id: -1,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2Id: -1,
+    AvailabilityDialog2Id: -1,
+    AvailabilityDialog3Id: -1,
+    AvailabilityDialog4Id: -1,
+    AvailabilityMinPlayerLevel: 0,
+    DecreaseFaction2Points: 0b,
+    DialogMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1461936187552L,
+        Time: 0L,
+        Subject: ""
+    }
+}
