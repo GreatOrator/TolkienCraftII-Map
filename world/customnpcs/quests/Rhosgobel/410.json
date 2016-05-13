@@ -1,0 +1,47 @@
+{
+    CompleterNpc: "abandoned chest",
+    NextQuestId: 412,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Black Tarn Lake",
+    Text: "Head to Black Tarn Lake to investigate possible corruption. I think I saw a boatman south of here along the path I came.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    QuestDialogs: [
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1462550607202L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 1972s,
+                Count: 1b,
+                Damage: 2s
+            }
+        ]
+    },
+    CompleteText: "This plant radiates a strange power. I don't like the feeling I get from touching this plant. Time to take this to Radagast.",
+    NextQuestTitle: "Corrupted Plant"
+}

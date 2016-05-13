@@ -1,59 +1,21 @@
 {
-    CompleterNpc: "Xalgan ",
-    Type: 4,
-    RandomReward: 0b,
-    QuestFactionPoints: {
-        DecreaseFaction1Points: 0b,
-        DecreaseFaction2Points: 0b,
-        OptionFactions1: -1,
-        OptionFactions2: -1,
-        OptionFaction2Points: 100,
-        OptionFaction1Points: 100
-    },
+    CompleterNpc: "Xalgan",
     NextQuestId: -1,
-    Rewards: {
-        NpcMiscInv: [
-            {
-                id: 5458s,
-                Damage: 3s,
-                Count: 2b,
-                Slot: 0b
-            },
-            {
-                id: 4185s,
-                Damage: 1s,
-                Count: 5b,
-                Slot: 1b
-            },
-            {
-                id: 4279s,
-                Damage: 0s,
-                Count: 1b,
-                tag: {
-                    ench: [
-                        {
-                            id: 16s,
-                            lvl: 5s
-                        },
-                        {
-                            id: 21s,
-                            lvl: 3s
-                        },
-                        {
-                            id: 34s,
-                            lvl: 3s
-                        }
-                    ]
-                },
-                Slot: 2b
-            }
-        ]
-    },
-    Title: "Defending Helm's Deep II",
+    RandomReward: 0b,
     QuestRepeat: 2,
     QuestCompletion: 0,
+    Title: "Defending Helm's Deep II",
     Text: "That seems to have only been the advanced scouting group.Lets show those enemies who really is the stronger power here!",
-    NextQuestTitle: "",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
     QuestDialogs: [
         {
             Value: 1,
@@ -68,20 +30,58 @@
             Slot: "lotr.UrukWargBombardier"
         }
     ],
-    CompleteText: "Thank you!You have made my job easier...today.We stand ever vigilant as this is an important stronghold for my people and our enemies are forever trying to destroy or take over this place.",
+    ModRev: 16,
+    Type: 4,
     QuestMail: {
         Sender: "",
-        Time: 0L,
+        BeenRead: 0b,
         Message: {
         },
-        Subject: "",
         MailItems: [
         ],
-        BeenRead: 0b,
         MailQuest: -1,
-        TimePast: 1434041993227L
+        TimePast: 1462501403210L,
+        Time: 0L,
+        Subject: ""
     },
-    QuestCommand: "",
-    RewardExp: 100,
-    ModRev: 16
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5458s,
+                Count: 2b,
+                Damage: 3s
+            },
+            {
+                Slot: 1b,
+                id: 4185s,
+                Count: 5b,
+                Damage: 1s
+            },
+            {
+                Slot: 2b,
+                id: 4279s,
+                Count: 1b,
+                tag: {
+                    ench: [
+                        {
+                            lvl: 5s,
+                            id: 16s
+                        },
+                        {
+                            lvl: 3s,
+                            id: 21s
+                        },
+                        {
+                            lvl: 3s,
+                            id: 34s
+                        }
+                    ]
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "Thank you!You have made my job easier...today.We stand ever vigilant as this is an important stronghold for my people and our enemies are forever trying to destroy or take over this place.",
+    NextQuestTitle: ""
 }

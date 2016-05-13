@@ -18,7 +18,7 @@
     AvailabilityQuest: 2,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    AvailabilityQuest2: 0,
+    AvailabilityQuest2: 1,
     AvailabilityQuest3: 0,
     AvailabilityQuest4: 0,
     ModRev: 16,
@@ -43,7 +43,7 @@
     DialogText: "Now hop along, my hearty! Tom's a-going leaping!",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: -1,
+    AvailabilityQuest2Id: 392,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461979293765L,
+        TimePast: 1462546821821L,
         Time: 0L,
         Subject: ""
     }

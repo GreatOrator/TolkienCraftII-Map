@@ -18,7 +18,7 @@
     AvailabilityQuest: 2,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    AvailabilityQuest2: 0,
+    AvailabilityQuest2: 1,
     AvailabilityQuest3: 0,
     AvailabilityQuest4: 0,
     ModRev: 16,
@@ -43,7 +43,7 @@
     DialogText: "While the crebain may see nothing of interest, the fact that the Enemy has eyes here is dangerous. If we were to blind these eyes, the Enemy would not be as sure in directing its efforts. If you would, dispose of the crebain that roost to the south-west, just beyond my camp.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: -1,
+    AvailabilityQuest2Id: 387,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461948966445L,
+        TimePast: 1462545988609L,
         Time: 0L,
         Subject: ""
     }

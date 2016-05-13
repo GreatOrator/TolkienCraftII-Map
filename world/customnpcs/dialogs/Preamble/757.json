@@ -18,7 +18,7 @@
     AvailabilityQuest: 2,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    AvailabilityQuest2: 0,
+    AvailabilityQuest2: 1,
     AvailabilityQuest3: 0,
     AvailabilityQuest4: 0,
     ModRev: 16,
@@ -43,7 +43,7 @@
     DialogText: "Follow the road out of Staddle to the east.  Make haste though, but be careful. The road to Weathertop has become a dangerous place of late. Do your best to steer clear of the Weathertop Ruins near the outlook, though. The cave is set at the foot of a tall hill north-east of the entrance to the Weathertop Overlook.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: -1,
+    AvailabilityQuest2Id: 372,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461934436542L,
+        TimePast: 1462545817717L,
         Time: 0L,
         Subject: ""
     }

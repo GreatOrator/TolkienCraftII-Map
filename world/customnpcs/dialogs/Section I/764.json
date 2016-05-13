@@ -18,7 +18,7 @@
     AvailabilityQuest: 2,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    AvailabilityQuest2: 0,
+    AvailabilityQuest2: 1,
     AvailabilityQuest3: 0,
     AvailabilityQuest4: 0,
     ModRev: 16,
@@ -43,7 +43,7 @@
     DialogText: "Dark Men, them Rangers, not to be trusted, if you ask me. You seem a stalwart sort, so I'll not give you further advice. As long as you've coin, I'll see to your needs. Just don't be startin' any trouble.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: -1,
+    AvailabilityQuest2Id: 375,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461964258013L,
+        TimePast: 1462546764023L,
         Time: 0L,
         Subject: ""
     }

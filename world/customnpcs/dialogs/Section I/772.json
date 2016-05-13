@@ -18,7 +18,7 @@
     AvailabilityQuest: 2,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    AvailabilityQuest2: 0,
+    AvailabilityQuest2: 1,
     AvailabilityQuest3: 0,
     AvailabilityQuest4: 0,
     ModRev: 16,
@@ -45,7 +45,7 @@
 When that is done, return here with your report. If perchance I am not here, assume the worst.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: -1,
+    AvailabilityQuest2Id: 378,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -59,7 +59,7 @@ When that is done, return here with your report. If perchance I am not here, ass
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461889413021L,
+        TimePast: 1462546537363L,
         Time: 0L,
         Subject: ""
     }

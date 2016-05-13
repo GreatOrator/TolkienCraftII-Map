@@ -18,7 +18,7 @@
     AvailabilityQuest: 2,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    AvailabilityQuest2: 0,
+    AvailabilityQuest2: 1,
     AvailabilityQuest3: 0,
     AvailabilityQuest4: 0,
     ModRev: 16,
@@ -45,7 +45,7 @@
 I wish I could help you in this task, but the safety of my fellow rangers comes before all else.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: -1,
+    AvailabilityQuest2Id: 391,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -59,7 +59,7 @@ I wish I could help you in this task, but the safety of my fellow rangers comes 
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461964346163L,
+        TimePast: 1462546676059L,
         Time: 0L,
         Subject: ""
     }

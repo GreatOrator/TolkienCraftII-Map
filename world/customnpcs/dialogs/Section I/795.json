@@ -18,7 +18,7 @@
     AvailabilityQuest: 2,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    AvailabilityQuest2: 0,
+    AvailabilityQuest2: 1,
     AvailabilityQuest3: 0,
     AvailabilityQuest4: 0,
     ModRev: 16,
@@ -43,7 +43,7 @@
     DialogText: "Finding those birds in the Old Forest will not be a simple task. I would ask that you return to Strider in Bree and seek his counsel on how to find these foul birds.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: -1,
+    AvailabilityQuest2Id: 390,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461962261176L,
+        TimePast: 1462546063662L,
         Time: 0L,
         Subject: ""
     }

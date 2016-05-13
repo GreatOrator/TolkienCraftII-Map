@@ -1,11 +1,11 @@
 {
-    CompleterNpc: "Xalgan ",
+    CompleterNpc: "Xalgan",
     NextQuestId: -1,
     QuestLocation3: "",
     RandomReward: 0b,
     QuestLocation2: "",
     QuestRepeat: 0,
-    QuestCompletion: 0,
+    QuestCompletion: 1,
     Title: "Assault on Helm's Deep",
     Text: "Helm’s Deep may be under attack!  Go meet with Xalgan and help him with any raiding parties there.",
     QuestFactionPoints: {
@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461546386497L,
+        TimePast: 1462499678149L,
         Time: 0L,
         Subject: ""
     },

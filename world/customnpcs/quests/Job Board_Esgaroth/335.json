@@ -1,6 +1,6 @@
 {
     CompleterNpc: "Baldor",
-    NextQuestId: -1,
+    NextQuestId: 430,
     RandomReward: 1b,
     QuestRepeat: 0,
     QuestCompletion: 0,
@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461119087054L,
+        TimePast: 1463085562000L,
         Time: 0L,
         Subject: ""
     },
@@ -78,6 +78,6 @@
             }
         ]
     },
-    CompleteText: "Thank you! Thank you! You arrived in the nick of time! My boy and I are forever in your debt. Take this for your trouble! Perhaps we will meet again!",
-    NextQuestTitle: ""
+    CompleteText: "Thank you! Thank you! You arrived in the nick of time! My boy and I are forever in your debt. Take this for your trouble! If you are willing, I would like to hire you as guards through Mirkwood. Meet me at the beginning of the Old Forest Road.",
+    NextQuestTitle: "Escort the Caravan"
 }

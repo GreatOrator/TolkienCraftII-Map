@@ -18,7 +18,7 @@
     AvailabilityQuest: 2,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    AvailabilityQuest2: 0,
+    AvailabilityQuest2: 1,
     AvailabilityQuest3: 0,
     AvailabilityQuest4: 0,
     ModRev: 16,
@@ -45,7 +45,7 @@
 You watch that old Grey Willow-man. He's a mighty singer. He'll sing you down to sleep and drown you, if you don't be careful.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: -1,
+    AvailabilityQuest2Id: 379,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -59,7 +59,7 @@ You watch that old Grey Willow-man. He's a mighty singer. He'll sing you down to
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461964736770L,
+        TimePast: 1462546792220L,
         Time: 0L,
         Subject: ""
     }

@@ -1,0 +1,52 @@
+{
+    CompleterNpc: "Thranduil",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Inform the Elf-King",
+    Text: "I am sure the king of the Woodland Realm will want to know of this treachery in his court. Now I have to find his court in the north.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1462553876208L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5318s,
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "You come from Radagast, the Brown? What is this treachery?! Do not speak of this to anyone else. I will smoke this rat out!",
+    NextQuestTitle: ""
+}

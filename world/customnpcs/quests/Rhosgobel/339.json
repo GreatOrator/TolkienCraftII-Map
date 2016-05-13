@@ -1,11 +1,11 @@
 {
-    CompleterNpc: "Valdis",
-    NextQuestId: -1,
+    CompleterNpc: "Bofur's Chest",
+    NextQuestId: 442,
     RandomReward: 0b,
     QuestRepeat: 0,
     QuestCompletion: 0,
     Title: "Ceremonial Helm",
-    Text: "You have received a letter about a business proposition. Seek out Valdis and Beldir near Erebor.",
+    Text: "Head into Erebor and find the dwarven smith, Bofur. Look for the ceremonial helm when he isn't around.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -28,14 +28,25 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461120110842L,
+        TimePast: 1463109450909L,
         Time: 0L,
         Subject: ""
     },
     Rewards: {
         NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 7639s,
+                Count: 1b,
+                tag: {
+                    display: {
+                        Name: "Ceremonial Helm"
+                    }
+                },
+                Damage: 0s
+            }
         ]
     },
-    CompleteText: "",
-    NextQuestTitle: ""
+    CompleteText: "Return to Valdis with the helm.",
+    NextQuestTitle: "A Gift to the Dead"
 }

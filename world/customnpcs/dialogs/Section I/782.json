@@ -18,7 +18,7 @@
     AvailabilityQuest: 2,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    AvailabilityQuest2: 0,
+    AvailabilityQuest2: 1,
     AvailabilityQuest3: 0,
     AvailabilityQuest4: 0,
     ModRev: 16,
@@ -43,7 +43,7 @@
     DialogText: "Would you travel to the west and speak to Jaquemart? I sent him to Esgaroth to look into a...something of importance. Still, Jaquemart may know the where the Nazgûl have gone to and we must know if we are to get to the bottom of what is going on. He camps on a rise just north of the main gate and may have seen something that will aid me. You must hurry. I cannot afford to delay here overly long.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: -1,
+    AvailabilityQuest2Id: 386,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461960301377L,
+        TimePast: 1462546570520L,
         Time: 0L,
         Subject: ""
     }

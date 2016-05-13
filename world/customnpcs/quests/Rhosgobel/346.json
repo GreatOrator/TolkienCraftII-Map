@@ -5,7 +5,7 @@
     QuestRepeat: 0,
     QuestCompletion: 1,
     Title: "Business Proposition",
-    Text: "You have received a letter about a business proposition. Seek out Valdis and Beldir near Erebor.",
+    Text: "",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -28,14 +28,20 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461120251060L,
+        TimePast: 1463109678257L,
         Time: 0L,
         Subject: ""
     },
     Rewards: {
         NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 7174s,
+                Count: 1b,
+                Damage: 2s
+            }
         ]
     },
-    CompleteText: "",
+    CompleteText: "You have received a letter about a business proposition. Seek out Valdis and Beldir near Erebor.",
     NextQuestTitle: ""
 }

@@ -1,0 +1,94 @@
+{
+    DialogShowWheel: 0b,
+    AvailabilityQuestId: 420,
+    Options: [
+        {
+            OptionSlot: 0,
+            Option: {
+                DialogCommand: "",
+                Dialog: 876,
+                Title: "Did not realize dwarves occupy there!",
+                DialogColor: 6311740,
+                OptionType: 1
+            }
+        },
+        {
+            OptionSlot: 1,
+            Option: {
+                DialogCommand: "",
+                Dialog: 877,
+                Title: "Will the elves really help?",
+                DialogColor: 1333020,
+                OptionType: 1
+            }
+        },
+        {
+            OptionSlot: 2,
+            Option: {
+                DialogCommand: "",
+                Dialog: 878,
+                Title: "Archet should be easy to convince!",
+                DialogColor: 1517718,
+                OptionType: 1
+            }
+        },
+        {
+            OptionSlot: 3,
+            Option: {
+                DialogCommand: "",
+                Dialog: 875,
+                Title: "Do we have any other option?",
+                DialogColor: 14737632,
+                OptionType: 1
+            }
+        }
+    ],
+    DialogHideNPC: 0b,
+    AvailabilityFactionStance: 0,
+    AvailabilityQuest: 1,
+    AvailabilityDialog4: 0,
+    AvailabilityDialog3: 0,
+    AvailabilityQuest2: 2,
+    AvailabilityQuest3: 0,
+    AvailabilityQuest4: 0,
+    ModRev: 16,
+    DecreaseFaction1Points: 0b,
+    DialogQuest: 425,
+    AvailabilityDialog2: 0,
+    OptionFactions1: -1,
+    AvailabilityDayTime: 0,
+    OptionFactions2: -1,
+    AvailabilityFaction2Id: -1,
+    OptionFaction1Points: 100,
+    DialogDisableEsc: 1b,
+    AvailabilityFaction: 0,
+    DialogTitle: "Call to Free Peoples IV",
+    AvailabilityDialog: 0,
+    AvailabilityFaction2: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityFaction2Stance: 0,
+    DialogCommand: "",
+    AvailabilityDialogId: -1,
+    OptionFaction2Points: 100,
+    DialogText: "There are three that I can think of for you to go to, Rordan of Belegost, Larrel Glynlana of Cerin Valtaras, and Crisstaer Quican of Archet. I will send agents to others but these are the ones I can use your assistance with.",
+    AvailabilityQuest4Id: -1,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2Id: 425,
+    AvailabilityDialog2Id: -1,
+    AvailabilityDialog3Id: -1,
+    AvailabilityDialog4Id: -1,
+    AvailabilityMinPlayerLevel: 0,
+    DecreaseFaction2Points: 0b,
+    DialogMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1462927204343L,
+        Time: 0L,
+        Subject: ""
+    }
+}

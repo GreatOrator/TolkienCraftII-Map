@@ -5,7 +5,7 @@
     QuestRepeat: 0,
     QuestCompletion: 0,
     IgnoreNBT: 0b,
-    Title: "Return to Cewain",
+    Title: "A Gift for the Dead",
     Text: "Return the helmet to Cewain the Generous at Rhosgobel.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
@@ -27,7 +27,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461123699642L,
+        TimePast: 1463109469856L,
         Time: 0L,
         Subject: ""
     },

@@ -19,7 +19,7 @@
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
     AvailabilityQuest2: 2,
-    AvailabilityQuest3: 0,
+    AvailabilityQuest3: 1,
     AvailabilityQuest4: 0,
     ModRev: 16,
     DecreaseFaction1Points: 0b,
@@ -42,7 +42,7 @@
     OptionFaction2Points: 100,
     DialogText: "I have no doubt about that friend, I just hope we are not too late.",
     AvailabilityQuest4Id: -1,
-    AvailabilityQuest3Id: -1,
+    AvailabilityQuest3Id: 369,
     AvailabilityQuest2Id: 371,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461802255157L,
+        TimePast: 1462539469913L,
         Time: 0L,
         Subject: ""
     }

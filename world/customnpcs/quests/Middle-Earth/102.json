@@ -1,30 +1,22 @@
 {
     CompleterNpc: "Xalgan ",
-    Type: 4,
-    RandomReward: 0b,
-    QuestFactionPoints: {
-        DecreaseFaction1Points: 0b,
-        DecreaseFaction2Points: 0b,
-        OptionFactions1: -1,
-        OptionFactions2: -1,
-        OptionFaction2Points: 100,
-        OptionFaction1Points: 100
-    },
     NextQuestId: 103,
-    Rewards: {
-        NpcMiscInv: [
-        ]
-    },
-    Title: "Defending Helm's Deep I",
+    RandomReward: 0b,
     QuestRepeat: 2,
     QuestCompletion: 1,
+    Title: "Defending Helm's Deep I",
     Text: "Raiding parties have been attacking Helm's Deep and I have been asked to help fend them off.You'll have to go meet them on the field of battle!",
-    NextQuestTitle: "Defending Helm's Deep II",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
     QuestDialogs: [
-        {
-            Value: 30,
-            Slot: "lotr.UrukHaiBerserker"
-        },
         {
             Value: 6,
             Slot: "lotr.UrukHaiMercenaryCaptain"
@@ -32,22 +24,30 @@
         {
             Value: 30,
             Slot: "lotr.UrukHaiCrossbower"
+        },
+        {
+            Value: 30,
+            Slot: "lotr.UrukHaiBerserker"
         }
     ],
-    CompleteText: "I do not think they are going to give up so easily!Please, we are so close, do not give up now!",
+    ModRev: 16,
+    Type: 4,
     QuestMail: {
         Sender: "",
-        Time: 0L,
+        BeenRead: 0b,
         Message: {
         },
-        Subject: "",
         MailItems: [
         ],
-        BeenRead: 0b,
         MailQuest: -1,
-        TimePast: 1434042007273L
+        TimePast: 1462501401456L,
+        Time: 0L,
+        Subject: ""
     },
-    QuestCommand: "",
-    RewardExp: 0,
-    ModRev: 16
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "I do not think they are going to give up so easily!Please, we are so close, do not give up now!",
+    NextQuestTitle: "Defending Helm's Deep II"
 }
