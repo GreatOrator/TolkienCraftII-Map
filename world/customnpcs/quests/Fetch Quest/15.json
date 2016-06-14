@@ -1,9 +1,64 @@
 {
+    CompleterNpc: "Arisotura",
+    NextQuestId: -1,
+    RandomReward: 1b,
+    QuestRepeat: 4,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Delivery, delivery",
+    Text: "Package in-hand, let's go back to the baker.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1464567207429L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4185s,
+                Count: 8b,
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: 6019s,
+                Count: 8b,
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: 6128s,
+                Count: 8b,
+                Damage: 0s
+            }
+        ]
+    },
     Items: {
         NpcMiscInv: [
             {
+                Slot: 0b,
                 id: 5348s,
-                Damage: 29s,
                 Count: 1b,
                 tag: {
                     RepairCost: 2,
@@ -11,66 +66,11 @@
                         Name: "Baker's Package"
                     }
                 },
-                Slot: 0b
+                Damage: 29s
             }
         ]
     },
-    CompleterNpc: "Arisotura",
-    IgnoreDamage: 0b,
-    Type: 0,
-    RandomReward: 1b,
-    QuestFactionPoints: {
-        DecreaseFaction1Points: 0b,
-        DecreaseFaction2Points: 0b,
-        OptionFactions1: -1,
-        OptionFactions2: -1,
-        OptionFaction2Points: 100,
-        OptionFaction1Points: 100
-    },
-    IgnoreNBT: 0b,
-    NextQuestId: -1,
-    Rewards: {
-        NpcMiscInv: [
-            {
-                id: 4185s,
-                Damage: 0s,
-                Count: 8b,
-                Slot: 0b
-            },
-            {
-                id: 6019s,
-                Damage: 0s,
-                Count: 8b,
-                Slot: 1b
-            },
-            {
-                id: 6128s,
-                Damage: 0s,
-                Count: 8b,
-                Slot: 2b
-            }
-        ]
-    },
-    Title: "Delivery, delivery",
-    QuestRepeat: 4,
-    QuestCompletion: 0,
-    Text: "Package in-hand, let's go back to the baker.",
-    NextQuestTitle: "",
-    CompleteText: "Thank you once again, that helps me out so much!Take this for your effort.By the way, I get regular deliveries, so anytime you want to help me, let me know.",
-    QuestMail: {
-        Sender: "",
-        Time: 0L,
-        Message: {
-        },
-        Subject: "",
-        MailItems: [
-        ],
-        BeenRead: 0b,
-        MailQuest: -1,
-        TimePast: 1422712503718L
-    },
-    QuestCommand: "",
     LeaveItems: 0b,
-    RewardExp: 25,
-    ModRev: 15
+    CompleteText: "Thank you once again, that helps me out so much!Take this for your effort.By the way, I get regular deliveries, so anytime you want to help me, let me know.",
+    NextQuestTitle: ""
 }

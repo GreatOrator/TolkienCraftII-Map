@@ -6,7 +6,7 @@
     QuestCompletion: 0,
     IgnoreNBT: 0b,
     Title: "Find parts",
-    Text: "They seem to be having a hard time getting this place back in order.  Wonder if I can find wooden bushings and torque shafts so Saenorath can fix what he was repairing.  He did mention Larson in the central building may have some.",
+    Text: "They seem to be having a hard time getting this place back in order.  Wonder if I can find wooden bushings and torque shafts so Saenorath can fix what he was repairing.  He did mention Larson in the central building southeast of the camp, may have some.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -27,7 +27,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443884999873L,
+        TimePast: 1465676691551L,
         Time: 0L,
         Subject: ""
     },

@@ -1,0 +1,105 @@
+{
+    CompleterNpc: "Gollum",
+    NextQuestId: -1,
+    RandomReward: 1b,
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    IgnoreNBT: 0b,
+    Title: "The Riddle Game",
+    Text: "Gollum has challenged you to a riddle game, the stakes are win, and you get whatever his shiny is, lose, and he tries to eat you!Let's try not to get eaten shall we?Besides, if you are reading this, you probably already got at least one answer wrong :D",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465593345841L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4493s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: 4493s,
+                Count: 1b,
+                tag: {
+                    preadj: "Excavator's",
+                    overlay_color: -12307457L,
+                    material: 4,
+                    iconName: "Wand",
+                    onItemRightClickDelay: 0,
+                    name: "Excavator's Gold Wand",
+                    icon: "Wand6",
+                    onBlockDestroyed: 20,
+                    postadj: "",
+                    armorType: -1,
+                    allComponents: [0,20],
+                    matName: "Gold"
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: 8475s,
+                Count: 1b,
+                tag: {
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: 6864s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: 4974s,
+                Count: 1b,
+                tag: {
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5326s,
+                Count: 1b,
+                tag: {
+                    display: {
+                        Name: "Riddle Game Winner"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "You wins!  Here is the shiny I promised now goes aways and leaves us alone! -gollum-",
+    NextQuestTitle: ""
+}

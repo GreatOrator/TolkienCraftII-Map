@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Elrond",
+    NextQuestId: -1,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Goblin Town III",
+    Text: "You continue into the next tunnel and reach a smaller cave. Here you see an unusual shrine.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465702296159L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "Try to sneak close and find out if the Orcs are gathering for a purpose.  Elrond warned you not to engage the enemy, if you need it, use the potion he gave you.",
+    NextQuestTitle: "",
+    QuestLocation: "Shrine"
+}

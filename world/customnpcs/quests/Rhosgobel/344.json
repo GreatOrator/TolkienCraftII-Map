@@ -17,10 +17,6 @@
     RewardExp: 0,
     QuestCommand: "",
     QuestDialogs: [
-        {
-            Integer: 687,
-            Slot: 0
-        }
     ],
     ModRev: 16,
     Type: 1,
@@ -32,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1463107581666L,
+        TimePast: 1464906259759L,
         Time: 0L,
         Subject: ""
     },
@@ -40,6 +36,6 @@
         NpcMiscInv: [
         ]
     },
-    CompleteText: "If you have time, I would ask a favor of you.",
+    CompleteText: "If you have time, I would like to ask a favor of you.",
     NextQuestTitle: ""
 }

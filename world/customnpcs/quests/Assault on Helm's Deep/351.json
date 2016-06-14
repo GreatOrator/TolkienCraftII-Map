@@ -7,7 +7,7 @@
     QuestRepeat: 0,
     QuestCompletion: 1,
     Title: "Assault on Helm's Deep",
-    Text: "Helm’s Deep may be under attack!  Go meet with Xalgan and help him with any raiding parties there.",
+    Text: "Helm’s Deep may be under attack!  Go meet with Xalgan and help him with any raiding parties there.He is usually found on top of the wall going over the river.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462499678149L,
+        TimePast: 1464565570626L,
         Time: 0L,
         Subject: ""
     },

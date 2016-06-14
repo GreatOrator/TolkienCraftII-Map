@@ -1,0 +1,64 @@
+{
+    DialogShowWheel: 0b,
+    AvailabilityQuestId: 500,
+    Options: [
+        {
+            OptionSlot: 0,
+            Option: {
+                DialogCommand: "",
+                Dialog: 1075,
+                Title: "What can we do about it then?",
+                DialogColor: 719163,
+                OptionType: 1
+            }
+        }
+    ],
+    DialogHideNPC: 0b,
+    AvailabilityFactionStance: 0,
+    AvailabilityQuest: 1,
+    AvailabilityDialog4: 0,
+    AvailabilityDialog3: 0,
+    AvailabilityQuest2: 2,
+    AvailabilityQuest3: 0,
+    AvailabilityQuest4: 0,
+    ModRev: 16,
+    DecreaseFaction1Points: 0b,
+    DialogQuest: -1,
+    AvailabilityDialog2: 0,
+    OptionFactions1: -1,
+    AvailabilityDayTime: 0,
+    OptionFactions2: -1,
+    AvailabilityFaction2Id: -1,
+    OptionFaction1Points: 100,
+    DialogDisableEsc: 0b,
+    AvailabilityFaction: 0,
+    DialogTitle: "Shadow I",
+    AvailabilityDialog: 0,
+    AvailabilityFaction2: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityFaction2Stance: 0,
+    DialogCommand: "",
+    AvailabilityDialogId: -1,
+    OptionFaction2Points: 100,
+    DialogText: "Dark and terrible is the will of the Lord of the Nazgûl, exceeded in cruelty only by that of his Master. The shadow over the Barrow-downs is not the work of a single curse. The Witch-king summoned hundreds, perhaps thousands of evil wights, dark and accursed, to haunt the hollow places beneath the green hills. It was the work of centuries of malice!",
+    AvailabilityQuest4Id: -1,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2Id: 507,
+    AvailabilityDialog2Id: -1,
+    AvailabilityDialog3Id: -1,
+    AvailabilityDialog4Id: -1,
+    AvailabilityMinPlayerLevel: 0,
+    DecreaseFaction2Points: 0b,
+    DialogMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1464410088511L,
+        Time: 0L,
+        Subject: ""
+    }
+}

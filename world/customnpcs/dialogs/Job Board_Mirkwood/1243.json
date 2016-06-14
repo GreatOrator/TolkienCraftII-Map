@@ -1,0 +1,64 @@
+{
+    DialogShowWheel: 0b,
+    AvailabilityQuestId: 557,
+    Options: [
+        {
+            OptionSlot: 0,
+            Option: {
+                DialogCommand: "",
+                Dialog: 1244,
+                Title: "I just heard the Orcs were moving once again under the mountains which is why I set out in search of you.",
+                DialogColor: 850474,
+                OptionType: 1
+            }
+        }
+    ],
+    DialogHideNPC: 0b,
+    AvailabilityFactionStance: 0,
+    AvailabilityQuest: 1,
+    AvailabilityDialog4: 0,
+    AvailabilityDialog3: 0,
+    AvailabilityQuest2: 2,
+    AvailabilityQuest3: 0,
+    AvailabilityQuest4: 0,
+    ModRev: 16,
+    DecreaseFaction1Points: 0b,
+    DialogQuest: -1,
+    AvailabilityDialog2: 0,
+    OptionFactions1: -1,
+    AvailabilityDayTime: 0,
+    OptionFactions2: -1,
+    AvailabilityFaction2Id: -1,
+    OptionFaction1Points: 100,
+    DialogDisableEsc: 0b,
+    AvailabilityFaction: 0,
+    DialogTitle: "Iwgar I",
+    AvailabilityDialog: 0,
+    AvailabilityFaction2: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityFaction2Stance: 0,
+    DialogCommand: "",
+    AvailabilityDialogId: -1,
+    OptionFaction2Points: 100,
+    DialogText: "We are travelling companions of Dindy Brandybuck. We were late leaving Bree as there are always delays when travelling with a heavy load. We journeyed across the land towards the mountains without incident, and climbed the slopes to the High Pass. As far as we knew, the mountains were still mostly free of goblins, so we didn’t hasten and took the easiest route through the pass.",
+    AvailabilityQuest4Id: -1,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2Id: 581,
+    AvailabilityDialog2Id: -1,
+    AvailabilityDialog3Id: -1,
+    AvailabilityDialog4Id: -1,
+    AvailabilityMinPlayerLevel: 0,
+    DecreaseFaction2Points: 0b,
+    DialogMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465317649610L,
+        Time: 0L,
+        Subject: ""
+    }
+}

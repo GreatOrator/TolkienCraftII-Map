@@ -6,7 +6,7 @@
     QuestCompletion: 0,
     IgnoreNBT: 0b,
     Title: "The Council Assembled",
-    Text: "You have been tasked with convincing the free peoples of Middle-earth to join a Council to discuss and hopefully stop the growing threat in Angmar.You will need to convince Rordan of Belegost, Larrel Glynlana of Cerin Valtaras, and Crisstaer Quican of Archet.Bring proof of their commitment back to Beldon.",
+    Text: "You have been tasked with convincing the free peoples of Middle-earth to join a Council to discuss and hopefully stop the growing threat in Angmar.You will need to convince Rordan of Belegost, Larrel Glynlana of Cerin Valtaras, and Crisstaer Quican of Archet.Bring proof of their commitment back to Beldon back in Bree.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -27,7 +27,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1463104105693L,
+        TimePast: 1465526808227L,
         Time: 0L,
         Subject: ""
     },

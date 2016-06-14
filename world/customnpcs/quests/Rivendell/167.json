@@ -1,12 +1,12 @@
 {
     CompleterNpc: "Gimli",
-    NextQuestId: -1,
+    NextQuestId: 618,
     QuestLocation3: "",
     RandomReward: 0b,
     QuestLocation2: "",
     QuestRepeat: 0,
-    QuestCompletion: 0,
-    Title: "Parties Fate",
+    QuestCompletion: 1,
+    Title: "Parties Fate I",
     Text: "Search for information about Gimli’s Uncle in Khazad-dûm(Moria).",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443711328791L,
+        TimePast: 1465704178355L,
         Time: 0L,
         Subject: ""
     },
@@ -36,25 +36,34 @@
         NpcMiscInv: [
             {
                 Slot: 0b,
-                id: 4102s,
-                Count: 16b,
+                id: 387s,
+                Count: 1b,
+                tag: {
+                    pages: [
+                        "We drove out the orcs from the Great Gate and guardroom and took the First Hall. We slew many in the bright sun in the dale. Floi was killed by an arrow. He slew the great chieftain[...] Floi under grass near Mirrormere [...] came [...]ken we repaired [...] We have taken the Twenty-first Hall of North End to dwell in. There is good air [...]",
+                        "today we found truesilver [...] well-forged helm[...]n[...]coat made all of purest mithril [...] Oin to seek for the upper armories of the Third Deep [...] go westwards to s[...] to Hollin gate.",
+                        "Year five
+\"r...(ye)ars since [...] ready sorrow [...] yesterday being the tenth of November Balin, lord of Moria, fell in Dimrill Dale. He went alone to look in Mirrormere. An orc shot him from behind a stone. We slew the orc, but many more ca(me) [...] up from east up the Silverlode [...] we rescued Balin’s body [...]re a sharp battle [...] ",
+                        "we have barred the gates but doubt if [...] can hold them long. If there is [...] no escape it will be a horrible fate to suffer, but I shall hold.",
+                        "We cannot get out. We cannot get out. They have taken the bridge and Second Hall. Frar and Loni and Nali fell there bravely while the rest retr [...] Mazarbul. We still ho[...]g ... but hope u[...]n[...]Oin’s party went five days ago but today only four returned. The pool is up to the wall at West-gate. The Watcher in the Water took Oin--we cannot get out.",
+                        "The end comes soon. We hear drums, drums in the deep.
+
+
+
+
+
+
+
+They are coming................."
+                    ],
+                    author: "Ori",
+                    title: "Book of Mazarbul"
+                },
                 Damage: 0s
-            },
-            {
-                Slot: 1b,
-                id: 4185s,
-                Count: 1b,
-                Damage: 2s
-            },
-            {
-                Slot: 2b,
-                id: 4298s,
-                Count: 1b,
-                Damage: 4s
             }
         ]
     },
-    CompleteText: "It is unfortunate what you have found.  I do not think this is what Gimli was expecting.  I don’t have the heart to tell him the truth, I think I will just tell him his Uncle sends his love and can not wait till they can meet again.",
-    NextQuestTitle: "",
-    QuestLocation: "balin"
+    CompleteText: "You have found the tomb of Balin and read the book that was there amongst the bones of what appears to have been a great battle.",
+    NextQuestTitle: "Parties Fate II",
+    QuestLocation: "Balin's Tomb"
 }

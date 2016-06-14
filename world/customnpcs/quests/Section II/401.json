@@ -7,7 +7,7 @@
     QuestRepeat: 0,
     QuestCompletion: 0,
     Title: "Aiding the Order II",
-    Text: "Berengier is at his camp near the Forgotten Inn..
+    Text: "Berengier is at his camp near the Forsaken Inn 5 days walk east of his house but has offered up his horse to take you there...
 
 Warrenus does not know where exactly Radagast was bound when he left the Ranger's cabin. He suspects that Berengier, the Ranger who watches the Lone-lands, may have information on the Wizard's whereabouts.",
     QuestFactionPoints: {
@@ -30,7 +30,7 @@ Warrenus does not know where exactly Radagast was bound when he left the Ranger'
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462553914370L,
+        TimePast: 1464917699529L,
         Time: 0L,
         Subject: ""
     },

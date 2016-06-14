@@ -5,7 +5,7 @@
     QuestRepeat: 2,
     QuestCompletion: 0,
     Title: "A Daily Hunt",
-    Text: "Warg can be found roaming to the west of here. You should defeat 10 wargs in Dale then return back to Francis Wille.",
+    Text: "Warg can be found roaming to the west of here. You should defeat 10 wargs near Bree then return back to Bartholomew Gerard.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -32,7 +32,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1446214681098L,
+        TimePast: 1463443963268L,
         Time: 0L,
         Subject: ""
     },

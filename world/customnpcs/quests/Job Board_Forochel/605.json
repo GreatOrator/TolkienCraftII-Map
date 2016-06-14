@@ -1,0 +1,49 @@
+{
+    CompleterNpc: "Feredrûn",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "The Broken Keep",
+    Text: "Head to the Trollshaws, by way of Rivendell, and use the map to find the hideout.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Value: 1,
+            Slot: "Troll"
+        },
+        {
+            Value: 4,
+            Slot: "Orc guard"
+        }
+    ],
+    ModRev: 16,
+    Type: 4,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465571445512L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "Greetings. Perhaps we can talk.",
+    NextQuestTitle: ""
+}

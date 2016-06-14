@@ -1,6 +1,6 @@
 {
     DialogShowWheel: 0b,
-    AvailabilityQuestId: 409,
+    AvailabilityQuestId: 472,
     Options: [
         {
             OptionSlot: 0,
@@ -59,7 +59,7 @@ When you are ready you are welcome to use my swift steed.",
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462757601707L,
+        TimePast: 1464144318542L,
         Time: 0L,
         Subject: ""
     }

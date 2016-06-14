@@ -1,0 +1,45 @@
+{
+    CompleterNpc: "Elrond",
+    NextQuestId: 645,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "The Gibbet King",
+    Text: "Defeat the Gibbet King and his minions then escape the caves.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Value: 1,
+            Slot: "The Gibbet King"
+        }
+    ],
+    ModRev: 16,
+    Type: 4,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465783108273L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "You say he vanished after being defeated? He probably flew back from whence he came. This means he may still be a threat. I fear it is time for me to call the White Council to Rivendell. I ask but one more thing from you. Head into Lothlorien and seek out the Lady Galadriel. Tell her all that has transpired and seek her council.",
+    NextQuestTitle: "Lothlorien Map"
+}

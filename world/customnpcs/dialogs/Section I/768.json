@@ -40,7 +40,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "There you must go, and there you must end Quinn's life, if he can still be called living. You should wait for night-fall and then make your move against the Darkholds.",
+    DialogText: "There you must go, and there you must end Quinn's life, if he can still be called living. You should wait for night-fall and then make your move against the Darkholds.Remember, he was last seen in Chetwood forest at one of the bandit camps there.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: 377,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462546497080L,
+        TimePast: 1464784803403L,
         Time: 0L,
         Subject: ""
     }

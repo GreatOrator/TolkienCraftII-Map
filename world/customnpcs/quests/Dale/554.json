@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Prince Brand",
+    NextQuestId: 555,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Plight of the Prince",
+    Text: "Ottarr told you that Prince Brand has been imprisoned at Castle Orlmond north of Dale. I should take the dirt road on the north end of the city. Once you have gotten to the castle, you can fight your way in or sneak in through the drain on the west side of the castle.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 50,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465100341952L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "Thank you for rescuing me! It is unbelievable how many allies Girion has mustered. My father will reward you handsomely, if we return to Dale alive! Girion must pay for his crimes first!",
+    NextQuestTitle: "Storming the Castle",
+    QuestLocation: "Prince Brand"
+}

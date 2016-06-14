@@ -20,16 +20,16 @@ Larrel told you that if the Uruk Tagdud were slain, then Cerin Valtaras would re
     QuestCommand: "",
     QuestDialogs: [
         {
+            Value: 25,
+            Slot: "lotr.BlackUruk"
+        },
+        {
+            Value: 25,
+            Slot: "lotr.BlackUrukArcher"
+        },
+        {
             Value: 1,
             Slot: "Tagdud"
-        },
-        {
-            Value: 1,
-            Slot: "Uruk"
-        },
-        {
-            Value: 1,
-            Slot: "Uruk Archer"
         }
     ],
     ModRev: 16,
@@ -42,7 +42,7 @@ Larrel told you that if the Uruk Tagdud were slain, then Cerin Valtaras would re
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1463104241386L,
+        TimePast: 1464998740000L,
         Time: 0L,
         Subject: ""
     },

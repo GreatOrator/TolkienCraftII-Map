@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Mithrandir",
+    NextQuestId: 500,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Dark Matters",
+    Text: "Gandalf has sent you to the north, to Mount Gundabad, to seek out a writing or writings inscribed with a peculiar set of symbols.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1464830288034L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "You see the walls inscribed with strange runes....scrolls scattered about in disorder. It looks like no one has been here in a long time. Time to gather what you find and head back to Mithrandir in the Barrow-downs.",
+    NextQuestTitle: "Black Speech",
+    QuestLocation: "Sorcerer's Study"
+}

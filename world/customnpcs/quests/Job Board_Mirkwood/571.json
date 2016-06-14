@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Beorn",
+    NextQuestId: 572,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Hunter's Path I",
+    Text: "Beorn has gone ahead of you. Take the path south and west from the hall and meet him along the way.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465268490692L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "",
+    NextQuestTitle: "Hunter's Path II",
+    QuestLocation: "Point 1"
+}

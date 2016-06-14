@@ -7,8 +7,8 @@
             Option: {
                 DialogCommand: "",
                 Dialog: 692,
-                Title: "[Western] I support giving Cewain the Generous a seat on the council and beginning trade agreements with his clan.",
-                DialogColor: 7520488,
+                Title: "I support giving Cewain the Generous a seat on the council and beginning trade agreements with his clan.",
+                DialogColor: 392996,
                 OptionType: 1
             }
         },
@@ -17,7 +17,7 @@
             Option: {
                 DialogCommand: "",
                 Dialog: 693,
-                Title: "[Eastern] I do not think it would be wise to bring Cewain and his clan into the Woodsmen council. His hall is too far away and trade will be dangerous through the forest.",
+                Title: "I do not think it would be wise to bring Cewain and his clan into the Woodsmen council. His hall is too far away and trade will be dangerous through the forest.",
                 DialogColor: 15237753,
                 OptionType: 1
             }
@@ -67,7 +67,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461029388803L,
+        TimePast: 1465848623724L,
         Time: 0L,
         Subject: ""
     }

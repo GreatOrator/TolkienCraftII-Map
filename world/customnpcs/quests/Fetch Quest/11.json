@@ -1,100 +1,100 @@
 {
-    Items: {
-        NpcMiscInv: [
-            {
-                id: 296s,
-                Damage: 0s,
-                Count: 64b,
-                Slot: 0b
-            }
-        ]
-    },
     CompleterNpc: "Lucas",
-    IgnoreDamage: 0b,
-    Type: 0,
+    NextQuestId: -1,
     RandomReward: 0b,
+    QuestRepeat: 4,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Help a barkeep out",
+    Text: "The barkeep has asked me to go get some wheat from the farmer for brewing.  Not sure why the farmers wheat is any different...",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
-        DecreaseFaction2Points: 0b,
+        OptionFaction2Points: 100,
         OptionFactions1: -1,
         OptionFactions2: -1,
-        OptionFaction2Points: 100,
-        OptionFaction1Points: 100
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
     },
-    IgnoreNBT: 0b,
-    NextQuestId: -1,
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1464567208715L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
     Rewards: {
         NpcMiscInv: [
             {
+                Slot: 0b,
                 id: 4185s,
-                Damage: 0s,
                 Count: 8b,
-                Slot: 0b
+                Damage: 0s
             },
             {
+                Slot: 1b,
                 id: 4298s,
-                Damage: 4s,
                 Count: 1b,
-                Slot: 1b
+                Damage: 4s
             },
             {
+                Slot: 2b,
                 id: 4121s,
-                Damage: 0s,
                 Count: 1b,
-                Slot: 2b
+                Damage: 0s
             },
             {
+                Slot: 3b,
                 id: 4123s,
-                Damage: 0s,
                 Count: 1b,
-                Slot: 3b
+                Damage: 0s
             },
             {
+                Slot: 4b,
                 id: 4274s,
-                Damage: 1s,
                 Count: 1b,
-                Slot: 4b
+                Damage: 1s
             },
             {
+                Slot: 5b,
                 id: 4196s,
-                Damage: 3s,
                 Count: 1b,
-                Slot: 5b
+                Damage: 3s
             },
             {
+                Slot: 6b,
                 id: 4274s,
-                Damage: 4s,
                 Count: 1b,
-                Slot: 6b
+                Damage: 4s
             },
             {
+                Slot: 7b,
                 id: 4196s,
-                Damage: 2s,
                 Count: 1b,
-                Slot: 7b
+                Damage: 2s
             }
         ]
     },
-    Title: "Help a barkeep out",
-    QuestRepeat: 4,
-    QuestCompletion: 0,
-    Text: "The barkeep has asked me to go get some wheat from the farmer for brewing.  Not sure why the farmers wheat is any different...",
-    NextQuestTitle: "",
-    CompleteText: "Thank you!  You'll save me so much time.  Come back if you ever need more work!",
-    QuestMail: {
-        Sender: "",
-        Time: 0L,
-        Message: {
-        },
-        Subject: "",
-        MailItems: [
-        ],
-        BeenRead: 0b,
-        MailQuest: -1,
-        TimePast: 1422712505209L
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 296s,
+                Count: 64b,
+                Damage: 0s
+            }
+        ]
     },
-    QuestCommand: "",
     LeaveItems: 0b,
-    RewardExp: 25,
-    ModRev: 15
+    CompleteText: "Thank you!  You'll save me so much time.  Come back if you ever need more work!",
+    NextQuestTitle: ""
 }

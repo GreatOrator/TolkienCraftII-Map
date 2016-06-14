@@ -8,11 +8,11 @@
     Text: "",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
-        OptionFaction2Points: 1000,
+        OptionFaction2Points: 500,
         OptionFactions1: 18,
-        OptionFactions2: -1,
+        OptionFactions2: 28,
         OptionFaction1Points: 100,
-        DecreaseFaction2Points: 1b
+        DecreaseFaction2Points: 0b
     },
     RewardExp: 100,
     QuestCommand: "",
@@ -40,7 +40,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462420743172L,
+        TimePast: 1464905628823L,
         Time: 0L,
         Subject: ""
     },

@@ -40,7 +40,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "Look for Old Bombadil's house, which lies far to the west from here in the Old Forest, hopefully you have procured some travel arrangements to get there. He may help you if you ask him in my name, Strider. If you discover anything, I would ask that you address it as best you can.
+    DialogText: "Look for Old Bombadil's house, which lies far to the west from here in the Old Forest, hopefully you have procured some travel arrangements to get there. He may help you if you ask him in my name, Strider. If you discover anything, I would ask that you address it as best you can.Seek out the master of Fast Travel to see if he can perhaps help you.
 
 I wish I could help you in this task, but the safety of my fellow rangers comes before all else.",
     AvailabilityQuest4Id: -1,
@@ -59,7 +59,7 @@ I wish I could help you in this task, but the safety of my fellow rangers comes 
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462546676059L,
+        TimePast: 1464827550937L,
         Time: 0L,
         Subject: ""
     }

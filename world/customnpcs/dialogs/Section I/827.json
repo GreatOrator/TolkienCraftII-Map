@@ -1,6 +1,6 @@
 {
     DialogShowWheel: 0b,
-    AvailabilityQuestId: 380,
+    AvailabilityQuestId: 512,
     Options: [
         {
             OptionSlot: 0,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462548193614L,
+        TimePast: 1464449159024L,
         Time: 0L,
         Subject: ""
     }

@@ -40,7 +40,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "Head out of Bree through the West-gate and turn north along the Greenway. Seek Warrenus at his cabin on the east side of the Greenway across from Folke’s Lumber Mill.",
+    DialogText: "Head out of Bree through the West-gate and turn north at the crossroads. Seek Warrenus at his cabin on the east side of the Greenway across from Folke’s Lumber Mill.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: 394,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462553625960L,
+        TimePast: 1464917382616L,
         Time: 0L,
         Subject: ""
     }

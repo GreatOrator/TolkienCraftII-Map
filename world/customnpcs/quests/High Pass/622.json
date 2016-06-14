@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Elrond",
+    NextQuestId: 624,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Goblin Town",
+    Text: "You are tasked by Elrond to find more information about the evil spirit you encountered at the High Pass. Head inside the goblin cave not far from where you met the Elves in the High Pass. He warned you not to engage the enemy, so stealth is your friend.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465702191202L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "Use the key to enter the cave system.",
+    NextQuestTitle: "Goblin Town II",
+    QuestLocation: "Tunnel Entrance"
+}

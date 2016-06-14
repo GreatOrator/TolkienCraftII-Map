@@ -7,7 +7,7 @@
     QuestRepeat: 0,
     QuestCompletion: 1,
     Title: "Stay Out of the Woods",
-    Text: "Follow the river north/northwest staying near the shore until you reach the dwarven camp.",
+    Text: "Follow the Running River (by the boatman) north/northwest staying near the shore until you reach the dwarven camp.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1463084473305L,
+        TimePast: 1465846848952L,
         Time: 0L,
         Subject: ""
     },

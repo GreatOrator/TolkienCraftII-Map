@@ -7,7 +7,7 @@
     QuestRepeat: 0,
     QuestCompletion: 0,
     Title: "Tyrn Gorthad I",
-    Text: "Looks like you may have some help.  Tom said Gandalf was seen wandering around here looking for something, best time to go with such a powerful wizard around.You also were told as you left that the place you seek was even further due east from Tom's house.",
+    Text: "Looks like you may have some help.  Tom said Gandalf was seen wandering around the Barrows looking for something, best time to go with such a powerful wizard around.You also were told as you left that the place you seek was even further due east from Tom's house.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461980956224L,
+        TimePast: 1464826844629L,
         Time: 0L,
         Subject: ""
     },

@@ -33,7 +33,7 @@
     AvailabilityQuest4: 0,
     ModRev: 16,
     DecreaseFaction1Points: 0b,
-    DialogQuest: -1,
+    DialogQuest: 637,
     AvailabilityDialog2: 0,
     OptionFactions1: -1,
     AvailabilityDayTime: 0,
@@ -50,7 +50,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "I have heard that the dwarves sent an expedition back to Khazad-dûm, supposedly in an effort to retake that evil-infested area.  It has been some time since this was to happen, and I am curious at the results.  I have here a key that will let you in the western-most entrance of that stronghold.  I don’t need specifics, I only want to know if there is anything important, which, being dwarves, I really don’t think there will be.",
+    DialogText: "Indeed not. I have heard that the dwarves sent an expedition back to Khazad-dûm, supposedly in an effort to retake that evil-infested area.  It has been some time since this was to happen, and I am curious at the results.  I have here a key that will let you in the western-most entrance of that stronghold.  I don’t need specifics, I only want to know if there is anything important, which, being dwarves, I really don’t think there will be.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
@@ -67,7 +67,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443236206788L,
+        TimePast: 1465766739609L,
         Time: 0L,
         Subject: ""
     }

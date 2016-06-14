@@ -1,82 +1,82 @@
 {
-    Items: {
-        NpcMiscInv: [
-            {
-                id: 20s,
-                Damage: 0s,
-                Count: 64b,
-                Slot: 0b
-            }
-        ]
-    },
     CompleterNpc: "Lucien",
-    IgnoreDamage: 0b,
-    Type: 0,
+    NextQuestId: -1,
     RandomReward: 0b,
+    QuestRepeat: 4,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Apothecary and Glass",
+    Text: "The apothecary needs 64 glass.  Should be simple enough task to do.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
-        DecreaseFaction2Points: 0b,
+        OptionFaction2Points: 100,
         OptionFactions1: -1,
         OptionFactions2: -1,
-        OptionFaction2Points: 100,
-        OptionFaction1Points: 100
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
     },
-    IgnoreNBT: 0b,
-    NextQuestId: -1,
+    RewardExp: 100,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1464567202020L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
     Rewards: {
         NpcMiscInv: [
             {
+                Slot: 0b,
                 id: 4185s,
-                Damage: 0s,
                 Count: 16b,
-                Slot: 0b
+                Damage: 0s
             },
             {
+                Slot: 1b,
                 id: 373s,
-                Damage: 16417s,
                 Count: 1b,
-                Slot: 1b
+                Damage: 16417s
             },
             {
+                Slot: 2b,
                 id: 373s,
-                Damage: 16421s,
                 Count: 1b,
-                Slot: 2b
+                Damage: 16421s
             },
             {
+                Slot: 3b,
                 id: 373s,
-                Damage: 16454s,
                 Count: 1b,
-                Slot: 3b
+                Damage: 16454s
             },
             {
+                Slot: 4b,
                 id: 373s,
-                Damage: 16418s,
                 Count: 1b,
-                Slot: 4b
+                Damage: 16418s
             }
         ]
     },
-    Title: "Apothecary and Glass",
-    QuestRepeat: 4,
-    QuestCompletion: 0,
-    Text: "The apothecary needs 64 glass.  Should be simple enough task to do.",
-    NextQuestTitle: "",
-    CompleteText: "Thank you very much @p.  This will help keep me stocked.  I hope my reward will help you along.",
-    QuestMail: {
-        Sender: "",
-        Time: 0L,
-        Message: {
-        },
-        Subject: "",
-        MailItems: [
-        ],
-        BeenRead: 0b,
-        MailQuest: -1,
-        TimePast: 1422712497667L
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 20s,
+                Count: 64b,
+                Damage: 0s
+            }
+        ]
     },
-    QuestCommand: "",
     LeaveItems: 0b,
-    RewardExp: 100,
-    ModRev: 15
+    CompleteText: "Thank you very much @p.  This will help keep me stocked.  I hope my reward will help you along.",
+    NextQuestTitle: ""
 }

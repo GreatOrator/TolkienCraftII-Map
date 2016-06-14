@@ -40,7 +40,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "If you learn anything there, return to me. What news you can bring me may help determine the movements of the Nazgûl.",
+    DialogText: "If you learn anything there, return to me. What news you can bring me may help determine the movements of the Nazgûl.Look for the house with green banners, south-west from the main gate inside Dale.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: 388,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462546026318L,
+        TimePast: 1464785545700L,
         Time: 0L,
         Subject: ""
     }

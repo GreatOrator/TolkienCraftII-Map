@@ -1,0 +1,83 @@
+{
+    CompleterNpc: "King Bain",
+    NextQuestId: 633,
+    RandomReward: 1b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Treachery!",
+    Text: "Tell King Bain about the chest and the treachery of Lockmand.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 1b,
+        OptionFaction2Points: 100,
+        OptionFactions1: 38,
+        OptionFactions2: 18,
+        OptionFaction1Points: 500,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
+    QuestDialogs: [
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465764545516L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4185s,
+                Count: 4b,
+                Damage: 1s
+            },
+            {
+                Slot: 1b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 4s
+            },
+            {
+                Slot: 2b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 3s
+            },
+            {
+                Slot: 3b,
+                id: 14s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: 56s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: 1427s,
+                Count: 2b,
+                Damage: 5s
+            },
+            {
+                Slot: 6b,
+                id: 4493s,
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "Thank you for your vigilance! If not for you, the forces of Dale would have been blunted.",
+    NextQuestTitle: "Royal Council"
+}

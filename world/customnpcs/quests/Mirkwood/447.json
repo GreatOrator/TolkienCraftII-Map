@@ -1,0 +1,88 @@
+{
+    CompleterNpc: "Thranduil",
+    NextQuestId: 459,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "A Cup of Poison",
+    Text: "Return to Thranduil with the vial of poison and Halbrech's confession.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: 18,
+        OptionFactions2: 34,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465344625088L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 4s
+            },
+            {
+                Slot: 1b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 3s
+            },
+            {
+                Slot: 2b,
+                id: 14s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: 56s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: 1427s,
+                Count: 2b,
+                Damage: 5s
+            },
+            {
+                Slot: 5b,
+                id: 4185s,
+                Count: 5b,
+                Damage: 1s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 8279s,
+                Count: 1b,
+                Damage: 114s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "This is very sad news....a trusted friend falling to the shadow. I will take into consideration all the years of service, that he came clean....I will need to purge this darkness from him. This is just more \"proof\" to back the Wayward Elves agenda.",
+    NextQuestTitle: "Return to Radagast"
+}

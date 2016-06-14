@@ -37,7 +37,7 @@
     AvailabilityFaction2: 0,
     AvailabilityFactionId: -1,
     AvailabilityFaction2Stance: 0,
-    DialogCommand: "",
+    DialogCommand: "/give @p 373 1 16451 {CustomPotionEffects:[{Id:21,Amplifier:2,Duration:600},{Id:1,Amplifier:3,Duration:600},{Id:3,Amplifier:3,Duration:600},{Id:5,Amplifier:3,Duration:600},{Id:6,Amplifier:3,Duration:600},{Id:8,Amplifier:3,Duration:600},{Id:10,Amplifier:3,Duration:600},{Id:12,Amplifier:3,Duration:600},{Id:13,Amplifier:3,Duration:600},{Id:14,Amplifier:3,Duration:600},{Id:16,Amplifier:3,Duration:600},{Id:23,Amplifier:3,Duration:600}],display:{Name:\"Elven Blessing\"}}",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
     DialogText: "The scouts say that these Orcs are being led by a great Uruk of Angmar named Tagdud, who camps near here. Perhaps if this Uruk were slain, Cerin Valtaras would be protected enough for me to come to your Council. It is a heavy burden, but I would task you with this, if you remain of stout heart.",
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1463103959558L,
+        TimePast: 1463186232870L,
         Time: 0L,
         Subject: ""
     }

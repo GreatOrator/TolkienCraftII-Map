@@ -1,0 +1,87 @@
+{
+    CompleterNpc: "Clofoel of Tranquility",
+    NextQuestId: -1,
+    RandomReward: 1b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Undercover Prisoner",
+    Text: "While in the prison, speak with the Troll and make him warm up to you.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Integer: 1358,
+            Slot: 0
+        }
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465832841302L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4185s,
+                Count: 4b,
+                Damage: 1s
+            },
+            {
+                Slot: 1b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 4s
+            },
+            {
+                Slot: 2b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 3s
+            },
+            {
+                Slot: 3b,
+                id: 14s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: 56s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: 1427s,
+                Count: 2b,
+                Damage: 5s
+            },
+            {
+                Slot: 6b,
+                id: 4503s,
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "Don't worry, we put the ogre to sleep in his cell and got you out. So, the troll did come here on a mission from Dol Guldur. I will speak with Lady Galadriel more. Thank you for your assistance.",
+    NextQuestTitle: ""
+}

@@ -40,7 +40,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "Hear then my offer: While Old Tom Bombadil looks for sour crows, you'll gather lilies for my lovely, four should do it i think. I saw some along the river, just a hop and a jump away. Just follow along until, ring a ding dillo, you find Old Man Willow!
+    DialogText: "Hear then my offer: While Old Tom Bombadil looks for sour crows, you'll gather lilies for my lovely, four should do it i think. I saw some carried by the very trees to the south, just a hop and a jump away. Just follow along until, ring a ding dillo, you find Old Man Willow!
 
 You watch that old Grey Willow-man. He's a mighty singer. He'll sing you down to sleep and drown you, if you don't be careful.",
     AvailabilityQuest4Id: -1,
@@ -59,7 +59,7 @@ You watch that old Grey Willow-man. He's a mighty singer. He'll sing you down to
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462546792220L,
+        TimePast: 1464824565379L,
         Time: 0L,
         Subject: ""
     }

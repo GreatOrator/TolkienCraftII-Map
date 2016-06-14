@@ -55,8 +55,8 @@ Fare thee well,
             }
         ],
         MailQuest: 79,
-        TimePast: 2540005L,
-        Time: 1445097764997L,
+        TimePast: 3356948L,
+        Time: 1465830438102L,
         Subject: "Thank you Hero!"
     },
     Rewards: {
@@ -89,6 +89,18 @@ Fare thee well,
                 Slot: 4b,
                 id: 41s,
                 Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: 5317s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Check Your Mail!"
+                    }
+                },
                 Damage: 0s
             }
         ]

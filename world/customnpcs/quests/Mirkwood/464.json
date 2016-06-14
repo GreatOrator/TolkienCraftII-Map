@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Tauler",
+    NextQuestId: 465,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Tyulquin's Lair",
+    Text: "",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1464921328110L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "Tauler has snuck back to the darkness of the woods. You feel he will blame you for the murder of his sister and make you enemies of the spiders. Radagast has gone to search for Duskwater to bring her to Woodmen-town...for what you have no idea. You alone must free the maiden from the clutches of Tyulquin.",
+    NextQuestTitle: "Spider Magic",
+    QuestLocation: "Tyulquin"
+}

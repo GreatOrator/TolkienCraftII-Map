@@ -1,6 +1,6 @@
 {
     CompleterNpc: "Beldon",
-    NextQuestId: -1,
+    NextQuestId: 371,
     RandomReward: 1b,
     QuestRepeat: 0,
     QuestCompletion: 1,
@@ -38,7 +38,7 @@ Beldon told you to enter the Darkholds' hideout and speak to Tigerstone. Once yo
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461886675990L,
+        TimePast: 1464565026539L,
         Time: 0L,
         Subject: ""
     },
@@ -101,5 +101,5 @@ Beldon told you to enter the Darkholds' hideout and speak to Tigerstone. Once yo
         ]
     },
     CompleteText: "Thankfully we learned Quinn is in the dungeon below the barn.Hopefully having defeated those two will return this area to a more peaceful state.",
-    NextQuestTitle: ""
+    NextQuestTitle: "The Hideout IIb"
 }

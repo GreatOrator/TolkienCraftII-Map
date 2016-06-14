@@ -7,7 +7,7 @@
     QuestRepeat: 0,
     QuestCompletion: 0,
     Title: "A Call to Dwarves",
-    Text: "Both Dori and Rordan should be found in Belegost, which lies to the north.
+    Text: "Both Dwalin and Rordan should be found in Belegost, which lies to the north.
 
 Beldon told you that the Dwarves of Belegost are good Longbeards who were put to task by the Orcs for many years, though they have recently thrown off their yoke. Although they are still pressed by the Orcs, Beldon has asked you to bring them word of the Council of Free Peoples.",
     QuestFactionPoints: {
@@ -30,7 +30,7 @@ Beldon told you that the Dwarves of Belegost are good Longbeards who were put to
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462929113038L,
+        TimePast: 1464998764292L,
         Time: 0L,
         Subject: ""
     },
@@ -38,7 +38,7 @@ Beldon told you that the Dwarves of Belegost are good Longbeards who were put to
         NpcMiscInv: [
         ]
     },
-    CompleteText: "You seek Dori? Alas, Dori has been captured by the Orcs! An envoy of the traitors just left and said that if we did not turn over the mines to them, Dori would be killed!",
+    CompleteText: "You seek Dwalin? Alas, Dwalin has been captured by the Orcs! An envoy of the traitors just left and said that if we did not turn over the mines to them, Dwalin would be killed!",
     NextQuestTitle: "",
     QuestLocation: "Rordan’s Throne Room"
 }

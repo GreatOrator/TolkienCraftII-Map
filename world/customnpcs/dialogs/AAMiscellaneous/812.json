@@ -4,7 +4,7 @@
     Options: [
     ],
     DialogHideNPC: 0b,
-    AvailabilityFactionStance: 0,
+    AvailabilityFactionStance: 2,
     AvailabilityQuest: 0,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
@@ -21,16 +21,16 @@
     AvailabilityFaction2Id: -1,
     OptionFaction1Points: 100,
     DialogDisableEsc: 0b,
-    AvailabilityFaction: 0,
+    AvailabilityFaction: 1,
     DialogTitle: "Woodland Travel-Off",
     AvailabilityDialog: 0,
     AvailabilityFaction2: 0,
-    AvailabilityFactionId: -1,
+    AvailabilityFactionId: 18,
     AvailabilityFaction2Stance: 0,
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "",
+    DialogText: "Stay on the path!",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
@@ -47,7 +47,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462408520420L,
+        TimePast: 1465837839401L,
         Time: 0L,
         Subject: ""
     }

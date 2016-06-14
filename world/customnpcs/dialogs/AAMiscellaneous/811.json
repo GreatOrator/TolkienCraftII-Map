@@ -2,9 +2,29 @@
     DialogShowWheel: 0b,
     AvailabilityQuestId: -1,
     Options: [
+        {
+            OptionSlot: 0,
+            Option: {
+                DialogCommand: "",
+                Dialog: -1,
+                Title: "Thank you.",
+                DialogColor: 7981800,
+                OptionType: 3
+            }
+        },
+        {
+            OptionSlot: 1,
+            Option: {
+                DialogCommand: "",
+                Dialog: 1144,
+                Title: "Where is Tranduil's Hall?",
+                DialogColor: 15257964,
+                OptionType: 1
+            }
+        }
     ],
     DialogHideNPC: 0b,
-    AvailabilityFactionStance: 0,
+    AvailabilityFactionStance: 2,
     AvailabilityQuest: 0,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
@@ -21,16 +41,16 @@
     AvailabilityFaction2Id: -1,
     OptionFaction1Points: 100,
     DialogDisableEsc: 0b,
-    AvailabilityFaction: 0,
+    AvailabilityFaction: 2,
     DialogTitle: "Woodland Travel-On",
     AvailabilityDialog: 0,
     AvailabilityFaction2: 0,
-    AvailabilityFactionId: -1,
+    AvailabilityFactionId: 18,
     AvailabilityFaction2Stance: 0,
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "",
+    DialogText: "The woods is a dangerous place to wander. I offer my services as your guide.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
@@ -47,7 +67,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462408513019L,
+        TimePast: 1465837821254L,
         Time: 0L,
         Subject: ""
     }

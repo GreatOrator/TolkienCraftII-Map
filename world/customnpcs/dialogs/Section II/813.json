@@ -40,7 +40,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "If you wish, my horse would bear you to Berengier's camp. Just go talk to him and hear will bear you thus.",
+    DialogText: "The inn is nearly 5 days walk east from here.If you wish, my horse would bear you to Berengier's camp. Just go talk to him and hear will bear you thus.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: 401,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462553903587L,
+        TimePast: 1464917585019L,
         Time: 0L,
         Subject: ""
     }

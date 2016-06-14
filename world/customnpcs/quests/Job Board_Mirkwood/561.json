@@ -1,0 +1,67 @@
+{
+    CompleterNpc: "Sheep",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Feast with Beorn",
+    Text: "Beorn will not talk about the event anymore until his belly is full. Talk to his sheep to join in the feast. Then see if Beorn wants to talk more.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465316319184L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 8182s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: 8171s,
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 6452s,
+                Count: 2b,
+                tag: {
+                    VillagerType: 80
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Baaaaa",
+    NextQuestTitle: ""
+}

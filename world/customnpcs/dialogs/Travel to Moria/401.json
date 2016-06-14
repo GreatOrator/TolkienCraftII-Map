@@ -28,7 +28,7 @@
     AvailabilityQuest: 1,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    AvailabilityQuest2: 0,
+    AvailabilityQuest2: 2,
     AvailabilityQuest3: 0,
     AvailabilityQuest4: 0,
     ModRev: 16,
@@ -53,7 +53,7 @@
     DialogText: "And who might you be?  This ain’t no place for some human to just gallivant about! We have been holed up here for quite some time now, waiting on reinforcements I don’t think are coming.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: -1,
+    AvailabilityQuest2Id: 194,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -67,7 +67,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443711348927L,
+        TimePast: 1465781454871L,
         Time: 0L,
         Subject: ""
     }

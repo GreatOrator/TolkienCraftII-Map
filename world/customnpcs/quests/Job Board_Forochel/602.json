@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Cyrnan",
+    NextQuestId: 603,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Interrupted Fishing Trip",
+    Text: "To the north of town, on the shores of the Ice Bay in Forochel, you should see the scene of the attack on the fishermen.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465526099174L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "Looking around, you see someone attempted to cover the remains of wagon tracks or thought they might cover in snow. In the mud, you see footprints of both men and trolls and decide to follow them.",
+    NextQuestTitle: "The Bandit Cave",
+    QuestLocation: "Fishing Dock"
+}

@@ -1,9 +1,9 @@
 {
-    CompleterNpc: "Cewain the Generous",
+    CompleterNpc: "Amaleoda",
     NextQuestId: -1,
     RandomReward: 0b,
     QuestRepeat: 0,
-    QuestCompletion: 1,
+    QuestCompletion: 0,
     Title: "Amaleoda",
     Text: "Speak with Amaleoda about a task she needs help with.",
     QuestFactionPoints: {
@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461120557983L,
+        TimePast: 1464898893318L,
         Time: 0L,
         Subject: ""
     },
@@ -36,6 +36,6 @@
         NpcMiscInv: [
         ]
     },
-    CompleteText: "",
+    CompleteText: "Well met, friend!",
     NextQuestTitle: ""
 }

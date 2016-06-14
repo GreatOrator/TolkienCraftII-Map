@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Hartwulf",
+    NextQuestId: -1,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Cruel, Ill-Favored Men",
+    Text: "Follow the trail to find the lone warrior and his captors. ",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465316302412L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "It looks like Oderic is being treated as an honoured guest by the outlaw king. You observe the other outlaws watching him suspiciously. He is not a prisoner but he is under guard. Maybe you can catch Oderic alone to avoid a blood-bath.",
+    NextQuestTitle: "",
+    QuestLocation: "Bandit Camp"
+}

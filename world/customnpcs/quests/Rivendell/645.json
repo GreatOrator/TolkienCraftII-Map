@@ -1,0 +1,171 @@
+{
+    CompleterNpc: "Clofoel of Tranquility",
+    NextQuestId: 644,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    IgnoreNBT: 0b,
+    Title: "Lothlorien Map",
+    Text: "",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465770306705L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 7341s,
+                Count: 1b,
+                tag: {
+                    zoomLevel: 0,
+                    maps: [
+                        {
+                            zCenter: 22144,
+                            mapScale: 0,
+                            mapName: "Map_89",
+                            xCenter: 56064
+                        },
+                        {
+                            zCenter: 22144,
+                            mapScale: 0,
+                            mapName: "Map_90",
+                            xCenter: 55936
+                        },
+                        {
+                            zCenter: 22272,
+                            mapScale: 0,
+                            mapName: "Map_91",
+                            xCenter: 55936
+                        },
+                        {
+                            zCenter: 22272,
+                            mapScale: 0,
+                            mapName: "Map_92",
+                            xCenter: 55808
+                        },
+                        {
+                            zCenter: 22272,
+                            mapScale: 0,
+                            mapName: "Map_93",
+                            xCenter: 55680
+                        },
+                        {
+                            zCenter: 22144,
+                            mapScale: 0,
+                            yMapWaypoints: [
+                                0.50249785f
+                            ],
+                            MapWaypointNames: [
+                                "Court of Light"
+                            ],
+                            MapWaypointColors: [
+                                1.0f
+                            ],
+                            mapName: "Map_94",
+                            xMapWaypoints: [
+                                0.49241665f
+                            ],
+                            xCenter: 55680
+                        }
+                    ],
+                    mapSlot: 11,
+                    compassX: 55680,
+                    compassZ: 22143,
+                    autoCenter: 1b,
+                    autoCreate: 1b,
+                    containerUpdate: 0b,
+                    savedCompass: 0,
+                    prevAngle: 400.4449890839983d,
+                    needleAngle: 399.47528f,
+                    lastGUImode: 1,
+                    time: 4.189000000000001d,
+                    Inventory: [
+                        {
+                            Slot: 0b,
+                            id: 4797s,
+                            Count: 1b,
+                            tag: {
+                                XCoord: 55680,
+                                ZCoord: 22143,
+                                WaypointName: " Court of Light"
+                            },
+                            Damage: 0s
+                        },
+                        {
+                            Slot: 1b,
+                            id: 395s,
+                            Count: 58b,
+                            Damage: 0s
+                        },
+                        {
+                            Slot: 6b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 89s
+                        },
+                        {
+                            Slot: 7b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 90s
+                        },
+                        {
+                            Slot: 8b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 91s
+                        },
+                        {
+                            Slot: 9b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 92s
+                        },
+                        {
+                            Slot: 10b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 93s
+                        },
+                        {
+                            Slot: 11b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 94s
+                        }
+                    ]
+                },
+                Damage: 94s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "",
+    NextQuestTitle: "Court of Light"
+}

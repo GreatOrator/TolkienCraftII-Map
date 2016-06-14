@@ -5,7 +5,7 @@
     QuestRepeat: 0,
     QuestCompletion: 0,
     Title: "Black Tarn Lake",
-    Text: "Head to Black Tarn Lake to investigate possible corruption. I think I saw a boatman south of here along the path I came.",
+    Text: "Head to Black Tarn Lake to investigate possible corruption at an abandoned shack. I think I saw a boatman south of here along the path I came.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462550607202L,
+        TimePast: 1465344445446L,
         Time: 0L,
         Subject: ""
     },
@@ -39,9 +39,22 @@
                 id: 1972s,
                 Count: 1b,
                 Damage: 2s
+            },
+            {
+                Slot: 1b,
+                id: 4773s,
+                Count: 1b,
+                tag: {
+                    backpack-UID: "95eaa124-8e97-431e-91ed-ed3fc3d3ae7b",
+                    display: {
+                        Name: "Sack of Junk"
+                    },
+                    name: "item.backpack.name"
+                },
+                Damage: 0s
             }
         ]
     },
-    CompleteText: "This plant radiates a strange power. I don't like the feeling I get from touching this plant. Time to take this to Radagast.",
+    CompleteText: "I found a sack of random stuff left by the last tenant and a strange plant. This plant radiates a strange power. I don't like the feeling I get from touching it. Time to take this to Radagast. (make sure to read the clipboard before leaving if this is your first time with Thaumcraft)",
     NextQuestTitle: "Corrupted Plant"
 }

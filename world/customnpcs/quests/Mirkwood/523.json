@@ -1,0 +1,47 @@
+{
+    CompleterNpc: "Lamp Crate",
+    NextQuestId: 524,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Finding the Lamp",
+    Text: "Now to find the Lamp...if I was an Orc where would I put it?",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 1b,
+        OptionFaction2Points: 100,
+        OptionFactions1: 39,
+        OptionFactions2: -1,
+        OptionFaction1Points: 500,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    QuestDialogs: [
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465070804651L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 1968s,
+                Count: 1b,
+                Damage: 7s
+            }
+        ]
+    },
+    CompleteText: "That went almost too smoothly......",
+    NextQuestTitle: "Tortured Soul"
+}

@@ -1,0 +1,65 @@
+{
+    CompleterNpc: "Dody Brandybuck",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Return to the Inn",
+    Text: "Return to the Easterly Inn at Stonyford and tell Dody that you rescued his brother from the goblins.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    QuestDialogs: [
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465317593833L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4185s,
+                Count: 4b,
+                Damage: 1s
+            },
+            {
+                Slot: 1b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 4s
+            },
+            {
+                Slot: 2b,
+                id: 8292s,
+                Count: 8b,
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: 4394s,
+                Count: 1b,
+                Damage: 4s
+            }
+        ]
+    },
+    CompleteText: "I am glad you walked into my inn, friend! Your meal is on the house!",
+    NextQuestTitle: ""
+}

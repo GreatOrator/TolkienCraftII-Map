@@ -23,7 +23,7 @@
     AvailabilityQuest4: 0,
     ModRev: 16,
     DecreaseFaction1Points: 0b,
-    DialogQuest: 370,
+    DialogQuest: -1,
     AvailabilityDialog2: 0,
     OptionFactions1: -1,
     AvailabilityDayTime: 0,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462538563409L,
+        TimePast: 1464564936972L,
         Time: 0L,
         Subject: ""
     }

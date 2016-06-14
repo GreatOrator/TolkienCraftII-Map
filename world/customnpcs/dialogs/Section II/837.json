@@ -40,7 +40,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "One of my kinsmen, Berengier, has already journeyed to Weathertop to investigate, he has made camp near the Forgotten Inn...perhaps Radagast has joined him there.",
+    DialogText: "One of my kinsmen, Berengier, has already journeyed to Weathertop to investigate, he has made camp near the Forsaken Inn...perhaps Radagast has joined him there.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462553863907L,
+        TimePast: 1464917407526L,
         Time: 0L,
         Subject: ""
     }

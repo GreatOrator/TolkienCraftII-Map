@@ -1,0 +1,214 @@
+{
+    CompleterNpc: "Thranduil",
+    NextQuestId: 550,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Thranduil's Map",
+    Text: "",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    QuestDialogs: [
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465102134498L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 7341s,
+                Count: 1b,
+                tag: {
+                    zoomLevel: 0,
+                    maps: [
+                        {
+                            zCenter: -4352,
+                            mapScale: 0,
+                            yMapWaypoints: [
+                                0.7532376f
+                            ],
+                            MapWaypointNames: [
+                                "Dark Pit"
+                            ],
+                            MapWaypointColors: [
+                                1.0f
+                            ],
+                            mapName: "Map_71",
+                            xMapWaypoints: [
+                                0.72503066f
+                            ],
+                            xCenter: 84736
+                        },
+                        {
+                            zCenter: -4224,
+                            mapScale: 0,
+                            mapName: "Map_72",
+                            xCenter: 84736
+                        },
+                        {
+                            zCenter: -4224,
+                            mapScale: 0,
+                            mapName: "Map_73",
+                            xCenter: 84864
+                        },
+                        {
+                            zCenter: -4224,
+                            mapScale: 0,
+                            mapName: "Map_74",
+                            xCenter: 84992
+                        },
+                        {
+                            zCenter: -4224,
+                            mapScale: 0,
+                            mapName: "Map_75",
+                            xCenter: 85120
+                        },
+                        {
+                            zCenter: -4352,
+                            mapScale: 0,
+                            mapName: "Map_76",
+                            xCenter: 85120
+                        },
+                        {
+                            zCenter: -4352,
+                            mapScale: 0,
+                            mapName: "Map_77",
+                            xCenter: 85248
+                        },
+                        {
+                            zCenter: -4352,
+                            mapScale: 0,
+                            mapName: "Map_78",
+                            xCenter: 85376
+                        },
+                        {
+                            zCenter: -12800,
+                            mapScale: 0,
+                            mapName: "Map_79",
+                            xCenter: 77952
+                        },
+                        {
+                            zCenter: -12928,
+                            mapScale: 0,
+                            mapName: "Map_80",
+                            xCenter: 77952
+                        }
+                    ],
+                    mapSlot: 15,
+                    compassX: 84763,
+                    compassZ: -4322,
+                    autoCenter: 1b,
+                    autoCreate: 1b,
+                    containerUpdate: 0b,
+                    savedCompass: 0,
+                    prevAngle: -131.10096785858374d,
+                    needleAngle: -130.77954f,
+                    lastGUImode: 1,
+                    time: 5.25d,
+                    Inventory: [
+                        {
+                            Slot: 0b,
+                            id: 4797s,
+                            Count: 1b,
+                            tag: {
+                                XCoord: 84763,
+                                ZCoord: -4322,
+                                WaypointName: " Morgoth's Maw"
+                            },
+                            Damage: 0s
+                        },
+                        {
+                            Slot: 1b,
+                            id: 395s,
+                            Count: 54b,
+                            Damage: 0s
+                        },
+                        {
+                            Slot: 6b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 71s
+                        },
+                        {
+                            Slot: 7b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 72s
+                        },
+                        {
+                            Slot: 8b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 73s
+                        },
+                        {
+                            Slot: 9b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 74s
+                        },
+                        {
+                            Slot: 10b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 75s
+                        },
+                        {
+                            Slot: 11b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 76s
+                        },
+                        {
+                            Slot: 12b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 77s
+                        },
+                        {
+                            Slot: 13b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 78s
+                        },
+                        {
+                            Slot: 14b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 79s
+                        },
+                        {
+                            Slot: 15b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 80s
+                        }
+                    ]
+                },
+                Damage: 80s
+            }
+        ]
+    },
+    CompleteText: "",
+    NextQuestTitle: "Shadow of the Mountain"
+}

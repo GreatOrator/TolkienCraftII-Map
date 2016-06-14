@@ -1,0 +1,41 @@
+{
+    CompleterNpc: "Reward Chest",
+    NextQuestId: 632,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "“Fake” Treasure Chest",
+    Text: "Everything inside of you is screaming that this Lockmand was the very same man you saw in the Goblin hideout in the High Pass. You decide to sneak over and investigate the chest.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    QuestDialogs: [
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465764527658L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "You carefully open the chest a crack…...and slam it down quickly! Inside is not gold and gems, but a nest of poisonous serpents! Inform the king.",
+    NextQuestTitle: "Treachery!"
+}

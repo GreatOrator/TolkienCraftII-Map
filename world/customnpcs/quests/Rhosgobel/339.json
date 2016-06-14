@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1463109450909L,
+        TimePast: 1464751037245L,
         Time: 0L,
         Subject: ""
     },
@@ -48,5 +48,5 @@
         ]
     },
     CompleteText: "Return to Valdis with the helm.",
-    NextQuestTitle: "A Gift to the Dead"
+    NextQuestTitle: ""
 }

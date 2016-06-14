@@ -1,7 +1,7 @@
 {
     CompleterNpc: "Glóin",
     NextQuestId: -1,
-    RandomReward: 0b,
+    RandomReward: 1b,
     QuestRepeat: 0,
     QuestCompletion: 0,
     Title: "A Hero Returns",
@@ -32,7 +32,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461119037312L,
+        TimePast: 1465847775155L,
         Time: 0L,
         Subject: ""
     },

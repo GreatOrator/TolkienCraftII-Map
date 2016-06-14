@@ -35,7 +35,7 @@
     DialogTitle: "Fast Travel - Off - Esgaroth",
     AvailabilityDialog: 0,
     AvailabilityFaction2: 0,
-    AvailabilityFactionId: 18,
+    AvailabilityFactionId: 21,
     AvailabilityFaction2Stance: 0,
     DialogCommand: "",
     AvailabilityDialogId: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443234922522L,
+        TimePast: 1465837721055L,
         Time: 0L,
         Subject: ""
     }

@@ -1,0 +1,52 @@
+{
+    CompleterNpc: "Ormal",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "The Lampmaker",
+    Text: "I need to find Ormal the Lampmaker to see if we can craft a lamp similar to the one hanging in Woodmen-town. I should be able to find him north in the hall.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1464211317267L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 6619s,
+                Count: 1b,
+                Damage: 1s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "I have spoke with Thranduil. What he asks will be difficult but I will do my best.",
+    NextQuestTitle: ""
+}

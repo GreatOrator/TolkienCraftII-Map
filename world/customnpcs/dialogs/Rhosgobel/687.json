@@ -1,6 +1,6 @@
 {
     DialogShowWheel: 0b,
-    AvailabilityQuestId: 344,
+    AvailabilityQuestId: 337,
     Options: [
         {
             OptionSlot: 0,
@@ -28,7 +28,7 @@
     AvailabilityQuest: 1,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    AvailabilityQuest2: 0,
+    AvailabilityQuest2: 2,
     AvailabilityQuest3: 0,
     AvailabilityQuest4: 0,
     ModRev: 16,
@@ -53,7 +53,7 @@
     DialogText: "Last winter, my clan began to see glowing lights dancing among the barrows where our ancestors lie. Many claim to hear groaning voices echoing from the deepest tombs. I myself witnessed such stirrings while paying my respects to my kin. Then four dead kinsmen were found near The Hall of Ghosts. I knew then I had to do something about it.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: -1,
+    AvailabilityQuest2Id: 348,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -67,7 +67,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461120911563L,
+        TimePast: 1464906380308L,
         Time: 0L,
         Subject: ""
     }

@@ -5,7 +5,7 @@
     QuestRepeat: 0,
     QuestCompletion: 1,
     Title: "Stop the Corruption I",
-    Text: "I need to make my way down to that corrupted area I saw earlier and take all of those guys out.
+    Text: "I need to make my way down to that corrupted area, east of the camp, I saw earlier and take all of those guys out. 
 ",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
@@ -41,7 +41,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443713767578L,
+        TimePast: 1465680008100L,
         Time: 0L,
         Subject: ""
     },

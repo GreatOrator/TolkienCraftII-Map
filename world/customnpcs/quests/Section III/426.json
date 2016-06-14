@@ -1,15 +1,15 @@
 {
-    CompleterNpc: "Dori",
+    CompleterNpc: "Dwalin",
     NextQuestId: -1,
     QuestLocation3: "",
     RandomReward: 0b,
     QuestLocation2: "",
     QuestRepeat: 0,
     QuestCompletion: 0,
-    Title: "ACD-Freeing Dori I",
-    Text: "Rordan told you that the Dwarves could not even consider coming to the Council of Free People, unless Dori was freed from the Orcs and their treasure returned. As an envoy of the Rangers, he told you that you must free him if you hope to have the support of the Dwarves at the Council.
+    Title: "ACD-Freeing Dwalin I",
+    Text: "Rordan told you that the Dwarves could not even consider coming to the Council of Free People, unless Dwalin was freed from the Orcs and their treasure returned. As an envoy of the Rangers, he told you that you must free him if you hope to have the support of the Dwarves at the Council.
 
-Mount Gundabad where Dori is being held is west of Belegost. Search the stronghold for where Dori is being held.",
+Mount Gundabad where Dwalin is being held is west of Belegost. Search the stronghold for where Dwalin is being held. Quite possibly the prison is in the lowest parts of Gundabad.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -30,7 +30,7 @@ Mount Gundabad where Dori is being held is west of Belegost. Search the strongho
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1463016177464L,
+        TimePast: 1465043477981L,
         Time: 0L,
         Subject: ""
     },
@@ -40,5 +40,5 @@ Mount Gundabad where Dori is being held is west of Belegost. Search the strongho
     },
     CompleteText: "Well, it's about time!",
     NextQuestTitle: "",
-    QuestLocation: "Dori's Cell"
+    QuestLocation: "Dwalin's Cell"
 }

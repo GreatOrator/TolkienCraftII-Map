@@ -19,7 +19,7 @@
                 Dialog: 675,
                 Title: "What is your opinion of Amaleoda’s proposal?",
                 DialogColor: 9367585,
-                OptionType: 1
+                OptionType: 2
             }
         },
         {
@@ -29,7 +29,7 @@
                 Dialog: 676,
                 Title: "What is your opinion of Cewain the Generous’ proposal?",
                 DialogColor: 3858923,
-                OptionType: 1
+                OptionType: 2
             }
         },
         {
@@ -39,7 +39,7 @@
                 Dialog: 677,
                 Title: "What is your opinion of Mogdred’s proposal?",
                 DialogColor: 4157930,
-                OptionType: 1
+                OptionType: 2
             }
         }
     ],
@@ -87,7 +87,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461027527844L,
+        TimePast: 1465072585144L,
         Time: 0L,
         Subject: ""
     }

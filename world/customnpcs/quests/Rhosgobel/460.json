@@ -1,0 +1,52 @@
+{
+    CompleterNpc: "Radagast",
+    NextQuestId: 461,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Saving the Maiden",
+    Text: "Radagast wants you to attend a parliament of spiders...lovely. First you must purchase or find a gem the spiders will accept as a gift. Maybe you should find a merchant in Bree, Dale, or Erebor.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "tp @p 84851 109 -4626",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1463860445737L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4586s,
+                Count: 1b,
+                Damage: 5s
+            }
+        ]
+    },
+    LeaveItems: 1b,
+    CompleteText: "That is an excellent gem! My spies have located this place. Let's go!",
+    NextQuestTitle: "Spider Parliament"
+}

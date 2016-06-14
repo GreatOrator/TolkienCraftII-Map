@@ -1,74 +1,74 @@
 {
-    AvailabilityQuest4: 0,
-    DecreaseFaction1Points: 0b,
-    AvailabilityQuest3: 0,
-    AvailabilityFactionId: -1,
-    AvailabilityMinPlayerLevel: 0,
-    AvailabilityQuest3Id: -1,
-    AvailabilityQuest2: 0,
-    AvailabilityQuest2Id: -1,
-    AvailabilityQuestId: -1,
-    DialogQuest: -1,
-    DialogText: "This temple was built long ago.  It was to protect the one and only way to middle-earth and was done so at the behest of a gray old man who would not give us his name.He only, very vehemently, warned us this must be done because of dark powers from his realm.The original monks believed the conviction in his voice and this place was built.Only someone who has proven their true worth can ever enter here.",
-    AvailabilityQuest: 0,
-    AvailabilityFactionStance: 0,
-    DialogDisableEsc: 0b,
-    AvailabilityDayTime: 0,
-    AvailabilityFaction2: 0,
-    ModRev: 15,
-    AvailabilityDialog: 2,
     DialogShowWheel: 0b,
-    DecreaseFaction2Points: 0b,
-    AvailabilityDialog2: 0,
-    AvailabilityFaction2Stance: 0,
+    AvailabilityQuestId: -1,
     Options: [
         {
             OptionSlot: 0,
             Option: {
-                DialogColor: 14737632,
                 DialogCommand: "",
                 Dialog: 96,
-                OptionType: 1,
-                Title: "Middle-Earth?  What makes it so special?"
+                Title: "Middle-Earth?  What makes it so special?",
+                DialogColor: 14737632,
+                OptionType: 1
             }
         },
         {
             OptionSlot: 5,
             Option: {
-                DialogColor: 16711680,
                 DialogCommand: "",
                 Dialog: 88,
-                OptionType: 1,
-                Title: "Interesting tale, seems to sound familiar to me though."
+                Title: "Interesting tale, seems to sound familiar to me though.",
+                DialogColor: 16711680,
+                OptionType: 1
             }
         }
     ],
-    OptionFaction2Points: 100,
-    AvailabilityQuest4Id: -1,
     DialogHideNPC: 0b,
-    AvailabilityFaction: 0,
-    AvailabilityDialog2Id: -1,
-    DialogCommand: "",
+    AvailabilityFactionStance: 0,
+    AvailabilityQuest: 0,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    DialogMail: {
-        Sender: "",
-        Time: 0L,
-        Message: {
-        },
-        Subject: "",
-        MailItems: [
-        ],
-        BeenRead: 0b,
-        MailQuest: -1,
-        TimePast: 1422712788293L
-    },
+    AvailabilityQuest2: 0,
+    AvailabilityQuest3: 0,
+    AvailabilityQuest4: 0,
+    ModRev: 16,
+    DecreaseFaction1Points: 0b,
+    DialogQuest: -1,
+    AvailabilityDialog2: 0,
     OptionFactions1: -1,
-    AvailabilityDialogId: 96,
+    AvailabilityDayTime: 0,
     OptionFactions2: -1,
     AvailabilityFaction2Id: -1,
     OptionFaction1Points: 100,
+    DialogDisableEsc: 1b,
+    AvailabilityFaction: 0,
     DialogTitle: "What is this place?",
+    AvailabilityDialog: 2,
+    AvailabilityFaction2: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityFaction2Stance: 0,
+    DialogCommand: "",
+    AvailabilityDialogId: 96,
+    OptionFaction2Points: 100,
+    DialogText: "This temple was built long ago.  It was to protect the one and only way to middle-earth and was done so at the behest of a gray old man who would not give us his name.He only, very vehemently, warned us this must be done because of dark powers from his realm.The original monks believed the conviction in his voice and this place was built.Only someone who has proven their true worth can ever enter here.",
+    AvailabilityQuest4Id: -1,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2Id: -1,
+    AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
-    AvailabilityDialog4Id: -1
+    AvailabilityDialog4Id: -1,
+    AvailabilityMinPlayerLevel: 0,
+    DecreaseFaction2Points: 0b,
+    DialogMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1464827939847L,
+        Time: 0L,
+        Subject: ""
+    }
 }

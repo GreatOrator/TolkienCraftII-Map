@@ -27,7 +27,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462548886816L,
+        TimePast: 1464921100165L,
         Time: 0L,
         Subject: ""
     },
@@ -37,8 +37,44 @@
             {
                 Slot: 0b,
                 id: 4185s,
+                Count: 4b,
+                Damage: 1s
+            },
+            {
+                Slot: 1b,
+                id: 5458s,
                 Count: 1b,
-                Damage: 2s
+                Damage: 4s
+            },
+            {
+                Slot: 2b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 3s
+            },
+            {
+                Slot: 3b,
+                id: 14s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: 1427s,
+                Count: 2b,
+                Damage: 5s
+            },
+            {
+                Slot: 5b,
+                id: 56s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: 4498s,
+                Count: 1b,
+                Damage: 0s
             }
         ]
     },

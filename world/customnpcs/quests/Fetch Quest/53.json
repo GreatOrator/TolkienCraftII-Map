@@ -1,64 +1,64 @@
 {
-    Items: {
-        NpcMiscInv: [
-            {
-                id: 35s,
-                Damage: 0s,
-                Count: 64b,
-                Slot: 0b
-            }
-        ]
-    },
     CompleterNpc: "Jeraldine",
-    IgnoreDamage: 1b,
-    Type: 0,
+    NextQuestId: -1,
     RandomReward: 0b,
+    QuestRepeat: 4,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "No time for sewing",
+    Text: "I need to collect 64 wool...somehow.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
-        DecreaseFaction2Points: 0b,
+        OptionFaction2Points: 100,
         OptionFactions1: -1,
         OptionFactions2: -1,
-        OptionFaction2Points: 100,
-        OptionFaction1Points: 100
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
     },
-    IgnoreNBT: 0b,
-    NextQuestId: -1,
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1464567209856L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 1b,
     Rewards: {
         NpcMiscInv: [
             {
+                Slot: 0b,
                 id: 1888s,
-                Damage: 0s,
                 Count: 64b,
-                Slot: 0b
+                Damage: 0s
             },
             {
+                Slot: 1b,
                 id: 4185s,
-                Damage: 0s,
                 Count: 5b,
-                Slot: 1b
+                Damage: 0s
             }
         ]
     },
-    Title: "No time for sewing",
-    QuestRepeat: 4,
-    QuestCompletion: 0,
-    Text: "I need to collect 64 wool...somehow.",
-    NextQuestTitle: "",
-    CompleteText: "Thank you so much!  Don't care how you got it, but at least I can start to fill my orders.",
-    QuestMail: {
-        Sender: "",
-        Time: 0L,
-        Message: {
-        },
-        Subject: "",
-        MailItems: [
-        ],
-        BeenRead: 0b,
-        MailQuest: -1,
-        TimePast: 1422712506826L
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 35s,
+                Count: 64b,
+                Damage: 0s
+            }
+        ]
     },
-    QuestCommand: "",
     LeaveItems: 0b,
-    RewardExp: 25,
-    ModRev: 15
+    CompleteText: "Thank you so much!  Don't care how you got it, but at least I can start to fill my orders.",
+    NextQuestTitle: ""
 }

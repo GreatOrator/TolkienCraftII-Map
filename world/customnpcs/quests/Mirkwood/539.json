@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Thranduil",
+    NextQuestId: 540,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "Werewolf Den",
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Lair of the Beast",
+    Text: "Fridwald the Runner gave you a map with the recent sightings and attacks marked. Follow the marks. There is a large hill in the center of all the attacks. Maybe the den is there?",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465092395953L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "The den is scattered with the bones of the Werewolf’s victims, but interestingly you see the glass shard remnants of an Elven lamp.",
+    NextQuestTitle: "Return to the Halls",
+    QuestLocation: "Lair of the Beast"
+}

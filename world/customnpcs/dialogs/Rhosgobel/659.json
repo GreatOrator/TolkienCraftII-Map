@@ -11,6 +11,16 @@
                 DialogColor: 2944340,
                 OptionType: 1
             }
+        },
+        {
+            OptionSlot: 1,
+            Option: {
+                DialogCommand: "",
+                Dialog: 1116,
+                Title: "I heard you were looking for me?",
+                DialogColor: 1962331,
+                OptionType: 1
+            }
         }
     ],
     DialogHideNPC: 0b,
@@ -57,7 +67,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461025868295L,
+        TimePast: 1464752870743L,
         Time: 0L,
         Subject: ""
     }

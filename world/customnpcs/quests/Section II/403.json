@@ -7,7 +7,7 @@
     QuestRepeat: 0,
     QuestCompletion: 0,
     Title: "An Orc Messenger I",
-    Text: "In his search for signs of Radagast, Berengier tracked a messenger from the Orc-encampment near the Forsaken Inn, but was unable to learn what message the Orc carried before his hunt was interrupted by winged crebain.",
+    Text: "In his search for signs of Radagast, Berengier tracked a messenger from the Orc-encampment near the Forsaken Inn, but was unable to learn what message the Orc carried before his hunt was interrupted by winged crebain.Search backpacks in the Orc Camp to the west and return to Berengier with the orders that must be there.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462581960498L,
+        TimePast: 1464918480415L,
         Time: 0L,
         Subject: ""
     },

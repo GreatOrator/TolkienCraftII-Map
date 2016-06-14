@@ -8,12 +8,6 @@
                 Damage: 0s
             },
             {
-                Slot: 34b,
-                id: 4185s,
-                Count: 2b,
-                Damage: 0s
-            },
-            {
                 Slot: 18b,
                 id: 4185s,
                 Count: 8b,
@@ -44,6 +38,12 @@
                 Damage: 0s
             },
             {
+                Slot: 23b,
+                id: 4185s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
                 Slot: 24b,
                 id: 4185s,
                 Count: 16b,
@@ -56,6 +56,12 @@
                 Damage: 0s
             },
             {
+                Slot: 26b,
+                id: 4185s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
                 Slot: 27b,
                 id: 4185s,
                 Count: 16b,
@@ -64,6 +70,12 @@
             {
                 Slot: 28b,
                 id: 4185s,
+                Count: 5b,
+                Damage: 0s
+            },
+            {
+                Slot: 29b,
+                id: 4185s,
                 Count: 2b,
                 Damage: 0s
             },
@@ -71,12 +83,6 @@
                 Slot: 30b,
                 id: 4185s,
                 Count: 8b,
-                Damage: 0s
-            },
-            {
-                Slot: 31b,
-                id: 4185s,
-                Count: 2b,
                 Damage: 0s
             }
         ]
@@ -117,6 +123,12 @@
                 Damage: 4s
             },
             {
+                Slot: 5b,
+                id: 5919s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
                 Slot: 6b,
                 id: 4298s,
                 Count: 1b,
@@ -129,6 +141,12 @@
                 Damage: 4s
             },
             {
+                Slot: 8b,
+                id: 6068s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
                 Slot: 9b,
                 id: 4293s,
                 Count: 1b,
@@ -136,7 +154,13 @@
             },
             {
                 Slot: 10b,
-                id: 5919s,
+                id: 4413s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 11b,
+                id: 6062s,
                 Count: 1b,
                 Damage: 0s
             },
@@ -147,22 +171,10 @@
                 Damage: 4s
             },
             {
-                Slot: 13b,
-                id: 6068s,
-                Count: 1b,
-                Damage: 0s
-            },
-            {
                 Slot: 15b,
                 id: 4291s,
                 Count: 1b,
                 Damage: 4s
-            },
-            {
-                Slot: 16b,
-                id: 6062s,
-                Count: 1b,
-                Damage: 0s
             }
         ]
     }

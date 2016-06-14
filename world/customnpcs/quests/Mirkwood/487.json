@@ -1,0 +1,66 @@
+{
+    CompleterNpc: "Ormal",
+    NextQuestId: 488,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Arcane Lamp",
+    Text: "Place the items gathered and the wand in the arcane workbench to craft the lamp. Give the lamp to Ormal.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: 18,
+        OptionFactions2: 34,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465344670641L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 7223s,
+                Count: 3b,
+                tag: {
+                    Aspects: [
+                        {
+                            amount: 2,
+                            key: "praecantatio"
+                        }
+                    ]
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 1968s,
+                Count: 1b,
+                Damage: 7s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Thank you for all your help! Now, I will finish the lamp with the housing and we shall see if our deception will work. Perhaps, Radagast needs more from you? Perhaps I shall see you at Woodmen-town. I have asked the Woodsmen if I can study the lamp at their hall.",
+    NextQuestTitle: "Return to Radagast II"
+}

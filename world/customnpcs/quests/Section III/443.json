@@ -1,0 +1,263 @@
+{
+    CompleterNpc: "Strider",
+    NextQuestId: -1,
+    QuestLocation3: "",
+    RandomReward: 1b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "The Free Peoples of Middle-earth",
+    Text: "Strider can be found in one of the guest houses in Rivendell.
+
+Beldon has asked you to take word of the invasion of Angmar to his chieftain, Strider, and to obtain his advice.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 250,
+    QuestCommand: "/give @p 7006 1 6 {display:{Name:\"Savior of Middle-earth\"}}",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465526811675L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5359s,
+                Count: 1b,
+                tag: {
+                    Upgrades: {
+                        RFCapacity: [0,0,1,0],
+                        ShieldCapacity: [0,0,3,0],
+                        ShieldRecovery: [0,0,2,0]
+                    },
+                    Energy: 30000000,
+                    ShieldEntropy: 0.0f,
+                    ConfigProfiles: [
+                        {
+                        },
+                        {
+                        },
+                        {
+                        },
+                        {
+                        },
+                        {
+                        }
+                    ],
+                    ProtectionPoints: 420.0f
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: 5358s,
+                Count: 1b,
+                tag: {
+                    Upgrades: {
+                        RFCapacity: [0,0,1,0],
+                        ShieldCapacity: [0,0,3,0],
+                        ShieldRecovery: [0,0,2,0]
+                    },
+                    Energy: 30000000,
+                    ShieldEntropy: 0.0f,
+                    ConfigProfiles: [
+                        {
+                        },
+                        {
+                        },
+                        {
+                        },
+                        {
+                        },
+                        {
+                        }
+                    ],
+                    ProtectionPoints: 440.0f
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: 5360s,
+                Count: 1b,
+                tag: {
+                    Upgrades: {
+                        RFCapacity: [0,0,1,0],
+                        ShieldCapacity: [0,0,3,0],
+                        ShieldRecovery: [0,0,2,0]
+                    },
+                    Energy: 30000000,
+                    ShieldEntropy: 0.0f,
+                    ConfigProfiles: [
+                        {
+                        },
+                        {
+                        },
+                        {
+                        },
+                        {
+                        },
+                        {
+                        }
+                    ],
+                    ProtectionPoints: 300.0f
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: 5357s,
+                Count: 1b,
+                tag: {
+                    Upgrades: {
+                        RFCapacity: [0,0,1,0],
+                        ShieldCapacity: [0,0,3,0],
+                        ShieldRecovery: [0,0,2,0]
+                    },
+                    Energy: 30000000,
+                    ShieldEntropy: 0.0f,
+                    ConfigProfiles: [
+                        {
+                        },
+                        {
+                        },
+                        {
+                        },
+                        {
+                        },
+                        {
+                        }
+                    ],
+                    ProtectionPoints: 300.0f
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: 5350s,
+                Count: 1b,
+                tag: {
+                    Upgrades: {
+                        RFCapacity: [0,0,1,0],
+                        AttackDamage: [0,0,6,0],
+                        DigAOE: [0,0,2,0],
+                        AttackAOE: [0,0,1,0],
+                        DigDepth: [0,0,2,0]
+                    },
+                    Energy: 50000000,
+                    ConfigProfiles: [
+                        {
+                        },
+                        {
+                        },
+                        {
+                        },
+                        {
+                        },
+                        {
+                        }
+                    ]
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: 5356s,
+                Count: 1b,
+                tag: {
+                    Upgrades: {
+                        ArrowSpeed: [0,0,2,0],
+                        RFCapacity: [0,0,1,0],
+                        ArrowDamage: [0,0,2,0],
+                        DrawSpeed: [0,0,1,0]
+                    },
+                    Energy: 30000000,
+                    ConfigProfiles: [
+                        {
+                        },
+                        {
+                        },
+                        {
+                        },
+                        {
+                        },
+                        {
+                        }
+                    ]
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 7b,
+                id: 5354s,
+                Count: 1b,
+                tag: {
+                    Upgrades: {
+                        RFCapacity: [0,0,4,0],
+                        DigAOE: [0,0,2,0]
+                    },
+                    Energy: 90000000,
+                    ConfigProfiles: [
+                        {
+                        },
+                        {
+                        },
+                        {
+                        },
+                        {
+                        },
+                        {
+                        }
+                    ]
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 8b,
+                id: 5353s,
+                Count: 1b,
+                tag: {
+                    Upgrades: {
+                        DigSpeed: [0,0,1,0],
+                        RFCapacity: [0,0,1,0],
+                        DigAOE: [0,0,2,0],
+                        DigDepth: [0,0,2,0]
+                    },
+                    Energy: 30000000,
+                    ConfigProfiles: [
+                        {
+                        },
+                        {
+                        },
+                        {
+                        },
+                        {
+                        },
+                        {
+                        }
+                    ]
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "Oh that I could be there to aid in those matters.",
+    NextQuestTitle: "",
+    QuestLocation: "Guest House"
+}

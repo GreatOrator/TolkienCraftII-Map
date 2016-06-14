@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462550723964L,
+        TimePast: 1464903191113L,
         Time: 0L,
         Subject: ""
     },
@@ -54,39 +54,39 @@
                             task7: "",
                             task8: "",
                             task9: "",
-                            task1: "",
-                            task2: "",
-                            task3: "",
-                            task4: ""
+                            task1: "- button",
+                            task2: "- crafting table",
+                            task3: "- gate",
+                            task4: "- ender pearl"
                         }
                     },
                     page3: {
                         title: "",
                         taskStates: [0,0,0,0,0,0,0,0,0],
                         tasks: {
-                            task5: " - Paper",
-                            task6: " - Rotten Flesh",
-                            task7: " - Carrot",
-                            task8: " - Flint",
-                            task9: " - Obsidian",
-                            task1: " - Chicken or ",
-                            task2: "   egg and feather",
-                            task3: " - Soul sand",
-                            task4: " - Amber"
+                            task5: "- Paper",
+                            task6: "- Rotten Flesh",
+                            task7: "- Carrot",
+                            task8: "- Flint",
+                            task9: "- Obsidian",
+                            task1: "- Chicken or ",
+                            task2: "egg and feather",
+                            task3: "- Soul sand",
+                            task4: "- Amber"
                         }
                     },
                     page2: {
                         title: "",
                         taskStates: [0,0,0,0,0,0,0,0,0],
                         tasks: {
-                            task5: "  - Victus + Perditio",
+                            task5: "- Victus + Perditio",
                             task6: "in Research Table",
-                            task7: "5. Go back to Black",
-                            task8: "Tarn and scan:",
-                            task9: " - Mossy Cobble",
-                            task1: " - Trapdoor ",
-                            task2: " - Bowl",
-                            task3: " - Glass Block",
+                            task7: "5. Go back to abandoned",
+                            task8: "house and scan:",
+                            task9: "- Mossy Cobble, shard",
+                            task1: "- Trapdoor ",
+                            task2: "- Bowl",
+                            task3: "- Glass Block",
                             task4: "4. Combine "
                         }
                     },
@@ -96,11 +96,11 @@
                         tasks: {
                             task5: "house at Black Tarn",
                             task6: "3. Scan in order:RMC",
-                            task7: " - Torch",
-                            task8: " - Coal Ore",
-                            task9: " - Grass Block",
+                            task7: "- Torch",
+                            task8: "- Coal Ore",
+                            task9: "- Grass Block",
                             task1: "1. Start by combining:",
-                            task2: " - Aqua and Terra",
+                            task2: "- Aqua and Terra",
                             task3: "in Research Table",
                             task4: "2. Head to abandoned"
                         }

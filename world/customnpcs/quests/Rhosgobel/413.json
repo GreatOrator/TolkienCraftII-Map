@@ -1,7 +1,7 @@
 {
     CompleterNpc: "Radagast",
     NextQuestId: 414,
-    RandomReward: 0b,
+    RandomReward: 1b,
     QuestRepeat: 0,
     QuestCompletion: 1,
     Title: "Growing Shadow",
@@ -14,7 +14,7 @@
         OptionFaction1Points: 100,
         DecreaseFaction2Points: 0b
     },
-    RewardExp: 0,
+    RewardExp: 50,
     QuestCommand: "",
     QuestDialogs: [
         {
@@ -32,12 +32,54 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462553874660L,
+        TimePast: 1464921197514L,
         Time: 0L,
         Subject: ""
     },
     Rewards: {
         NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4185s,
+                Count: 4b,
+                Damage: 1s
+            },
+            {
+                Slot: 1b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 4s
+            },
+            {
+                Slot: 2b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 3s
+            },
+            {
+                Slot: 3b,
+                id: 14s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: 1427s,
+                Count: 2b,
+                Damage: 5s
+            },
+            {
+                Slot: 5b,
+                id: 56s,
+                Count: 2b,
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: 4513s,
+                Count: 1b,
+                Damage: 0s
+            }
         ]
     },
     CompleteText: "You must hurry….I must know. ",

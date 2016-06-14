@@ -1,0 +1,41 @@
+{
+    CompleterNpc: "Gandalf",
+    NextQuestId: 475,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "The Hunt for Gandalf",
+    Text: "Thranduil has basically ordered you to find Gandalf. You hear he is still at the Prancing Pony in Bree.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: 18,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
+    QuestDialogs: [
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465057654129L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "Ah..a weary adventurer has come to bring me news from the east..yes? You have come from the Elvenking’s court in Mirkwood? He isn’t happy and wants to speak with me immediately? I do not have time for the politics of the Woodland realm! Eh? He blames the Woodsmen and the Wizards of theft and deception!? <Sigh> Very well. I am not pleased with this diversion...",
+    NextQuestTitle: "Thranduil’s Court"
+}

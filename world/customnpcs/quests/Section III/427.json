@@ -5,10 +5,10 @@
     QuestRepeat: 0,
     QuestCompletion: 0,
     IgnoreNBT: 0b,
-    Title: "ACD-Freeing Dori II",
-    Text: "Dori said the treasure was somewhere in Gundabad, time to go searching!
+    Title: "ACD-Freeing Dwalin II",
+    Text: "Dwalin said the treasure was somewhere in Gundabad, time to go searching!
 
-Search the stronghold for the treasures Dori mentioned and return to Belegost...",
+Search the stronghold for the treasures Dwalin mentioned and return to Belegost...",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -29,7 +29,7 @@ Search the stronghold for the treasures Dori mentioned and return to Belegost...
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1463018360418L,
+        TimePast: 1465686003362L,
         Time: 0L,
         Subject: ""
     },

@@ -1,0 +1,45 @@
+{
+    CompleterNpc: "Salak",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Icy Wights",
+    Text: "Salak has instructed you to seek out and banish the ice-wights found north of the town along the Ice Bay.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Value: 5,
+            Slot: "Wight"
+        }
+    ],
+    ModRev: 16,
+    Type: 4,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465669425065L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "Your task was futile, for a mortal cannot eternally banish a spirit, but your courage in the face of such horror speaks well of you.",
+    NextQuestTitle: ""
+}

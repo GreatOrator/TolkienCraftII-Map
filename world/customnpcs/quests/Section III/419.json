@@ -23,11 +23,11 @@
         },
         {
             Value: 25,
-            Slot: "lotr.AngmarWarg"
+            Slot: "lotr.AngmarOrc"
         },
         {
             Value: 25,
-            Slot: "lotr.AngmarOrc"
+            Slot: "lotr.AngmarBombardier"
         }
     ],
     ModRev: 16,
@@ -40,7 +40,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462931324681L,
+        TimePast: 1465526808681L,
         Time: 0L,
         Subject: ""
     },

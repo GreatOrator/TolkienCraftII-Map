@@ -1,64 +1,74 @@
 {
-    AvailabilityQuest4: 0,
-    DecreaseFaction1Points: 0b,
-    AvailabilityQuest3: 0,
-    AvailabilityFactionId: -1,
-    AvailabilityMinPlayerLevel: 0,
-    AvailabilityQuest3Id: -1,
-    AvailabilityQuest2: 0,
-    AvailabilityQuest2Id: -1,
-    AvailabilityQuestId: -1,
-    DialogQuest: -1,
-    DialogText: "There are actually many other dimensions.However, while my power COULD send you to any of them, one I will not send you as the journey to find it is much more important to your growth.There are others, but out of respect for the Grand Witch, I shall enforce her rule that you must discover it through growth in that craft.Who knows, possibly over time I may open up other possibilities.",
-    AvailabilityQuest: 0,
-    AvailabilityFactionStance: 0,
-    DialogDisableEsc: 0b,
-    AvailabilityDayTime: 0,
-    AvailabilityFaction2: 0,
-    ModRev: 15,
-    AvailabilityDialog: 0,
     DialogShowWheel: 0b,
-    DecreaseFaction2Points: 0b,
-    AvailabilityDialog2: 0,
-    AvailabilityFaction2Stance: 0,
+    AvailabilityQuestId: -1,
     Options: [
+        {
+            OptionSlot: 0,
+            Option: {
+                DialogCommand: "",
+                Dialog: 1119,
+                Title: "I heard of a Dimension of Air?",
+                DialogColor: 65280,
+                OptionType: 1
+            }
+        },
         {
             OptionSlot: 5,
             Option: {
-                DialogColor: 16711680,
                 DialogCommand: "",
                 Dialog: 88,
-                OptionType: 1,
-                Title: "I understand, thank you."
+                Title: "I understand, thank you.",
+                DialogColor: 16711680,
+                OptionType: 1
             }
         }
     ],
-    OptionFaction2Points: 100,
-    AvailabilityQuest4Id: -1,
     DialogHideNPC: 0b,
-    AvailabilityFaction: 0,
-    AvailabilityDialog2Id: -1,
-    DialogCommand: "",
+    AvailabilityFactionStance: 0,
+    AvailabilityQuest: 0,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    DialogMail: {
-        Sender: "",
-        Time: 0L,
-        Message: {
-        },
-        Subject: "",
-        MailItems: [
-        ],
-        BeenRead: 0b,
-        MailQuest: -1,
-        TimePast: 1422712785945L
-    },
+    AvailabilityQuest2: 0,
+    AvailabilityQuest3: 0,
+    AvailabilityQuest4: 0,
+    ModRev: 16,
+    DecreaseFaction1Points: 0b,
+    DialogQuest: -1,
+    AvailabilityDialog2: 0,
     OptionFactions1: -1,
-    AvailabilityDialogId: -1,
+    AvailabilityDayTime: 0,
     OptionFactions2: -1,
     AvailabilityFaction2Id: -1,
     OptionFaction1Points: 100,
+    DialogDisableEsc: 1b,
+    AvailabilityFaction: 0,
     DialogTitle: "Only these?",
+    AvailabilityDialog: 0,
+    AvailabilityFaction2: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityFaction2Stance: 0,
+    DialogCommand: "",
+    AvailabilityDialogId: -1,
+    OptionFaction2Points: 100,
+    DialogText: "There are actually many other dimensions.However, while my power COULD send you to any of them, one I will not send you as the journey to find it is much more important to your growth.There are others, but out of respect for the Grand Witch, I shall enforce her rule that you must discover it through growth in that craft.Who knows, possibly over time I may open up other possibilities.",
+    AvailabilityQuest4Id: -1,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2Id: -1,
+    AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
-    AvailabilityDialog4Id: -1
+    AvailabilityDialog4Id: -1,
+    AvailabilityMinPlayerLevel: 0,
+    DecreaseFaction2Points: 0b,
+    DialogMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1464828180558L,
+        Time: 0L,
+        Subject: ""
+    }
 }

@@ -7,7 +7,7 @@
     QuestRepeat: 0,
     QuestCompletion: 0,
     Title: "Chasing Quinn",
-    Text: "Beldon sent you to talk to Constable Straightarrow regarding the danger Quinn might pose to his kinsmen. Beldon told you to go to Straightarrow and make certain she passed the message to Aldair.",
+    Text: "Beldon sent you to talk to Constable Straightarrow regarding the danger Quinn might pose to his kinsmen. Beldon told you to go to Straightarrow back in Staddle and make certain she passed the message to Aldair.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461886686410L,
+        TimePast: 1464565467931L,
         Time: 0L,
         Subject: ""
     },

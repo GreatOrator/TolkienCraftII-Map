@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Elrond",
+    NextQuestId: 643,
+    QuestLocation3: "Third Cave",
+    RandomReward: 0b,
+    QuestLocation2: "Second Cave",
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Seek and Destroy",
+    Text: "Head back to the goblin caves at the High Pass and seek out this evil spirit. Put an end to his plans.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465782497621L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "You see him....high up on the platform near a throne.",
+    NextQuestTitle: "The Gibbet King",
+    QuestLocation: "First Cave"
+}

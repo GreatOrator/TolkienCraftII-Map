@@ -1,0 +1,104 @@
+{
+    DialogShowWheel: 0b,
+    AvailabilityQuestId: 576,
+    Options: [
+        {
+            OptionSlot: 0,
+            Option: {
+                DialogCommand: "",
+                Dialog: 1227,
+                Title: "I helped Radagast, the Brown, save the village of Black Tarn Lake from a growing corruption.",
+                DialogColor: 15380876,
+                OptionType: 1
+            }
+        },
+        {
+            OptionSlot: 1,
+            Option: {
+                DialogCommand: "",
+                Dialog: 1228,
+                Title: "I defeated the Werewolf of Mirkwood and rid the Woodsmen of his rampage.",
+                DialogColor: 11528844,
+                OptionType: 1
+            }
+        },
+        {
+            OptionSlot: 2,
+            Option: {
+                DialogCommand: "",
+                Dialog: 1232,
+                Title: "I rescued kidnapped Woodsmen from Dol Guldur and retrieved the Lamp of Balthi.",
+                DialogColor: 10085355,
+                OptionType: 1
+            }
+        },
+        {
+            OptionSlot: 3,
+            Option: {
+                DialogCommand: "",
+                Dialog: 1233,
+                Title: "I helped the Rangers rid Eriador of bandits.",
+                DialogColor: 7965672,
+                OptionType: 1
+            }
+        },
+        {
+            OptionSlot: 4,
+            Option: {
+                DialogCommand: "",
+                Dialog: 1234,
+                Title: "I do not know what you ask of me.",
+                DialogColor: 10713576,
+                OptionType: 1
+            }
+        }
+    ],
+    DialogHideNPC: 0b,
+    AvailabilityFactionStance: 0,
+    AvailabilityQuest: 1,
+    AvailabilityDialog4: 0,
+    AvailabilityDialog3: 0,
+    AvailabilityQuest2: 2,
+    AvailabilityQuest3: 0,
+    AvailabilityQuest4: 0,
+    ModRev: 16,
+    DecreaseFaction1Points: 0b,
+    DialogQuest: -1,
+    AvailabilityDialog2: 0,
+    OptionFactions1: -1,
+    AvailabilityDayTime: 0,
+    OptionFactions2: -1,
+    AvailabilityFaction2Id: -1,
+    OptionFaction1Points: 100,
+    DialogDisableEsc: 0b,
+    AvailabilityFaction: 0,
+    DialogTitle: "The Hunter",
+    AvailabilityDialog: 0,
+    AvailabilityFaction2: 0,
+    AvailabilityFactionId: -1,
+    AvailabilityFaction2Stance: 0,
+    DialogCommand: "",
+    AvailabilityDialogId: -1,
+    OptionFaction2Points: 100,
+    DialogText: "Are you a friend of the Free Peoples?",
+    AvailabilityQuest4Id: -1,
+    AvailabilityQuest3Id: -1,
+    AvailabilityQuest2Id: 578,
+    AvailabilityDialog2Id: -1,
+    AvailabilityDialog3Id: -1,
+    AvailabilityDialog4Id: -1,
+    AvailabilityMinPlayerLevel: 0,
+    DecreaseFaction2Points: 0b,
+    DialogMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465312545082L,
+        Time: 0L,
+        Subject: ""
+    }
+}

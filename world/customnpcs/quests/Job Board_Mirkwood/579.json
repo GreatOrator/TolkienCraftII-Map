@@ -1,0 +1,41 @@
+{
+    CompleterNpc: "The Hunter",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 1,
+    QuestCompletion: 0,
+    Title: "Failed the Test",
+    Text: "Beorn said he must leave with the Hunter. When his son is of age, he wants you to bring him here. You are dissatisfied with your answer to the Hunter and vow to return once you have proved yourself.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    QuestDialogs: [
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465316320032L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "YOU'VE RETURNED. WHAT HAVE YOU TO SAY TO ME?",
+    NextQuestTitle: ""
+}

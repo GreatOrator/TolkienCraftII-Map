@@ -30,7 +30,7 @@ Berengier thanked you for your assistance and warned of a darkness spreading thr
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462642362777L,
+        TimePast: 1464144392985L,
         Time: 0L,
         Subject: ""
     },
@@ -38,7 +38,7 @@ Berengier thanked you for your assistance and warned of a darkness spreading thr
         NpcMiscInv: [
         ]
     },
-    CompleteText: "",
+    CompleteText: "Your travel was interrupted by a cry for help.",
     NextQuestTitle: "",
     QuestLocation: "Radagast's Shack"
 }

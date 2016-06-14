@@ -15,7 +15,7 @@
         OptionFaction1Points: 100,
         DecreaseFaction2Points: 0b
     },
-    RewardExp: 0,
+    RewardExp: 50,
     QuestCommand: "",
     ModRev: 16,
     Type: 0,
@@ -37,15 +37,51 @@ I hear of a great wizard named Gandalf and he has an elixer that may help me.
             ]
         },
         MailItems: [
+            {
+                Slot: 0b,
+                id: 5317s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Chald's Letter"
+                    }
+                },
+                Damage: 0s
+            }
         ],
         MailQuest: 99,
-        TimePast: 15050900062L,
+        TimePast: 19456759658L,
         Time: 1446233356294L,
         Subject: "Draught of Fire"
     },
     IgnoreDamage: 0b,
     Rewards: {
         NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 4s
+            },
+            {
+                Slot: 1b,
+                id: 4185s,
+                Count: 2b,
+                Damage: 1s
+            },
+            {
+                Slot: 2b,
+                id: 5317s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Check Your Mail!"
+                    }
+                },
+                Damage: 0s
+            }
         ]
     },
     Items: {

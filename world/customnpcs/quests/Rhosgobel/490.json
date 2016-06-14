@@ -1,0 +1,74 @@
+{
+    CompleterNpc: "Radagast",
+    NextQuestId: 491,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    IgnoreNBT: 0b,
+    Title: "Liquid Herba",
+    Text: "Ok, so I need to figure out how to make this stuff Radagast needs. Herba….saplings have Herba essence. What if I burn those in his furnace? Will it give me liquid Herba?",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1464275465511L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 7223s,
+                Count: 2b,
+                tag: {
+                    Aspects: [
+                        {
+                            amount: 2,
+                            key: "praecantatio"
+                        }
+                    ]
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 6612s,
+                Count: 1b,
+                tag: {
+                    Aspects: [
+                        {
+                            amount: 64,
+                            key: "herba"
+                        }
+                    ]
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 1b,
+    CompleteText: "Now to figure out how to get Praecantatio.",
+    NextQuestTitle: "Liquid Praecantatio"
+}

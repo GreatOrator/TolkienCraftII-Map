@@ -1,0 +1,208 @@
+{
+    CompleterNpc: "Dody Brandybuck",
+    NextQuestId: 557,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Dody's Letter",
+    Text: "",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    QuestDialogs: [
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465843560303L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 386s,
+                Count: 1b,
+                tag: {
+                    pages: [
+                        "Dody,
+I have finished gathering supplies in the Shire and headed to the town of Men called Bree. I will be leaving here in a week's time and going to travel the High Pass since the goblins have been cleared out.
+       Dindy"
+                    ]
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: 7341s,
+                Count: 1b,
+                tag: {
+                    zoomLevel: 0,
+                    maps: [
+                        {
+                            zCenter: -3200,
+                            mapScale: 0,
+                            mapName: "Map_81",
+                            xCenter: 53248
+                        },
+                        {
+                            zCenter: -3584,
+                            mapScale: 0,
+                            yMapWaypoints: [
+                                0.8348035f
+                            ],
+                            MapWaypointNames: [
+                                "Ringfort"
+                            ],
+                            MapWaypointColors: [
+                                3.0f
+                            ],
+                            mapName: "Map_82",
+                            xMapWaypoints: [
+                                0.1238594f
+                            ],
+                            xCenter: 52864
+                        },
+                        {
+                            zCenter: -3456,
+                            mapScale: 0,
+                            mapName: "Map_83",
+                            xCenter: 52864
+                        },
+                        {
+                            zCenter: -3328,
+                            mapScale: 0,
+                            mapName: "Map_84",
+                            xCenter: 52864
+                        },
+                        {
+                            zCenter: -3328,
+                            mapScale: 0,
+                            mapName: "Map_85",
+                            xCenter: 52992
+                        },
+                        {
+                            zCenter: -3200,
+                            mapScale: 0,
+                            mapName: "Map_86",
+                            xCenter: 52992
+                        },
+                        {
+                            zCenter: -3200,
+                            mapScale: 0,
+                            mapName: "Map_87",
+                            xCenter: 53120
+                        },
+                        {
+                            zCenter: -3200,
+                            mapScale: 0,
+                            mapName: "Map_88",
+                            xCenter: 53120
+                        }
+                    ],
+                    mapSlot: -1,
+                    autoCenter: 1b,
+                    autoCreate: 1b,
+                    lastGUImode: 1,
+                    containerUpdate: 0b,
+                    Inventory: [
+                        {
+                            Slot: 0b,
+                            id: 4797s,
+                            Count: 1b,
+                            tag: {
+                                XCoord: 53261,
+                                ZCoord: -3184,
+                                WaypointName: " High Pass"
+                            },
+                            Damage: 0s
+                        },
+                        {
+                            Slot: 1b,
+                            id: 4797s,
+                            Count: 1b,
+                            tag: {
+                                XCoord: 52815,
+                                ZCoord: -3537,
+                                WaypointName: " Caravan"
+                            },
+                            Damage: 0s
+                        },
+                        {
+                            Slot: 2b,
+                            id: 395s,
+                            Count: 56b,
+                            Damage: 0s
+                        },
+                        {
+                            Slot: 6b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 81s
+                        },
+                        {
+                            Slot: 7b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 82s
+                        },
+                        {
+                            Slot: 8b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 83s
+                        },
+                        {
+                            Slot: 9b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 84s
+                        },
+                        {
+                            Slot: 10b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 85s
+                        },
+                        {
+                            Slot: 11b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 86s
+                        },
+                        {
+                            Slot: 12b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 87s
+                        },
+                        {
+                            Slot: 13b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 88s
+                        }
+                    ]
+                },
+                Damage: 88s
+            }
+        ]
+    },
+    CompleteText: "",
+    NextQuestTitle: "Dody's Plea"
+}

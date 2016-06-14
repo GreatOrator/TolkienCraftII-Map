@@ -40,9 +40,9 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "Yet, they are still hard-pressed by the Orcs, and only recently has one of Durin's Folk from Erebor, Dori, come to aid them. It will not be easy to convince them to lend their strength to the Council, but you must try.
+    DialogText: "Yet, they are still hard-pressed by the Orcs, and only recently has one of Durin's Folk from Erebor, Dwalin, come to aid them. It will not be easy to convince them to lend their strength to the Council, but you must try.
 
-Travel to Belegost and speak with Dori. If you cannot find Dori for some reason, speak to Rordan. It is he who leads the Longbeards of Belegost.",
+Travel to Belegost and speak with Dwalin. If you cannot find Dwalin for some reason, speak to Rordan. It is he who leads the Longbeards of Belegost.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
@@ -59,7 +59,7 @@ Travel to Belegost and speak with Dori. If you cannot find Dori for some reason,
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462927608899L,
+        TimePast: 1464998796393L,
         Time: 0L,
         Subject: ""
     }
