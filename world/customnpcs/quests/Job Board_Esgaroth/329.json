@@ -27,7 +27,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1465847653355L,
+        TimePast: 1465958323920L,
         Time: 0L,
         Subject: ""
     },
@@ -40,52 +40,11 @@
         NpcMiscInv: [
             {
                 Slot: 0b,
-                id: 4739s,
+                id: 5318s,
                 Count: 1b,
                 tag: {
-                    PRC: 0b,
-                    SDR: {
-                        profile: {
-                            Id: "dc8c8a01-2b19-4e24-8b16-2e5d3cd8e0c2",
-                            Properties: {
-                                textures: [
-                                    {
-                                        Signature: "bBCLFJH1P4OLgENfZXw4ERRfTs+GvodQiydrdKlwW8O8Qjl8BrK/mhi6tlVDApiDyNDerM48XShsvPpQhpb38GYx9p1pF1EoHNLVZn+695wGg9zwbflf1qScPu/4qUyT4QVKMkpw1M5fHKSfacU9w7Kq8qYc/JNaCZPrqhbfh2VUsl18xDmll54Lmtv/BVQYbtm88I2UxEKn90YlucGbeid35aTMCk3qNzYafNcW2vx1f1hUrIKl1AyDkHOQE2/tHVyiS/f28xZJQ3XsGg8Qb0Gw40AdSqr8nN1LBNntp2tcX12+1TJPLAWoeG1bIFRvbXB4FeL2b+pd1r+YatgbHVFQYUZeSNP2+NquVqrHzE9cIwretNp0wNfNFNI2RlB3XLw4P4Y3xaHm4KQS1H0WSRQfUp+/dbRAQhyrQe8RYg3Dy5C6bdY1AYYNCclIrlnGVWUyApTdWnwBwGm/Dw4NLO+8sP7c/8NdsH+jTqkFyG2J0amtJ66SbAmRV1uzULFtHbv7qEgfJ/qtrrU+lsj8UNgFZT62Wc6x6Fg9K4pzgNaZasxvMIo28ajYqz2O+PNYLGycNwUQWys1VnEsk+p2ebGVC3OFNEXdMYdZ+drMkSrWiUZQPGGC6nCTq+uPIFY2lpyyW6ZIBp+B6rBfn9zsTYssanvlFkYI7zAnn4tHU4Y=",
-                                        Value: "eyJ0aW1lc3RhbXAiOjE0NjU4NDUyNDIzNDksInByb2ZpbGVJZCI6ImRjOGM4YTAxMmIxOTRlMjQ4YjE2MmU1ZDNjZDhlMGMyIiwicHJvZmlsZU5hbWUiOiJ0ZWFnYW43NSIsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85Zjc5YjYyOTZkNTZmZmFkOWNiMDRmY2Q3ZWYwOGU1YmRmYzQ1NTgyNzRmYjRkN2M5OGI0N2Q1MWRkOTU4NiJ9fX0="
-                                    }
-                                ]
-                            },
-                            Name: "teagan75"
-                        },
-                        TP: "player"
-                    },
-                    INV: [
-                        {
-                            Slot: 0b,
-                            id: 4586s,
-                            Count: 1b,
-                            Damage: 6s
-                        }
-                    ],
-                    UID: 1319792580,
-                    TXT: "King Dáin Ironfoot would like to formally invite you to the Gathering of the Five Armies to be held in Dale this year.",
-                    Slots: {
-                        0: {
-                            id: 4586s,
-                            Count: 1b,
-                            Damage: 6s
-                        }
-                    },
-                    CRC: 1s,
                     display: {
-                        Name: "Letter to the King of the Eagles"
-                    },
-                    RC0: {
-                        profile: {
-                            Id: "00000000-0000-0000-0000-000000000000",
-                            Name: "To the King of All Birds"
-                        },
-                        TP: "player"
+                        Name: "Letter Addressed to The King of Eagles"
                     }
                 },
                 Damage: 0s

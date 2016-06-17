@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1465843560303L,
+        TimePast: 1465960004068L,
         Time: 0L,
         Subject: ""
     },
@@ -113,9 +113,17 @@ I have finished gathering supplies in the Shire and headed to the town of Men ca
                             mapScale: 0,
                             mapName: "Map_88",
                             xCenter: 53120
+                        },
+                        {
+                            zCenter: -6528,
+                            mapScale: 0,
+                            mapName: "Map_104",
+                            xCenter: 63232
                         }
                     ],
-                    mapSlot: -1,
+                    mapSlot: 14,
+                    compassX: 53261,
+                    compassZ: -3184,
                     autoCenter: 1b,
                     autoCreate: 1b,
                     lastGUImode: 1,
@@ -128,7 +136,7 @@ I have finished gathering supplies in the Shire and headed to the town of Men ca
                             tag: {
                                 XCoord: 53261,
                                 ZCoord: -3184,
-                                WaypointName: " High Pass"
+                                WaypointName: "High Pass"
                             },
                             Damage: 0s
                         },
@@ -139,14 +147,14 @@ I have finished gathering supplies in the Shire and headed to the town of Men ca
                             tag: {
                                 XCoord: 52815,
                                 ZCoord: -3537,
-                                WaypointName: " Caravan"
+                                WaypointName: "Caravan"
                             },
                             Damage: 0s
                         },
                         {
                             Slot: 2b,
                             id: 395s,
-                            Count: 56b,
+                            Count: 55b,
                             Damage: 0s
                         },
                         {
@@ -196,10 +204,17 @@ I have finished gathering supplies in the Shire and headed to the town of Men ca
                             id: 358s,
                             Count: 1b,
                             Damage: 88s
+                        },
+                        {
+                            Slot: 14b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 104s
                         }
-                    ]
+                    ],
+                    savedCompass: 0
                 },
-                Damage: 88s
+                Damage: 104s
             }
         ]
     },

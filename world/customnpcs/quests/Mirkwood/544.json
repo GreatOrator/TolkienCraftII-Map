@@ -11,7 +11,7 @@
         OptionFaction2Points: 100,
         OptionFactions1: -1,
         OptionFactions2: -1,
-        OptionFaction1Points: 100,
+        OptionFaction1Points: 600,
         DecreaseFaction2Points: 0b
     },
     RewardExp: 50,
@@ -32,7 +32,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1465095811751L,
+        TimePast: 1465958748567L,
         Time: 0L,
         Subject: ""
     },
