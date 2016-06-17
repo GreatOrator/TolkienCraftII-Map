@@ -37,8 +37,8 @@ I am hoping to travel there myself some day so that I may",
         MailItems: [
         ],
         MailQuest: 167,
-        TimePast: 1038104581L,
-        Time: 1442198168367L,
+        TimePast: 16763952L,
+        Time: 1465674758511L,
         Subject: "Greetings Hardy Adventurer"
     },
     Rewards: {
@@ -60,6 +60,18 @@ I am hoping to travel there myself some day so that I may",
                     Z: 18441,
                     X_1: 41691,
                     Z_1: 18441
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: 5317s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Check Your Mail!"
+                    }
                 },
                 Damage: 0s
             }

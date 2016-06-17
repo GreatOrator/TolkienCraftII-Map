@@ -41,7 +41,6 @@
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
     DialogText: "While you were away, Nazgûl were spotted and likely they were the ones responsible for the mortal wound of Quinn. What they were in search of I can only guess but this bodes ill tidings.
-Wait, Nazgûl? What are those and why were they here?
 ",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
@@ -59,7 +58,7 @@ Wait, Nazgûl? What are those and why were they here?
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461960287271L,
+        TimePast: 1464785125758L,
         Time: 0L,
         Subject: ""
     }

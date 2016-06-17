@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Tauler",
+    NextQuestId: 467,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Spider Magic",
+    Text: "You have no idea where you are going or what to look for, but you keep pressing on.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1464921338013L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "You see the Maiden’s trap and her phylactery. Time to destroy Tyulquin and save the Maiden.",
+    NextQuestTitle: "Maiden's Phylactery",
+    QuestLocation: "Heart of the Lair"
+}

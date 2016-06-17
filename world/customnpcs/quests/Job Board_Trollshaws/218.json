@@ -6,7 +6,7 @@
     QuestCompletion: 0,
     IgnoreNBT: 0b,
     Title: "Few Pages missing",
-    Text: "Without the missing leaves, it will be impossible to finish reading the enchanted book of Maeral. Maeral suspects that certain orcs tore the enchanted book and has asked you to try to recover the pages from them.  The journal looks to be missing about 3 of its pages, and Maeral will need all 3 if he is to finish reading!He said the ones he thinks that did  it  headed west.
+    Text: "Without the missing leaves, it will be impossible to finish reading the enchanted book of Maeral. Maeral suspects that certain orcs tore the enchanted book and has asked you to try to recover the pages from them.  The journal looks to be missing about 3 of its pages, and Maeral will need all 3 if he is to finish reading!He said the ones he thinks that did  it  headed east.
 ",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1446214955326L,
+        TimePast: 1466128694925L,
         Time: 0L,
         Subject: ""
     },

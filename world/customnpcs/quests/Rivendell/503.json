@@ -1,0 +1,334 @@
+{
+    CompleterNpc: "Elrond",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Map",
+    Text: "",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    QuestDialogs: [
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1464400913865L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 7341s,
+                Count: 1b,
+                tag: {
+                    zoomLevel: 0,
+                    maps: [
+                        {
+                            zCenter: 2432,
+                            mapScale: 0,
+                            yMapWaypoints: [
+                                0.9465791f
+                            ],
+                            MapWaypointNames: [
+                                "Barrow 2"
+                            ],
+                            MapWaypointColors: [
+                                1.0f
+                            ],
+                            mapName: "Map_42",
+                            xMapWaypoints: [
+                                0.93951887f
+                            ],
+                            xCenter: 10240
+                        },
+                        {
+                            zCenter: 2432,
+                            mapScale: 0,
+                            mapName: "Map_29",
+                            xCenter: 10368
+                        },
+                        {
+                            zCenter: 2560,
+                            mapScale: 0,
+                            mapName: "Map_30",
+                            xCenter: 10368
+                        },
+                        {
+                            zCenter: 2560,
+                            mapScale: 0,
+                            yMapWaypoints: [
+                                0.66260874f
+                            ],
+                            MapWaypointNames: [
+                                "Barrow 4"
+                            ],
+                            MapWaypointColors: [
+                                1.0f
+                            ],
+                            mapName: "Map_31",
+                            xMapWaypoints: [
+                                0.9002464f
+                            ],
+                            xCenter: 10240
+                        },
+                        {
+                            zCenter: 2304,
+                            mapScale: 0,
+                            yMapWaypoints: [
+                                0.8529293f
+                            ],
+                            MapWaypointNames: [
+                                "Barrow 3"
+                            ],
+                            MapWaypointColors: [
+                                1.0f
+                            ],
+                            mapName: "Map_32",
+                            xMapWaypoints: [
+                                0.94858176f
+                            ],
+                            xCenter: 10240
+                        },
+                        {
+                            zCenter: 2304,
+                            mapScale: 0,
+                            mapName: "Map_33",
+                            xCenter: 10368
+                        },
+                        {
+                            zCenter: 2304,
+                            mapScale: 0,
+                            mapName: "Map_34",
+                            xCenter: 10496
+                        },
+                        {
+                            zCenter: 2432,
+                            mapScale: 0,
+                            mapName: "Map_35",
+                            xCenter: 10496
+                        },
+                        {
+                            zCenter: 2432,
+                            mapScale: 0,
+                            mapName: "Map_36",
+                            xCenter: 10624
+                        },
+                        {
+                            zCenter: -768,
+                            mapScale: 0,
+                            mapName: "Map_37",
+                            xCenter: 24192
+                        },
+                        {
+                            zCenter: -768,
+                            mapScale: 0,
+                            mapName: "Map_38",
+                            xCenter: 24064
+                        },
+                        {
+                            zCenter: -768,
+                            mapScale: 0,
+                            mapName: "Map_39",
+                            xCenter: 23936
+                        },
+                        {
+                            zCenter: 896,
+                            mapScale: 0,
+                            mapName: "Map_40",
+                            xCenter: 14336
+                        },
+                        {
+                            zCenter: 1024,
+                            mapScale: 0,
+                            mapName: "Map_41",
+                            xCenter: 14336
+                        },
+                        {
+                            zCenter: -1536,
+                            mapScale: 0,
+                            mapName: "Map_43",
+                            xCenter: 46592
+                        }
+                    ],
+                    mapSlot: 20,
+                    compassX: 10296,
+                    compassZ: 2489,
+                    autoCenter: 1b,
+                    autoCreate: 1b,
+                    containerUpdate: 0b,
+                    savedCompass: 1,
+                    prevAngle: -103.70818771601242d,
+                    needleAngle: -103.38676f,
+                    lastGUImode: 1,
+                    time: 5.25d,
+                    Inventory: [
+                        {
+                            Slot: 0b,
+                            id: 395s,
+                            Count: 48b,
+                            Damage: 0s
+                        },
+                        {
+                            Slot: 1b,
+                            id: 4797s,
+                            Count: 1b,
+                            tag: {
+                                needleAngle: 243.5129f,
+                                XCoord: 10296,
+                                ZCoord: 2489,
+                                WaypointName: "Barrow 2",
+                                time: 5.25d,
+                                prevAngle: 243.19146523237941d
+                            },
+                            Damage: 0s
+                        },
+                        {
+                            Slot: 2b,
+                            id: 4797s,
+                            Count: 1b,
+                            tag: {
+                                XCoord: 10297,
+                                ZCoord: 2349,
+                                WaypointName: "Barrow 3"
+                            },
+                            Damage: 0s
+                        },
+                        {
+                            Slot: 3b,
+                            id: 4797s,
+                            Count: 1b,
+                            tag: {
+                                XCoord: 10291,
+                                ZCoord: 2580,
+                                WaypointName: "Barrow 4"
+                            },
+                            Damage: 0s
+                        },
+                        {
+                            Slot: 4b,
+                            id: 4797s,
+                            Count: 1b,
+                            tag: {
+                                XCoord: 23938,
+                                ZCoord: -737,
+                                WaypointName: " Hidden Vault"
+                            },
+                            Damage: 0s
+                        },
+                        {
+                            Slot: 6b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 42s
+                        },
+                        {
+                            Slot: 7b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 29s
+                        },
+                        {
+                            Slot: 8b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 30s
+                        },
+                        {
+                            Slot: 9b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 31s
+                        },
+                        {
+                            Slot: 10b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 32s
+                        },
+                        {
+                            Slot: 11b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 33s
+                        },
+                        {
+                            Slot: 12b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 34s
+                        },
+                        {
+                            Slot: 13b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 35s
+                        },
+                        {
+                            Slot: 14b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 36s
+                        },
+                        {
+                            Slot: 15b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 37s
+                        },
+                        {
+                            Slot: 16b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 38s
+                        },
+                        {
+                            Slot: 17b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 39s
+                        },
+                        {
+                            Slot: 18b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 40s
+                        },
+                        {
+                            Slot: 19b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 41s
+                        },
+                        {
+                            Slot: 20b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 43s
+                        }
+                    ]
+                },
+                Damage: 43s
+            }
+        ]
+    },
+    CompleteText: "",
+    NextQuestTitle: ""
+}

@@ -1,0 +1,41 @@
+{
+    CompleterNpc: "Beorn",
+    NextQuestId: 566,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Grim Tidings",
+    Text: "Return to Beorn’s Hall and tell him about the bandits planning an attack on Stonyford.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 1b,
+        OptionFaction2Points: 100,
+        OptionFactions1: 43,
+        OptionFactions2: -1,
+        OptionFaction1Points: 600,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    QuestDialogs: [
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465266706642L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "You found Oderic with a band of outlaws who plan to attack the Beornings?! I will reserve my judgement on the boy for later. First, let us go and take care of these outlaws.",
+    NextQuestTitle: "Clouds Gather"
+}

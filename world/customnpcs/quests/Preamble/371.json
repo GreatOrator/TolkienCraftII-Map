@@ -9,7 +9,7 @@
     Title: "The Hideout IIb",
     Text: "The entrance to the Darkholds' hideout is at the back house at Tigerstone’s farm.
 
-Toradan told you to enter the Darkholds' hideout and speak to Tigerstone. Once you learn the location of Quinn, you are to free him, help him escape and dispatch Tigerstone.",
+Beldon told you to enter the Darkholds' hideout and speak to Tigerstone. Tigerstone told you that they were keeping Quiin in a cell beneath the barn to the south.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -30,7 +30,7 @@ Toradan told you to enter the Darkholds' hideout and speak to Tigerstone. Once y
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461886675301L,
+        TimePast: 1464565133522L,
         Time: 0L,
         Subject: ""
     },

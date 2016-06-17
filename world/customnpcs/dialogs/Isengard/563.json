@@ -1,6 +1,6 @@
 {
     DialogShowWheel: 0b,
-    AvailabilityQuestId: -1,
+    AvailabilityQuestId: 185,
     Options: [
         {
             OptionSlot: 0,
@@ -21,11 +21,21 @@
                 DialogColor: 7606006,
                 OptionType: 1
             }
+        },
+        {
+            OptionSlot: 5,
+            Option: {
+                DialogCommand: "",
+                Dialog: -1,
+                Title: "I think I need time to think about this.",
+                DialogColor: 16711935,
+                OptionType: 0
+            }
         }
     ],
     DialogHideNPC: 0b,
     AvailabilityFactionStance: 0,
-    AvailabilityQuest: 0,
+    AvailabilityQuest: 1,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
     AvailabilityQuest2: 0,
@@ -67,7 +77,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1444950289997L,
+        TimePast: 1462981298389L,
         Time: 0L,
         Subject: ""
     }

@@ -1,0 +1,54 @@
+{
+    CompleterNpc: "Orc's Bag",
+    NextQuestId: 404,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "An Orc Messenger I",
+    Text: "In his search for signs of Radagast, Berengier tracked a messenger from the Orc-encampment near the Forsaken Inn, but was unable to learn what message the Orc carried before his hunt was interrupted by winged crebain.Search backpacks in the Orc Camp to the west and return to Berengier with the orders that must be there.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1464918480415L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5317s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Orc Message"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "You found it!  Time to go back to Berengier",
+    NextQuestTitle: "An Orc Messenger II",
+    QuestLocation: "Orc's Backpack"
+}

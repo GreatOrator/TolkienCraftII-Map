@@ -18,8 +18,8 @@
     AvailabilityQuest: 2,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    AvailabilityQuest2: 0,
-    AvailabilityQuest3: 0,
+    AvailabilityQuest2: 1,
+    AvailabilityQuest3: 1,
     AvailabilityQuest4: 0,
     ModRev: 16,
     DecreaseFaction1Points: 0b,
@@ -42,8 +42,8 @@
     OptionFaction2Points: 100,
     DialogText: "The hideout is located at the back house at Tigerstone’s farm. You'll be welcomed inside. Maybe you'd best go talk to that fellow what you're working for first though.",
     AvailabilityQuest4Id: -1,
-    AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: -1,
+    AvailabilityQuest3Id: 368,
+    AvailabilityQuest2Id: 364,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461634501001L,
+        TimePast: 1464564914624L,
         Time: 0L,
         Subject: ""
     }

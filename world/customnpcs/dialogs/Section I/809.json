@@ -18,7 +18,7 @@
     AvailabilityQuest: 2,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    AvailabilityQuest2: 0,
+    AvailabilityQuest2: 1,
     AvailabilityQuest3: 0,
     AvailabilityQuest4: 0,
     ModRev: 16,
@@ -47,7 +47,7 @@ I hear Mithrandir may bear near there (you may know him as Gandalf), so I would 
 Now hop along, my hearty! Tom's a-going leaping!",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: -1,
+    AvailabilityQuest2Id: 393,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -61,7 +61,7 @@ Now hop along, my hearty! Tom's a-going leaping!",
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461980693674L,
+        TimePast: 1464824870077L,
         Time: 0L,
         Subject: ""
     }

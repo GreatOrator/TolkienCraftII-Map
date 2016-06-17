@@ -1,6 +1,6 @@
 {
     DialogShowWheel: 0b,
-    AvailabilityQuestId: 77,
+    AvailabilityQuestId: 33,
     Options: [
         {
             OptionSlot: 0,
@@ -15,10 +15,10 @@
     ],
     DialogHideNPC: 0b,
     AvailabilityFactionStance: 0,
-    AvailabilityQuest: 2,
+    AvailabilityQuest: 1,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    AvailabilityQuest2: 1,
+    AvailabilityQuest2: 0,
     AvailabilityQuest3: 0,
     AvailabilityQuest4: 0,
     ModRev: 16,
@@ -43,7 +43,7 @@
     DialogText: "Yes, yes my dear sir and I do know your name @p. And you do know my name, though you don't remember that I belong to it. I am Gandalf, and Gandalf means me.Hobbits really are amazing creatures. You can learn all there is to know about their ways in a month, and yet after a hundred years they can still surprise you.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: 91,
+    AvailabilityQuest2Id: -1,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1441893358317L,
+        TimePast: 1465686630864L,
         Time: 0L,
         Subject: ""
     }

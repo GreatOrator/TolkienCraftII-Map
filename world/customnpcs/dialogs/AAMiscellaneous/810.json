@@ -1,6 +1,6 @@
 {
     DialogShowWheel: 0b,
-    AvailabilityQuestId: -1,
+    AvailabilityQuestId: 390,
     Options: [
         {
             OptionSlot: 0,
@@ -15,7 +15,7 @@
     ],
     DialogHideNPC: 0b,
     AvailabilityFactionStance: 0,
-    AvailabilityQuest: 0,
+    AvailabilityQuest: 2,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
     AvailabilityQuest2: 0,
@@ -31,12 +31,12 @@
     AvailabilityFaction2Id: -1,
     OptionFaction1Points: 100,
     DialogDisableEsc: 0b,
-    AvailabilityFaction: 0,
+    AvailabilityFaction: 2,
     DialogTitle: "Ranger Travel",
     AvailabilityDialog: 0,
     AvailabilityFaction2: 0,
     DialogSound: "minecraft:mob.horse.hit",
-    AvailabilityFactionId: -1,
+    AvailabilityFactionId: 30,
     AvailabilityFaction2Stance: 0,
     DialogCommand: "",
     AvailabilityDialogId: -1,
@@ -58,7 +58,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1462067859033L,
+        TimePast: 1462546128163L,
         Time: 0L,
         Subject: ""
     }

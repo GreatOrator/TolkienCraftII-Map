@@ -1,0 +1,45 @@
+{
+    CompleterNpc: "Beorn",
+    NextQuestId: 568,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Judgement",
+    Text: "Speak on behalf of the boy, Oderic. It may not exonerate him of all his crimes, but perhaps a lesser sentencing with the chance to redeem himself.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Integer: 1216,
+            Slot: 0
+        }
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465266858640L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "When his case is presented to me at judgement, I will be merciful.",
+    NextQuestTitle: "Oderic's Fate"
+}

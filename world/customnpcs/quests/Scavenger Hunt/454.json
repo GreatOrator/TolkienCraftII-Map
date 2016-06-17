@@ -1,0 +1,60 @@
+{
+    CompleterNpc: "Reeve Heimart",
+    NextQuestId: 455,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    IgnoreNBT: 0b,
+    Title: "Connoisseur Lads II",
+    Text: "Here’s the deal, visit the top five inns in Middle-Earth and sample the local drink.  When you are done, return to Reeve Heimart so you can report and vote.
+
+Next stop...The Green Dragon Inn at Hobbiton, talk to Odulf Headstrong.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 50,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465590780930L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4119s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: 6925s,
+                Count: 1b,
+                Damage: 4s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Well, that was rather refreshing, on to the next!",
+    NextQuestTitle: "Connoisseur Lads III"
+}

@@ -1,0 +1,57 @@
+{
+    CompleterNpc: "Hrólfur",
+    NextQuestId: 649,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Good Will Mission",
+    Text: "Hrólfur, an important overseer, can likely be found in the Chamber of the Crossroads in Moria, near the eastern entrance to Khazad-dûm.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465832839365L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5317s,
+                Count: 1b,
+                tag: {
+                    display: {
+                        Name: "Letter to Dwarves"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "So you come from the land of the meddling Elves, do you? I am sorry you took the trouble of coming all this way for naught!",
+    NextQuestTitle: "Convincing the Dwarves"
+}

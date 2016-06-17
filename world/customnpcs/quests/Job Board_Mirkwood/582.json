@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Iwgar Longleg",
+    NextQuestId: 583,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Goblin Town",
+    Text: "Dindy Brandybuck has been taken to the Goblins’ Lair. Iwgar Longleg marked the location on a map.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465685952964L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "You found the entrance to the tunnel. You should see if the key works here.",
+    NextQuestTitle: "Rescuing Dindy",
+    QuestLocation: "Tunnel Entrance"
+}

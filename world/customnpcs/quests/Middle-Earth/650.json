@@ -1,0 +1,70 @@
+{
+    CompleterNpc: "Snoop787",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    IgnoreNBT: 1b,
+    Title: "Adventure Lads",
+    Text: "The adventure lads mentioned going somewhere far away in Middle Earth.  Choose one of the two quests in HQM and go claim your adventure!",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 500,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1466075760482L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 1b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 7824s,
+                Count: 1b,
+                Damage: 3s
+            },
+            {
+                Slot: 1b,
+                id: 7006s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Adventure Lad"
+                    }
+                },
+                Damage: 6s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 7310s,
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 1b,
+    CompleteText: "Wow, that was not a good place, maybe Modii101 was right, but you did it, you got the pick, now claim your reward!Great job Adventure lad! (or lass :D )",
+    NextQuestTitle: ""
+}

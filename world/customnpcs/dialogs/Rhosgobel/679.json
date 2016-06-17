@@ -1,6 +1,6 @@
 {
     DialogShowWheel: 0b,
-    AvailabilityQuestId: 337,
+    AvailabilityQuestId: -1,
     Options: [
         {
             OptionSlot: 0,
@@ -11,11 +11,21 @@
                 DialogColor: 15252314,
                 OptionType: 1
             }
+        },
+        {
+            OptionSlot: 1,
+            Option: {
+                DialogCommand: "",
+                Dialog: 1133,
+                Title: "I just heard an interesting story about you that the others at this moot might find important enough to finalize any doubt they have about you.",
+                DialogColor: 392996,
+                OptionType: 1
+            }
         }
     ],
     DialogHideNPC: 0b,
     AvailabilityFactionStance: 0,
-    AvailabilityQuest: 2,
+    AvailabilityQuest: 0,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
     AvailabilityQuest2: 0,
@@ -57,7 +67,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461027539549L,
+        TimePast: 1464920100130L,
         Time: 0L,
         Subject: ""
     }

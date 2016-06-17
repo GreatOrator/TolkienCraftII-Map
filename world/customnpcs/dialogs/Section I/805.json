@@ -42,7 +42,7 @@
     OptionFaction2Points: 100,
     DialogText: "Black birds flittered and fluttered, skipping among the branches. They came to rest where the restless walk. Beware the old barrows, they stir when they should be a-sleeping!
 
-Go due east from here until you find you are within the barrows wall along the forest eaves. Hey dol! Merry dol! And there you'll find them! Watch for the lady dreary.",
+Go due east from here until you find you are within the barrows along the forest eaves. Hey dol! Merry dol! And there you'll find them! Watch for the lady dreary.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
@@ -59,7 +59,7 @@ Go due east from here until you find you are within the barrows wall along the f
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461979249451L,
+        TimePast: 1464824454735L,
         Time: 0L,
         Subject: ""
     }

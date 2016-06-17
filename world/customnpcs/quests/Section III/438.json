@@ -1,0 +1,79 @@
+{
+    CompleterNpc: "Larrel Glynlana",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "ACE-Tending the Glade",
+    Text: "Tagdud can be found to the west of Cerin Valtaras.
+
+Larrel told you that if the Uruk Tagdud were slain, then Cerin Valtaras would remain safe enough for him to come to the Council of Free Peoples. You were warned not to confront the Uruk without the help of allies.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 200,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Value: 25,
+            Slot: "lotr.BlackUruk"
+        },
+        {
+            Value: 25,
+            Slot: "lotr.BlackUrukArcher"
+        },
+        {
+            Value: 1,
+            Slot: "Tagdud"
+        }
+    ],
+    ModRev: 16,
+    Type: 4,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1464998740000L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 8265s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Might of the Elves"
+                    }
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: 4185s,
+                Count: 2b,
+                Damage: 2s
+            },
+            {
+                Slot: 2b,
+                id: 4493s,
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "Ah! You have done it! We heard the wails of the Orcs from here! You have seen to the safety of Cerin Valtaras, @p, and for this you have my thanks!",
+    NextQuestTitle: ""
+}

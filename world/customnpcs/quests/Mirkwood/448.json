@@ -1,0 +1,75 @@
+{
+    CompleterNpc: "Thranduil",
+    NextQuestId: 450,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "White Hart",
+    Text: "The Elvenking has extended an invitation to mortals to join in the hunt of the White Hart. Elven hunters spotted one in Northern Mirkwood. The hunter that kills the beast will be feasted in Thranduil's Hall.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: 34,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465851005155L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4125s,
+                Count: 1b,
+                Damage: 4s
+            },
+            {
+                Slot: 1b,
+                id: 8179s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: 4134s,
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 7815s,
+                Count: 1b,
+                tag: {
+                    display: {
+                        Name: "White Elk Horn"
+                    }
+                },
+                Damage: 18s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "You have slain the White Elk! You will be remembered in our halls until we pass to the West.",
+    NextQuestTitle: "A Special Favor"
+}

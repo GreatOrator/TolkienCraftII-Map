@@ -7,8 +7,7 @@
     QuestRepeat: 0,
     QuestCompletion: 0,
     Title: "Pipeseed's Intentions IV",
-    Text: "Fernward Muddybutton’s house overlooks Combe on the road south towards Bree.
-
+    Text: "Fernward Muddybutton’s house is up the hill south of Susan's, just past the farm field.
 Susan Pipeseed has instructed you to acquire some poison from Muddybutton, the local leech, to use against the Knaraugh's wolves.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
@@ -30,7 +29,7 @@ Susan Pipeseed has instructed you to acquire some poison from Muddybutton, the l
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461936799606L,
+        TimePast: 1464564520068L,
         Time: 0L,
         Subject: ""
     },

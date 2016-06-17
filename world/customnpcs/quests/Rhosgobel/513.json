@@ -1,0 +1,42 @@
+{
+    CompleterNpc: "Fridwald the Runner",
+    NextQuestId: 514,
+    QuestLocation3: "",
+    RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Theft of the Lamp ",
+    Text: "Fridwald the Runner has asked you to search to the south for the Elven thieves and any sign of the lamp. You were advised to stay on the path.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 1b,
+        OptionFaction2Points: 100,
+        OptionFactions1: 39,
+        OptionFactions2: -1,
+        OptionFaction1Points: 500,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1464746845347L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    CompleteText: "This doesn’t look good!",
+    NextQuestTitle: "Werewolf of Mirkwood",
+    QuestLocation: "Skybridge Fort"
+}

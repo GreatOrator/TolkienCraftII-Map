@@ -7,8 +7,8 @@
             Option: {
                 DialogCommand: "",
                 Dialog: 694,
-                Title: "[Western] I think it would benefit all woodsmen to have another settlement to trade with. It seems a fertile area. Perhaps some young warriors will join the new village.",
-                DialogColor: 5688297,
+                Title: "I think it would benefit all woodsmen to have another settlement to trade with. It seems a fertile area. Perhaps some young warriors will join the new village.",
+                DialogColor: 2160927,
                 OptionType: 1
             }
         },
@@ -17,7 +17,7 @@
             Option: {
                 DialogCommand: "",
                 Dialog: 695,
-                Title: "[Eastern] I think the Black Tarn is too far south and too close to the darkness there. You would be welcoming trouble as it would be hard to defend.",
+                Title: "I think the Black Tarn is too far south and too close to the darkness there. You would be welcoming trouble as it would be hard to defend.",
                 DialogColor: 15239794,
                 OptionType: 1
             }
@@ -67,7 +67,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461119781144L,
+        TimePast: 1464751477741L,
         Time: 0L,
         Subject: ""
     }

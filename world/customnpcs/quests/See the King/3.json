@@ -1,110 +1,110 @@
 {
+    CompleterNpc: "GreatOrator",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Town Tour",
+    Text: "Since the King suggested it, you decide it is a good idea to visit all the shopkeepers in town and bring a souvenir of your visits back to the king.   I'll have to make certain I visit everyone especially the Apothecary, Librarian and the Blacksmith. I'll need to get an enchanted wooden sword, an enchanted book of reading and a potion of aer.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 200,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1462490903448L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4185s,
+                Count: 64b,
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: 4185s,
+                Count: 36b,
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: 57s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: 41s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: 42s,
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
     Items: {
         NpcMiscInv: [
             {
+                Slot: 0b,
                 id: 6740s,
-                Damage: 0s,
                 Count: 1b,
-                Slot: 0b
+                Damage: 0s
             },
             {
+                Slot: 1b,
                 id: 268s,
-                Damage: 0s,
                 Count: 1b,
                 tag: {
                     ench: [
                         {
-                            id: 34s,
-                            lvl: 5s
+                            lvl: 5s,
+                            id: 34s
                         }
                     ]
                 },
-                Slot: 1b
+                Damage: 0s
             },
             {
+                Slot: 2b,
                 id: 403s,
-                Damage: 0s,
                 Count: 1b,
                 tag: {
                     StoredEnchantments: [
                         {
-                            id: 196s,
-                            lvl: 1s
+                            lvl: 1s,
+                            id: 196s
                         }
                     ]
                 },
-                Slot: 2b
+                Damage: 0s
             }
         ]
     },
-    CompleterNpc: "GreatOrator",
-    IgnoreDamage: 0b,
-    Type: 0,
-    RandomReward: 0b,
-    QuestFactionPoints: {
-        DecreaseFaction1Points: 0b,
-        DecreaseFaction2Points: 0b,
-        OptionFactions1: -1,
-        OptionFactions2: -1,
-        OptionFaction2Points: 100,
-        OptionFaction1Points: 100
-    },
-    IgnoreNBT: 0b,
-    NextQuestId: -1,
-    Rewards: {
-        NpcMiscInv: [
-            {
-                id: 4185s,
-                Damage: 0s,
-                Count: 64b,
-                Slot: 0b
-            },
-            {
-                id: 4185s,
-                Damage: 0s,
-                Count: 36b,
-                Slot: 1b
-            },
-            {
-                id: 57s,
-                Damage: 0s,
-                Count: 1b,
-                Slot: 2b
-            },
-            {
-                id: 41s,
-                Damage: 0s,
-                Count: 1b,
-                Slot: 3b
-            },
-            {
-                id: 42s,
-                Damage: 0s,
-                Count: 1b,
-                Slot: 4b
-            }
-        ]
-    },
-    Title: "Town Tour",
-    QuestRepeat: 0,
-    QuestCompletion: 0,
-    Text: "Since the King suggested it, you decide it is a good idea to visit all the shopkeepers in town and bring a souvenir of your visits back to the king.   I'll have to make certain I visit everyone especially the Apothecary, Librarian and the Blacksmith. I'll need to get an enchanted wooden sword, an enchanted book of reading and a potion of aer.",
-    NextQuestTitle: "",
-    CompleteText: "Wonderful work @p!  As you can see we have a variety of shops to help you in your adventures, you just need the coin.  By the way, if you ever need more coin than what I have given you, you can always travel to Middle-Earth, I am sure they have tons of work you can do to earn more.",
-    QuestMail: {
-        Sender: "",
-        Time: 0L,
-        Message: {
-        },
-        Subject: "",
-        MailItems: [
-        ],
-        BeenRead: 0b,
-        MailQuest: -1,
-        TimePast: 1424554904068L
-    },
-    QuestCommand: "",
     LeaveItems: 0b,
-    RewardExp: 200,
-    ModRev: 16
+    CompleteText: "Wonderful work @p!  As you can see we have a variety of shops to help you in your adventures, you just need the coin.  By the way, if you ever need more coin than what I have given you, you can always travel to Middle-Earth, I am sure they have tons of work you can do to earn more.",
+    NextQuestTitle: ""
 }

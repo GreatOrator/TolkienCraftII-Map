@@ -1,0 +1,65 @@
+{
+    CompleterNpc: "Legolas",
+    NextQuestId: -1,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Dawn of the West",
+    Text: "Lady Irimë whispers to Legolas that she wishes to speak with you.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: 34,
+        OptionFactions2: 18,
+        OptionFaction1Points: 300,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 100,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Integer: 1322,
+            Slot: 0
+        }
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465704374855L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 7006s,
+                Count: 1b,
+                tag: {
+                    display: {
+                        Lore: [
+                            "Elf-Friend"
+                        ],
+                        Name: "Title Scroll"
+                    }
+                },
+                Damage: 6s
+            },
+            {
+                Slot: 1b,
+                id: 5458s,
+                Count: 1b,
+                Damage: 4s
+            }
+        ]
+    },
+    CompleteText: "But now, I leave you with my blessing, for what it is worth.",
+    NextQuestTitle: ""
+}

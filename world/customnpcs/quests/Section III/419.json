@@ -1,0 +1,107 @@
+{
+    CompleterNpc: "Guarnier",
+    NextQuestId: -1,
+    RandomReward: 1b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "Ranger of the Fields II",
+    Text: "Guarnier believes that the Enemy has indeed returned to Carn Dum, but cannot tell the strength of the forces there as they approached the city from elsewhere. Travel there and kill what orcs and wargs you find and report back your findings.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 150,
+    QuestCommand: "",
+    QuestDialogs: [
+        {
+            Value: 25,
+            Slot: "lotr.AngmarOrcArcher"
+        },
+        {
+            Value: 25,
+            Slot: "lotr.AngmarOrc"
+        },
+        {
+            Value: 25,
+            Slot: "lotr.AngmarBombardier"
+        }
+    ],
+    ModRev: 16,
+    Type: 4,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465526808681L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4185s,
+                Count: 1b,
+                Damage: 2s
+            },
+            {
+                Slot: 1b,
+                id: 1558s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: 7431s,
+                Count: 2b,
+                Damage: 2s
+            },
+            {
+                Slot: 3b,
+                id: 5458s,
+                Count: 2b,
+                Damage: 4s
+            },
+            {
+                Slot: 4b,
+                id: 5458s,
+                Count: 2b,
+                Damage: 3s
+            },
+            {
+                Slot: 5b,
+                id: 14s,
+                Count: 5b,
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: 56s,
+                Count: 6b,
+                Damage: 0s
+            },
+            {
+                Slot: 7b,
+                id: 1427s,
+                Count: 6b,
+                Damage: 5s
+            },
+            {
+                Slot: 8b,
+                id: 4493s,
+                Count: 1b,
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "You are truly of stout heart to face such beasts. You have my gratitude, @p.",
+    NextQuestTitle: ""
+}

@@ -60,7 +60,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: " I don’t know if you are aware that the peace in Middle Earth hangs by a thread. The White Council discovered a growing threat in the fortress, Dol Guldur, to the north. We dealt with that threat but now the council wants to go further.",
+    DialogText: "I don’t know if you are aware that the peace in Middle Earth hangs by a thread. The White Council discovered a growing threat in the fortress, Dol Guldur, to the north. We dealt with that threat but now the council wants to go further.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
@@ -77,7 +77,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1444957187829L,
+        TimePast: 1465835361503L,
         Time: 0L,
         Subject: ""
     }

@@ -1,106 +1,106 @@
 {
-    Items: {
-        NpcMiscInv: [
-            {
-                id: 349s,
-                Damage: 1s,
-                Count: 8b,
-                Slot: 0b
-            }
-        ]
-    },
     CompleterNpc: "Sakamoto",
-    IgnoreDamage: 0b,
-    Type: 0,
+    NextQuestId: -1,
     RandomReward: 1b,
+    QuestRepeat: 4,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Fishing the sea",
+    Text: "So, he wants me to catch some fish does he?  Well, I'll make sure they are the best dang fish he's ever seen!Bring the fisherman 8 salmon.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
-        DecreaseFaction2Points: 0b,
+        OptionFaction2Points: 100,
         OptionFactions1: 6,
         OptionFactions2: 7,
-        OptionFaction2Points: 100,
-        OptionFaction1Points: 100
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
     },
-    IgnoreNBT: 0b,
-    NextQuestId: -1,
+    RewardExp: 200,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1464567207965L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
     Rewards: {
         NpcMiscInv: [
             {
+                Slot: 0b,
                 id: 4477s,
-                Damage: 0s,
                 Count: 1b,
-                Slot: 0b
+                Damage: 0s
             },
             {
+                Slot: 1b,
                 id: 4478s,
-                Damage: 0s,
                 Count: 1b,
-                Slot: 1b
+                Damage: 0s
             },
             {
+                Slot: 2b,
                 id: 4479s,
-                Damage: 0s,
                 Count: 1b,
-                Slot: 2b
+                Damage: 0s
             },
             {
+                Slot: 3b,
                 id: 4480s,
-                Damage: 0s,
                 Count: 1b,
-                Slot: 3b
+                Damage: 0s
             },
             {
+                Slot: 4b,
                 id: 4477s,
-                Damage: 0s,
                 Count: 1b,
-                Slot: 4b
+                Damage: 0s
             },
             {
+                Slot: 5b,
                 id: 4477s,
-                Damage: 0s,
                 Count: 1b,
-                Slot: 5b
+                Damage: 0s
             },
             {
+                Slot: 6b,
                 id: 4477s,
-                Damage: 0s,
                 Count: 1b,
-                Slot: 6b
+                Damage: 0s
             },
             {
+                Slot: 7b,
                 id: 4478s,
-                Damage: 0s,
                 Count: 1b,
-                Slot: 7b
+                Damage: 0s
             },
             {
+                Slot: 8b,
                 id: 4478s,
-                Damage: 0s,
                 Count: 1b,
-                Slot: 8b
+                Damage: 0s
             }
         ]
     },
-    Title: "Fishing the sea",
-    QuestRepeat: 4,
-    QuestCompletion: 0,
-    Text: "So, he wants me to catch some fish does he?  Well, I'll make sure they are the best dang fish he's ever seen!Bring the fisherman 8 salmon.",
-    NextQuestTitle: "",
-    CompleteText: "Great work!  Those are some fine fish you brought me, and as promised, here is your reward! I have a lot of spare rods, so come back if you ever want to try again, you never know what fishing rod I'll give you!",
-    QuestMail: {
-        Sender: "",
-        Time: 0L,
-        Message: {
-        },
-        Subject: "",
-        MailItems: [
-        ],
-        BeenRead: 0b,
-        MailQuest: -1,
-        TimePast: 1422712504476L
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 349s,
+                Count: 8b,
+                Damage: 1s
+            }
+        ]
     },
-    QuestCommand: "",
     LeaveItems: 0b,
-    RewardExp: 200,
-    ModRev: 15
+    CompleteText: "Great work!  Those are some fine fish you brought me, and as promised, here is your reward! I have a lot of spare rods, so come back if you ever want to try again, you never know what fishing rod I'll give you!",
+    NextQuestTitle: ""
 }

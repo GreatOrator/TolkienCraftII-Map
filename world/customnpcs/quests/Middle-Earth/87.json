@@ -27,16 +27,27 @@
             pages: [
                 "It is a refreshing tale when someone proves to be a true hero and keeps his word.
 
-Come speak to me as I have a task I think I could use youor assistance on.
-
+Come speak to me as I have a task I think I could use your assistance on.
 
 -Gandalf"
             ]
         },
         MailItems: [
+            {
+                Slot: 0b,
+                id: 5317s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Gandalf's Letter"
+                    }
+                },
+                Damage: 0s
+            }
         ],
         MailQuest: 97,
-        TimePast: 9750063L,
+        TimePast: 19457553280L,
         Time: 1446231567121L,
         Subject: "Thanks for your Honesty."
     },
@@ -54,6 +65,18 @@ Come speak to me as I have a task I think I could use youor assistance on.
                 id: 4185s,
                 Count: 2b,
                 Damage: 1s
+            },
+            {
+                Slot: 2b,
+                id: 5317s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Check Your Mail!"
+                    }
+                },
+                Damage: 0s
             }
         ]
     },

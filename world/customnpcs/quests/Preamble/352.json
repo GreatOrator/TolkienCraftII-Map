@@ -1,5 +1,5 @@
 {
-    CompleterNpc: "Xalgan ",
+    CompleterNpc: "Xalgan",
     NextQuestId: -1,
     RandomReward: 1b,
     QuestRepeat: 0,
@@ -29,7 +29,7 @@ You were asked to retrieve their personal items so they could be returned to the
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461886677752L,
+        TimePast: 1462501745335L,
         Time: 0L,
         Subject: ""
     },

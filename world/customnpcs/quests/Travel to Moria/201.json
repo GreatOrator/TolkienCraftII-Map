@@ -1,6 +1,6 @@
 {
     CompleterNpc: "Wyrl",
-    NextQuestId: -1,
+    NextQuestId: 638,
     RandomReward: 0b,
     QuestRepeat: 0,
     QuestCompletion: 0,
@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443711265225L,
+        TimePast: 1465781503367L,
         Time: 0L,
         Subject: ""
     },
@@ -72,5 +72,5 @@
     },
     LeaveItems: 0b,
     CompleteText: "That was some amazing work you did to help us out, we may well be able to go home soon because of you! Here you go laddy! We happen to have a way for you to get out of here!  Take care of that key as I can not give you another one.",
-    NextQuestTitle: ""
+    NextQuestTitle: "Fate of the Dwarves"
 }

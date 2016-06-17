@@ -5,7 +5,7 @@
     QuestRepeat: 0,
     QuestCompletion: 0,
     Title: "Unraveling the Thread II",
-    Text: "Strider believes that there are darker forces at play here and Quinn was just another unfortunate pawn in the events unfolding.  You wonder how this Witch-King plays into all of this considering what you have already been through.  Time to head to this camp in the forest Strider talked about and stop Quinn.",
+    Text: "Strider believes that there are darker forces at play here and Quinn was just another unfortunate pawn in the events unfolding.  You wonder how this Witch-King plays into all of this considering what you have already been through.  Time to head to this camp in the forest Strider talked about and stop Quinn.Remember, he was last seen in Chetwood forest, east of Bree, at one of the bandit camps there.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -32,7 +32,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461889041837L,
+        TimePast: 1464784910114L,
         Time: 0L,
         Subject: ""
     },

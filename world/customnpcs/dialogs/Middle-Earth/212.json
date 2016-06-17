@@ -1,6 +1,6 @@
 {
     DialogShowWheel: 0b,
-    AvailabilityQuestId: 102,
+    AvailabilityQuestId: 351,
     Options: [
         {
             OptionSlot: 0,
@@ -25,10 +25,10 @@
     ],
     DialogHideNPC: 0b,
     AvailabilityFactionStance: 0,
-    AvailabilityQuest: 2,
+    AvailabilityQuest: 1,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    AvailabilityQuest2: 0,
+    AvailabilityQuest2: 2,
     AvailabilityQuest3: 0,
     AvailabilityQuest4: 0,
     ModRev: 16,
@@ -36,7 +36,7 @@
     DialogQuest: -1,
     AvailabilityDialog2: 0,
     OptionFactions1: -1,
-    AvailabilityDayTime: 1,
+    AvailabilityDayTime: 0,
     OptionFactions2: -1,
     AvailabilityFaction2Id: -1,
     OptionFaction1Points: 100,
@@ -53,7 +53,7 @@
     DialogText: "Greetings @p!What brings you to this part of our realm?",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: -1,
+    AvailabilityQuest2Id: 103,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -67,7 +67,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1445439249223L,
+        TimePast: 1462501458204L,
         Time: 0L,
         Subject: ""
     }

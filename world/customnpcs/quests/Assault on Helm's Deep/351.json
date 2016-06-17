@@ -1,13 +1,13 @@
 {
-    CompleterNpc: "Xalgan ",
+    CompleterNpc: "Xalgan",
     NextQuestId: -1,
     QuestLocation3: "",
     RandomReward: 0b,
     QuestLocation2: "",
     QuestRepeat: 0,
-    QuestCompletion: 0,
+    QuestCompletion: 1,
     Title: "Assault on Helm's Deep",
-    Text: "Helm’s Deep may be under attack!  Go meet with Xalgan and help him with any raiding parties there.",
+    Text: "Helm’s Deep may be under attack!  Go meet with Xalgan and help him with any raiding parties there.He is usually found on top of the wall going over the river.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461546386497L,
+        TimePast: 1464565570626L,
         Time: 0L,
         Subject: ""
     },

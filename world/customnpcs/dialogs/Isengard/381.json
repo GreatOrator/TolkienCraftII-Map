@@ -13,6 +13,26 @@
             }
         },
         {
+            OptionSlot: 1,
+            Option: {
+                DialogCommand: "",
+                Dialog: 1092,
+                Title: "Do you think you can help me infiltrate Dol Guldur?",
+                DialogColor: 3599452,
+                OptionType: 1
+            }
+        },
+        {
+            OptionSlot: 2,
+            Option: {
+                DialogCommand: "",
+                Dialog: 1095,
+                Title: "I have made the Matrix, now what do I need to do?",
+                DialogColor: 2944340,
+                OptionType: 1
+            }
+        },
+        {
             OptionSlot: 5,
             Option: {
                 DialogCommand: "",
@@ -67,7 +87,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1444953988174L,
+        TimePast: 1465835510751L,
         Time: 0L,
         Subject: ""
     }

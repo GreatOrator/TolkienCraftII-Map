@@ -37,7 +37,7 @@
     AvailabilityFaction2: 0,
     AvailabilityFactionId: -1,
     AvailabilityFaction2Stance: 0,
-    DialogCommand: "",
+    DialogCommand: "lotr_time set night",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
     DialogText: "By the stars!  Thank you!  I shall report this to my King immediately.  Please head to Helm’s deep and assist the soldier there. Hopefully you will arrive in time!",
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461287611161L,
+        TimePast: 1464565536271L,
         Time: 0L,
         Subject: ""
     }

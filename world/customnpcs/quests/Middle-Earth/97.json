@@ -1,13 +1,12 @@
 {
     CompleterNpc: "Gandalf Greyhame",
     NextQuestId: -1,
-    QuestLocation3: "",
     RandomReward: 0b,
-    QuestLocation2: "",
     QuestRepeat: 0,
     QuestCompletion: 0,
+    IgnoreNBT: 0b,
     Title: "Gandalf's Request I",
-    Text: "Wonder what Gandlaf was speaking about in his letter.  Guess I'll go talk to him and find out.",
+    Text: "Wonder what Gandlaf was speaking about in his letter.  Guess I'll go talk to him and find out.  I remember seeing him at the gazebo in Hobbiton.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -19,7 +18,7 @@
     RewardExp: 25,
     QuestCommand: "",
     ModRev: 16,
-    Type: 3,
+    Type: 0,
     QuestMail: {
         Sender: "",
         BeenRead: 0b,
@@ -28,10 +27,11 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461285418512L,
+        TimePast: 1465687374320L,
         Time: 0L,
         Subject: ""
     },
+    IgnoreDamage: 0b,
     Rewards: {
         NpcMiscInv: [
             {
@@ -51,187 +51,35 @@
             },
             {
                 Slot: 2b,
-                id: 7341s,
+                id: 7174s,
                 Count: 1b,
                 tag: {
-                    zoomLevel: 0,
-                    maps: [
-                        {
-                            zCenter: 256,
-                            mapScale: 0,
-                            MapWaypointNames: [
-                                "Earth Staff"
-                            ],
-                            yMapWaypoints: [
-                                0.445788f
-                            ],
-                            MapWaypointColors: [
-                                1.0f
-                            ],
-                            xMapWaypoints: [
-                                0.0074201464f
-                            ],
-                            mapName: "Map_4",
-                            xCenter: -512
-                        },
-                        {
-                            zCenter: 256,
-                            mapScale: 0,
-                            MapWaypointNames: [
-                                "Earth Staff"
-                            ],
-                            yMapWaypoints: [
-                                0.42704237f
-                            ],
-                            MapWaypointColors: [
-                                1.0f
-                            ],
-                            xMapWaypoints: [
-                                0.9884416f
-                            ],
-                            mapName: "Map_5",
-                            xCenter: -640
-                        },
-                        {
-                            zCenter: 0,
-                            mapScale: 0,
-                            MapWaypointNames: [
-                                "Water Staff"
-                            ],
-                            yMapWaypoints: [
-                                0.9831628f
-                            ],
-                            MapWaypointColors: [
-                                6.0f
-                            ],
-                            xMapWaypoints: [
-                                0.076154135f
-                            ],
-                            mapName: "Map_7",
-                            xCenter: -896
-                        },
-                        {
-                            zCenter: 128,
-                            mapScale: 0,
-                            MapWaypointNames: [
-                                "Water Staff"
-                            ],
-                            yMapWaypoints: [
-                                0.002141355f
-                            ],
-                            MapWaypointColors: [
-                                6.0f
-                            ],
-                            xMapWaypoints: [
-                                0.07927841f
-                            ],
-                            mapName: "Map_6",
-                            xCenter: -896
-                        },
-                        {
-                            zCenter: 128,
-                            mapScale: 0,
-                            MapWaypointNames: [
-                                "Fire Staff"
-                            ],
-                            yMapWaypoints: [
-                                0.9800385f
-                            ],
-                            MapWaypointColors: [
-                                1.0f
-                            ],
-                            xMapWaypoints: [
-                                0.86034644f
-                            ],
-                            mapName: "Map_8",
-                            xCenter: 0
-                        },
-                        {
-                            zCenter: 0,
-                            mapScale: 0,
-                            MapWaypointNames: [
-                                "Air Staff"
-                            ],
-                            yMapWaypoints: [
-                                0.2677045f
-                            ],
-                            MapWaypointColors: [
-                                11.0f
-                            ],
-                            xMapWaypoints: [
-                                0.21049784f
-                            ],
-                            mapName: "Map_9",
-                            xCenter: 128
-                        },
-                        {
-                            zCenter: 256,
-                            mapScale: 0,
-                            yMapWaypoints: [
-                                0.39626694f
-                            ],
-                            MapWaypointNames: [
-                                "Fire Staff"
-                            ],
-                            MapWaypointColors: [
-                                1.0f
-                            ],
-                            mapName: "Map_26",
-                            xMapWaypoints: [
-                                0.9207935f
-                            ],
-                            xCenter: 0
-                        }
-                    ],
-                    mapSlot: 30,
-                    autoCreate: 0b,
-                    autoCenter: 1b,
-                    containerUpdate: 0b,
-                    lastGUImode: 0,
-                    Inventory: [
-                        {
-                            Slot: 6b,
-                            id: 358s,
-                            Count: 1b,
-                            Damage: 4s
-                        },
-                        {
-                            Slot: 7b,
-                            id: 358s,
-                            Count: 1b,
-                            Damage: 5s
-                        },
-                        {
-                            Slot: 12b,
-                            id: 358s,
-                            Count: 1b,
-                            Damage: 7s
-                        },
-                        {
-                            Slot: 18b,
-                            id: 358s,
-                            Count: 1b,
-                            Damage: 6s
-                        },
-                        {
-                            Slot: 30b,
-                            id: 358s,
-                            Count: 1b,
-                            Damage: 26s
-                        },
-                        {
-                            Slot: 42b,
-                            id: 358s,
-                            Count: 1b,
-                            Damage: 9s
-                        }
-                    ]
+                    RepairCost: 2,
+                    display: {
+                        Name: "Staff Asunder"
+                    }
                 },
-                Damage: 26s
+                Damage: 4s
             }
         ]
     },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5317s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Gandalf's Letter"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
     CompleteText: "Thank you @p for taking the time to respond to my letter.Let's talk about the task at hand.",
-    NextQuestTitle: "",
-    QuestLocation: "Gandalf"
+    NextQuestTitle: ""
 }

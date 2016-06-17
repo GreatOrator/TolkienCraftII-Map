@@ -40,7 +40,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "Wonderful work Mr. @p. Now, this staff must be reassembled in a special table here with me.The order is very important.The staves should go in the table on the far-left side from top to bottom in the following order:EarthAirFireWaterBring me the finished staff once complete.",
+    DialogText: "Wonderful work @p. Now, this staff must be reassembled in a special table here with me.The order is very important.The staves should go in the table on the far-left side from top to bottom in the following order:EarthAirFireWaterBring me the finished staff once complete.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: 96,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461284233719L,
+        TimePast: 1465690081399L,
         Time: 0L,
         Subject: ""
     }

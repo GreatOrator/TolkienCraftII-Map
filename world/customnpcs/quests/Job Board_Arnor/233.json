@@ -1,5 +1,5 @@
 {
-    CompleterNpc: "Ralph Middleton",
+    CompleterNpc: "Sybilla Lytton",
     NextQuestId: -1,
     RandomReward: 1b,
     QuestRepeat: 2,
@@ -27,7 +27,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1446214694769L,
+        TimePast: 1462922849277L,
         Time: 0L,
         Subject: ""
     },
@@ -82,7 +82,7 @@
         NpcMiscInv: [
             {
                 Slot: 0b,
-                id: 4190s,
+                id: 319s,
                 Count: 32b,
                 Damage: 0s
             }

@@ -23,7 +23,7 @@
     AvailabilityQuest4: 0,
     ModRev: 16,
     DecreaseFaction1Points: 0b,
-    DialogQuest: -1,
+    DialogQuest: 436,
     AvailabilityDialog2: 0,
     OptionFactions1: -1,
     AvailabilityDayTime: 0,
@@ -40,7 +40,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "According to Dwarven records, the Staff of the Roadwarden lies in Millfort. This staff is the traditional symbol of the office Master of the Road. I want to claim that staff. Any other treasure we may find is yours!",
+    DialogText: "According to Dwarven records, the Staff of the Roadwarden lies in Millfort. This staff is the traditional symbol of the office, Master of the Road. I want to claim that staff. Any other treasure we may find is yours!",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461026671638L,
+        TimePast: 1463097444316L,
         Time: 0L,
         Subject: ""
     }

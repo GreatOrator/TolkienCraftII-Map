@@ -7,7 +7,7 @@
     QuestRepeat: 0,
     QuestCompletion: 0,
     Title: "The Dark Riders",
-    Text: "Jaquemart's camp sits on a rise north of the main gate of Esgaroth, along the Great East Road, west of Bree.
+    Text: "Jaquemart's camp sits on a rise north of the Fast Travel near Esgaroth, along the road.
 
 Strider has asked that you speak with Jaquemart, another Ranger, and learn if he has seen any other Nazgûl passing out of the Shire.",
     QuestFactionPoints: {
@@ -30,7 +30,7 @@ Strider has asked that you speak with Jaquemart, another Ranger, and learn if he
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461947004543L,
+        TimePast: 1464785385262L,
         Time: 0L,
         Subject: ""
     },

@@ -27,7 +27,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443885005429L,
+        TimePast: 1465680229353L,
         Time: 0L,
         Subject: ""
     },
@@ -71,6 +71,6 @@
         ]
     },
     LeaveItems: 0b,
-    CompleteText: "Some spirit you say?  and they wanted you to give me this book? Rather strange, I will think on this before I open this book, seems rather fishy if you ask me, shame that the real treasure of all that knowledge is gone though.",
+    CompleteText: "Some spirit you say?  And they wanted you to give me this book? Rather strange, I will think on this before I open this book, seems rather fishy if you ask me, shame that the real treasure of all that knowledge is gone though.",
     NextQuestTitle: ""
 }

@@ -1,11 +1,10 @@
 {
     CompleterNpc: "Gandalf Greyhame",
-    NextQuestId: 101,
-    QuestLocation3: "",
+    NextQuestId: -1,
     RandomReward: 0b,
-    QuestLocation2: "",
     QuestRepeat: 0,
     QuestCompletion: 0,
+    IgnoreNBT: 0b,
     Title: "Secret Recipe I",
     Text: "Challd has asked you to seek out Gandalf and ask him about his elixer.",
     QuestFactionPoints: {
@@ -19,7 +18,7 @@
     RewardExp: 25,
     QuestCommand: "",
     ModRev: 16,
-    Type: 3,
+    Type: 0,
     QuestMail: {
         Sender: "",
         BeenRead: 0b,
@@ -28,16 +27,33 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1446233537481L,
+        TimePast: 1465687444057L,
         Time: 0L,
         Subject: ""
     },
+    IgnoreDamage: 0b,
     Rewards: {
         NpcMiscInv: [
         ]
     },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5317s,
+                Count: 1b,
+                tag: {
+                    RepairCost: 2,
+                    display: {
+                        Name: "Chald's Letter"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    LeaveItems: 0b,
     CompleteText: "What is this? The Commander, Chald, from Draconis sent you for what? Ah, now I recall him. Bright fellow though a bit impetuous. He wants my fire-draught does he? Whatever for?
 Zombies, creepers and skeletons? I think I see what the fellow is about. I do happen to have a vial left...where was that?",
-    NextQuestTitle: "Secret Recipe Ia",
-    QuestLocation: "Gandalf"
+    NextQuestTitle: ""
 }

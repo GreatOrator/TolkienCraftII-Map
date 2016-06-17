@@ -43,17 +43,17 @@
     DialogDisableEsc: 0b,
     AvailabilityFaction: 0,
     DialogTitle: "Family Heirloom II",
-    AvailabilityDialog: 0,
+    AvailabilityDialog: 2,
     AvailabilityFaction2: 0,
     AvailabilityFactionId: -1,
     AvailabilityFaction2Stance: 0,
     DialogCommand: "",
-    AvailabilityDialogId: -1,
+    AvailabilityDialogId: 211,
     OptionFaction2Points: 100,
     DialogText: "Excellent @p you received my message and I see that you have gotten the ring from bilbo.I must warn you, what I ask of you next is very dangerous.I have reason to believe that ring is much more than it appears.  Bilbo thinks I was not aware, but I know it to not be a family anything and he found it during our adventures.Are you ready to hear more about it?",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: 90,
+    AvailabilityQuest2Id: 91,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -67,7 +67,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1446241470073L,
+        TimePast: 1465688258704L,
         Time: 0L,
         Subject: ""
     }

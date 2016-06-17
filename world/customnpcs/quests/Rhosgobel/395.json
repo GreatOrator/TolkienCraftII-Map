@@ -1,0 +1,52 @@
+{
+    CompleterNpc: "Beren",
+    NextQuestId: 396,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "The Wizard's Man",
+    Text: "Investigating further, you see the man has been bitten by a poisonous spider. It is too late.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 25,
+    QuestCommand: "",
+    QuestDialogs: [
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1462418523419L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5317s,
+                Count: 1b,
+                tag: {
+                    display: {
+                        Name: "Radagast"
+                    }
+                },
+                Damage: 0s
+            }
+        ]
+    },
+    CompleteText: "With his dying breath, the man hands you a note. It is addressed to the wizard, Radagast.",
+    NextQuestTitle: "The Hand of Mogdred"
+}

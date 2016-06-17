@@ -18,7 +18,7 @@
     AvailabilityQuest: 2,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
-    AvailabilityQuest2: 0,
+    AvailabilityQuest2: 1,
     AvailabilityQuest3: 0,
     AvailabilityQuest4: 0,
     ModRev: 16,
@@ -45,7 +45,7 @@
 Will you travel with me to Tigerstone's farm? It’s north of the Chetwood forest, just east of here. If they are gathering there, I'll need help driving them out again! What say you to doing the investigating for me and reporting back?  You seem the sort to be able to take them on for sure!",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: -1,
+    AvailabilityQuest2Id: 384,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -59,7 +59,7 @@ Will you travel with me to Tigerstone's farm? It’s north of the Chetwood fores
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461943655854L,
+        TimePast: 1462539746808L,
         Time: 0L,
         Subject: ""
     }

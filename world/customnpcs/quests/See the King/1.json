@@ -1,48 +1,48 @@
 {
     CompleterNpc: "GreatOrator",
-    Type: 3,
+    NextQuestId: -1,
+    QuestLocation3: "",
     RandomReward: 0b,
+    QuestLocation2: "",
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    Title: "First time in Draconis",
+    Text: "You really should see the king first.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
-        DecreaseFaction2Points: 0b,
+        OptionFaction2Points: 100,
         OptionFactions1: -1,
         OptionFactions2: -1,
-        OptionFaction2Points: 100,
-        OptionFaction1Points: 100
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
     },
-    QuestLocation2: "",
-    NextQuestId: -1,
-    QuestLocation: "The King",
+    RewardExp: 500,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 3,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1462490887249L,
+        Time: 0L,
+        Subject: ""
+    },
     Rewards: {
         NpcMiscInv: [
             {
+                Slot: 0b,
                 id: 5315s,
-                Damage: 0s,
                 Count: 3b,
-                Slot: 0b
+                Damage: 0s
             }
         ]
     },
-    QuestLocation3: "",
-    Title: "First time in Draconis",
-    QuestRepeat: 0,
-    QuestCompletion: 0,
-    Text: "You really should see the king first.",
-    NextQuestTitle: "",
     CompleteText: "Welcome! I hope you can spare some time to help my kingdom out?",
-    QuestMail: {
-        Sender: "",
-        Time: 0L,
-        Message: {
-        },
-        Subject: "",
-        MailItems: [
-        ],
-        BeenRead: 0b,
-        MailQuest: -1,
-        TimePast: 1423445054885L
-    },
-    QuestCommand: "",
-    RewardExp: 500,
-    ModRev: 16
+    NextQuestTitle: "",
+    QuestLocation: "The King"
 }

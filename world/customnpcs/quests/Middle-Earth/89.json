@@ -27,7 +27,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1446241445099L,
+        TimePast: 1465688198581L,
         Time: 0L,
         Subject: ""
     },
@@ -53,6 +53,6 @@
         ]
     },
     LeaveItems: 1b,
-    CompleteText: "",
+    CompleteText: "Thank you @p once again for your honesty!  Now speak to me again so we can discuss what I need you to do now...",
     NextQuestTitle: ""
 }

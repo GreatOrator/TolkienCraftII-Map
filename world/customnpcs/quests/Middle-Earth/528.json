@@ -1,0 +1,178 @@
+{
+    CompleterNpc: "Mithrandir",
+    NextQuestId: 499,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    Title: "Map",
+    Text: "",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "tp @p 49371 180 -17594",
+    QuestDialogs: [
+    ],
+    ModRev: 16,
+    Type: 1,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1464830530725L,
+        Time: 0L,
+        Subject: ""
+    },
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 7341s,
+                Count: 1b,
+                tag: {
+                    zoomLevel: 0,
+                    maps: [
+                        {
+                            zCenter: -17664,
+                            mapScale: 0,
+                            yMapWaypoints: [
+                                0.4028061f
+                            ],
+                            MapWaypointNames: [
+                                "Secret Passageway"
+                            ],
+                            MapWaypointColors: [
+                                1.0f
+                            ],
+                            mapName: "Map_49",
+                            xMapWaypoints: [
+                                0.20542535f
+                            ],
+                            xCenter: 49408
+                        },
+                        {
+                            zCenter: -17664,
+                            mapScale: 0,
+                            mapName: "Map_50",
+                            xCenter: 49280
+                        },
+                        {
+                            zCenter: -17408,
+                            mapScale: 0,
+                            mapName: "Map_51",
+                            xCenter: 49280
+                        },
+                        {
+                            zCenter: -17280,
+                            mapScale: 0,
+                            mapName: "Map_52",
+                            xCenter: 49280
+                        },
+                        {
+                            zCenter: -17408,
+                            mapScale: 0,
+                            mapName: "Map_54",
+                            xCenter: 49408
+                        },
+                        {
+                            zCenter: -17536,
+                            mapScale: 0,
+                            mapName: "Map_55",
+                            xCenter: 49408
+                        },
+                        {
+                            zCenter: 2432,
+                            mapScale: 0,
+                            mapName: "Map_57",
+                            xCenter: 10496
+                        }
+                    ],
+                    mapSlot: 6,
+                    compassX: 49371,
+                    compassZ: -17720,
+                    autoCenter: 1b,
+                    autoCreate: 1b,
+                    containerUpdate: 0b,
+                    savedCompass: 1,
+                    prevAngle: -175.219611197764d,
+                    needleAngle: -174.89818f,
+                    lastGUImode: 1,
+                    time: 5.25d,
+                    Inventory: [
+                        {
+                            Slot: 0b,
+                            id: 395s,
+                            Count: 57b,
+                            Damage: 0s
+                        },
+                        {
+                            Slot: 1b,
+                            id: 4797s,
+                            Count: 1b,
+                            tag: {
+                                XCoord: 49371,
+                                ZCoord: -17720,
+                                WaypointName: "Sorcerer's Study"
+                            },
+                            Damage: 0s
+                        },
+                        {
+                            Slot: 6b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 49s
+                        },
+                        {
+                            Slot: 7b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 50s
+                        },
+                        {
+                            Slot: 8b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 51s
+                        },
+                        {
+                            Slot: 9b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 52s
+                        },
+                        {
+                            Slot: 10b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 54s
+                        },
+                        {
+                            Slot: 11b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 55s
+                        },
+                        {
+                            Slot: 12b,
+                            id: 358s,
+                            Count: 1b,
+                            Damage: 57s
+                        }
+                    ]
+                },
+                Damage: 49s
+            }
+        ]
+    },
+    CompleteText: "",
+    NextQuestTitle: "Dark Matters"
+}

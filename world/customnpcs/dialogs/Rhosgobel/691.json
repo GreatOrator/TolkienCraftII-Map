@@ -7,8 +7,8 @@
             Option: {
                 DialogCommand: "",
                 Dialog: 696,
-                Title: "[Western] He is very brash. I do not trust him and most of the elders here do not as well. Welcoming him into your community would spell disaster.",
-                DialogColor: 5227753,
+                Title: "I think it would be wise to welcome Mogdred and his protection into the woodsmen. Keep your friends close but your enemies, or those you don’t trust, closer.",
+                DialogColor: 915755,
                 OptionType: 1
             }
         },
@@ -17,7 +17,7 @@
             Option: {
                 DialogCommand: "",
                 Dialog: 697,
-                Title: "[Eastern] I think it would be wise to welcome Mogdred and his protection into the woodsmen. Keep your friends close but your enemies, or those you don’t trust, closer.",
+                Title: "He is very brash. I do not trust him and most of the elders here do not as well. Welcoming him into your community would spell disaster.",
                 DialogColor: 15372428,
                 OptionType: 1
             }
@@ -67,7 +67,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461119845230L,
+        TimePast: 1464751648635L,
         Time: 0L,
         Subject: ""
     }

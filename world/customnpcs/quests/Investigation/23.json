@@ -1,9 +1,100 @@
 {
+    CompleterNpc: "GreatOrator",
+    NextQuestId: 84,
+    RandomReward: 1b,
+    QuestRepeat: 0,
+    QuestCompletion: 0,
+    IgnoreNBT: 0b,
+    Title: "Completion",
+    Text: "The queen has given you the task of taking these items to the current king.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 500,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1464567173070L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 5384s,
+                Count: 1b,
+                Damage: 3s
+            },
+            {
+                Slot: 1b,
+                id: 5384s,
+                Count: 1b,
+                tag: {
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 2b,
+                id: 4943s,
+                Count: 1b,
+                tag: {
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 3b,
+                id: 4945s,
+                Count: 1b,
+                tag: {
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 4b,
+                id: 4974s,
+                Count: 1b,
+                tag: {
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 5b,
+                id: 4964s,
+                Count: 1b,
+                tag: {
+                },
+                Damage: 0s
+            },
+            {
+                Slot: 6b,
+                id: 5384s,
+                Count: 1b,
+                tag: {
+                },
+                Damage: 2s
+            }
+        ]
+    },
     Items: {
         NpcMiscInv: [
             {
+                Slot: 0b,
                 id: 5348s,
-                Damage: 175s,
                 Count: 1b,
                 tag: {
                     RepairCost: 2,
@@ -11,11 +102,11 @@
                         Name: "The Queen's Ring"
                     }
                 },
-                Slot: 0b
+                Damage: 175s
             },
             {
+                Slot: 1b,
                 id: 339s,
-                Damage: 0s,
                 Count: 1b,
                 tag: {
                     RepairCost: 2,
@@ -23,102 +114,11 @@
                         Name: "Evil Scheme"
                     }
                 },
-                Slot: 1b
+                Damage: 0s
             }
         ]
     },
-    CompleterNpc: "GreatOrator",
-    IgnoreDamage: 0b,
-    Type: 0,
-    RandomReward: 1b,
-    QuestFactionPoints: {
-        DecreaseFaction1Points: 0b,
-        DecreaseFaction2Points: 0b,
-        OptionFactions1: -1,
-        OptionFactions2: -1,
-        OptionFaction2Points: 100,
-        OptionFaction1Points: 100
-    },
-    IgnoreNBT: 0b,
-    NextQuestId: 84,
-    Rewards: {
-        NpcMiscInv: [
-            {
-                id: 5384s,
-                Damage: 3s,
-                Count: 1b,
-                Slot: 0b
-            },
-            {
-                id: 5384s,
-                Damage: 0s,
-                Count: 1b,
-                tag: {
-                },
-                Slot: 1b
-            },
-            {
-                id: 4943s,
-                Damage: 0s,
-                Count: 1b,
-                tag: {
-                },
-                Slot: 2b
-            },
-            {
-                id: 4945s,
-                Damage: 0s,
-                Count: 1b,
-                tag: {
-                },
-                Slot: 3b
-            },
-            {
-                id: 4974s,
-                Damage: 0s,
-                Count: 1b,
-                tag: {
-                },
-                Slot: 4b
-            },
-            {
-                id: 4964s,
-                Damage: 0s,
-                Count: 1b,
-                tag: {
-                },
-                Slot: 5b
-            },
-            {
-                id: 5384s,
-                Damage: 2s,
-                Count: 1b,
-                tag: {
-                },
-                Slot: 6b
-            }
-        ]
-    },
-    Title: "Completion",
-    QuestRepeat: 0,
-    QuestCompletion: 0,
-    Text: "The queen has given you the task of taking these items to the current king.",
-    NextQuestTitle: "Draconis III",
-    CompleteText: "You really spoke to her?  And...what's this?My god, after all this time she was actually murdered!My Kingdom is forever in your debt @p, You have done a service that can not be measured!I only wish my Great-Grandfather could have been around to see the truth come out, but I will make sure to let all in our kingdom know the real story from this day forward!As a small token, please take this ring, my great grandmother would have wanted it this way.",
-    QuestMail: {
-        Sender: "",
-        Time: 0L,
-        Message: {
-        },
-        Subject: "",
-        MailItems: [
-        ],
-        BeenRead: 0b,
-        MailQuest: -1,
-        TimePast: 1426592934949L
-    },
-    QuestCommand: "",
     LeaveItems: 0b,
-    RewardExp: 500,
-    ModRev: 16
+    CompleteText: "You really spoke to her?  And...what's this?My god, after all this time she was actually murdered!My Kingdom is forever in your debt @p, You have done a service that can not be measured!I only wish my Great-Grandfather could have been around to see the truth come out, but I will make sure to let all in our kingdom know the real story from this day forward!As a small token, please take this ring, my great grandmother would have wanted it this way.",
+    NextQuestTitle: "Draconis III"
 }

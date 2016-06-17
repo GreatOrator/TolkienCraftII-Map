@@ -1,6 +1,6 @@
 {
     DialogShowWheel: 0b,
-    AvailabilityQuestId: 5,
+    AvailabilityQuestId: -1,
     Options: [
         {
             OptionSlot: 0,
@@ -31,11 +31,41 @@
                 DialogColor: 9658600,
                 OptionType: 3
             }
+        },
+        {
+            OptionSlot: 3,
+            Option: {
+                DialogCommand: "",
+                Dialog: 1145,
+                Title: "I am here on a taste-testing mission!",
+                DialogColor: 7124200,
+                OptionType: 1
+            }
+        },
+        {
+            OptionSlot: 4,
+            Option: {
+                DialogCommand: "",
+                Dialog: 968,
+                Title: "I voted you the best!",
+                DialogColor: 15318607,
+                OptionType: 1
+            }
+        },
+        {
+            OptionSlot: 5,
+            Option: {
+                DialogCommand: "",
+                Dialog: -1,
+                Title: "Talk",
+                DialogColor: 14737632,
+                OptionType: 2
+            }
         }
     ],
     DialogHideNPC: 0b,
     AvailabilityFactionStance: 0,
-    AvailabilityQuest: 1,
+    AvailabilityQuest: 0,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
     AvailabilityQuest2: 0,
@@ -77,7 +107,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1445693720194L,
+        TimePast: 1465084248553L,
         Time: 0L,
         Subject: ""
     }

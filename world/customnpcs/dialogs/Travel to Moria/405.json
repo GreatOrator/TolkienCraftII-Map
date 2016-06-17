@@ -25,7 +25,7 @@
     ],
     DialogHideNPC: 0b,
     AvailabilityFactionStance: 0,
-    AvailabilityQuest: 1,
+    AvailabilityQuest: 3,
     AvailabilityDialog4: 0,
     AvailabilityDialog3: 0,
     AvailabilityQuest2: 0,
@@ -50,7 +50,7 @@
     DialogCommand: "",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "Ahhh @p!  [Main Dwarf Name] said you might be stopping by to help, this is good!  I have been trying to repair this waterwheel and just don’t seem to have all of the pieces.  I don’t suppose I could trouble you to track some  down for me?  I really need about 16 each of wooden bushings and torque shafts more and I think I will be able to get this finished.",
+    DialogText: "Ahhh @p! Wyrl said you might be stopping by to help, this is good!  I have been trying to repair this waterwheel and just don’t seem to have all of the pieces.  I don’t suppose I could trouble you to track some  down for me?  I really need about 16 each of wooden bushings and torque shafts more and I think I will be able to get this finished.",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
@@ -67,7 +67,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443712971080L,
+        TimePast: 1465675851851L,
         Time: 0L,
         Subject: ""
     }

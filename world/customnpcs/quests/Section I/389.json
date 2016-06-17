@@ -9,7 +9,7 @@
     Title: "The Horn Call of Dale I",
     Text: "In order to determine the movements of the Nazgûl, Jaquemart has asked you to investigate the home of a hobbit named Childebrand Longhole.
 
-Longholes' home is at Dale, almost due south-east of the Dale Gate, North of Jaquemart's camp.",
+Longholes' home is in Dale, south-west from the gate.  Look for the green banners on the house.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -30,7 +30,7 @@ Longholes' home is at Dale, almost due south-east of the Dale Gate, North of Jaq
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461888546237L,
+        TimePast: 1464785623057L,
         Time: 0L,
         Subject: ""
     },

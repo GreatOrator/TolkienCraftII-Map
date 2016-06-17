@@ -1,0 +1,58 @@
+{
+    CompleterNpc: "Reeve Heimart",
+    NextQuestId: 454,
+    RandomReward: 0b,
+    QuestRepeat: 0,
+    QuestCompletion: 1,
+    IgnoreNBT: 0b,
+    Title: "Connoisseur Lads I",
+    Text: "Here’s the deal, visit the top five inns in Middle-Earth and sample the local drink.  When you are done, return to Reeve Heimart so you can report and vote.First stop...The Prancing Pony Inn at Bree, talk to Barliman Butterbur.",
+    QuestFactionPoints: {
+        DecreaseFaction1Points: 0b,
+        OptionFaction2Points: 100,
+        OptionFactions1: -1,
+        OptionFactions2: -1,
+        OptionFaction1Points: 100,
+        DecreaseFaction2Points: 0b
+    },
+    RewardExp: 0,
+    QuestCommand: "",
+    ModRev: 16,
+    Type: 0,
+    QuestMail: {
+        Sender: "",
+        BeenRead: 0b,
+        Message: {
+        },
+        MailItems: [
+        ],
+        MailQuest: -1,
+        TimePast: 1465590767735L,
+        Time: 0L,
+        Subject: ""
+    },
+    IgnoreDamage: 0b,
+    Rewards: {
+        NpcMiscInv: [
+        ]
+    },
+    Items: {
+        NpcMiscInv: [
+            {
+                Slot: 0b,
+                id: 4119s,
+                Count: 1b,
+                Damage: 0s
+            },
+            {
+                Slot: 1b,
+                id: 4196s,
+                Count: 1b,
+                Damage: 4s
+            }
+        ]
+    },
+    LeaveItems: 0b,
+    CompleteText: "Well, that was rather refreshing, on to the next!",
+    NextQuestTitle: "Connoisseur Lads II"
+}

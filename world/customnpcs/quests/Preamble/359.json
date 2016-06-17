@@ -5,7 +5,7 @@
     QuestRepeat: 0,
     QuestCompletion: 1,
     Title: "Pipeseed's Intentions II",
-    Text: "Tigerstone's farm can be found by following the road east up the hill and then north into the Chetwood. Follow the road east through the woods and towards the northern end of the forest.
+    Text: "Tigerstone's farm can be found by following the road east down the hill and then north into the Chetwood. Follow the road east through the woods and towards the northern end of the forest.
 
 Constable Underhill ordered you to try and insinuate yourself into the Darkhold's good graces by doing tasks for their agent, Susan Pipeseed. However, Susan admitted her involvement and her desire to leave that part of her life behind. She has asked you for help righting her wrongs.
 ",
@@ -35,7 +35,7 @@ Constable Underhill ordered you to try and insinuate yourself into the Darkhold'
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1461886209278L,
+        TimePast: 1464565428274L,
         Time: 0L,
         Subject: ""
     },

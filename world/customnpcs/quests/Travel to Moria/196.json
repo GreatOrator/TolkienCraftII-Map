@@ -7,7 +7,7 @@
     QuestRepeat: 0,
     QuestCompletion: 1,
     Title: "Chamber of Memories I",
-    Text: "Tasr has asked me to check out some chambers here, so I guess I will go see what I can find. He said the first one I should check out is flooded.",
+    Text: "Tasr has asked me to check out some chambers here, so I guess I will go see what I can find. He said the first one I should check out is flooded and perhaps in the eastern part of the Waterworks.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1443711130220L,
+        TimePast: 1465680044150L,
         Time: 0L,
         Subject: ""
     },
