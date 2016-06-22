@@ -5,7 +5,7 @@
     QuestRepeat: 0,
     QuestCompletion: 0,
     Title: "The Broken Keep",
-    Text: "Head to the Trollshaws, by way of Rivendell, and use the map to find the hideout.",
+    Text: "Head to the Trollshaws, by way of Rivendell. Use the map to find the hideout and search it.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -36,7 +36,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1465571445512L,
+        TimePast: 1466622176166L,
         Time: 0L,
         Subject: ""
     },
