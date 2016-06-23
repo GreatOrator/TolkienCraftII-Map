@@ -43,7 +43,7 @@
     DialogText: "I tested the fur you found at the farm. As I suspected, this is not normal wolf fur. It has wolf and human properties in it. If I didn't know better, I would say this came from a werewolf!",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
-    AvailabilityQuest2Id: 274,
+    AvailabilityQuest2Id: 267,
     AvailabilityDialog2Id: -1,
     AvailabilityDialog3Id: -1,
     AvailabilityDialog4Id: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1444226716830L,
+        TimePast: 1466524663897L,
         Time: 0L,
         Subject: ""
     }

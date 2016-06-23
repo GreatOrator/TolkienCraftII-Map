@@ -7,7 +7,7 @@
     QuestRepeat: 0,
     QuestCompletion: 1,
     Title: "Escort the Caravan",
-    Text: "Head to the Old Forest Road by boat. Travel the road till you meet up with Baldor and his son.",
+    Text: "Head to the Old Forest Road by using the boat found in Esgaroth. Travel the road till you meet up with Baldor and his son.",
     QuestFactionPoints: {
         DecreaseFaction1Points: 0b,
         OptionFaction2Points: 100,
@@ -28,7 +28,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1463085513200L,
+        TimePast: 1466524832295L,
         Time: 0L,
         Subject: ""
     },

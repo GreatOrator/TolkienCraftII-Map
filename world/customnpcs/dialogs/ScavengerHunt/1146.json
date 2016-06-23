@@ -40,7 +40,7 @@
     DialogCommand: "give @p lotr:item.lotr:mugBananaBeer 2 4",
     AvailabilityDialogId: -1,
     OptionFaction2Points: 100,
-    DialogText: "I was hoping you would say that!  So we here in [name of inn] take great pride in our [name of drink] and hope you think the same way!",
+    DialogText: "I was hoping you would say that!  So we here in The Green Dragon take great pride in our Banana Beer and hope you think the same way!",
     AvailabilityQuest4Id: -1,
     AvailabilityQuest3Id: -1,
     AvailabilityQuest2Id: -1,
@@ -57,7 +57,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1465685960015L,
+        TimePast: 1466626452563L,
         Time: 0L,
         Subject: ""
     }
