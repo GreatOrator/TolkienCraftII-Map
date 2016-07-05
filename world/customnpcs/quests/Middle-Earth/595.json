@@ -4,7 +4,7 @@
     RandomReward: 0b,
     QuestRepeat: 0,
     QuestCompletion: 1,
-    IgnoreNBT: 0b,
+    IgnoreNBT: 1b,
     Title: "The Pits of Utumno",
     Text: "This is the adventure of a lifetime! Hope you are geared and ready to travel to the wastes of the Forodwaith and bring back that axe!",
     QuestFactionPoints: {
@@ -27,11 +27,11 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1465433357392L,
+        TimePast: 1467503236264L,
         Time: 0L,
         Subject: ""
     },
-    IgnoreDamage: 0b,
+    IgnoreDamage: 1b,
     Rewards: {
         NpcMiscInv: [
         ]

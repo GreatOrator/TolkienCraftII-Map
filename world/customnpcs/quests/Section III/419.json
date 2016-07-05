@@ -27,7 +27,7 @@
         },
         {
             Value: 25,
-            Slot: "lotr.AngmarBombardier"
+            Slot: "lotr.AngmarBannerBearer"
         }
     ],
     ModRev: 16,
@@ -40,7 +40,7 @@
         MailItems: [
         ],
         MailQuest: -1,
-        TimePast: 1465526808681L,
+        TimePast: 1467393941804L,
         Time: 0L,
         Subject: ""
     },
