@@ -6,8 +6,8 @@
     "info": [
       "Default map required to play this modpack. Make sure to download before trying to play TolkienCraft II. Thank you for playing! -GO"
     ],
-	"releaseNumber": "18",
-    "downloadURL": "http://minecraft.curseforge.com/projects/tolkiencraft-ii-draconis/files/2309518/download",
+	"releaseNumber": "19",
+    "downloadURL": "http://minecraft.curseforge.com/projects/tolkiencraft-ii-draconis/files/2314430/download",
     "isRegional": false,
 	"regionInputPath": "",
     "regionOutputPath": ""
@@ -19,8 +19,8 @@
     "info": [
       "Extra locations built for Middle-earth to increase your playing enjoyment. This includes the regions of Angmar, Argonath, Beorn's Hall, Blue Mountains, Bree, Edoras, Erebor, Forochel, Forsaken Inn and Goblin Cave."
     ],
-	"releaseNumber": "6",
-    "downloadURL": "http://minecraft.curseforge.com/projects/tolkiencraft-ii-content-pack/files/2309519/download",
+	"releaseNumber": "7",
+    "downloadURL": "http://minecraft.curseforge.com/projects/tolkiencraft-ii-content-pack/files/2314435/download",
     "isRegional": true,
 	"regionInputPath": "region",
     "regionOutputPath": "MiddleEarth/region"
@@ -32,8 +32,8 @@
     "info": [
       "Extra locations built for Middle-earth to increase your playing enjoyment. This includes the regions of Gundabad, Helm's Deep, Isengard, Khazad Dum, Lothlorien, Minas Tirith and Grey Havens."
     ],
-	"releaseNumber": "6",
-    "downloadURL": "http://minecraft.curseforge.com/projects/tolkiencraft-ii-content-pack/files/2309517/download",
+	"releaseNumber": "7",
+    "downloadURL": "http://minecraft.curseforge.com/projects/tolkiencraft-ii-content-pack/files/2314432/download",
     "isRegional": true,
 	"regionInputPath": "region",
     "regionOutputPath": "MiddleEarth/region"
