@@ -6,8 +6,8 @@
     "info": [
       "Default map required to play this modpack. Make sure to download before trying to play TolkienCraft II. Thank you for playing! -GO"
     ],
-	"releaseNumber": "19",
-    "downloadURL": "http://minecraft.curseforge.com/projects/tolkiencraft-ii-draconis/files/2314430/download",
+	"releaseNumber": "20",
+    "downloadURL": "https://addons-origin.cursecdn.com/files/2314/430/TolkienCraftIIv2.9.x.-.RC3.-.Template.zip",
     "isRegional": false,
 	"regionInputPath": "",
     "regionOutputPath": ""
@@ -19,8 +19,8 @@
     "info": [
       "Extra locations built for Middle-earth to increase your playing enjoyment. This includes the regions of Angmar, Argonath, Beorn's Hall, Blue Mountains, Bree, Edoras, Erebor, Forochel, Forsaken Inn and Goblin Cave."
     ],
-	"releaseNumber": "7",
-    "downloadURL": "http://minecraft.curseforge.com/projects/tolkiencraft-ii-content-pack/files/2314435/download",
+	"releaseNumber": "8",
+    "downloadURL": "https://addons-origin.cursecdn.com/files/2314/435/MiddleEarth_Part_1_v2.9.x._RC2.zip",
     "isRegional": true,
 	"regionInputPath": "region",
     "regionOutputPath": "MiddleEarth/region"
@@ -32,8 +32,8 @@
     "info": [
       "Extra locations built for Middle-earth to increase your playing enjoyment. This includes the regions of Gundabad, Helm's Deep, Isengard, Khazad Dum, Lothlorien, Minas Tirith and Grey Havens."
     ],
-	"releaseNumber": "7",
-    "downloadURL": "http://minecraft.curseforge.com/projects/tolkiencraft-ii-content-pack/files/2314432/download",
+	"releaseNumber": "8",
+    "downloadURL": "https://addons-origin.cursecdn.com/files/2314/432/MiddleEarth_Part_2_v2.9.x._RC2.zip",
     "isRegional": true,
 	"regionInputPath": "region",
     "regionOutputPath": "MiddleEarth/region"
@@ -45,8 +45,8 @@
     "info": [
       "Extra locations built for Middle-earth to increase your playing enjoyment. This includes the regions of Mirkwood, Mordor, Player submitted builds, Rivendell, Shire and Weathertop."
     ],
-	"releaseNumber": "5",
-    "downloadURL": "http://minecraft.curseforge.com/projects/tolkiencraft-ii-content-pack/files/2308190/download",
+	"releaseNumber": "8",
+    "downloadURL": "https://addons-origin.cursecdn.com/files/2308/190/MiddleEarth_Part_3_v2.9.x.zip",
     "isRegional": true,
 	"regionInputPath": "region",
     "regionOutputPath": "MiddleEarth/region"
