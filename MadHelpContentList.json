@@ -6,8 +6,8 @@
     "info": [
       "Default map required to play this modpack. Make sure to download before trying to play TolkienCraft II. Thank you for playing! -GO"
     ],
-	"releaseNumber": "21",
-    "downloadURL": "https://addons-origin.cursecdn.com/files/2314/430/TolkienCraftIIv2.9.x.-.RC3.-.Template.zip",
+	"releaseNumber": "22",
+    "downloadURL": "https://addons-origin.cursecdn.com/files/2327/651/TolkienCraftIIv2.9.x.-.RC4.-.Template.zip",
     "isRegional": false,
 	"regionInputPath": "",
     "regionOutputPath": ""
@@ -32,8 +32,8 @@
     "info": [
       "Extra locations built for Middle-earth to increase your playing enjoyment. This includes the regions of Gundabad, Helm's Deep, Isengard, Khazad Dum, Lothlorien, Minas Tirith and Grey Havens."
     ],
-	"releaseNumber": "9",
-    "downloadURL": "https://addons-origin.cursecdn.com/files/2314/432/MiddleEarth_Part_2_v2.9.x._RC2.zip",
+	"releaseNumber": "10",
+    "downloadURL": "https://addons-origin.cursecdn.com/files/2327/650/MiddleEarth_Part_2_v2.9.x._RC3.zip",
     "isRegional": true,
 	"regionInputPath": "region",
     "regionOutputPath": "MiddleEarth/region"
