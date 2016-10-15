@@ -45,8 +45,8 @@
     "info": [
       "Extra locations built for Middle-earth to increase your playing enjoyment. This includes the regions of Mirkwood, Mordor, Player submitted builds, Rivendell, Shire and Weathertop."
     ],
-	"releaseNumber": "8",
-    "downloadURL": "https://addons-origin.cursecdn.com/files/2308/190/MiddleEarth_Part_3_v2.9.x.zip",
+	"releaseNumber": "9",
+    "downloadURL": "https://addons-origin.cursecdn.com/files/2336/738/MiddleEarth_Part_3_v2.9.x._RC1.zip",
     "isRegional": true,
 	"regionInputPath": "region",
     "regionOutputPath": "MiddleEarth/region"
