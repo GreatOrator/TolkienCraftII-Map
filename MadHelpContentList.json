@@ -2,53 +2,14 @@
   {
     "displayName": "Land of Draconis",
     "fileName": "draconis.zip",
-    "description": "Default Modpack Map",
+    "description": "Modpack Map",
     "info": [
-      "Default map required to play this modpack. Make sure to download before trying to play TolkienCraft II. Thank you for playing! -GO"
+      "Main map for the TolkienCraft II pack. Hosting of map courtesy of Aim2Game.com! Total Size is 2.3GB. Thank you for playing! -GO"
     ],
-	"releaseNumber": "22",
-    "downloadURL": "https://addons-origin.cursecdn.com/files/2327/651/TolkienCraftIIv2.9.x.-.RC4.-.Template.zip",
+	"releaseNumber": "23",
+    "downloadURL": "http://repository.a2g.gs/modpacks/tc2/map-complete.zip",
     "isRegional": false,
 	"regionInputPath": "",
     "regionOutputPath": ""
-  },
-  {
-    "displayName": "Land of Middle-earth",
-    "fileName": "content1.zip",
-    "description": "Part 1 of 3, DLC to expand Middle-earth",
-    "info": [
-      "Extra locations built for Middle-earth to increase your playing enjoyment. This includes the regions of Angmar, Argonath, Beorn's Hall, Blue Mountains, Bree, Edoras, Erebor, Forochel, Forsaken Inn and Goblin Cave."
-    ],
-	"releaseNumber": "8",
-    "downloadURL": "https://addons-origin.cursecdn.com/files/2314/435/MiddleEarth_Part_1_v2.9.x._RC2.zip",
-    "isRegional": true,
-	"regionInputPath": "region",
-    "regionOutputPath": "MiddleEarth/region"
-  },
-  {
-    "displayName": "Land of Middle-earth",
-    "fileName": "content2.zip",
-    "description": "Part 2 of 3, DLC to expand Middle-earth",
-    "info": [
-      "Extra locations built for Middle-earth to increase your playing enjoyment. This includes the regions of Gundabad, Helm's Deep, Isengard, Khazad Dum, Lothlorien, Minas Tirith and Grey Havens."
-    ],
-	"releaseNumber": "10",
-    "downloadURL": "https://addons-origin.cursecdn.com/files/2327/650/MiddleEarth_Part_2_v2.9.x._RC3.zip",
-    "isRegional": true,
-	"regionInputPath": "region",
-    "regionOutputPath": "MiddleEarth/region"
-  },
-  {
-    "displayName": "Land of Middle-earth",
-    "fileName": "content3.zip",
-    "description": "Part 3 of 3, DLC to expand Middle-earth",
-    "info": [
-      "Extra locations built for Middle-earth to increase your playing enjoyment. This includes the regions of Mirkwood, Mordor, Player submitted builds, Rivendell, Shire and Weathertop."
-    ],
-	"releaseNumber": "9",
-    "downloadURL": "https://addons-origin.cursecdn.com/files/2336/738/MiddleEarth_Part_3_v2.9.x._RC1.zip",
-    "isRegional": true,
-	"regionInputPath": "region",
-    "regionOutputPath": "MiddleEarth/region"
   }
 ]
